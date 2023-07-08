@@ -21,19 +21,8 @@ def main():
         path_all = 'all/{}'.format(file_name)
         path_dist = 'dist/{}/{}'.format(version, file_name)
         dl_url = 'https://go.dev/dl/{}'.format(file_name)
-        while True:
-            try:
-                storage.write(__path__=path_all, __origin_url__=dl_url)
-                break
-            except:
-                continue
-
-        while True:
-            try:
-                storage.write(__path__=path_dist, __origin_url__=dl_url)
-                break
-            except:
-                continue
+        storage.write(__path__=path_all, __origin_url__=dl_url)
+        storage.write(__path__=path_dist, __origin_url__=dl_url)
 
 
 if __name__ == '__main__':

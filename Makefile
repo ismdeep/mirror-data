@@ -1,6 +1,6 @@
 help:
 
-all: install go docker-compose openssl ctop adoptium
+all: install go docker-compose openssl ctop adoptium nodejs
 
 install:
 	pip install -r requirements.txt
@@ -19,3 +19,6 @@ ctop:
 
 adoptium:
 	python adoptium.py
+
+nodejs:
+	python nodejs.py

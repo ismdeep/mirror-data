@@ -1,6 +1,4 @@
-help:
-
-all: install go docker-compose openssl ctop adoptium nodejs
+all: install go docker-compose openssl ctop adoptium nodejs harbor alpine-linux
 
 install:
 	pip install -r requirements.txt
@@ -22,3 +20,9 @@ adoptium:
 
 nodejs:
 	python nodejs.py
+
+harbor:
+	python harbor.py
+
+alpine-linux:
+	python alpine-linux.py

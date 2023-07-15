@@ -2,10 +2,10 @@
 
 set -e
 
-target="${1}"
-
-if [ "${target}" == "" ]; then
-  target="all"
-fi
-
-docker run --rm -v "$PWD:/src/" -it python:3.10-bookworm bash -c 'set -e;cd /src/;make install;make '"${target}"''
+cd "$(mktemp -d)"
+curl -LO https://downloads.rclone.org/v1.63.0/rclone-v1.63.0-linux-amd64.zip
+unzip rclone-v1.63.0-linux-amd64.zip
+cp -v rclone-v1.63.0-linux-amd64/rclone /usr/bin/rclone
+chmod +x /usr/bin/rclone
+cd /src/
+make all

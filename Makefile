@@ -1,4 +1,4 @@
-all: install go docker-compose openssl ctop adoptium nodejs harbor alpine-linux python image-syncer
+all: install go docker-compose openssl ctop adoptium nodejs harbor alpine-linux python image-syncer git-for-windows
 
 install:
 	pip install -r requirements.txt
@@ -32,3 +32,6 @@ python:
 
 image-syncer:
 	python image-syncer.py
+
+git-for-windows:
+	python git-for-windows.py

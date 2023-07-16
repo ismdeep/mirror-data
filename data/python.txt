@@ -744,3 +744,4 @@ python|3.6.11/Python-3.6.11.tar.xz|https://www.python.org/ftp/python/3.6.11/Pyth
 python|3.6.11/Python-3.6.11.tar.xz.asc|https://www.python.org/ftp/python/3.6.11/Python-3.6.11.tar.xz.asc|833|application/octet-stream|1593252654
 python|3.6.11/Python-3.6.11rc1.tar.xz|https://www.python.org/ftp/python/3.6.11/Python-3.6.11rc1.tar.xz|17214400|application/octet-stream|1592392487
 python|3.6.11/Python-3.6.11rc1.tar.xz.asc|https://www.python.org/ftp/python/3.6.11/Python-3.6.11rc1.tar.xz.asc|833|application/octet-stream|1592392507
+python|3.7.14/Python-3.7.14.tar.xz.sigstore|https://www.python.org/ftp/python/3.7.14/Python-3.7.14.tar.xz.sigstore|4918|application/octet-stream|1689364284

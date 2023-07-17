@@ -1,4 +1,4 @@
-all: install go docker-compose openssl ctop adoptium nodejs harbor alpine-linux python image-syncer git-for-windows qingshuisiyuan
+all: install go docker-compose openssl ctop adoptium nodejs harbor alpine-linux python image-syncer git-for-windows electron-ssr-backup
 
 install:
 	pip install -r requirements.txt
@@ -36,5 +36,5 @@ image-syncer:
 git-for-windows:
 	python git-for-windows.py
 
-qingshuisiyuan:
-	python qingshuisiyuan.py
+electron-ssr-backup:
+	python electron-ssr-backup.py

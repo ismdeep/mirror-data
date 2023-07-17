@@ -1,0 +1,9 @@
+electron-ssr-backup|v0.2.6/electron-ssr-0.2.6-mac.zip|https://github.com/qingshuisiyuan/electron-ssr-backup/releases/download/v0.2.6/electron-ssr-0.2.6-mac.zip|47190871|application/octet-stream|1638852187
+electron-ssr-backup|v0.2.6/electron-ssr-0.2.6.AppImage|https://github.com/qingshuisiyuan/electron-ssr-backup/releases/download/v0.2.6/electron-ssr-0.2.6.AppImage|49009265|application/octet-stream|1638852247
+electron-ssr-backup|v0.2.6/electron-ssr-0.2.6.deb|https://github.com/qingshuisiyuan/electron-ssr-backup/releases/download/v0.2.6/electron-ssr-0.2.6.deb|34960592|application/octet-stream|1638852215
+electron-ssr-backup|v0.2.6/electron-ssr-0.2.6.dmg|https://github.com/qingshuisiyuan/electron-ssr-backup/releases/download/v0.2.6/electron-ssr-0.2.6.dmg|44367822|application/octet-stream|1638852234
+electron-ssr-backup|v0.2.6/electron-ssr-0.2.6.exe|https://github.com/qingshuisiyuan/electron-ssr-backup/releases/download/v0.2.6/electron-ssr-0.2.6.exe|31179207|application/octet-stream|1638852227
+electron-ssr-backup|v0.2.6/electron-ssr-0.2.6.exe.blockmap|https://github.com/qingshuisiyuan/electron-ssr-backup/releases/download/v0.2.6/electron-ssr-0.2.6.exe.blockmap|33243|application/octet-stream|1638852218
+electron-ssr-backup|v0.2.6/electron-ssr-0.2.6.pacman|https://github.com/qingshuisiyuan/electron-ssr-backup/releases/download/v0.2.6/electron-ssr-0.2.6.pacman|34965892|application/octet-stream|1638852217
+electron-ssr-backup|v0.2.6/electron-ssr-0.2.6.rpm|https://github.com/qingshuisiyuan/electron-ssr-backup/releases/download/v0.2.6/electron-ssr-0.2.6.rpm|34930881|application/octet-stream|1638852232
+electron-ssr-backup|v0.2.6/electron-ssr-0.2.6.tar.gz|https://github.com/qingshuisiyuan/electron-ssr-backup/releases/download/v0.2.6/electron-ssr-0.2.6.tar.gz|47325415|application/octet-stream|1638852234

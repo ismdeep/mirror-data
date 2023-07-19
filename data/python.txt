@@ -745,3 +745,7 @@ python|3.6.11/Python-3.6.11.tar.xz.asc|https://www.python.org/ftp/python/3.6.11/
 python|3.6.11/Python-3.6.11rc1.tar.xz|https://www.python.org/ftp/python/3.6.11/Python-3.6.11rc1.tar.xz|17214400|application/octet-stream|1592392487
 python|3.6.11/Python-3.6.11rc1.tar.xz.asc|https://www.python.org/ftp/python/3.6.11/Python-3.6.11rc1.tar.xz.asc|833|application/octet-stream|1592392507
 python|3.7.14/Python-3.7.14.tar.xz.sigstore|https://www.python.org/ftp/python/3.7.14/Python-3.7.14.tar.xz.sigstore|4918|application/octet-stream|1689364284
+python|3.8.14/Python-3.8.14.tar.xz.crt|https://www.python.org/ftp/python/3.8.14/Python-3.8.14.tar.xz.crt|1010|application/x-x509-ca-cert|1662657512
+python|3.8.14/Python-3.8.14.tar.xz.sig|https://www.python.org/ftp/python/3.8.14/Python-3.8.14.tar.xz.sig|137|application/octet-stream|1662657512
+python|3.9.14/Python-3.9.14.tar.xz.crt|https://www.python.org/ftp/python/3.9.14/Python-3.9.14.tar.xz.crt|1010|application/x-x509-ca-cert|1662657101
+python|3.9.14/Python-3.9.14.tar.xz.sig|https://www.python.org/ftp/python/3.9.14/Python-3.9.14.tar.xz.sig|141|application/octet-stream|1662657101

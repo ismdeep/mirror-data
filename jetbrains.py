@@ -48,8 +48,6 @@ def main():
     fetch('GO')  # GoLand
     fetch('PC')  # PyCharm
     fetch('PS')  # PhpStorm
-    fetch('IIU')  # IntelliJ IDEA Ultimate
-    fetch('RM')  # RubyMine
     fetch('WS')  # WebStorm
 
 

@@ -10,7 +10,7 @@ user_agent = 'Mozilla/5.0 (Macintosh; ' \
              'Chrome/115.0.0.0 Safari/537.36'
 
 
-def fetch(__code__: str):
+def fetch(__code__: str, __product_name__: str):
     req = requests.get(
         url="https://data.services.jetbrains.com/products?code={}&release.type={}&fields={}".format(
             __code__,
@@ -23,7 +23,7 @@ def fetch(__code__: str):
     )
     obj = json.loads(req.text)
     for o in obj:
-        name = o['name']
+        # name = o['name']
         for release in o['releases']:
             type_name = release['type']
             if type_name != 'release':
@@ -37,18 +37,18 @@ def fetch(__code__: str):
                 file_name = s[len(s) - 1]
                 if len(file_name) > 5 and file_name[len(file_name) - 5:] == ".json":
                     continue
-                link = '{}/{}/{}/{}/{}/{}'.format(name, type_name, major_version, version, arch, file_name)
+                link = '{}/{}/{}/{}/{}/{}'.format(__product_name__, type_name, major_version, version, arch, file_name)
                 storage.write(link, origin_link)
 
 
 def main():
-    fetch('CL')  # CLion
-    fetch('DG')  # DataGrip
-    fetch('DS')  # DataSpell
-    fetch('GO')  # GoLand
-    fetch('PC')  # PyCharm
-    fetch('PS')  # PhpStorm
-    fetch('WS')  # WebStorm
+    fetch('CL', 'CLion')  # CLion
+    fetch('DG', 'DataGrip')  # DataGrip
+    fetch('DS', 'DataSpell')  # DataSpell
+    fetch('GO', 'GoLand')  # GoLand
+    fetch('PC', 'PyCharm')  # PyCharm
+    fetch('PS', 'PhpStorm')  # PhpStorm
+    fetch('WS', 'WebStorm')  # WebStorm
 
 
 if __name__ == '__main__':

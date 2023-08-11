@@ -39,5 +39,5 @@ git-for-windows:
 electron-ssr-backup:
 	python electron-ssr-backup.py
 
-jetbrains:
+jetbrains: install
 	python jetbrains.py

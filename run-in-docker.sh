@@ -2,6 +2,8 @@
 
 set -e
 
+target="${1:?}"
+
 # touch rclone.conf
 mkdir -p /root/.config/rclone/
 touch    /root/.config/rclone/rclone.conf
@@ -15,4 +17,4 @@ chmod +x /usr/bin/rclone
 
 # process
 cd /src/
-make all
+make "${target}"

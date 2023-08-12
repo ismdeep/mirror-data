@@ -18,6 +18,7 @@ type config struct {
 	} `yaml:"github"`
 }
 
+// ROOT instance
 var ROOT config
 
 func init() {
@@ -35,6 +36,7 @@ func init() {
 	}
 }
 
+// RandGitHubToken get a github token by random
 func RandGitHubToken() string {
 	return ROOT.GitHub.Tokens[rand.Intn(len(ROOT.GitHub.Tokens))]
 }

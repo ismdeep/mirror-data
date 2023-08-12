@@ -1,4 +1,4 @@
-all: ctop docker-compose harbor image-syncer git-for-windows electron-ssr-backup jetbrains ipfs-desktop another-redis-desktop-manager etcd-manager
+all: ctop docker-compose harbor image-syncer git-for-windows electron-ssr-backup jetbrains ipfs-desktop another-redis-desktop-manager etcd-manager obsidian
 
 ctop:
 	go run ./cmd/ctop
@@ -29,3 +29,6 @@ another-redis-desktop-manager:
 
 etcd-manager:
 	go run ./cmd/etcd-manager
+
+obsidian:
+	go run ./cmd/obsidian

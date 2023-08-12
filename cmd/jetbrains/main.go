@@ -1,33 +1,27 @@
 package main
 
 import (
-	"encoding/json"
 	"fmt"
-	"io"
-	"net/http"
 	"strings"
 
-	"github.com/ismdeep/mirror-data/internal"
+	"github.com/ismdeep/mirror-data/internal/httputil"
+	"github.com/ismdeep/mirror-data/internal/store"
 )
 
-var storage *internal.Storage
+var storage *store.Storage
 
 func init() {
-	tmp, err := internal.NewStorage("jetbrains", 32)
-	if err != nil {
-		return
-	}
-
-	storage = tmp
-	storage.StartConsumer()
+	storage = store.New("jetbrains", 32)
 }
 
+// Product model
 type Product struct {
 	Name     string           `json:"name"`
 	Link     string           `json:"link"`
 	Releases []ProductRelease `json:"releases"`
 }
 
+// ProductRelease model
 type ProductRelease struct {
 	Build        string `json:"build"`
 	Date         string `json:"date"`
@@ -37,31 +31,17 @@ type ProductRelease struct {
 	Version      string `json:"version"`
 }
 
+// ProductDownload download model
 type ProductDownload struct {
 	ChecksumLink string `json:"checksumLink"`
 	Link         string `json:"link"`
 	Size         int64  `json:"size"`
 }
 
-func Fetch(code string, productName string) error {
-	reqURL := fmt.Sprintf("https://data.services.jetbrains.com/products?code=%v", code)
-	req, err := http.NewRequest(http.MethodGet, reqURL, nil)
-	if err != nil {
-		return err
-	}
-
-	resp, err := (&http.Client{}).Do(req)
-	if err != nil {
-		return err
-	}
-
-	raw, err := io.ReadAll(resp.Body)
-	if err != nil {
-		return err
-	}
-
+func fetch(code string, productName string) error {
 	var products []Product
-	if err := json.Unmarshal(raw, &products); err != nil {
+	reqURL := fmt.Sprintf("https://data.services.jetbrains.com/products?code=%v", code)
+	if err := httputil.GetWithJSONUnmarshal(reqURL, &products); err != nil {
 		return err
 	}
 
@@ -101,12 +81,10 @@ func main() {
 	}
 
 	for code, productName := range products {
-		if err := Fetch(code, productName); err != nil {
+		if err := fetch(code, productName); err != nil {
 			panic(err)
 		}
 	}
 	close(storage.C)
-
 	storage.WG.Wait()
-	fmt.Println("Done")
 }

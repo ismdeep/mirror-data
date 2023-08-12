@@ -1,4 +1,4 @@
-package internal
+package store
 
 import (
 	"bufio"
@@ -12,11 +12,13 @@ import (
 	"time"
 )
 
+// LinkPair link pair
 type LinkPair struct {
 	Link       string
 	OriginLink string
 }
 
+// Storage model
 type Storage struct {
 	BucketName    string
 	ExistsMap     map[string]bool
@@ -27,8 +29,8 @@ type Storage struct {
 	CoroutineSize int
 }
 
-func NewStorage(bucketName string, coroutineSize int) (*Storage, error) {
-
+// New create a storage
+func New(bucketName string, coroutineSize int) *Storage {
 	var storage Storage
 	storage.BucketName = bucketName
 	storage.CoroutineSize = coroutineSize
@@ -37,7 +39,7 @@ func NewStorage(bucketName string, coroutineSize int) (*Storage, error) {
 
 	fp, err := os.OpenFile(fmt.Sprintf("./data/%v.txt", bucketName), os.O_CREATE|os.O_RDONLY, 0644)
 	if err != nil {
-		return nil, err
+		panic(err)
 	}
 	defer func() {
 		_ = fp.Close()
@@ -60,13 +62,16 @@ func NewStorage(bucketName string, coroutineSize int) (*Storage, error) {
 
 	fpWrite, err := os.OpenFile(fmt.Sprintf("./data/%v.txt", bucketName), os.O_CREATE|os.O_WRONLY|os.O_APPEND, 0644)
 	if err != nil {
-		return nil, err
+		panic(err)
 	}
 	storage.Fp = fpWrite
 
-	return &storage, nil
+	storage.startConsumer()
+
+	return &storage
 }
 
+// Add append link pair
 func (receiver *Storage) Add(link string, originLink string) {
 	receiver.C <- LinkPair{
 		Link:       link,
@@ -87,7 +92,7 @@ func (receiver *Storage) write(content string) error {
 	return nil
 }
 
-func (receiver *Storage) StartConsumer() {
+func (receiver *Storage) startConsumer() {
 	for i := 0; i < receiver.CoroutineSize; i++ {
 		receiver.WG.Add(1)
 		go func() {

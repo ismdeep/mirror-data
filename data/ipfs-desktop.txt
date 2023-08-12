@@ -1042,3 +1042,4 @@ ipfs-desktop|v0.3.0/IPFS.Desktop-0.3.0.Setup.exe|https://github.com/ipfs/ipfs-de
 ipfs-desktop|v0.3.0/IPFS.Desktop-0.3.0.dmg|https://github.com/ipfs/ipfs-desktop/releases/download/v0.3.0/IPFS.Desktop-0.3.0.dmg|85889187|application/octet-stream|1638916750
 ipfs-desktop|v0.3.0/ipfs-desktop_0.3.0_amd64.deb|https://github.com/ipfs/ipfs-desktop/releases/download/v0.3.0/ipfs-desktop_0.3.0_amd64.deb|65241512|application/octet-stream|1638916719
 ipfs-desktop|v0.4.0/ipfs-desktop-0.4.0.x86_64.rpm|https://github.com/ipfs/ipfs-desktop/releases/download/v0.4.0/ipfs-desktop-0.4.0.x86_64.rpm|75543384|application/octet-stream|1638916721
+ipfs-desktop|v0.27.0/ipfs-desktop-0.27.0-squirrel.zip.blockmap|https://github.com/ipfs/ipfs-desktop/releases/download/v0.27.0/ipfs-desktop-0.27.0-squirrel.zip.blockmap|132474|application/octet-stream|1679348771

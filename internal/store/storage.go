@@ -79,15 +79,21 @@ func (receiver *Storage) Add(link string, originLink string) {
 	}
 }
 
-func (receiver *Storage) write(content string) error {
+func (receiver *Storage) write(link string, content string) error {
 	receiver.FpMutex.Lock()
 	defer func() {
 		receiver.FpMutex.Unlock()
 	}()
 
+	if _, ok := receiver.ExistsMap[link]; ok {
+		return nil
+	}
+
 	if _, err := receiver.Fp.WriteString(content); err != nil {
 		return err
 	}
+
+	receiver.ExistsMap[link] = true
 
 	return nil
 }
@@ -118,7 +124,7 @@ func (receiver *Storage) startConsumer() {
 				contentLength := resp.Header.Get("Content-Length")
 				contentType := resp.Header.Get("Content-Type")
 
-				_ = receiver.write(fmt.Sprintf("%v|%v|%v|%v|%v|%v\n",
+				_ = receiver.write(item.Link, fmt.Sprintf("%v|%v|%v|%v|%v|%v\n",
 					receiver.BucketName,
 					item.Link,
 					item.OriginLink,

@@ -65,32 +65,3 @@ class TestGetGoVersion(unittest.TestCase):
         self.assertEqual(get_go_version('go1.8rc1.freebsd-386.tar.gz'), 'go1.8rc1')
         self.assertEqual(get_go_version('go1.21rc2.freebsd-amd64.tar.gz'), 'go1.21rc2')
 
-
-def get_github_release(__bucket_name__: str, __owner__: str, __repo__: str):
-    storage = Storage(__bucket_name__)
-    config = json.load(open('config.json'))
-    page = 0
-    per_page = 100
-    while True:
-        page += 1
-        req = requests.get(
-            url='https://api.github.com/repos/{}/{}/releases?page={}&per_page={}'.format(
-                __owner__, __repo__, page, per_page),
-            headers={
-                'Accept': 'application/vnd.github+json',
-                'Authorization': 'Bearer {}'.format(random.choice(config['ghp_list'])),
-                'X-GitHub-Api-Version': '2022-11-28'
-            }
-        )
-        items = json.loads(req.text)
-        for i in range(len(items)):
-            tag_item = items[i]
-            print('{} / {}'.format(i + 1, len(items)))
-            version = tag_item['tag_name']
-            for asset in tag_item['assets']:
-                file_name = asset['name']
-                download_url = asset['browser_download_url']
-                path_dist = '{}/{}'.format(version, file_name)
-                storage.write(__path__=path_dist, __origin_url__=download_url)
-        if len(items) < per_page:
-            break

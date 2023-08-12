@@ -1,43 +1,22 @@
-all: install go docker-compose openssl ctop adoptium nodejs harbor alpine-linux python image-syncer git-for-windows electron-ssr-backup jetbrains
-
-install:
-	pip install -r requirements.txt
-
-go:
-	python go.py
-
-docker-compose:
-	python docker-compose.py
-
-openssl:
-	python openssl.py
+all: ctop docker-compose harbor image-syncer git-for-windows electron-ssr-backup jetbrains
 
 ctop:
-	python ctop.py
+	go run ./cmd/ctop
 
-adoptium:
-	python adoptium.py
-
-nodejs:
-	python nodejs.py
+docker-compose:
+	go run ./cmd/docker-compose
 
 harbor:
-	python harbor.py
-
-alpine-linux:
-	python alpine-linux.py
-
-python:
-	python python.py
+	go run ./cmd/harbor
 
 image-syncer:
-	python image-syncer.py
+	go run ./cmd/image-syncer
 
 git-for-windows:
-	python git-for-windows.py
+	go run ./cmd/git-for-windows
 
 electron-ssr-backup:
-	python electron-ssr-backup.py
+	go run ./cmd/electron-ssr-backup
 
 jetbrains:
 	go run ./cmd/jetbrains

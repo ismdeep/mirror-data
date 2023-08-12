@@ -8,7 +8,14 @@ import (
 )
 
 type config struct {
-	GitHubTokens []string `yaml:"ghp_list"`
+	GitHub struct {
+		Tokens []string `yaml:"tokens"`
+		Tasks  []struct {
+			Bucket string `yaml:"bucket"`
+			Owner  string `yaml:"owner"`
+			Repo   string `yaml:"repo"`
+		} `yaml:"tasks"`
+	} `yaml:"github"`
 }
 
 var ROOT config
@@ -23,11 +30,11 @@ func init() {
 		panic(err)
 	}
 
-	if len(ROOT.GitHubTokens) <= 0 {
+	if len(ROOT.GitHub.Tokens) <= 0 {
 		panic("ERROR: ghp_list in config.yaml is empty")
 	}
 }
 
 func RandGitHubToken() string {
-	return ROOT.GitHubTokens[rand.Intn(len(ROOT.GitHubTokens))]
+	return ROOT.GitHub.Tokens[rand.Intn(len(ROOT.GitHub.Tokens))]
 }

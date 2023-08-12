@@ -1,4 +1,4 @@
-all: ctop docker-compose harbor image-syncer git-for-windows electron-ssr-backup jetbrains
+all: ctop docker-compose harbor image-syncer git-for-windows electron-ssr-backup jetbrains ipfs-desktop
 
 ctop:
 	go run ./cmd/ctop
@@ -20,3 +20,6 @@ electron-ssr-backup:
 
 jetbrains:
 	go run ./cmd/jetbrains
+
+ipfs-desktop:
+	go run ./cmd/ipfs-desktop

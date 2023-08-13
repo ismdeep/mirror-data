@@ -1,7 +1,0 @@
-github:
-  tokens:
-    - "ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-  tasks:
-    - bucket: docker-compose
-      owner: docker
-      repo: compose

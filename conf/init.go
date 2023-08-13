@@ -7,36 +7,43 @@ import (
 	"gopkg.in/yaml.v3"
 )
 
-type config struct {
-	GitHub struct {
-		Tokens []string `yaml:"tokens"`
-		Tasks  []struct {
-			Bucket string `yaml:"bucket"`
-			Owner  string `yaml:"owner"`
-			Repo   string `yaml:"repo"`
-		} `yaml:"tasks"`
-	} `yaml:"github"`
+type secrets struct {
+	GitHubTokens []string `yaml:"ghp_list"`
 }
 
-// ROOT instance
-var ROOT config
+type githubTask struct {
+	Bucket string `yaml:"bucket"`
+	Owner  string `yaml:"owner"`
+	Repo   string `yaml:"repo"`
+}
+
+// Secrets instance
+var Secrets secrets
+
+// GitHubTasks instance
+var GitHubTasks []githubTask
 
 func init() {
-	raw, err := os.ReadFile("./config.yaml")
+	loadYAML("secrets.yaml", &Secrets)
+	loadYAML("github-tasks.yaml", &GitHubTasks)
+
+	if len(Secrets.GitHubTokens) <= 0 {
+		panic("ERROR: ghp_list in config.yaml is empty")
+	}
+}
+
+func loadYAML(filePath string, v any) {
+	raw, err := os.ReadFile(filePath)
 	if err != nil {
 		panic(err)
 	}
 
-	if err := yaml.Unmarshal(raw, &ROOT); err != nil {
+	if err := yaml.Unmarshal(raw, v); err != nil {
 		panic(err)
-	}
-
-	if len(ROOT.GitHub.Tokens) <= 0 {
-		panic("ERROR: ghp_list in config.yaml is empty")
 	}
 }
 
 // RandGitHubToken get a github token by random
 func RandGitHubToken() string {
-	return ROOT.GitHub.Tokens[rand.Intn(len(ROOT.GitHub.Tokens))]
+	return Secrets.GitHubTokens[rand.Intn(len(Secrets.GitHubTokens))]
 }

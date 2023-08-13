@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	for _, task := range conf.ROOT.GitHub.Tasks {
+	for _, task := range conf.GitHubTasks {
 		github.FetchReleases(task.Bucket, task.Owner, task.Repo)
 	}
 }

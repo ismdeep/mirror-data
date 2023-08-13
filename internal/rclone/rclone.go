@@ -7,6 +7,7 @@ import (
 	"os/exec"
 )
 
+// JSONObj json object
 type JSONObj struct {
 	Path     string `json:"Path"`
 	Name     string `json:"Name"`

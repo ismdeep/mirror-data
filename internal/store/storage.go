@@ -138,6 +138,7 @@ func (receiver *Storage) startConsumer() {
 	}
 }
 
+// CloseAndWait close C and wait
 func (receiver *Storage) CloseAndWait() {
 	close(receiver.C)
 	receiver.WG.Wait()

@@ -1,4 +1,4 @@
-all: github-tasks jetbrains nodejs adoptium openssl python alpine-linux
+all: github-tasks jetbrains nodejs adoptium openssl python alpine-linux go
 
 github-tasks:
 	go run ./cmd/github-tasks
@@ -20,3 +20,6 @@ python:
 
 alpine-linux:
 	go run ./cmd/alpine-linux
+
+go:
+	go run ./cmd/go

@@ -8,6 +8,7 @@ import (
 	"github.com/ismdeep/mirror-data/internal/store"
 )
 
+// IsCompressFile is a compress file
 func IsCompressFile(path string) bool {
 	return strings.Contains(path, ".tar.gz") ||
 		strings.Contains(path, ".zip")

@@ -9,6 +9,7 @@ import (
 	"github.com/ismdeep/mirror-data/internal/util"
 )
 
+// IsCompressFile is compress file
 func IsCompressFile(path string) bool {
 	return util.StringEndWith(path, ".tar.xz")
 }

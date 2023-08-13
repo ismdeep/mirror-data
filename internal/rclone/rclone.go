@@ -3,6 +3,7 @@ package rclone
 import (
 	"bytes"
 	"encoding/json"
+	"os"
 	"os/exec"
 )
 
@@ -19,7 +20,7 @@ type JSONObj struct {
 func JSON(args ...string) ([]JSONObj, error) {
 	var buf bytes.Buffer
 	cmd := exec.Command("rclone", args...)
-	cmd.Stderr = nil
+	cmd.Stderr = os.Stderr
 	cmd.Stdout = &buf
 	if err := cmd.Run(); err != nil {
 		return nil, err

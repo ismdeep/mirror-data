@@ -1,4 +1,4 @@
-all: github-tasks jetbrains nodejs adoptium
+all: github-tasks jetbrains nodejs adoptium openssl
 
 github-tasks:
 	go run ./cmd/github-tasks
@@ -11,3 +11,6 @@ nodejs:
 
 adoptium:
 	go run ./cmd/adoptium
+
+openssl:
+	go run ./cmd/openssl

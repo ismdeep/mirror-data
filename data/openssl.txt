@@ -30,3 +30,4 @@ openssl|openssl-1.1.0i.tar.gz|https://www.openssl.org/source/openssl-1.1.0i.tar.
 openssl|openssl-1.1.0j.tar.gz|https://www.openssl.org/source/openssl-1.1.0j.tar.gz|5411919|application/x-gzip|1542722828
 openssl|openssl-1.1.0k.tar.gz|https://www.openssl.org/source/openssl-1.1.0k.tar.gz|5287321|application/x-gzip|1559049988
 openssl|openssl-1.1.0l.tar.gz|https://www.openssl.org/source/openssl-1.1.0l.tar.gz|5294857|application/x-gzip|1568123594
+openssl|openssl-1.1.1v.tar.gz|https://www.openssl.org/source/openssl-1.1.1v.tar.gz|9893443|application/x-gzip|1690898948

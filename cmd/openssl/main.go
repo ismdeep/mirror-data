@@ -3,11 +3,12 @@ package main
 import (
 	"fmt"
 
+	"github.com/ismdeep/mirror-data/conf"
 	"github.com/ismdeep/mirror-data/internal/store"
 )
 
 func main() {
-	storage := store.New("openssl", 8)
+	storage := store.New("openssl", conf.Config.StorageCoroutineSize)
 	versions := []string{
 		"1.1.0a",
 		"1.1.0b",

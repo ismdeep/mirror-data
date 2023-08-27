@@ -5,14 +5,13 @@ import (
 	"fmt"
 
 	"github.com/google/go-github/v53/github"
-
 	"github.com/ismdeep/mirror-data/conf"
 	"github.com/ismdeep/mirror-data/internal/store"
 )
 
 // FetchReleases fetch releases
 func FetchReleases(bucketName string, owner string, repo string) {
-	storage := store.New(bucketName, 16)
+	storage := store.New(bucketName, conf.Config.StorageCoroutineSize)
 	cli := github.NewTokenClient(context.TODO(), conf.RandGitHubToken())
 	page := 1
 	for {

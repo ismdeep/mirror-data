@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/ismdeep/mirror-data/conf"
 	"github.com/ismdeep/mirror-data/internal/rclone"
 	"github.com/ismdeep/mirror-data/internal/store"
 )
@@ -15,7 +16,7 @@ func IsCompressFile(path string) bool {
 }
 
 func main() {
-	storage := store.New("adoptium", 32)
+	storage := store.New("adoptium", conf.Config.StorageCoroutineSize)
 	remoteSite := "https://mirrors.tuna.tsinghua.edu.cn/Adoptium/"
 	items, err := rclone.JSON("lsjson", "-R", "--http-url", remoteSite, ":http:")
 	if err != nil {

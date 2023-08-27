@@ -1,11 +1,18 @@
 package conf
 
 import (
+	"context"
 	"math/rand"
 	"os"
 
+	"github.com/sethvargo/go-envconfig"
 	"gopkg.in/yaml.v3"
 )
+
+type config struct {
+	CoroutineSize        int `env:"COROUTINE_SIZE,default=4"`
+	StorageCoroutineSize int `env:"STORAGE_COROUTINE_SIZE,default=16"`
+}
 
 type secrets struct {
 	GitHubTokens []string `yaml:"ghp_list"`
@@ -17,6 +24,8 @@ type githubTask struct {
 	Repo   string `yaml:"repo"`
 }
 
+var Config config
+
 // Secrets instance
 var Secrets secrets
 
@@ -24,6 +33,10 @@ var Secrets secrets
 var GitHubTasks []githubTask
 
 func init() {
+	if err := envconfig.Process(context.TODO(), &Config); err != nil {
+		panic(err)
+	}
+
 	loadYAML("secrets.yaml", &Secrets)
 	loadYAML("github-tasks.yaml", &GitHubTasks)
 

@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"sync"
 
+	"github.com/ismdeep/mirror-data/conf"
 	"github.com/ismdeep/mirror-data/internal/rclone"
 	"github.com/ismdeep/mirror-data/internal/store"
 	"github.com/ismdeep/mirror-data/internal/util"
@@ -15,7 +15,7 @@ func IsCompressFile(path string) bool {
 }
 
 func main() {
-	storage := store.New("python", 16)
+	storage := store.New("python", conf.Config.StorageCoroutineSize)
 
 	remoteSite := "https://www.python.org/ftp/python/"
 	versions, err := rclone.JSON("lsjson", "--http-url", remoteSite, ":http:")
@@ -23,20 +23,26 @@ func main() {
 		panic(err)
 	}
 
-	var wg sync.WaitGroup
-	for _, version := range versions {
-		wg.Add(1)
-		go func(version rclone.JSONObj) {
-			defer func() {
-				wg.Done()
-			}()
+	versionChan := make(chan rclone.JSONObj, 1024)
+	go func() {
+		defer func() {
+			close(versionChan)
+		}()
+
+		for _, version := range versions {
+			versionChan <- version
+		}
+	}()
+
+	err = util.CoroutineRun(conf.Config.CoroutineSize, func() error {
+		for version := range versionChan {
 			if !version.IsDir || !('0' <= version.Path[0] && version.Path[0] <= '9') {
-				return
+				continue
 			}
 			items, err := rclone.JSON("lsjson", "--http-url", fmt.Sprintf("%v%v/", remoteSite, version.Path), ":http:")
 			if err != nil {
 				fmt.Println("ERROR:", err.Error())
-				return
+				return err
 			}
 			for _, v := range items {
 				if !IsCompressFile(v.Path) {
@@ -46,10 +52,13 @@ func main() {
 				originLink := fmt.Sprintf("%v%v/%v", remoteSite, version.Path, v.Path)
 				storage.Add(link, originLink)
 			}
-		}(version)
+		}
 
+		return nil
+	})
+	if err != nil {
+		panic(err)
 	}
 
-	wg.Wait()
 	storage.CloseAndWait()
 }

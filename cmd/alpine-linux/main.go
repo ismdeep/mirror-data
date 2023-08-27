@@ -2,15 +2,15 @@ package main
 
 import (
 	"fmt"
-	"sync"
 
+	"github.com/ismdeep/mirror-data/conf"
 	"github.com/ismdeep/mirror-data/internal/rclone"
 	"github.com/ismdeep/mirror-data/internal/store"
 	"github.com/ismdeep/mirror-data/internal/util"
 )
 
 func main() {
-	storage := store.New("alpine-linux", 16)
+	storage := store.New("alpine-linux", conf.Config.StorageCoroutineSize)
 
 	remoteSite := "https://dl-cdn.alpinelinux.org/alpine"
 	versions := []string{
@@ -34,18 +34,21 @@ func main() {
 		"v3.17",
 		"v3.18",
 	}
-	var wg sync.WaitGroup
-	for _, version := range versions {
-		wg.Add(1)
-		go func(version string) {
-			defer func() {
-				wg.Done()
-			}()
 
+	versionChan := make(chan string, 1024)
+	go func() {
+		for _, version := range versions {
+			versionChan <- version
+		}
+		close(versionChan)
+	}()
+
+	err := util.CoroutineRun(conf.Config.CoroutineSize, func() error {
+		for version := range versionChan {
 			items, err := rclone.JSON("lsjson", "-R", "--http-url", fmt.Sprintf("%v/%v/releases/", remoteSite, version), ":http:")
 			if err != nil {
 				fmt.Println("ERROR:", err.Error())
-				return
+				return err
 			}
 			for _, v := range items {
 				if v.IsDir {
@@ -58,9 +61,12 @@ func main() {
 						fmt.Sprintf("%v/%v/releases/%v", remoteSite, version, v.Path))
 				}
 			}
-		}(version)
+		}
+		return nil
+	})
+	if err != nil {
+		panic(err)
 	}
 
-	wg.Wait()
 	storage.CloseAndWait()
 }

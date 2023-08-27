@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/antchfx/htmlquery"
-	"golang.org/x/net/html"
-
+	"github.com/ismdeep/mirror-data/conf"
 	"github.com/ismdeep/mirror-data/internal/store"
+	"golang.org/x/net/html"
 )
 
 // GetHTMLNode get html node
@@ -69,7 +69,7 @@ func GetVersion(s string) string {
 }
 
 func main() {
-	storage := store.New("go", 16)
+	storage := store.New("go", conf.Config.StorageCoroutineSize)
 
 	originLinks, err := GetDownloadLinks()
 	if err != nil {
@@ -83,7 +83,6 @@ func main() {
 		version := GetVersion(fileName)
 		storage.Add(fmt.Sprintf("all/%v", fileName), originLink)
 		storage.Add(fmt.Sprintf("dist/%v/%v", version, fileName), originLink)
-
 	}
 
 	storage.CloseAndWait()

@@ -3,10 +3,11 @@ package main
 import (
 	"fmt"
 	"strings"
-	"sync"
 
+	"github.com/ismdeep/mirror-data/conf"
 	"github.com/ismdeep/mirror-data/internal/rclone"
 	"github.com/ismdeep/mirror-data/internal/store"
+	"github.com/ismdeep/mirror-data/internal/util"
 )
 
 // IsCompressFile 是否是压缩包
@@ -26,14 +27,14 @@ func IsIgnoredPath(path string) bool {
 }
 
 func main() {
-	storage := store.New("nodejs", 32)
+	storage := store.New("nodejs", conf.Config.StorageCoroutineSize)
 
 	versions, err := rclone.JSON("lsjson", "--http-url", "https://nodejs.org/dist/", ":http:")
 	if err != nil {
 		panic(err)
 	}
 
-	versionChan := make(chan rclone.JSONObj, 65535)
+	versionChan := make(chan rclone.JSONObj, 1024)
 	go func() {
 		for _, version := range versions {
 			versionChan <- version
@@ -41,37 +42,31 @@ func main() {
 		close(versionChan)
 	}()
 
-	var wg sync.WaitGroup
-	for i := 0; i < 8; i++ {
-		wg.Add(1)
-		go func() {
-			for version := range versionChan {
-				fmt.Println("Started:", version)
-				if !version.IsDir || IsIgnoredPath(version.Path) {
-					fmt.Println("Done:", version)
-					continue
-				}
-				items, err := rclone.JSON("lsjson", "--http-url", fmt.Sprintf("https://nodejs.org/dist/%v/", version.Path), ":http:")
-				if err != nil {
-					fmt.Println("ERROR:", err.Error())
-					fmt.Println("Done:", version)
-					continue
-				}
-				for _, v := range items {
-					if !IsCompressFile(v.Path) {
-						continue
-					}
-					link := fmt.Sprintf("%v/%v", version.Path, v.Path)
-					originLink := fmt.Sprintf("https://nodejs.org/dist/%v/%v", version.Path, v.Path)
-					storage.Add(link, originLink)
-				}
-				fmt.Println("Done:", version)
+	err = util.CoroutineRun(conf.Config.CoroutineSize, func() error {
+		for version := range versionChan {
+			if !version.IsDir || IsIgnoredPath(version.Path) {
+				continue
 			}
-			wg.Done()
-		}()
+			items, err := rclone.JSON("lsjson", "--http-url", fmt.Sprintf("https://nodejs.org/dist/%v/", version.Path), ":http:")
+			if err != nil {
+				fmt.Println("ERROR:", err.Error())
+				return err
+			}
+			for _, v := range items {
+				if !IsCompressFile(v.Path) {
+					continue
+				}
+				link := fmt.Sprintf("%v/%v", version.Path, v.Path)
+				originLink := fmt.Sprintf("https://nodejs.org/dist/%v/%v", version.Path, v.Path)
+				storage.Add(link, originLink)
+			}
+		}
+		return nil
+	})
+	if err != nil {
+		panic(err)
 	}
 
-	wg.Wait()
 	close(storage.C)
 	storage.WG.Wait()
 }

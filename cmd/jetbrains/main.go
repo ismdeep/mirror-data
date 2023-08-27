@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/ismdeep/mirror-data/conf"
 	"github.com/ismdeep/mirror-data/internal/httputil"
 	"github.com/ismdeep/mirror-data/internal/store"
 )
@@ -11,7 +12,7 @@ import (
 var storage *store.Storage
 
 func init() {
-	storage = store.New("jetbrains", 32)
+	storage = store.New("jetbrains", conf.Config.StorageCoroutineSize)
 }
 
 // Product model

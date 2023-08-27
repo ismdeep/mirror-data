@@ -33,30 +33,42 @@ func main() {
 		panic(err)
 	}
 
+	versionChan := make(chan rclone.JSONObj, 65535)
+	go func() {
+		for _, version := range versions {
+			versionChan <- version
+		}
+		close(versionChan)
+	}()
+
 	var wg sync.WaitGroup
-	for _, version := range versions {
+	for i := 0; i < 8; i++ {
 		wg.Add(1)
-		go func(version rclone.JSONObj) {
-			defer func() {
-				wg.Done()
-			}()
-			if !version.IsDir || IsIgnoredPath(version.Path) {
-				return
-			}
-			items, err := rclone.JSON("lsjson", "--http-url", fmt.Sprintf("https://nodejs.org/dist/%v/", version.Path), ":http:")
-			if err != nil {
-				fmt.Println("ERROR:", err.Error())
-				return
-			}
-			for _, v := range items {
-				if !IsCompressFile(v.Path) {
+		go func() {
+			for version := range versionChan {
+				fmt.Println("Started:", version)
+				if !version.IsDir || IsIgnoredPath(version.Path) {
+					fmt.Println("Done:", version)
 					continue
 				}
-				link := fmt.Sprintf("%v/%v", version.Path, v.Path)
-				originLink := fmt.Sprintf("https://nodejs.org/dist/%v/%v", version.Path, v.Path)
-				storage.Add(link, originLink)
+				items, err := rclone.JSON("lsjson", "--http-url", fmt.Sprintf("https://nodejs.org/dist/%v/", version.Path), ":http:")
+				if err != nil {
+					fmt.Println("ERROR:", err.Error())
+					fmt.Println("Done:", version)
+					continue
+				}
+				for _, v := range items {
+					if !IsCompressFile(v.Path) {
+						continue
+					}
+					link := fmt.Sprintf("%v/%v", version.Path, v.Path)
+					originLink := fmt.Sprintf("https://nodejs.org/dist/%v/%v", version.Path, v.Path)
+					storage.Add(link, originLink)
+				}
+				fmt.Println("Done:", version)
 			}
-		}(version)
+			wg.Done()
+		}()
 	}
 
 	wg.Wait()

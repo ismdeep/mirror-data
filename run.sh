@@ -4,9 +4,11 @@ set -e
 
 target="${1:?}"
 
+docker build -t ismdeep/mirror-data-runner:latest .
+
 git pull
 
-docker run --rm -v "$PWD:/src/" golang:1.20-bookworm bash /src/run-in-docker.sh "${target}"
+docker run --rm -v "$PWD:/src/" ismdeep/mirror-data-runner:latest bash /src/run-in-docker.sh "${target}"
 
 git add .
 git commit -am "docs: update" || true

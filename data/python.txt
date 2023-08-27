@@ -754,3 +754,7 @@ python|3.12.0/Python-3.12.0rc1.tar.xz.asc|https://www.python.org/ftp/python/3.12
 python|3.12.0/Python-3.12.0rc1.tar.xz.crt|https://www.python.org/ftp/python/3.12.0/Python-3.12.0rc1.tar.xz.crt|1067|application/x-x509-ca-cert|1691240337
 python|3.12.0/Python-3.12.0rc1.tar.xz.sig|https://www.python.org/ftp/python/3.12.0/Python-3.12.0rc1.tar.xz.sig|141|application/octet-stream|1691240337
 python|3.12.0/Python-3.12.0rc1.tar.xz.sigstore|https://www.python.org/ftp/python/3.12.0/Python-3.12.0rc1.tar.xz.sigstore|5002|application/octet-stream|1691240337
+python|3.10.13/Python-3.10.13.tar.xz|https://www.python.org/ftp/python/3.10.13/Python-3.10.13.tar.xz|19663088|application/octet-stream|1692883139
+python|3.11.5/Python-3.11.5.tar.xz|https://www.python.org/ftp/python/3.11.5/Python-3.11.5.tar.xz|20053580|application/octet-stream|1692880193
+python|3.8.18/Python-3.8.18.tar.xz|https://www.python.org/ftp/python/3.8.18/Python-3.8.18.tar.xz|20696952|application/octet-stream|1692908965
+python|3.9.18/Python-3.9.18.tar.xz|https://www.python.org/ftp/python/3.9.18/Python-3.9.18.tar.xz|19673928|application/octet-stream|1692904387

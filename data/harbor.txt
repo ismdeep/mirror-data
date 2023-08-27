@@ -713,3 +713,11 @@ harbor|v2.8.3-rc1/md5sum|https://github.com/goharbor/harbor/releases/download/v2
 harbor|v2.9.0-rc1/harbor-offline-installer-v2.9.0-rc1.tgz|https://github.com/goharbor/harbor/releases/download/v2.9.0-rc1/harbor-offline-installer-v2.9.0-rc1.tgz|647097605|application/octet-stream|1691462632
 harbor|v2.9.0-rc1/harbor-offline-installer-v2.9.0-rc1.tgz.asc|https://github.com/goharbor/harbor/releases/download/v2.9.0-rc1/harbor-offline-installer-v2.9.0-rc1.tgz.asc|833|application/octet-stream|1691462590
 harbor|v2.9.0-rc1/md5sum|https://github.com/goharbor/harbor/releases/download/v2.9.0-rc1/md5sum|152|application/octet-stream|1691462591
+harbor|v2.8.4/harbor-online-installer-v2.8.4.tgz|https://github.com/goharbor/harbor/releases/download/v2.8.4/harbor-online-installer-v2.8.4.tgz|11135|application/octet-stream|1692168219
+harbor|v2.8.4/harbor-offline-installer-v2.8.4.tgz.asc|https://github.com/goharbor/harbor/releases/download/v2.8.4/harbor-offline-installer-v2.8.4.tgz.asc|833|application/octet-stream|1692168219
+harbor|v2.8.4-rc1/md5sum|https://github.com/goharbor/harbor/releases/download/v2.8.4-rc1/md5sum|152|application/octet-stream|1692167396
+harbor|v2.8.4/harbor-online-installer-v2.8.4.tgz.asc|https://github.com/goharbor/harbor/releases/download/v2.8.4/harbor-online-installer-v2.8.4.tgz.asc|833|application/octet-stream|1692168219
+harbor|v2.8.4-rc1/harbor-offline-installer-v2.8.4-rc1.tgz.asc|https://github.com/goharbor/harbor/releases/download/v2.8.4-rc1/harbor-offline-installer-v2.8.4-rc1.tgz.asc|833|application/octet-stream|1692167395
+harbor|v2.8.4/md5sum|https://github.com/goharbor/harbor/releases/download/v2.8.4/md5sum|286|application/octet-stream|1692168263
+harbor|v2.8.4/harbor-offline-installer-v2.8.4.tgz|https://github.com/goharbor/harbor/releases/download/v2.8.4/harbor-offline-installer-v2.8.4.tgz|608175520|application/octet-stream|1692168242
+harbor|v2.8.4-rc1/harbor-offline-installer-v2.8.4-rc1.tgz|https://github.com/goharbor/harbor/releases/download/v2.8.4-rc1/harbor-offline-installer-v2.8.4-rc1.tgz|608175520|application/octet-stream|1692167429

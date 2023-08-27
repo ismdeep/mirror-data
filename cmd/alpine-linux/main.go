@@ -13,37 +13,26 @@ func main() {
 	storage := store.New("alpine-linux", conf.Config.StorageCoroutineSize)
 
 	remoteSite := "https://dl-cdn.alpinelinux.org/alpine"
-	versions := []string{
-		"v3.0",
-		"v3.1",
-		"v3.2",
-		"v3.3",
-		"v3.4",
-		"v3.5",
-		"v3.6",
-		"v3.7",
-		"v3.8",
-		"v3.9",
-		"v3.10",
-		"v3.11",
-		"v3.12",
-		"v3.13",
-		"v3.14",
-		"v3.15",
-		"v3.16",
-		"v3.17",
-		"v3.18",
+
+	versionsResp, err := rclone.JSON("lsjson", "--http-url", remoteSite, ":http:")
+	if err != nil {
+		panic(err)
 	}
 
 	versionChan := make(chan string, 1024)
 	go func() {
-		for _, version := range versions {
-			versionChan <- version
+		defer func() {
+			close(versionChan)
+		}()
+
+		for _, vResp := range versionsResp {
+			if util.IsAlpineVersion(vResp.Path) {
+				versionChan <- vResp.Path
+			}
 		}
-		close(versionChan)
 	}()
 
-	err := util.CoroutineRun(conf.Config.CoroutineSize, func() error {
+	err = util.CoroutineRun(conf.Config.CoroutineSize, func() error {
 		for version := range versionChan {
 			items, err := rclone.JSON("lsjson", "-R", "--http-url", fmt.Sprintf("%v/%v/releases/", remoteSite, version), ":http:")
 			if err != nil {

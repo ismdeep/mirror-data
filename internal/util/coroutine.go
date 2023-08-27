@@ -5,7 +5,7 @@ import (
 	"sync"
 )
 
-// run coroutines
+// CoroutineRun run coroutines
 func CoroutineRun(size int, f func() error) error {
 	var errLst []error
 	var wg sync.WaitGroup

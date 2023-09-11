@@ -4606,3 +4606,17 @@ jetbrains|Rider/release/2023.2/2023.2.1/windowsZipARM64/JetBrains.Rider-2023.2.1
 jetbrains|Rider/release/2023.2/2023.2.1/mac/JetBrains.Rider-2023.2.1.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2023.2.1.dmg|1013260726|binary/octet-stream|1692877495
 jetbrains|Rider/release/2023.2/2023.2.1/macM1/JetBrains.Rider-2023.2.1-aarch64.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2023.2.1-aarch64.dmg|1046153770|binary/octet-stream|1692877535
 jetbrains|Rider/release/2023.2/2023.2.1/linuxARM64/JetBrains.Rider-2023.2.1-aarch64.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2023.2.1-aarch64.tar.gz|1106955557|binary/octet-stream|1692877782
+jetbrains|PhpStorm/release/2023.2/2023.2.1/windows/PhpStorm-2023.2.1.exe|https://download.jetbrains.com/webide/PhpStorm-2023.2.1.exe|470275080|binary/octet-stream|1693218076
+jetbrains|PhpStorm/release/2023.2/2023.2.1/linux/PhpStorm-2023.2.1.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2023.2.1.tar.gz|659532781|binary/octet-stream|1693218095
+jetbrains|GoLand/release/2023.2/2023.2.1/linux/goland-2023.2.1.tar.gz|https://download.jetbrains.com/go/goland-2023.2.1.tar.gz|689487062|binary/octet-stream|1693205891
+jetbrains|GoLand/release/2023.2/2023.2.1/macM1/goland-2023.2.1-aarch64.dmg|https://download.jetbrains.com/go/goland-2023.2.1-aarch64.dmg|642935772|binary/octet-stream|1693205856
+jetbrains|GoLand/release/2023.2/2023.2.1/mac/goland-2023.2.1.dmg|https://download.jetbrains.com/go/goland-2023.2.1.dmg|651272820|binary/octet-stream|1693205858
+jetbrains|GoLand/release/2023.2/2023.2.1/windows/goland-2023.2.1.exe|https://download.jetbrains.com/go/goland-2023.2.1.exe|497662440|binary/octet-stream|1693205883
+jetbrains|PhpStorm/release/2023.2/2023.2.1/linuxARM64/PhpStorm-2023.2.1-aarch64.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2023.2.1-aarch64.tar.gz|660878234|binary/octet-stream|1693218066
+jetbrains|GoLand/release/2023.2/2023.2.1/linuxARM64/goland-2023.2.1-aarch64.tar.gz|https://download.jetbrains.com/go/goland-2023.2.1-aarch64.tar.gz|690839853|binary/octet-stream|1693205856
+jetbrains|GoLand/release/2023.2/2023.2.1/windowsARM64/goland-2023.2.1-aarch64.exe|https://download.jetbrains.com/go/goland-2023.2.1-aarch64.exe|480730112|binary/octet-stream|1693205856
+jetbrains|PhpStorm/release/2023.2/2023.2.1/windowsZip/PhpStorm-2023.2.1.win.zip|https://download.jetbrains.com/webide/PhpStorm-2023.2.1.win.zip|655972294|binary/octet-stream|1693218101
+jetbrains|GoLand/release/2023.2/2023.2.1/windowsZip/goland-2023.2.1.win.zip|https://download.jetbrains.com/go/goland-2023.2.1.win.zip|685729305|binary/octet-stream|1693205896
+jetbrains|PhpStorm/release/2023.2/2023.2.1/windowsARM64/PhpStorm-2023.2.1-aarch64.exe|https://download.jetbrains.com/webide/PhpStorm-2023.2.1-aarch64.exe|453342568|binary/octet-stream|1693218066
+jetbrains|PhpStorm/release/2023.2/2023.2.1/macM1/PhpStorm-2023.2.1-aarch64.dmg|https://download.jetbrains.com/webide/PhpStorm-2023.2.1-aarch64.dmg|612687000|binary/octet-stream|1693218066
+jetbrains|PhpStorm/release/2023.2/2023.2.1/mac/PhpStorm-2023.2.1.dmg|https://download.jetbrains.com/webide/PhpStorm-2023.2.1.dmg|620924528|binary/octet-stream|1693218069

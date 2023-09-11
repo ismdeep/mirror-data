@@ -758,3 +758,4 @@ python|3.10.13/Python-3.10.13.tar.xz|https://www.python.org/ftp/python/3.10.13/P
 python|3.11.5/Python-3.11.5.tar.xz|https://www.python.org/ftp/python/3.11.5/Python-3.11.5.tar.xz|20053580|application/octet-stream|1692880193
 python|3.8.18/Python-3.8.18.tar.xz|https://www.python.org/ftp/python/3.8.18/Python-3.8.18.tar.xz|20696952|application/octet-stream|1692908965
 python|3.9.18/Python-3.9.18.tar.xz|https://www.python.org/ftp/python/3.9.18/Python-3.9.18.tar.xz|19673928|application/octet-stream|1692904387
+python|3.12.0/Python-3.12.0rc2.tar.xz|https://www.python.org/ftp/python/3.12.0/Python-3.12.0rc2.tar.xz|20563748|application/octet-stream|1693953812

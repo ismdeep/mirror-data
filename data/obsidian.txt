@@ -584,3 +584,15 @@ obsidian|v0.5.1/obsidian-0.5.1.asar.gz|https://github.com/obsidianmd/obsidian-re
 obsidian|v0.5.3/obsidian-0.5.3.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v0.5.3/obsidian-0.5.3.asar.gz|4015242|application/octet-stream|1638882743
 obsidian|v0.6.5/Obsidian.0.6.5.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v0.6.5/Obsidian.0.6.5.exe|53600600|application/octet-stream|1638882706
 obsidian|v0.5.0/obsidian-0.5.0.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v0.5.0/obsidian-0.5.0.asar.gz|3305911|application/octet-stream|1638882723
+obsidian|v1.4.5/obsidian-1.4.5.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.5/obsidian-1.4.5.asar.gz|8267902|application/octet-stream|1693429146
+obsidian|v1.4.5/Obsidian-1.4.5-universal.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.5/Obsidian-1.4.5-universal.dmg|170607755|application/octet-stream|1693429106
+obsidian|v1.4.5/Obsidian.1.4.5.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.5/Obsidian.1.4.5.exe|76430248|application/octet-stream|1693429125
+obsidian|v1.4.5/obsidian_1.4.5_amd64.snap|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.5/obsidian_1.4.5_amd64.snap|114503680|application/octet-stream|1693428947
+obsidian|v1.4.5/obsidian-1.4.5.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.5/obsidian-1.4.5.tar.gz|99585362|application/octet-stream|1693429002
+obsidian|v1.4.5/Obsidian-1.4.5-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.5/Obsidian-1.4.5-arm64.AppImage|106019110|application/octet-stream|1693429030
+obsidian|v1.4.5/obsidian_1.4.5_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.5/obsidian_1.4.5_amd64.deb|73343042|application/octet-stream|1693428916
+obsidian|v1.4.5/obsidian-1.4.5-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.5/obsidian-1.4.5-arm64.tar.gz|100016893|application/octet-stream|1693429056
+obsidian|v1.4.5/Obsidian.1.4.5-arm64.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.5/Obsidian.1.4.5-arm64.exe|79113184|application/octet-stream|1693428895
+obsidian|v1.4.5/Obsidian-1.4.5.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.5/Obsidian-1.4.5.AppImage|105275457|application/octet-stream|1693428976
+obsidian|v1.4.5/Obsidian.1.4.5-32.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.5/Obsidian.1.4.5-32.exe|71771632|application/octet-stream|1693428853
+obsidian|v1.4.5/Obsidian.1.4.5-allusers.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.5/Obsidian.1.4.5-allusers.exe|76500704|application/octet-stream|1693428874

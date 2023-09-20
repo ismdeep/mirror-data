@@ -4654,3 +4654,17 @@ jetbrains|RubyMine/release/2023.2/2023.2.2/linuxARM64/RubyMine-2023.2.2-aarch64.
 jetbrains|RubyMine/release/2023.2/2023.2.2/windowsZip/RubyMine-2023.2.2.win.zip|https://download.jetbrains.com/ruby/RubyMine-2023.2.2.win.zip|639478414|binary/octet-stream|1694677226
 jetbrains|RubyMine/release/2023.2/2023.2.2/windows/RubyMine-2023.2.2.exe|https://download.jetbrains.com/ruby/RubyMine-2023.2.2.exe|452849504|binary/octet-stream|1694677217
 jetbrains|RubyMine/release/2023.2/2023.2.2/windowsARM64/RubyMine-2023.2.2-aarch64.exe|https://download.jetbrains.com/ruby/RubyMine-2023.2.2-aarch64.exe|435924376|binary/octet-stream|1694677190
+jetbrains|WebStorm/release/2023.2/2023.2.2/macM1/WebStorm-2023.2.2-aarch64.dmg|https://download.jetbrains.com/webstorm/WebStorm-2023.2.2-aarch64.dmg|561681963|binary/octet-stream|1694768171
+jetbrains|WebStorm/release/2023.2/2023.2.2/mac/WebStorm-2023.2.2.dmg|https://download.jetbrains.com/webstorm/WebStorm-2023.2.2.dmg|569878741|binary/octet-stream|1694768179
+jetbrains|PhpStorm/release/2023.2/2023.2.2/linux/PhpStorm-2023.2.2.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2023.2.2.tar.gz|660770713|binary/octet-stream|1695039765
+jetbrains|WebStorm/release/2023.2/2023.2.2/linux/WebStorm-2023.2.2.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2023.2.2.tar.gz|605623842|binary/octet-stream|1694768205
+jetbrains|PhpStorm/release/2023.2/2023.2.2/windows/PhpStorm-2023.2.2.exe|https://download.jetbrains.com/webide/PhpStorm-2023.2.2.exe|471176096|binary/octet-stream|1695039751
+jetbrains|WebStorm/release/2023.2/2023.2.2/linuxARM64/WebStorm-2023.2.2-aarch64.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2023.2.2-aarch64.tar.gz|606983822|binary/octet-stream|1694768178
+jetbrains|PhpStorm/release/2023.2/2023.2.2/mac/PhpStorm-2023.2.2.dmg|https://download.jetbrains.com/webide/PhpStorm-2023.2.2.dmg|622243763|binary/octet-stream|1695039731
+jetbrains|PhpStorm/release/2023.2/2023.2.2/macM1/PhpStorm-2023.2.2-aarch64.dmg|https://download.jetbrains.com/webide/PhpStorm-2023.2.2-aarch64.dmg|613910208|binary/octet-stream|1695039729
+jetbrains|WebStorm/release/2023.2/2023.2.2/windows/WebStorm-2023.2.2.exe|https://download.jetbrains.com/webstorm/WebStorm-2023.2.2.exe|436430560|binary/octet-stream|1694768180
+jetbrains|PhpStorm/release/2023.2/2023.2.2/linuxARM64/PhpStorm-2023.2.2-aarch64.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2023.2.2-aarch64.tar.gz|662107610|binary/octet-stream|1695039729
+jetbrains|PhpStorm/release/2023.2/2023.2.2/windowsZip/PhpStorm-2023.2.2.win.zip|https://download.jetbrains.com/webide/PhpStorm-2023.2.2.win.zip|657161871|binary/octet-stream|1695039768
+jetbrains|WebStorm/release/2023.2/2023.2.2/windowsARM64/WebStorm-2023.2.2-aarch64.exe|https://download.jetbrains.com/webstorm/WebStorm-2023.2.2-aarch64.exe|419507568|binary/octet-stream|1694768178
+jetbrains|PhpStorm/release/2023.2/2023.2.2/windowsARM64/PhpStorm-2023.2.2-aarch64.exe|https://download.jetbrains.com/webide/PhpStorm-2023.2.2-aarch64.exe|454252448|binary/octet-stream|1695039729
+jetbrains|WebStorm/release/2023.2/2023.2.2/windowsZip/WebStorm-2023.2.2.win.zip|https://download.jetbrains.com/webstorm/WebStorm-2023.2.2.win.zip|601996613|binary/octet-stream|1694768208

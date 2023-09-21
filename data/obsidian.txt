@@ -632,3 +632,15 @@ obsidian|v1.4.10/Obsidian-1.4.10-arm64.AppImage|https://github.com/obsidianmd/ob
 obsidian|v1.4.10/obsidian-1.4.10.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.10/obsidian-1.4.10.tar.gz|99705801|application/octet-stream|1694460436
 obsidian|v1.4.10/obsidian-1.4.10-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.10/obsidian-1.4.10-arm64.tar.gz|100138007|application/octet-stream|1694460493
 obsidian|v1.4.10/obsidian_1.4.10_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.10/obsidian_1.4.10_amd64.deb|73359198|application/octet-stream|1694460512
+obsidian|v1.4.13/Obsidian-1.4.13-universal.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.13/Obsidian-1.4.13-universal.dmg|170718316|application/octet-stream|1694745726
+obsidian|v1.4.13/obsidian-1.4.13.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.13/obsidian-1.4.13.asar.gz|8394487|application/octet-stream|1694745527
+obsidian|v1.4.13/Obsidian-1.4.13.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.13/Obsidian-1.4.13.AppImage|105411110|application/octet-stream|1694745593
+obsidian|v1.4.13/Obsidian-1.4.13-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.13/Obsidian-1.4.13-arm64.AppImage|106142692|application/octet-stream|1694745649
+obsidian|v1.4.13/Obsidian.1.4.13.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.13/Obsidian.1.4.13.exe|76454120|application/octet-stream|1694745745
+obsidian|v1.4.13/Obsidian.1.4.13-32.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.13/Obsidian.1.4.13-32.exe|71787840|application/octet-stream|1694745764
+obsidian|v1.4.13/obsidian_1.4.13_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.13/obsidian_1.4.13_amd64.deb|73357626|application/octet-stream|1694745830
+obsidian|v1.4.13/obsidian_1.4.13_amd64.snap|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.13/obsidian_1.4.13_amd64.snap|114577408|application/octet-stream|1694745563
+obsidian|v1.4.13/obsidian-1.4.13.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.13/obsidian-1.4.13.tar.gz|99706160|application/octet-stream|1694745637
+obsidian|v1.4.13/Obsidian.1.4.13-allusers.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.13/Obsidian.1.4.13-allusers.exe|76523760|application/octet-stream|1694745794
+obsidian|v1.4.13/obsidian-1.4.13-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.13/obsidian-1.4.13-arm64.tar.gz|100139943|application/octet-stream|1694745677
+obsidian|v1.4.13/Obsidian.1.4.13-arm64.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.13/Obsidian.1.4.13-arm64.exe|79132320|application/octet-stream|1694745810

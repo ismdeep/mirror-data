@@ -27,6 +27,7 @@ func init() {
 		"harbor":                        &task.Harbor{},
 		"image-syncer":                  &task.ImageSyncer{},
 		"ipfs-desktop":                  &task.IPFSDesktop{},
+		"ipfs-kubo":                     &task.IPFSKubo{},
 		"jetbrains":                     &task.JetBrains{},
 		"nodejs":                        &task.NodeJS{},
 		"obsidian":                      &task.Obsidian{},

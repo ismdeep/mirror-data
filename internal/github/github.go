@@ -34,7 +34,7 @@ func FetchReleases(bucketName string, owner string, repo string, ignoredFunc fun
 		for _, release := range releases {
 			for _, asset := range release.Assets {
 				link := fmt.Sprintf("%v/%v", *release.TagName, *asset.Name)
-				if ignoredFunc(link) {
+				if ignoredFunc != nil && ignoredFunc(link) {
 					log.WithName(bucketName).Debug("ignored", zap.String("link", link))
 					continue
 				}

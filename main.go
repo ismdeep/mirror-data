@@ -20,7 +20,6 @@ func init() {
 		"another-redis-desktop-manager": &task.AnotherRedisDesktopManager{},
 		"ctop":                          &task.Ctop{},
 		"docker-compose":                &task.DockerCompose{},
-		"electron-ssr-backup":           &task.ElectronSsrBackup{},
 		"etcd-manager":                  &task.EtcdManager{},
 		"git-for-windows":               &task.GitForWindows{},
 		"go":                            &task.GoDev{},
@@ -63,18 +62,18 @@ func main() {
 
 	var wg sync.WaitGroup
 	for _, arg := range convert(os.Args[1:]) {
-		f, ok := tasks[arg]
+		t, ok := tasks[arg]
 		if !ok {
 			panic(fmt.Errorf("invalid task name. [%v]", arg))
 		}
 		wg.Add(1)
-		go func(name string, task task.Interface) {
+		go func(name string, t task.Interface) {
 			defer func() {
 				log.WithName(name).Info("finished")
 				wg.Done()
 			}()
-			task.Run()
-		}(arg, f)
+			t.Run()
+		}(arg, t)
 	}
 	wg.Wait()
 	close(global.Errors)

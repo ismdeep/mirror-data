@@ -11,9 +11,8 @@ import (
 	"sync"
 	"time"
 
-	"go.uber.org/zap"
-
 	"github.com/ismdeep/mirror-data/pkg/log"
+	"go.uber.org/zap"
 )
 
 // LinkPair link pair
@@ -135,7 +134,7 @@ func (receiver *Storage) startConsumer() {
 					contentLength,
 					contentType,
 					lastModified.Unix()))
-				log.WithName(receiver.BucketName).Info("saved", zap.String("link", item.Link), zap.String("origin-link", item.OriginLink))
+				log.WithName(receiver.BucketName).Info("saved", zap.String("link", item.Link))
 			}
 			receiver.WG.Done()
 		}()

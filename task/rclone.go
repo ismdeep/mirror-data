@@ -6,5 +6,5 @@ type Rclone struct {
 }
 
 func (receiver *Rclone) Run() {
-	github.FetchReleases("rclone", "rclone", "rclone")
+	github.FetchReleases("rclone", "rclone", "rclone", nil)
 }

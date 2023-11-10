@@ -6,5 +6,5 @@ type EtcdManager struct {
 }
 
 func (receiver *EtcdManager) Run() {
-	github.FetchReleases("etcd-manager", "gtamas", "etcdmanager")
+	github.FetchReleases("etcd-manager", "gtamas", "etcdmanager", nil)
 }

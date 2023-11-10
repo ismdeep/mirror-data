@@ -6,5 +6,5 @@ type Obsidian struct {
 }
 
 func (receiver *Obsidian) Run() {
-	github.FetchReleases("obsidian", "obsidianmd", "obsidian-releases")
+	github.FetchReleases("obsidian", "obsidianmd", "obsidian-releases", nil)
 }

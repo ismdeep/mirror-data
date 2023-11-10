@@ -6,5 +6,5 @@ type ImageSyncer struct {
 }
 
 func (receiver *ImageSyncer) Run() {
-	github.FetchReleases("image-syncer", "AliyunContainerService", "image-syncer")
+	github.FetchReleases("image-syncer", "AliyunContainerService", "image-syncer", nil)
 }

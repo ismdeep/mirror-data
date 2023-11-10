@@ -1,10 +1,16 @@
 package task
 
-import "github.com/ismdeep/mirror-data/internal/github"
+import (
+	"strings"
+
+	"github.com/ismdeep/mirror-data/internal/github"
+)
 
 type IPFSDesktop struct {
 }
 
 func (receiver *IPFSDesktop) Run() {
-	github.FetchReleases("ipfs-desktop", "ipfs", "ipfs-desktop")
+	github.FetchReleases("ipfs-desktop", "ipfs", "ipfs-desktop", func(s string) bool {
+		return strings.Contains(s, "-rc.") || strings.Contains(s, "-beta.")
+	})
 }

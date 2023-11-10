@@ -6,5 +6,5 @@ type ElectronSsrBackup struct {
 }
 
 func (receiver *ElectronSsrBackup) Run() {
-	github.FetchReleases("electron-ssr-backup", "qingshuisiyuan", "electron-ssr-backup")
+	github.FetchReleases("electron-ssr-backup", "qingshuisiyuan", "electron-ssr-backup", nil)
 }

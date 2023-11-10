@@ -6,5 +6,5 @@ type AnotherRedisDesktopManager struct {
 }
 
 func (receiver *AnotherRedisDesktopManager) Run() {
-	github.FetchReleases("another-redis-desktop-manager", "qishibo", "AnotherRedisDesktopManager")
+	github.FetchReleases("another-redis-desktop-manager", "qishibo", "AnotherRedisDesktopManager", nil)
 }

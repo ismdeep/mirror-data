@@ -8,10 +8,12 @@ import (
 	"github.com/ismdeep/mirror-data/conf"
 	"github.com/ismdeep/mirror-data/global"
 	"github.com/ismdeep/mirror-data/internal/store"
+	"github.com/ismdeep/mirror-data/pkg/log"
+	"go.uber.org/zap"
 )
 
 // FetchReleases fetch releases
-func FetchReleases(bucketName string, owner string, repo string) {
+func FetchReleases(bucketName string, owner string, repo string, ignoredFunc func(s string) bool) {
 	storage := store.New(bucketName, conf.Config.StorageCoroutineSize)
 	defer func() {
 		storage.CloseAndWait()
@@ -32,6 +34,10 @@ func FetchReleases(bucketName string, owner string, repo string) {
 		for _, release := range releases {
 			for _, asset := range release.Assets {
 				link := fmt.Sprintf("%v/%v", *release.TagName, *asset.Name)
+				if ignoredFunc(link) {
+					log.WithName(bucketName).Debug("ignored", zap.String("link", link))
+					continue
+				}
 				originLink := *asset.BrowserDownloadURL
 				storage.Add(link, originLink)
 			}

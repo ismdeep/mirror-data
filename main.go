@@ -18,7 +18,6 @@ var tasks map[string]task.Interface
 func init() {
 	tasks = map[string]task.Interface{
 		"adoptium":                      &task.Adoptium{},
-		"alpine":                        &task.AlpineLinux{},
 		"another-redis-desktop-manager": &task.AnotherRedisDesktopManager{},
 		"ctop":                          &task.Ctop{},
 		"docker-compose":                &task.DockerCompose{},
@@ -31,10 +30,8 @@ func init() {
 		"ipfs-desktop":                  &task.IPFSDesktop{},
 		"ipfs-kubo":                     &task.IPFSKubo{},
 		"jetbrains":                     &task.JetBrains{},
-		"nodejs":                        &task.NodeJS{},
 		"obsidian":                      &task.Obsidian{},
 		"openssl":                       &task.OpenSSL{},
-		"python":                        &task.Python{},
 		"rclone":                        &task.Rclone{},
 		"ventoy":                        &task.Ventoy{},
 	}

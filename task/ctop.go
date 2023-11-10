@@ -1,8 +1,10 @@
-package ctop
+package task
 
 import "github.com/ismdeep/mirror-data/internal/github"
 
-func Run() error {
+type Ctop struct {
+}
+
+func (receiver *Ctop) Run() {
 	github.FetchReleases("ctop", "bcicen", "ctop")
-	return nil
 }

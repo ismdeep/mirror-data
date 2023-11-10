@@ -1,26 +1,31 @@
-package python
+package task
 
 import (
 	"fmt"
 
 	"github.com/ismdeep/mirror-data/conf"
+	"github.com/ismdeep/mirror-data/global"
 	"github.com/ismdeep/mirror-data/internal/rclone"
 	"github.com/ismdeep/mirror-data/internal/store"
 	"github.com/ismdeep/mirror-data/internal/util"
+	"github.com/ismdeep/mirror-data/pkg/log"
+	"go.uber.org/zap"
 )
 
-// IsCompressFile is compress file
-func IsCompressFile(path string) bool {
-	return util.StringEndWith(path, ".tar.xz")
+type Python struct {
 }
 
-func Run() error {
+func (receiver *Python) Run() {
 	storage := store.New("python", conf.Config.StorageCoroutineSize)
+	defer func() {
+		storage.CloseAndWait()
+	}()
 
 	remoteSite := "https://www.python.org/ftp/python/"
 	versions, err := rclone.JSON("lsjson", "--http-url", remoteSite, ":http:")
 	if err != nil {
-		return err
+		global.Errors <- err
+		return
 	}
 
 	versionChan := make(chan rclone.JSONObj, 1024)
@@ -41,11 +46,11 @@ func Run() error {
 			}
 			items, err := rclone.JSON("lsjson", "--http-url", fmt.Sprintf("%v%v/", remoteSite, version.Path), ":http:")
 			if err != nil {
-				fmt.Println("ERROR:", err.Error())
+				log.WithName("python").Error("failed on lsjson", zap.Error(err))
 				return err
 			}
 			for _, v := range items {
-				if !IsCompressFile(v.Path) {
+				if !receiver.IsCompressFile(v.Path) {
 					continue
 				}
 				link := fmt.Sprintf("%v/%v", version.Path, v.Path)
@@ -57,10 +62,12 @@ func Run() error {
 		return nil
 	})
 	if err != nil {
-		return err
+		global.Errors <- err
+		return
 	}
+}
 
-	storage.CloseAndWait()
-
-	return nil
+// IsCompressFile is compress file
+func (receiver *Python) IsCompressFile(path string) bool {
+	return util.StringEndWith(path, ".tar.xz")
 }

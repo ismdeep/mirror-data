@@ -6,33 +6,34 @@ import (
 	"os"
 	"sync"
 
-	"github.com/ismdeep/mirror-data/cmd/adoptium"
-	"github.com/ismdeep/mirror-data/cmd/alpinelinux"
-	"github.com/ismdeep/mirror-data/cmd/ardm"
-	"github.com/ismdeep/mirror-data/cmd/ctop"
-	"github.com/ismdeep/mirror-data/cmd/dockercompose"
-	"github.com/ismdeep/mirror-data/cmd/godev"
-	"github.com/ismdeep/mirror-data/cmd/jetbrains"
-	"github.com/ismdeep/mirror-data/cmd/nodejs"
-	"github.com/ismdeep/mirror-data/cmd/openssl"
-	"github.com/ismdeep/mirror-data/cmd/python"
+	"github.com/ismdeep/mirror-data/global"
 	"github.com/ismdeep/mirror-data/pkg/log"
+	"github.com/ismdeep/mirror-data/task"
 )
 
-var tasks map[string]func() error
+var tasks map[string]task.Interface
 
 func init() {
-	tasks = map[string]func() error{
-		"adoptium":                      adoptium.Run,
-		"alpine":                        alpinelinux.Run,
-		"another-redis-desktop-manager": ardm.Run,
-		"ctop":                          ctop.Run,
-		"docker-compose":                dockercompose.Run,
-		"go":                            godev.Run,
-		"jetbrains":                     jetbrains.Run,
-		"nodejs":                        nodejs.Run,
-		"openssl":                       openssl.Run,
-		"python":                        python.Run,
+	tasks = map[string]task.Interface{
+		"adoptium":                      &task.Adoptium{},
+		"alpine":                        &task.AlpineLinux{},
+		"another-redis-desktop-manager": &task.AnotherRedisDesktopManager{},
+		"ctop":                          &task.Ctop{},
+		"docker-compose":                &task.DockerCompose{},
+		"electron-ssr-backup":           &task.ElectronSsrBackup{},
+		"etcd-manager":                  &task.EtcdManager{},
+		"git-for-windows":               &task.GitForWindows{},
+		"go":                            &task.GoDev{},
+		"harbor":                        &task.Harbor{},
+		"image-syncer":                  &task.ImageSyncer{},
+		"ipfs-desktop":                  &task.IPFSDesktop{},
+		"jetbrains":                     &task.JetBrains{},
+		"nodejs":                        &task.NodeJS{},
+		"obsidian":                      &task.Obsidian{},
+		"openssl":                       &task.OpenSSL{},
+		"python":                        &task.Python{},
+		"rclone":                        &task.Rclone{},
+		"ventoy":                        &task.Ventoy{},
 	}
 }
 
@@ -49,32 +50,31 @@ func convert(args []string) []string {
 
 func main() {
 	var wg sync.WaitGroup
-	errC := make(chan error, 65535)
 	for _, arg := range convert(os.Args[1:]) {
 		f, ok := tasks[arg]
 		if !ok {
 			panic(fmt.Errorf("invalid task name. [%v]", arg))
 		}
 		wg.Add(1)
-		go func(name string, f func() error) {
+		go func(name string, task task.Interface) {
 			defer func() {
 				log.WithName(name).Info("finished")
 				wg.Done()
 			}()
-			if err := f(); err != nil {
-				errC <- err
-			}
+			task.Run()
 		}(arg, f)
 	}
-
 	wg.Wait()
-	close(errC)
+	close(global.Errors)
 
 	var errLst []error
-	for err := range errC {
+	for err := range global.Errors {
 		errLst = append(errLst, err)
 	}
-	if err := errors.Join(errLst...); err != nil {
-		panic(err)
+	if len(errLst) > 0 {
+		fmt.Println("================ ERROR ================")
+		if err := errors.Join(errLst...); err != nil {
+			fmt.Println("ERR:", err.Error())
+		}
 	}
 }

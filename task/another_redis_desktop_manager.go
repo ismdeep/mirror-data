@@ -1,8 +1,10 @@
-package ardm
+package task
 
 import "github.com/ismdeep/mirror-data/internal/github"
 
-func Run() error {
+type AnotherRedisDesktopManager struct {
+}
+
+func (receiver *AnotherRedisDesktopManager) Run() {
 	github.FetchReleases("another-redis-desktop-manager", "qishibo", "AnotherRedisDesktopManager")
-	return nil
 }

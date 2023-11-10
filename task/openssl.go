@@ -1,4 +1,4 @@
-package openssl
+package task
 
 import (
 	"fmt"
@@ -7,7 +7,10 @@ import (
 	"github.com/ismdeep/mirror-data/internal/store"
 )
 
-func Run() error {
+type OpenSSL struct {
+}
+
+func (receiver *OpenSSL) Run() {
 	storage := store.New("openssl", conf.Config.StorageCoroutineSize)
 	versions := []string{
 		"1.1.0a",
@@ -52,6 +55,4 @@ func Run() error {
 	}
 
 	storage.CloseAndWait()
-
-	return nil
 }

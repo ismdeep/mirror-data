@@ -5,7 +5,6 @@ import (
 	"fmt"
 
 	"github.com/google/go-github/v53/github"
-
 	"github.com/ismdeep/mirror-data/conf"
 	"github.com/ismdeep/mirror-data/global"
 	"github.com/ismdeep/mirror-data/internal/store"
@@ -14,6 +13,10 @@ import (
 // FetchReleases fetch releases
 func FetchReleases(bucketName string, owner string, repo string) {
 	storage := store.New(bucketName, conf.Config.StorageCoroutineSize)
+	defer func() {
+		storage.CloseAndWait()
+	}()
+
 	cli := github.NewTokenClient(context.TODO(), conf.RandGitHubToken())
 	page := 1
 	for {
@@ -23,6 +26,7 @@ func FetchReleases(bucketName string, owner string, repo string) {
 		})
 		if err != nil {
 			global.Errors <- err
+			continue
 		}
 
 		for _, release := range releases {
@@ -38,6 +42,4 @@ func FetchReleases(bucketName string, owner string, repo string) {
 		}
 		page++
 	}
-	close(storage.C)
-	storage.WG.Wait()
 }

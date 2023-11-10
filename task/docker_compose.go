@@ -1,8 +1,10 @@
-package dockercompose
+package task
 
 import "github.com/ismdeep/mirror-data/internal/github"
 
-func Run() error {
+type DockerCompose struct {
+}
+
+func (receiver *DockerCompose) Run() {
 	github.FetchReleases("docker-compose", "docker", "compose")
-	return nil
 }

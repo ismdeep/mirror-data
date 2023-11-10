@@ -41,7 +41,7 @@ func init() {
 	loadYAML("github-tasks.yaml", &GitHubTasks)
 
 	if len(Secrets.GitHubTokens) <= 0 {
-		panic("ERROR: ghp_list in config.yaml is empty")
+		panic("ghp_list in config.yaml is empty")
 	}
 }
 

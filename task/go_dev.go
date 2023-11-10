@@ -1,4 +1,4 @@
-package godev
+package task
 
 import (
 	"fmt"
@@ -7,14 +7,38 @@ import (
 	"time"
 
 	"github.com/antchfx/htmlquery"
-	"golang.org/x/net/html"
-
 	"github.com/ismdeep/mirror-data/conf"
+	"github.com/ismdeep/mirror-data/global"
 	"github.com/ismdeep/mirror-data/internal/store"
+	"golang.org/x/net/html"
 )
 
+type GoDev struct {
+}
+
+func (receiver *GoDev) Run() {
+	storage := store.New("go", conf.Config.StorageCoroutineSize)
+
+	originLinks, err := receiver.GetDownloadLinks()
+	if err != nil {
+		global.Errors <- err
+		return
+	}
+	for _, originLink := range originLinks {
+		if !strings.Contains(originLink, "/dl/") {
+			continue
+		}
+		fileName := originLink[strings.Index(originLink, "/dl/")+4:]
+		version := receiver.GetVersion(fileName)
+		storage.Add(fmt.Sprintf("all/%v", fileName), originLink)
+		storage.Add(fmt.Sprintf("dist/%v/%v", version, fileName), originLink)
+	}
+
+	storage.CloseAndWait()
+}
+
 // GetHTMLNode get html node
-func GetHTMLNode(url string) (*html.Node, error) {
+func (receiver *GoDev) GetHTMLNode(url string) (*html.Node, error) {
 	req, err := http.NewRequest(http.MethodGet, url, nil)
 	if err != nil {
 		return nil, err
@@ -35,8 +59,8 @@ func GetHTMLNode(url string) (*html.Node, error) {
 }
 
 // GetDownloadLinks get download links
-func GetDownloadLinks() ([]string, error) {
-	doc, err := GetHTMLNode("https://go.dev/dl/")
+func (receiver *GoDev) GetDownloadLinks() ([]string, error) {
+	doc, err := receiver.GetHTMLNode("https://go.dev/dl/")
 	if err != nil {
 		return nil, err
 	}
@@ -52,7 +76,7 @@ func GetDownloadLinks() ([]string, error) {
 }
 
 // GetVersion get version
-func GetVersion(s string) string {
+func (receiver *GoDev) GetVersion(s string) string {
 	s = strings.TrimSpace(s)
 	v := strings.Split(s, ".")
 	items := []string{
@@ -67,26 +91,4 @@ func GetVersion(s string) string {
 	}
 
 	return strings.Join(items, ".")
-}
-
-func Run() error {
-	storage := store.New("go", conf.Config.StorageCoroutineSize)
-
-	originLinks, err := GetDownloadLinks()
-	if err != nil {
-		return err
-	}
-	for _, originLink := range originLinks {
-		if !strings.Contains(originLink, "/dl/") {
-			continue
-		}
-		fileName := originLink[strings.Index(originLink, "/dl/")+4:]
-		version := GetVersion(fileName)
-		storage.Add(fmt.Sprintf("all/%v", fileName), originLink)
-		storage.Add(fmt.Sprintf("dist/%v/%v", version, fileName), originLink)
-	}
-
-	storage.CloseAndWait()
-
-	return nil
 }

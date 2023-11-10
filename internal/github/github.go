@@ -5,6 +5,7 @@ import (
 	"fmt"
 
 	"github.com/google/go-github/v53/github"
+
 	"github.com/ismdeep/mirror-data/conf"
 	"github.com/ismdeep/mirror-data/internal/store"
 )

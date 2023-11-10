@@ -1,4 +1,4 @@
-package main
+package jetbrains
 
 import (
 	"fmt"
@@ -66,7 +66,7 @@ func fetch(code string, productName string) error {
 	return nil
 }
 
-func main() {
+func Run() error {
 	products := map[string]string{
 		"CL":  "CLion",
 		"DG":  "DataGrip",
@@ -83,9 +83,11 @@ func main() {
 
 	for code, productName := range products {
 		if err := fetch(code, productName); err != nil {
-			panic(err)
+			return err
 		}
 	}
 	close(storage.C)
 	storage.WG.Wait()
+
+	return nil
 }

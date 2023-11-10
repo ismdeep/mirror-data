@@ -10,6 +10,10 @@ import (
 	"strings"
 	"sync"
 	"time"
+
+	"go.uber.org/zap"
+
+	"github.com/ismdeep/mirror-data/pkg/log"
 )
 
 // LinkPair link pair
@@ -104,7 +108,7 @@ func (receiver *Storage) startConsumer() {
 		go func() {
 			for item := range receiver.C {
 				if _, ok := receiver.ExistsMap[item.Link]; ok {
-					fmt.Println(item.Link, "already exists")
+					log.WithName(receiver.BucketName).Debug("already exists", zap.String("link", item.Link))
 					continue
 				}
 
@@ -131,7 +135,7 @@ func (receiver *Storage) startConsumer() {
 					contentLength,
 					contentType,
 					lastModified.Unix()))
-				fmt.Println(item.Link, item.OriginLink)
+				log.WithName(receiver.BucketName).Info("saved", zap.String("link", item.Link), zap.String("origin-link", item.OriginLink))
 			}
 			receiver.WG.Done()
 		}()

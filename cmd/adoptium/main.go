@@ -1,4 +1,4 @@
-package main
+package adoptium
 
 import (
 	"fmt"
@@ -15,12 +15,12 @@ func IsCompressFile(path string) bool {
 		strings.Contains(path, ".zip")
 }
 
-func main() {
+func Run() error {
 	storage := store.New("adoptium", conf.Config.StorageCoroutineSize)
 	remoteSite := "https://mirrors.tuna.tsinghua.edu.cn/Adoptium/"
 	items, err := rclone.JSON("lsjson", "-R", "--http-url", remoteSite, ":http:")
 	if err != nil {
-		panic(err)
+		return err
 	}
 	for _, v := range items {
 		if !v.IsDir && IsCompressFile(v.Path) {
@@ -30,4 +30,6 @@ func main() {
 
 	close(storage.C)
 	storage.WG.Wait()
+
+	return nil
 }

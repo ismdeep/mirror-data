@@ -1,4 +1,4 @@
-package main
+package godev
 
 import (
 	"fmt"
@@ -7,9 +7,10 @@ import (
 	"time"
 
 	"github.com/antchfx/htmlquery"
+	"golang.org/x/net/html"
+
 	"github.com/ismdeep/mirror-data/conf"
 	"github.com/ismdeep/mirror-data/internal/store"
-	"golang.org/x/net/html"
 )
 
 // GetHTMLNode get html node
@@ -68,12 +69,12 @@ func GetVersion(s string) string {
 	return strings.Join(items, ".")
 }
 
-func main() {
+func Run() error {
 	storage := store.New("go", conf.Config.StorageCoroutineSize)
 
 	originLinks, err := GetDownloadLinks()
 	if err != nil {
-		panic(err)
+		return err
 	}
 	for _, originLink := range originLinks {
 		if !strings.Contains(originLink, "/dl/") {
@@ -86,4 +87,6 @@ func main() {
 	}
 
 	storage.CloseAndWait()
+
+	return nil
 }

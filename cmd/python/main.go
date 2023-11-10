@@ -1,4 +1,4 @@
-package main
+package python
 
 import (
 	"fmt"
@@ -14,13 +14,13 @@ func IsCompressFile(path string) bool {
 	return util.StringEndWith(path, ".tar.xz")
 }
 
-func main() {
+func Run() error {
 	storage := store.New("python", conf.Config.StorageCoroutineSize)
 
 	remoteSite := "https://www.python.org/ftp/python/"
 	versions, err := rclone.JSON("lsjson", "--http-url", remoteSite, ":http:")
 	if err != nil {
-		panic(err)
+		return err
 	}
 
 	versionChan := make(chan rclone.JSONObj, 1024)
@@ -57,8 +57,10 @@ func main() {
 		return nil
 	})
 	if err != nil {
-		panic(err)
+		return err
 	}
 
 	storage.CloseAndWait()
+
+	return nil
 }

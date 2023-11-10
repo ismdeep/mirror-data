@@ -1,4 +1,4 @@
-package main
+package nodejs
 
 import (
 	"fmt"
@@ -26,12 +26,12 @@ func IsIgnoredPath(path string) bool {
 		strings.Contains(path, "-isaacs-manual")
 }
 
-func main() {
+func Run() error {
 	storage := store.New("nodejs", conf.Config.StorageCoroutineSize)
 
 	versions, err := rclone.JSON("lsjson", "--http-url", "https://nodejs.org/dist/", ":http:")
 	if err != nil {
-		panic(err)
+		return err
 	}
 
 	versionChan := make(chan rclone.JSONObj, 1024)
@@ -64,9 +64,11 @@ func main() {
 		return nil
 	})
 	if err != nil {
-		panic(err)
+		return err
 	}
 
 	close(storage.C)
 	storage.WG.Wait()
+
+	return nil
 }

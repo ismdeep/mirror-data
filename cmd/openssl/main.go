@@ -1,4 +1,4 @@
-package main
+package openssl
 
 import (
 	"fmt"
@@ -7,7 +7,7 @@ import (
 	"github.com/ismdeep/mirror-data/internal/store"
 )
 
-func main() {
+func Run() error {
 	storage := store.New("openssl", conf.Config.StorageCoroutineSize)
 	versions := []string{
 		"1.1.0a",
@@ -43,6 +43,7 @@ func main() {
 		"1.1.1t",
 		"1.1.1u",
 		"1.1.1v",
+		"1.1.1w",
 	}
 	for _, version := range versions {
 		storage.Add(
@@ -51,4 +52,6 @@ func main() {
 	}
 
 	storage.CloseAndWait()
+
+	return nil
 }

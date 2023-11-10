@@ -1,4 +1,4 @@
-package main
+package alpinelinux
 
 import (
 	"fmt"
@@ -9,14 +9,14 @@ import (
 	"github.com/ismdeep/mirror-data/internal/util"
 )
 
-func main() {
+func Run() error {
 	storage := store.New("alpine-linux", conf.Config.StorageCoroutineSize)
 
 	remoteSite := "https://dl-cdn.alpinelinux.org/alpine"
 
 	versionsResp, err := rclone.JSON("lsjson", "--http-url", remoteSite, ":http:")
 	if err != nil {
-		panic(err)
+		return err
 	}
 
 	versionChan := make(chan string, 1024)
@@ -54,8 +54,10 @@ func main() {
 		return nil
 	})
 	if err != nil {
-		panic(err)
+		return err
 	}
 
 	storage.CloseAndWait()
+
+	return nil
 }

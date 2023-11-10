@@ -1,5 +1,12 @@
-# This is runtime basic image
-FROM golang:1.20-bookworm
+FROM golang:1.20-bookworm AS builder
+ENV GOPROXY=https://goproxy.cn,direct
+WORKDIR /src
+COPY . .
+RUN set -e; \
+    go mod tidy; \
+    go build -o mirror-data-daemon .
+
+FROM debian:12
 RUN set -e; \
     apt-get update; \
     apt-get install -y unzip; \

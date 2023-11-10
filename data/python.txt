@@ -760,3 +760,6 @@ python|3.8.18/Python-3.8.18.tar.xz|https://www.python.org/ftp/python/3.8.18/Pyth
 python|3.9.18/Python-3.9.18.tar.xz|https://www.python.org/ftp/python/3.9.18/Python-3.9.18.tar.xz|19673928|application/octet-stream|1692904387
 python|3.12.0/Python-3.12.0rc2.tar.xz|https://www.python.org/ftp/python/3.12.0/Python-3.12.0rc2.tar.xz|20563748|application/octet-stream|1693953812
 python|3.12.0/Python-3.12.0rc3.tar.xz|https://www.python.org/ftp/python/3.12.0/Python-3.12.0rc3.tar.xz|20566024|application/octet-stream|1695071803
+python|3.11.6/Python-3.11.6.tar.xz|https://www.python.org/ftp/python/3.11.6/Python-3.11.6.tar.xz|20067204|application/octet-stream|1696255299
+python|3.13.0/Python-3.13.0a1.tar.xz|https://www.python.org/ftp/python/3.13.0/Python-3.13.0a1.tar.xz|20137588|application/octet-stream|1697189046
+python|3.12.0/Python-3.12.0.tar.xz|https://www.python.org/ftp/python/3.12.0/Python-3.12.0.tar.xz|20575020|application/octet-stream|1696250001

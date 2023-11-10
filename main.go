@@ -17,7 +17,6 @@ var tasks map[string]task.Interface
 
 func init() {
 	tasks = map[string]task.Interface{
-		"adoptium":                      &task.Adoptium{},
 		"another-redis-desktop-manager": &task.AnotherRedisDesktopManager{},
 		"ctop":                          &task.Ctop{},
 		"docker-compose":                &task.DockerCompose{},

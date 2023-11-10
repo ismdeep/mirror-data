@@ -740,3 +740,11 @@ harbor|v2.7.3/harbor-offline-installer-v2.7.3.tgz.asc|https://github.com/goharbo
 harbor|v2.9.0-rc2/md5sum|https://github.com/goharbor/harbor/releases/download/v2.9.0-rc2/md5sum|152|application/octet-stream|1693229568
 harbor|v2.9.0-rc2/harbor-offline-installer-v2.9.0-rc2.tgz.asc|https://github.com/goharbor/harbor/releases/download/v2.9.0-rc2/harbor-offline-installer-v2.9.0-rc2.tgz.asc|833|application/octet-stream|1693229568
 harbor|v2.9.0-rc2/harbor-offline-installer-v2.9.0-rc2.tgz|https://github.com/goharbor/harbor/releases/download/v2.9.0-rc2/harbor-offline-installer-v2.9.0-rc2.tgz|666590484|application/octet-stream|1693229602
+harbor|v2.9.1/harbor-offline-installer-v2.9.1.tgz|https://github.com/goharbor/harbor/releases/download/v2.9.1/harbor-offline-installer-v2.9.1.tgz|796863822|application/octet-stream|1698888444
+harbor|v2.9.1/harbor-offline-installer-v2.9.1.tgz.asc|https://github.com/goharbor/harbor/releases/download/v2.9.1/harbor-offline-installer-v2.9.1.tgz.asc|833|application/octet-stream|1698888420
+harbor|v2.9.1/harbor-online-installer-v2.9.1.tgz|https://github.com/goharbor/harbor/releases/download/v2.9.1/harbor-online-installer-v2.9.1.tgz|11308|application/octet-stream|1698888411
+harbor|v2.9.1-rc1/harbor-offline-installer-v2.9.1-rc1.tgz|https://github.com/goharbor/harbor/releases/download/v2.9.1-rc1/harbor-offline-installer-v2.9.1-rc1.tgz|796863822|application/octet-stream|1698834439
+harbor|v2.9.1/harbor-online-installer-v2.9.1.tgz.asc|https://github.com/goharbor/harbor/releases/download/v2.9.1/harbor-online-installer-v2.9.1.tgz.asc|833|application/octet-stream|1698888411
+harbor|v2.9.1/md5sum|https://github.com/goharbor/harbor/releases/download/v2.9.1/md5sum|286|application/octet-stream|1698888412
+harbor|v2.9.1-rc1/harbor-offline-installer-v2.9.1-rc1.tgz.asc|https://github.com/goharbor/harbor/releases/download/v2.9.1-rc1/harbor-offline-installer-v2.9.1-rc1.tgz.asc|833|application/octet-stream|1698834400
+harbor|v2.9.1-rc1/md5sum|https://github.com/goharbor/harbor/releases/download/v2.9.1-rc1/md5sum|152|application/octet-stream|1698834396

@@ -7,6 +7,7 @@ import (
 	"github.com/google/go-github/v53/github"
 
 	"github.com/ismdeep/mirror-data/conf"
+	"github.com/ismdeep/mirror-data/global"
 	"github.com/ismdeep/mirror-data/internal/store"
 )
 
@@ -21,7 +22,7 @@ func FetchReleases(bucketName string, owner string, repo string) {
 			PerPage: 100,
 		})
 		if err != nil {
-			panic(err)
+			global.Errors <- err
 		}
 
 		for _, release := range releases {

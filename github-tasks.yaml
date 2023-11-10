@@ -1,12 +1,3 @@
-- bucket: docker-compose
-  owner: docker
-  repo: compose
-- bucket: another-redis-desktop-manager
-  owner: qishibo
-  repo: AnotherRedisDesktopManager
-- bucket: ctop
-  owner: bcicen
-  repo: ctop
 - bucket: electron-ssr-backup
   owner: qingshuisiyuan
   repo: electron-ssr-backup

@@ -8,6 +8,9 @@ import (
 
 	"github.com/ismdeep/mirror-data/cmd/adoptium"
 	"github.com/ismdeep/mirror-data/cmd/alpinelinux"
+	"github.com/ismdeep/mirror-data/cmd/ardm"
+	"github.com/ismdeep/mirror-data/cmd/ctop"
+	"github.com/ismdeep/mirror-data/cmd/dockercompose"
 	"github.com/ismdeep/mirror-data/cmd/godev"
 	"github.com/ismdeep/mirror-data/cmd/jetbrains"
 	"github.com/ismdeep/mirror-data/cmd/nodejs"
@@ -20,13 +23,16 @@ var tasks map[string]func() error
 
 func init() {
 	tasks = map[string]func() error{
-		"adoptium":  adoptium.Run,
-		"alpine":    alpinelinux.Run,
-		"go":        godev.Run,
-		"jetbrains": jetbrains.Run,
-		"nodejs":    nodejs.Run,
-		"openssl":   openssl.Run,
-		"python":    python.Run,
+		"adoptium":                      adoptium.Run,
+		"alpine":                        alpinelinux.Run,
+		"another-redis-desktop-manager": ardm.Run,
+		"ctop":                          ctop.Run,
+		"docker-compose":                dockercompose.Run,
+		"go":                            godev.Run,
+		"jetbrains":                     jetbrains.Run,
+		"nodejs":                        nodejs.Run,
+		"openssl":                       openssl.Run,
+		"python":                        python.Run,
 	}
 }
 

@@ -18,19 +18,10 @@ type secrets struct {
 	GitHubTokens []string `yaml:"ghp_list"`
 }
 
-type githubTask struct {
-	Bucket string `yaml:"bucket"`
-	Owner  string `yaml:"owner"`
-	Repo   string `yaml:"repo"`
-}
-
 var Config config
 
 // Secrets instance
 var Secrets secrets
-
-// GitHubTasks instance
-var GitHubTasks []githubTask
 
 func init() {
 	if err := envconfig.Process(context.TODO(), &Config); err != nil {
@@ -38,7 +29,6 @@ func init() {
 	}
 
 	loadYAML("secrets.yaml", &Secrets)
-	loadYAML("github-tasks.yaml", &GitHubTasks)
 
 	if len(Secrets.GitHubTokens) <= 0 {
 		panic("ghp_list in config.yaml is empty")

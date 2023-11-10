@@ -1568,3 +1568,16 @@ alpine-linux|v3.18/x86_64/alpine-virt-3.18.3-x86_64.iso|https://dl-cdn.alpinelin
 alpine-linux|v3.18/x86_64/alpine-xen-3.18.3-x86_64.iso|https://dl-cdn.alpinelinux.org/alpine/v3.18/releases/x86_64/alpine-xen-3.18.3-x86_64.iso|232783872|application/octet-stream|1691414262
 alpine-linux|v3.18/armv7/alpine-standard-3.18.3-armv7.iso|https://dl-cdn.alpinelinux.org/alpine/v3.18/releases/armv7/alpine-standard-3.18.3-armv7.iso|104630272|application/octet-stream|1691414004
 alpine-linux|v3.18/armv7/alpine-virt-3.18.3-armv7.iso|https://dl-cdn.alpinelinux.org/alpine/v3.18/releases/armv7/alpine-virt-3.18.3-armv7.iso|44503040|application/octet-stream|1691414022
+alpine-linux|v3.18/aarch64/alpine-virt-3.18.4-aarch64.iso|https://dl-cdn.alpinelinux.org/alpine/v3.18/releases/aarch64/alpine-virt-3.18.4-aarch64.iso|64862208|application/octet-stream|1695900488
+alpine-linux|v3.18/s390x/alpine-standard-3.18.4-s390x.iso|https://dl-cdn.alpinelinux.org/alpine/v3.18/releases/s390x/alpine-standard-3.18.4-s390x.iso|81983488|application/octet-stream|1695899989
+alpine-linux|v3.18/ppc64le/alpine-standard-3.18.4-ppc64le.iso|https://dl-cdn.alpinelinux.org/alpine/v3.18/releases/ppc64le/alpine-standard-3.18.4-ppc64le.iso|127430656|application/octet-stream|1695899982
+alpine-linux|v3.18/x86_64/alpine-standard-3.18.4-x86_64.iso|https://dl-cdn.alpinelinux.org/alpine/v3.18/releases/x86_64/alpine-standard-3.18.4-x86_64.iso|198180864|application/octet-stream|1695900164
+alpine-linux|v3.18/x86_64/alpine-extended-3.18.4-x86_64.iso|https://dl-cdn.alpinelinux.org/alpine/v3.18/releases/x86_64/alpine-extended-3.18.4-x86_64.iso|883949568|application/octet-stream|1695900271
+alpine-linux|v3.18/aarch64/alpine-standard-3.18.4-aarch64.iso|https://dl-cdn.alpinelinux.org/alpine/v3.18/releases/aarch64/alpine-standard-3.18.4-aarch64.iso|202354688|application/octet-stream|1695900465
+alpine-linux|v3.18/x86/alpine-virt-3.18.4-x86.iso|https://dl-cdn.alpinelinux.org/alpine/v3.18/releases/x86/alpine-virt-3.18.4-x86.iso|47185920|application/octet-stream|1695900206
+alpine-linux|v3.18/x86_64/alpine-virt-3.18.4-x86_64.iso|https://dl-cdn.alpinelinux.org/alpine/v3.18/releases/x86_64/alpine-virt-3.18.4-x86_64.iso|57671680|application/octet-stream|1695900312
+alpine-linux|v3.18/x86_64/alpine-xen-3.18.4-x86_64.iso|https://dl-cdn.alpinelinux.org/alpine/v3.18/releases/x86_64/alpine-xen-3.18.4-x86_64.iso|232783872|application/octet-stream|1695900315
+alpine-linux|v3.18/armv7/alpine-standard-3.18.4-armv7.iso|https://dl-cdn.alpinelinux.org/alpine/v3.18/releases/armv7/alpine-standard-3.18.4-armv7.iso|104660992|application/octet-stream|1695900285
+alpine-linux|v3.18/armv7/alpine-virt-3.18.4-armv7.iso|https://dl-cdn.alpinelinux.org/alpine/v3.18/releases/armv7/alpine-virt-3.18.4-armv7.iso|44505088|application/octet-stream|1695900309
+alpine-linux|v3.18/x86/alpine-standard-3.18.4-x86.iso|https://dl-cdn.alpinelinux.org/alpine/v3.18/releases/x86/alpine-standard-3.18.4-x86.iso|159383552|application/octet-stream|1695900081
+alpine-linux|v3.18/x86/alpine-extended-3.18.4-x86.iso|https://dl-cdn.alpinelinux.org/alpine/v3.18/releases/x86/alpine-extended-3.18.4-x86.iso|799014912|application/octet-stream|1695900163

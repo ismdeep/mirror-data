@@ -5,8 +5,10 @@ import (
 	"fmt"
 	"os"
 	"sync"
+	"time"
 
 	"github.com/ismdeep/mirror-data/global"
+	"github.com/ismdeep/mirror-data/internal/version"
 	"github.com/ismdeep/mirror-data/pkg/log"
 	"github.com/ismdeep/mirror-data/task"
 )
@@ -50,6 +52,19 @@ func convert(args []string) []string {
 }
 
 func main() {
+
+	if version.Version != "" {
+		fmt.Println("MIRROR DATA")
+		fmt.Println("Version:", version.Version)
+		fmt.Println("OS:", version.OS)
+		fmt.Println("Arch:", version.Arch)
+		fmt.Println("Go Version:", version.GoVersion)
+		fmt.Println("Commit ID:", version.CommitID)
+		fmt.Println("Commit Date:", version.CommitDate)
+		fmt.Println()
+		time.Sleep(300 * time.Millisecond)
+	}
+
 	var wg sync.WaitGroup
 	for _, arg := range convert(os.Args[1:]) {
 		f, ok := tasks[arg]

@@ -61,21 +61,21 @@ func main() {
 	}
 
 	var wg sync.WaitGroup
-	for _, arg := range convert(os.Args[1:]) {
+	lst := convert(os.Args[1:])
+	for _, arg := range lst {
 		t, ok := tasks[arg]
 		if !ok {
 			panic(fmt.Errorf("invalid task name. [%v]", arg))
 		}
 		wg.Add(1)
 		go func(name string, t task.Interface) {
-			defer func() {
-				log.WithName(name).Info("finished")
-				wg.Done()
-			}()
 			t.Run()
+			log.WithName(name).Info("finished")
+			wg.Done()
 		}(arg, t)
 	}
 	wg.Wait()
+
 	close(global.Errors)
 
 	var errLst []error

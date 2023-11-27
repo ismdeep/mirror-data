@@ -4855,3 +4855,10 @@ jetbrains|PyCharm/release/2023.2/2023.2.5/mac/pycharm-professional-2023.2.5.dmg|
 jetbrains|PyCharm/release/2023.2/2023.2.5/macM1/pycharm-professional-2023.2.5-aarch64.dmg|https://download.jetbrains.com/python/pycharm-professional-2023.2.5-aarch64.dmg|720098342|binary/octet-stream|1699982096
 jetbrains|PyCharm/release/2023.2/2023.2.5/windowsARM64/pycharm-professional-2023.2.5-aarch64.exe|https://download.jetbrains.com/python/pycharm-professional-2023.2.5-aarch64.exe|529450712|binary/octet-stream|1699982104
 jetbrains|PyCharm/release/2023.2/2023.2.5/linuxARM64/pycharm-professional-2023.2.5-aarch64.tar.gz|https://download.jetbrains.com/python/pycharm-professional-2023.2.5-aarch64.tar.gz|767019953|binary/octet-stream|1699982110
+jetbrains|PhpStorm/release/2023.2/2023.2.4/mac/PhpStorm-2023.2.4.dmg|https://download.jetbrains.com/webide/PhpStorm-2023.2.4.dmg|622513808|binary/octet-stream|1700558253
+jetbrains|PhpStorm/release/2023.2/2023.2.4/linux/PhpStorm-2023.2.4.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2023.2.4.tar.gz|660809220|binary/octet-stream|1700558282
+jetbrains|PhpStorm/release/2023.2/2023.2.4/macM1/PhpStorm-2023.2.4-aarch64.dmg|https://download.jetbrains.com/webide/PhpStorm-2023.2.4-aarch64.dmg|614327505|binary/octet-stream|1700558248
+jetbrains|PhpStorm/release/2023.2/2023.2.4/windows/PhpStorm-2023.2.4.exe|https://download.jetbrains.com/webide/PhpStorm-2023.2.4.exe|471147056|binary/octet-stream|1700558273
+jetbrains|PhpStorm/release/2023.2/2023.2.4/windowsARM64/PhpStorm-2023.2.4-aarch64.exe|https://download.jetbrains.com/webide/PhpStorm-2023.2.4-aarch64.exe|454250688|binary/octet-stream|1700558248
+jetbrains|PhpStorm/release/2023.2/2023.2.4/linuxARM64/PhpStorm-2023.2.4-aarch64.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2023.2.4-aarch64.tar.gz|662175541|binary/octet-stream|1700558248
+jetbrains|PhpStorm/release/2023.2/2023.2.4/windowsZip/PhpStorm-2023.2.4.win.zip|https://download.jetbrains.com/webide/PhpStorm-2023.2.4.win.zip|657163116|binary/octet-stream|1700558284

@@ -20,6 +20,7 @@ func init() {
 		"another-redis-desktop-manager": &task.AnotherRedisDesktopManager{},
 		"ctop":                          &task.Ctop{},
 		"docker-compose":                &task.DockerCompose{},
+		"electron-ssr-backup":           &task.ElectronSsrBackup{},
 		"etcd-manager":                  &task.EtcdManager{},
 		"git-for-windows":               &task.GitForWindows{},
 		"go":                            &task.GoDev{},
@@ -30,6 +31,7 @@ func init() {
 		"jetbrains":                     &task.JetBrains{},
 		"obsidian":                      &task.Obsidian{},
 		"openssl":                       &task.OpenSSL{},
+		"pandoc":                        &task.Pandoc{},
 		"rclone":                        &task.Rclone{},
 		"ventoy":                        &task.Ventoy{},
 	}

@@ -406,3 +406,8 @@ harbor|0.4.5/harbor_0.4.5_beta_respin2.ova|https://github.com/goharbor/harbor/re
 harbor|0.4.1/harbor-offline-installer-0.4.1.tgz|https://github.com/goharbor/harbor/releases/download/0.4.1/harbor-offline-installer-0.4.1.tgz|288038269|application/octet-stream|1638936792
 harbor|0.1.1/harbor_0.1.1.tgz|https://github.com/goharbor/harbor/releases/download/0.1.1/harbor_0.1.1.tgz|4494936|application/octet-stream|1638936818
 harbor|0.4.5/harbor-offline-installer-0.4.5.tgz|https://github.com/goharbor/harbor/releases/download/0.4.5/harbor-offline-installer-0.4.5.tgz|316527095|application/octet-stream|1638936788
+harbor|v2.7.4/harbor-online-installer-v2.7.4.tgz.asc|https://github.com/goharbor/harbor/releases/download/v2.7.4/harbor-online-installer-v2.7.4.tgz.asc|833|application/octet-stream|1701314336
+harbor|v2.7.4/harbor-online-installer-v2.7.4.tgz|https://github.com/goharbor/harbor/releases/download/v2.7.4/harbor-online-installer-v2.7.4.tgz|11084|application/octet-stream|1701315158
+harbor|v2.7.4/harbor-offline-installer-v2.7.4.tgz.asc|https://github.com/goharbor/harbor/releases/download/v2.7.4/harbor-offline-installer-v2.7.4.tgz.asc|833|application/octet-stream|1701314336
+harbor|v2.7.4/md5sum|https://github.com/goharbor/harbor/releases/download/v2.7.4/md5sum|286|application/octet-stream|1701314336
+harbor|v2.7.4/harbor-offline-installer-v2.7.4.tgz|https://github.com/goharbor/harbor/releases/download/v2.7.4/harbor-offline-installer-v2.7.4.tgz|755720642|application/octet-stream|1701314368

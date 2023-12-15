@@ -710,3 +710,13 @@ pandoc|1.12/pandoc-1.12-1.dmg|https://github.com/jgm/pandoc/releases/download/1.
 pandoc|1.12.0.1/pandoc-1.12.0.1.msi|https://github.com/jgm/pandoc/releases/download/1.12.0.1/pandoc-1.12.0.1.msi|10924032|application/octet-stream|1638939084
 pandoc|1.12.0.2/pandoc-1.12.0.2.msi|https://github.com/jgm/pandoc/releases/download/1.12.0.2/pandoc-1.12.0.2.msi|10846208|application/octet-stream|1638939085
 pandoc|1.12/pandoc-1.12.msi|https://github.com/jgm/pandoc/releases/download/1.12/pandoc-1.12.msi|10870784|application/octet-stream|1638939087
+pandoc|3.1.10/pandoc-3.1.10-arm64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.1.10/pandoc-3.1.10-arm64-macOS.zip|34406114|application/octet-stream|1702407367
+pandoc|3.1.10/pandoc-3.1.10-linux-arm64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.1.10/pandoc-3.1.10-linux-arm64.tar.gz|34026603|application/octet-stream|1702407403
+pandoc|3.1.10/pandoc-3.1.10-linux-amd64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.1.10/pandoc-3.1.10-linux-amd64.tar.gz|31344010|application/octet-stream|1702407385
+pandoc|3.1.10/pandoc-3.1.10-1-amd64.deb|https://github.com/jgm/pandoc/releases/download/3.1.10/pandoc-3.1.10-1-amd64.deb|30853838|application/octet-stream|1702407308
+pandoc|3.1.10/pandoc-3.1.10-x86_64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.1.10/pandoc-3.1.10-x86_64-macOS.pkg|21151280|application/octet-stream|1702407457
+pandoc|3.1.10/pandoc-3.1.10-1-arm64.deb|https://github.com/jgm/pandoc/releases/download/3.1.10/pandoc-3.1.10-1-arm64.deb|33549662|application/octet-stream|1702407331
+pandoc|3.1.10/pandoc-3.1.10-windows-x86_64.msi|https://github.com/jgm/pandoc/releases/download/3.1.10/pandoc-3.1.10-windows-x86_64.msi|36950016|application/octet-stream|1702407424
+pandoc|3.1.10/pandoc-3.1.10-arm64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.1.10/pandoc-3.1.10-arm64-macOS.pkg|34301476|application/octet-stream|1702407381
+pandoc|3.1.10/pandoc-3.1.10-windows-x86_64.zip|https://github.com/jgm/pandoc/releases/download/3.1.10/pandoc-3.1.10-windows-x86_64.zip|35746457|application/octet-stream|1702407443
+pandoc|3.1.10/pandoc-3.1.10-x86_64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.1.10/pandoc-3.1.10-x86_64-macOS.zip|21182498|application/octet-stream|1702407467

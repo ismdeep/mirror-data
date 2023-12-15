@@ -23,7 +23,7 @@ func FetchReleases(bucketName string, owner string, repo string, ignoredFunc fun
 	cli := github.NewTokenClient(context.TODO(), conf.RandGitHubToken())
 	page := 1
 	for {
-		log.WithName().Info(bucketName, zap.Any("page", page))
+		log.WithName(bucketName).Info(bucketName, zap.Any("page", page))
 		releases, _, err := cli.Repositories.ListReleases(context.TODO(), owner, repo, &github.ListOptions{
 			Page:    page,
 			PerPage: 100,

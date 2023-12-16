@@ -5012,3 +5012,10 @@ jetbrains|DataGrip/release/2023.3/2023.3.1/windows/datagrip-2023.3.1.exe|https:/
 jetbrains|DataGrip/release/2023.3/2023.3.1/windowsZip/datagrip-2023.3.1.win.zip|https://download.jetbrains.com/datagrip/datagrip-2023.3.1.win.zip|585137918|binary/octet-stream|1702373385
 jetbrains|DataGrip/release/2023.3/2023.3.1/windowsARM64/datagrip-2023.3.1-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2023.3.1-aarch64.exe|442110560|binary/octet-stream|1702373357
 jetbrains|DataGrip/release/2023.3/2023.3.1/linux/datagrip-2023.3.1.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2023.3.1.tar.gz|588309740|binary/octet-stream|1702373385
+jetbrains|DataGrip/release/2023.3/2023.3.2/mac/datagrip-2023.3.2.dmg|https://download.jetbrains.com/datagrip/datagrip-2023.3.2.dmg|560117073|binary/octet-stream|1702659028
+jetbrains|DataGrip/release/2023.3/2023.3.2/linux/datagrip-2023.3.2.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2023.3.2.tar.gz|588555706|binary/octet-stream|1702659036
+jetbrains|DataGrip/release/2023.3/2023.3.2/windows/datagrip-2023.3.2.exe|https://download.jetbrains.com/datagrip/datagrip-2023.3.2.exe|459216616|binary/octet-stream|1702659032
+jetbrains|DataGrip/release/2023.3/2023.3.2/macM1/datagrip-2023.3.2-aarch64.dmg|https://download.jetbrains.com/datagrip/datagrip-2023.3.2-aarch64.dmg|552246091|binary/octet-stream|1702659018
+jetbrains|DataGrip/release/2023.3/2023.3.2/linuxARM64/datagrip-2023.3.2-aarch64.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2023.3.2-aarch64.tar.gz|589538259|binary/octet-stream|1702659017
+jetbrains|DataGrip/release/2023.3/2023.3.2/windowsARM64/datagrip-2023.3.2-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2023.3.2-aarch64.exe|442290312|binary/octet-stream|1702659010
+jetbrains|DataGrip/release/2023.3/2023.3.2/windowsZip/datagrip-2023.3.2.win.zip|https://download.jetbrains.com/datagrip/datagrip-2023.3.2.win.zip|585403489|binary/octet-stream|1702659039

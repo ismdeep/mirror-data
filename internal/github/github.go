@@ -20,7 +20,8 @@ func FetchReleases(bucketName string, owner string, repo string, ignoredFunc fun
 		storage.CloseAndWait()
 	}()
 
-	cli := github.NewTokenClient(context.TODO(), conf.RandGitHubToken())
+	token := conf.RandGitHubToken()
+	cli := github.NewTokenClient(context.TODO(), token)
 	page := 1
 	for {
 		log.WithName(bucketName).Info(bucketName, zap.Any("page", page))
@@ -29,6 +30,9 @@ func FetchReleases(bucketName string, owner string, repo string, ignoredFunc fun
 			PerPage: 100,
 		})
 		if err != nil {
+			log.WithContext(context.TODO()).Error("failed to list releases",
+				zap.String("token", token),
+				zap.Error(err))
 			global.Errors <- err
 			break
 		}

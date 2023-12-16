@@ -1,0 +1,51 @@
+name: Update Data
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-data:
+
+    runs-on: ubuntu-latest
+
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
+
+    steps:
+
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - name: Set up golang
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.20'
+
+      - name: Build
+        run: |
+          set -e
+          go mod tidy
+          go build -o ./bin/mirror-data ./
+
+      - name: Prepare secrets
+        run: |
+          set -e
+          echo "${{ secrets.SECRETS_YAML }}" > secrets.yaml
+
+      - name: Run mirror-data
+        run: |
+          set -e
+          ./bin/mirror-data
+
+      - name: Push back
+        if: env.BRANCH_NAME == 'main'
+        run: |
+          set -e
+          if [ "$(git status --short | wc -l)" != "0" ]; then
+            git config user.name "L. Jiang"
+            git config user.email "l.jiang.1024@gmail.com"
+            git add .
+            git commit -am "docs: update data via github workflow"
+            git push origin HEAD:main
+          fi

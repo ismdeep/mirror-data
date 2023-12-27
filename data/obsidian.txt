@@ -669,3 +669,15 @@ obsidian|v1.4.14/Obsidian-1.4.14-arm64.AppImage|https://github.com/obsidianmd/ob
 obsidian|v1.4.14/obsidian-1.4.14-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.14/obsidian-1.4.14-arm64.tar.gz|100139051|application/octet-stream|1695802625
 obsidian|v1.4.14/obsidian-1.4.14.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.14/obsidian-1.4.14.tar.gz|99705283|application/octet-stream|1695802570
 obsidian|v1.4.14/obsidian_1.4.14_amd64.snap|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.14/obsidian_1.4.14_amd64.snap|114573312|application/octet-stream|1695802676
+obsidian|v1.5.3/obsidian-1.5.3.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.3/obsidian-1.5.3.asar.gz|8515395|application/octet-stream|1703553976
+obsidian|v1.5.3/Obsidian.1.5.3.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.3/Obsidian.1.5.3.exe|76508424|application/octet-stream|1703553353
+obsidian|v1.5.3/Obsidian-1.5.3-universal.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.3/Obsidian-1.5.3-universal.dmg|170861787|application/octet-stream|1703554156
+obsidian|v1.5.3/Obsidian-1.5.3-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.3/Obsidian-1.5.3-arm64.AppImage|106265544|application/octet-stream|1703553891
+obsidian|v1.5.3/Obsidian-1.5.3.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.3/Obsidian-1.5.3.AppImage|105533955|application/octet-stream|1703553948
+obsidian|v1.5.3/Obsidian.1.5.3-allusers.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.3/Obsidian.1.5.3-allusers.exe|76535992|application/octet-stream|1703553365
+obsidian|v1.5.3/Obsidian.1.5.3-arm64.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.3/Obsidian.1.5.3-arm64.exe|79187704|application/octet-stream|1703553373
+obsidian|v1.5.3/Obsidian.1.5.3-32.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.3/Obsidian.1.5.3-32.exe|71842344|application/octet-stream|1703553358
+obsidian|v1.5.3/obsidian_1.5.3_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.3/obsidian_1.5.3_amd64.deb|73415050|application/octet-stream|1703553909
+obsidian|v1.5.3/obsidian-1.5.3-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.3/obsidian-1.5.3-arm64.tar.gz|100258718|application/octet-stream|1703553901
+obsidian|v1.5.3/obsidian-1.5.3.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.3/obsidian-1.5.3.tar.gz|99822395|application/octet-stream|1703553877
+obsidian|v1.5.3/obsidian_1.5.3_amd64.snap|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.3/obsidian_1.5.3_amd64.snap|114704384|application/octet-stream|1703553928

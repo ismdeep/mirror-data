@@ -5102,3 +5102,17 @@ jetbrains|Rider/release/2023.3/2023.3.3/windows/JetBrains.Rider-2023.3.3.exe|htt
 jetbrains|Rider/release/2023.3/2023.3.3/windowsZip/JetBrains.Rider-2023.3.3.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2023.3.3.win.zip|1274882190|binary/octet-stream|1705940036
 jetbrains|Rider/release/2023.3/2023.3.3/windowsARM64/JetBrains.Rider-2023.3.3-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2023.3.3-aarch64.exe|870950912|binary/octet-stream|1705940001
 jetbrains|Rider/release/2023.3/2023.3.3/macM1/JetBrains.Rider-2023.3.3-aarch64.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2023.3.3-aarch64.dmg|1111520919|binary/octet-stream|1705939919
+jetbrains|IDEA/release/2023.3/2023.3.3/linux/ideaIU-2023.3.3.tar.gz|https://download.jetbrains.com/idea/ideaIU-2023.3.3.tar.gz|1019960124|binary/octet-stream|1706214827
+jetbrains|IDEA/release/2023.3/2023.3.3/mac/ideaIU-2023.3.3.dmg|https://download.jetbrains.com/idea/ideaIU-2023.3.3.dmg|959587416|binary/octet-stream|1706214827
+jetbrains|IDEA/release/2023.3/2023.3.3/windows/ideaIU-2023.3.3.exe|https://download.jetbrains.com/idea/ideaIU-2023.3.3.exe|710609720|binary/octet-stream|1706214827
+jetbrains|IDEA/release/2023.3/2023.3.3/macM1/ideaIU-2023.3.3-aarch64.dmg|https://download.jetbrains.com/idea/ideaIU-2023.3.3-aarch64.dmg|951740396|binary/octet-stream|1706214802
+jetbrains|CLion/release/2023.3/2023.3.3/windows/CLion-2023.3.3.exe|https://download.jetbrains.com/cpp/CLion-2023.3.3.exe|787326120|binary/octet-stream|1706109724
+jetbrains|CLion/release/2023.3/2023.3.3/linux/CLion-2023.3.3.tar.gz|https://download.jetbrains.com/cpp/CLion-2023.3.3.tar.gz|907571328|binary/octet-stream|1706109727
+jetbrains|CLion/release/2023.3/2023.3.3/mac/CLion-2023.3.3.dmg|https://download.jetbrains.com/cpp/CLion-2023.3.3.dmg|835829501|binary/octet-stream|1706109691
+jetbrains|CLion/release/2023.3/2023.3.3/macM1/CLion-2023.3.3-aarch64.dmg|https://download.jetbrains.com/cpp/CLion-2023.3.3-aarch64.dmg|810665724|binary/octet-stream|1706109689
+jetbrains|CLion/release/2023.3/2023.3.3/windowsZip/CLion-2023.3.3.win.zip|https://download.jetbrains.com/cpp/CLion-2023.3.3.win.zip|1145308571|binary/octet-stream|1706109735
+jetbrains|IDEA/release/2023.3/2023.3.3/windowsZip/ideaIU-2023.3.3.win.zip|https://download.jetbrains.com/idea/ideaIU-2023.3.3.win.zip|1016804795|binary/octet-stream|1706214855
+jetbrains|IDEA/release/2023.3/2023.3.3/windowsARM64/ideaIU-2023.3.3-aarch64.exe|https://download.jetbrains.com/idea/ideaIU-2023.3.3-aarch64.exe|693389608|binary/octet-stream|1706214813
+jetbrains|IDEA/release/2023.3/2023.3.3/linuxARM64/ideaIU-2023.3.3-aarch64.tar.gz|https://download.jetbrains.com/idea/ideaIU-2023.3.3-aarch64.tar.gz|1020597246|binary/octet-stream|1706214821
+jetbrains|CLion/release/2023.3/2023.3.3/linuxARM64/CLion-2023.3.3-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2023.3.3-aarch64.tar.gz|912915878|binary/octet-stream|1706109689
+jetbrains|CLion/release/2023.3/2023.3.3/windowsARM64/CLion-2023.3.3-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2023.3.3-aarch64.exe|657795184|binary/octet-stream|1706109689

@@ -5162,3 +5162,10 @@ jetbrains|DataSpell/release/2023.3/2023.3.3/macM1/dataspell-2023.3.3-aarch64.dmg
 jetbrains|DataSpell/release/2023.3/2023.3.3/mac/dataspell-2023.3.3.dmg|https://download.jetbrains.com/python/dataspell-2023.3.3.dmg|829931774|binary/octet-stream|1706551250
 jetbrains|DataSpell/release/2023.3/2023.3.3/windowsARM64/dataspell-2023.3.3-aarch64.exe|https://download.jetbrains.com/python/dataspell-2023.3.3-aarch64.exe|625909304|binary/octet-stream|1706551249
 jetbrains|RubyMine/release/2023.3/2023.3.3/windowsZip/RubyMine-2023.3.3.win.zip|https://download.jetbrains.com/ruby/RubyMine-2023.3.3.win.zip|671380769|binary/octet-stream|1706622423
+jetbrains|DataGrip/release/2023.3/2023.3.4/linux/datagrip-2023.3.4.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2023.3.4.tar.gz|592072458|binary/octet-stream|1706718778
+jetbrains|DataGrip/release/2023.3/2023.3.4/mac/datagrip-2023.3.4.dmg|https://download.jetbrains.com/datagrip/datagrip-2023.3.4.dmg|563727202|binary/octet-stream|1706718754
+jetbrains|DataGrip/release/2023.3/2023.3.4/macM1/datagrip-2023.3.4-aarch64.dmg|https://download.jetbrains.com/datagrip/datagrip-2023.3.4-aarch64.dmg|555673413|binary/octet-stream|1706718750
+jetbrains|DataGrip/release/2023.3/2023.3.4/windows/datagrip-2023.3.4.exe|https://download.jetbrains.com/datagrip/datagrip-2023.3.4.exe|462588288|binary/octet-stream|1706718770
+jetbrains|DataGrip/release/2023.3/2023.3.4/linuxARM64/datagrip-2023.3.4-aarch64.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2023.3.4-aarch64.tar.gz|593055007|binary/octet-stream|1706718751
+jetbrains|DataGrip/release/2023.3/2023.3.4/windowsZip/datagrip-2023.3.4.win.zip|https://download.jetbrains.com/datagrip/datagrip-2023.3.4.win.zip|588921185|binary/octet-stream|1706718784
+jetbrains|DataGrip/release/2023.3/2023.3.4/windowsARM64/datagrip-2023.3.4-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2023.3.4-aarch64.exe|445673208|binary/octet-stream|1706718750

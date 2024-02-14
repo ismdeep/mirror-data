@@ -5169,3 +5169,10 @@ jetbrains|DataGrip/release/2023.3/2023.3.4/windows/datagrip-2023.3.4.exe|https:/
 jetbrains|DataGrip/release/2023.3/2023.3.4/linuxARM64/datagrip-2023.3.4-aarch64.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2023.3.4-aarch64.tar.gz|593055007|binary/octet-stream|1706718751
 jetbrains|DataGrip/release/2023.3/2023.3.4/windowsZip/datagrip-2023.3.4.win.zip|https://download.jetbrains.com/datagrip/datagrip-2023.3.4.win.zip|588921185|binary/octet-stream|1706718784
 jetbrains|DataGrip/release/2023.3/2023.3.4/windowsARM64/datagrip-2023.3.4-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2023.3.4-aarch64.exe|445673208|binary/octet-stream|1706718750
+jetbrains|IDEA/release/2023.3/2023.3.4/mac/ideaIU-2023.3.4.dmg|https://download.jetbrains.com/idea/ideaIU-2023.3.4.dmg|959850516|binary/octet-stream|1707842133
+jetbrains|IDEA/release/2023.3/2023.3.4/windowsZip/ideaIU-2023.3.4.win.zip|https://download.jetbrains.com/idea/ideaIU-2023.3.4.win.zip|1016930045|binary/octet-stream|1707842154
+jetbrains|IDEA/release/2023.3/2023.3.4/macM1/ideaIU-2023.3.4-aarch64.dmg|https://download.jetbrains.com/idea/ideaIU-2023.3.4-aarch64.dmg|951749839|binary/octet-stream|1707842086
+jetbrains|IDEA/release/2023.3/2023.3.4/windows/ideaIU-2023.3.4.exe|https://download.jetbrains.com/idea/ideaIU-2023.3.4.exe|710817296|binary/octet-stream|1707842134
+jetbrains|IDEA/release/2023.3/2023.3.4/linux/ideaIU-2023.3.4.tar.gz|https://download.jetbrains.com/idea/ideaIU-2023.3.4.tar.gz|1020112898|binary/octet-stream|1707842140
+jetbrains|IDEA/release/2023.3/2023.3.4/linuxARM64/ideaIU-2023.3.4-aarch64.tar.gz|https://download.jetbrains.com/idea/ideaIU-2023.3.4-aarch64.tar.gz|1020751518|binary/octet-stream|1707842093
+jetbrains|IDEA/release/2023.3/2023.3.4/windowsARM64/ideaIU-2023.3.4-aarch64.exe|https://download.jetbrains.com/idea/ideaIU-2023.3.4-aarch64.exe|693596880|binary/octet-stream|1707842088

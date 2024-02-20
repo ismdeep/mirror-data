@@ -5323,3 +5323,17 @@ jetbrains|CLion/release/2023.1/2023.1.6/windowsZip/CLion-2023.1.6.win.zip|https:
 jetbrains|CLion/release/2023.1/2023.1.6/mac/CLion-2023.1.6.dmg|https://download.jetbrains.com/cpp/CLion-2023.1.6.dmg|902259658|binary/octet-stream|1708003705
 jetbrains|CLion/release/2023.1/2023.1.6/macM1/CLion-2023.1.6-aarch64.dmg|https://download.jetbrains.com/cpp/CLion-2023.1.6-aarch64.dmg|893227598|binary/octet-stream|1708003703
 jetbrains|CLion/release/2023.1/2023.1.6/linuxARM64/CLion-2023.1.6-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2023.1.6-aarch64.tar.gz|856749846|binary/octet-stream|1708003703
+jetbrains|RubyMine/release/2023.1/2023.1.6/macM1/RubyMine-2023.1.6-aarch64.dmg|https://download.jetbrains.com/ruby/RubyMine-2023.1.6-aarch64.dmg|588088378|binary/octet-stream|1707922492
+jetbrains|RubyMine/release/2023.2/2023.2.6/linux/RubyMine-2023.2.6.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2023.2.6.tar.gz|636971474|binary/octet-stream|1708093347
+jetbrains|RubyMine/release/2023.2/2023.2.6/windows/RubyMine-2023.2.6.exe|https://download.jetbrains.com/ruby/RubyMine-2023.2.6.exe|453005952|binary/octet-stream|1708093337
+jetbrains|RubyMine/release/2023.1/2023.1.6/mac/RubyMine-2023.1.6.dmg|https://download.jetbrains.com/ruby/RubyMine-2023.1.6.dmg|597420333|binary/octet-stream|1707922493
+jetbrains|RubyMine/release/2023.2/2023.2.6/mac/RubyMine-2023.2.6.dmg|https://download.jetbrains.com/ruby/RubyMine-2023.2.6.dmg|599350907|binary/octet-stream|1708093316
+jetbrains|RubyMine/release/2023.1/2023.1.6/windowsARM64/RubyMine-2023.1.6-aarch64.exe|https://download.jetbrains.com/ruby/RubyMine-2023.1.6-aarch64.exe|437721728|binary/octet-stream|1707922492
+jetbrains|RubyMine/release/2023.1/2023.1.6/linux/RubyMine-2023.1.6.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2023.1.6.tar.gz|629193398|binary/octet-stream|1707922524
+jetbrains|RubyMine/release/2023.2/2023.2.6/macM1/RubyMine-2023.2.6-aarch64.dmg|https://download.jetbrains.com/ruby/RubyMine-2023.2.6-aarch64.dmg|591240378|binary/octet-stream|1708093314
+jetbrains|RubyMine/release/2023.1/2023.1.6/windows/RubyMine-2023.1.6.exe|https://download.jetbrains.com/ruby/RubyMine-2023.1.6.exe|444122664|binary/octet-stream|1707922509
+jetbrains|RubyMine/release/2023.1/2023.1.6/linuxARM64/RubyMine-2023.1.6-aarch64.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2023.1.6-aarch64.tar.gz|625761160|binary/octet-stream|1707922492
+jetbrains|RubyMine/release/2023.1/2023.1.6/windowsZip/RubyMine-2023.1.6.win.zip|https://download.jetbrains.com/ruby/RubyMine-2023.1.6.win.zip|624070308|binary/octet-stream|1707922524
+jetbrains|RubyMine/release/2023.2/2023.2.6/linuxARM64/RubyMine-2023.2.6-aarch64.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2023.2.6-aarch64.tar.gz|638334499|binary/octet-stream|1708093314
+jetbrains|RubyMine/release/2023.2/2023.2.6/windowsARM64/RubyMine-2023.2.6-aarch64.exe|https://download.jetbrains.com/ruby/RubyMine-2023.2.6-aarch64.exe|436087128|binary/octet-stream|1708093314
+jetbrains|RubyMine/release/2023.2/2023.2.6/windowsZip/RubyMine-2023.2.6.win.zip|https://download.jetbrains.com/ruby/RubyMine-2023.2.6.win.zip|639669594|binary/octet-stream|1708093349

@@ -681,3 +681,15 @@ obsidian|v1.5.3/obsidian_1.5.3_amd64.deb|https://github.com/obsidianmd/obsidian-
 obsidian|v1.5.3/obsidian-1.5.3-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.3/obsidian-1.5.3-arm64.tar.gz|100258718|application/octet-stream|1703553901
 obsidian|v1.5.3/obsidian-1.5.3.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.3/obsidian-1.5.3.tar.gz|99822395|application/octet-stream|1703553877
 obsidian|v1.5.3/obsidian_1.5.3_amd64.snap|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.3/obsidian_1.5.3_amd64.snap|114704384|application/octet-stream|1703553928
+obsidian|v1.5.8/obsidian-1.5.8.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.8/obsidian-1.5.8.asar.gz|8652806|application/octet-stream|1708544679
+obsidian|v1.5.8/Obsidian-1.5.8.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.8/Obsidian-1.5.8.AppImage|113144240|application/octet-stream|1708545521
+obsidian|v1.5.8/obsidian_1.5.8_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.8/obsidian_1.5.8_amd64.deb|78625030|application/octet-stream|1708545475
+obsidian|v1.5.8/Obsidian.1.5.8.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.8/Obsidian.1.5.8.exe|82457856|application/octet-stream|1708545190
+obsidian|v1.5.8/Obsidian.1.5.8-32.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.8/Obsidian.1.5.8-32.exe|72855368|application/octet-stream|1708545212
+obsidian|v1.5.8/Obsidian-1.5.8-universal.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.8/Obsidian-1.5.8-universal.dmg|183909527|application/octet-stream|1708544727
+obsidian|v1.5.8/Obsidian.1.5.8-arm64.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.8/Obsidian.1.5.8-arm64.exe|85424464|application/octet-stream|1708545166
+obsidian|v1.5.8/obsidian-1.5.8-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.8/obsidian-1.5.8-arm64.tar.gz|106789020|application/octet-stream|1708545463
+obsidian|v1.5.8/obsidian_1.5.8_amd64.snap|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.8/obsidian_1.5.8_amd64.snap|122937344|application/octet-stream|1708545499
+obsidian|v1.5.8/Obsidian-1.5.8-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.8/Obsidian-1.5.8-arm64.AppImage|113243278|application/octet-stream|1708545443
+obsidian|v1.5.8/Obsidian.1.5.8-allusers.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.8/Obsidian.1.5.8-allusers.exe|82484936|application/octet-stream|1708545136
+obsidian|v1.5.8/obsidian-1.5.8.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.8/obsidian-1.5.8.tar.gz|107058177|application/octet-stream|1708545411

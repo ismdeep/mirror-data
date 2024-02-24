@@ -693,3 +693,4 @@ obsidian|v1.5.8/obsidian_1.5.8_amd64.snap|https://github.com/obsidianmd/obsidian
 obsidian|v1.5.8/Obsidian-1.5.8-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.8/Obsidian-1.5.8-arm64.AppImage|113243278|application/octet-stream|1708545443
 obsidian|v1.5.8/Obsidian.1.5.8-allusers.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.8/Obsidian.1.5.8-allusers.exe|82484936|application/octet-stream|1708545136
 obsidian|v1.5.8/obsidian-1.5.8.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.8/obsidian-1.5.8.tar.gz|107058177|application/octet-stream|1708545411
+obsidian|v1.5.8/Obsidian-1.5.8.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.8/Obsidian-1.5.8.apk|13715971|application/vnd.android.package-archive|1708657082

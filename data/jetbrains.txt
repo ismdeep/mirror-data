@@ -5337,3 +5337,15 @@ jetbrains|RubyMine/release/2023.1/2023.1.6/windowsZip/RubyMine-2023.1.6.win.zip|
 jetbrains|RubyMine/release/2023.2/2023.2.6/linuxARM64/RubyMine-2023.2.6-aarch64.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2023.2.6-aarch64.tar.gz|638334499|binary/octet-stream|1708093314
 jetbrains|RubyMine/release/2023.2/2023.2.6/windowsARM64/RubyMine-2023.2.6-aarch64.exe|https://download.jetbrains.com/ruby/RubyMine-2023.2.6-aarch64.exe|436087128|binary/octet-stream|1708093314
 jetbrains|RubyMine/release/2023.2/2023.2.6/windowsZip/RubyMine-2023.2.6.win.zip|https://download.jetbrains.com/ruby/RubyMine-2023.2.6.win.zip|639669594|binary/octet-stream|1708093349
+jetbrains|PyCharmCommunity/release/2023.3/2023.3.4/mac/pycharm-community-2023.3.4.dmg|https://download.jetbrains.com/python/pycharm-community-2023.3.4.dmg|592359700|binary/octet-stream|1708963774
+jetbrains|PyCharm/release/2023.3/2023.3.4/macM1/pycharm-professional-2023.3.4-aarch64.dmg|https://download.jetbrains.com/python/pycharm-professional-2023.3.4-aarch64.dmg|767361302|binary/octet-stream|1708963791
+jetbrains|PyCharmCommunity/release/2023.3/2023.3.4/windows/pycharm-community-2023.3.4.exe|https://download.jetbrains.com/python/pycharm-community-2023.3.4.exe|448987888|binary/octet-stream|1708963775
+jetbrains|PyCharmCommunity/release/2023.3/2023.3.4/linux/pycharm-community-2023.3.4.tar.gz|https://download.jetbrains.com/python/pycharm-community-2023.3.4.tar.gz|611235167|binary/octet-stream|1708963789
+jetbrains|PyCharmCommunity/release/2023.3/2023.3.4/linuxARM64/pycharm-community-2023.3.4-aarch64.tar.gz|https://download.jetbrains.com/python/pycharm-community-2023.3.4-aarch64.tar.gz|612761706|binary/octet-stream|1708963774
+jetbrains|PyCharm/release/2023.3/2023.3.4/windows/pycharm-professional-2023.3.4.exe|https://download.jetbrains.com/python/pycharm-professional-2023.3.4.exe|570906384|binary/octet-stream|1708963805
+jetbrains|PyCharm/release/2023.3/2023.3.4/linuxARM64/pycharm-professional-2023.3.4-aarch64.tar.gz|https://download.jetbrains.com/python/pycharm-professional-2023.3.4-aarch64.tar.gz|817394563|binary/octet-stream|1708963794
+jetbrains|PyCharmCommunity/release/2023.3/2023.3.4/windowsARM64/pycharm-community-2023.3.4-aarch64.exe|https://download.jetbrains.com/python/pycharm-community-2023.3.4-aarch64.exe|432103656|binary/octet-stream|1708963774
+jetbrains|PyCharm/release/2023.3/2023.3.4/mac/pycharm-professional-2023.3.4.dmg|https://download.jetbrains.com/python/pycharm-professional-2023.3.4.dmg|775397157|binary/octet-stream|1708963795
+jetbrains|PyCharmCommunity/release/2023.3/2023.3.4/macM1/pycharm-community-2023.3.4-aarch64.dmg|https://download.jetbrains.com/python/pycharm-community-2023.3.4-aarch64.dmg|584386744|binary/octet-stream|1708963774
+jetbrains|PyCharm/release/2023.3/2023.3.4/windowsARM64/pycharm-professional-2023.3.4-aarch64.exe|https://download.jetbrains.com/python/pycharm-professional-2023.3.4-aarch64.exe|553940096|binary/octet-stream|1708963793
+jetbrains|PyCharm/release/2023.3/2023.3.4/linux/pycharm-professional-2023.3.4.tar.gz|https://download.jetbrains.com/python/pycharm-professional-2023.3.4.tar.gz|816422690|binary/octet-stream|1708963814

@@ -760,3 +760,13 @@ pandoc|3.1.12.1/pandoc-3.1.12.1-x86_64-macOS.zip|https://github.com/jgm/pandoc/r
 pandoc|3.1.12.1/pandoc-3.1.12.1-arm64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.1.12.1/pandoc-3.1.12.1-arm64-macOS.zip|35114971|application/octet-stream|1708220412
 pandoc|3.1.12.1/pandoc-3.1.12.1-1-amd64.deb|https://github.com/jgm/pandoc/releases/download/3.1.12.1/pandoc-3.1.12.1-1-amd64.deb|31449238|application/octet-stream|1708220360
 pandoc|3.1.12.1/pandoc-3.1.12.1-x86_64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.1.12.1/pandoc-3.1.12.1-x86_64-macOS.pkg|21521118|application/octet-stream|1708220492
+pandoc|3.1.12.2/pandoc-3.1.12.2-windows-x86_64.zip|https://github.com/jgm/pandoc/releases/download/3.1.12.2/pandoc-3.1.12.2-windows-x86_64.zip|36541027|application/octet-stream|1709272443
+pandoc|3.1.12.2/pandoc-3.1.12.2-1-amd64.deb|https://github.com/jgm/pandoc/releases/download/3.1.12.2/pandoc-3.1.12.2-1-amd64.deb|31500118|application/octet-stream|1709272320
+pandoc|3.1.12.2/pandoc-3.1.12.2-windows-x86_64.msi|https://github.com/jgm/pandoc/releases/download/3.1.12.2/pandoc-3.1.12.2-windows-x86_64.msi|37761024|application/octet-stream|1709272425
+pandoc|3.1.12.2/pandoc-3.1.12.2-linux-arm64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.1.12.2/pandoc-3.1.12.2-linux-arm64.tar.gz|34763938|application/octet-stream|1709272404
+pandoc|3.1.12.2/pandoc-3.1.12.2-arm64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.1.12.2/pandoc-3.1.12.2-arm64-macOS.zip|35177939|application/octet-stream|1709272370
+pandoc|3.1.12.2/pandoc-3.1.12.2-1-arm64.deb|https://github.com/jgm/pandoc/releases/download/3.1.12.2/pandoc-3.1.12.2-1-arm64.deb|34276338|application/octet-stream|1709272332
+pandoc|3.1.12.2/pandoc-3.1.12.2-arm64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.1.12.2/pandoc-3.1.12.2-arm64-macOS.pkg|35069978|application/octet-stream|1709272351
+pandoc|3.1.12.2/pandoc-3.1.12.2-x86_64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.1.12.2/pandoc-3.1.12.2-x86_64-macOS.pkg|21530333|application/octet-stream|1709272455
+pandoc|3.1.12.2/pandoc-3.1.12.2-linux-amd64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.1.12.2/pandoc-3.1.12.2-linux-amd64.tar.gz|31993808|application/octet-stream|1709272386
+pandoc|3.1.12.2/pandoc-3.1.12.2-x86_64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.1.12.2/pandoc-3.1.12.2-x86_64-macOS.zip|21561936|application/octet-stream|1709272475

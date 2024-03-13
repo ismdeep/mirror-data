@@ -34,6 +34,7 @@ func init() {
 		"image-syncer":                  &task.ImageSyncer{},
 		"ipfs-kubo":                     &task.IPFSKubo{},
 		"pandoc":                        &task.Pandoc{},
+		"yq":                            &task.Yq{},
 	}
 }
 

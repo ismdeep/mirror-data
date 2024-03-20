@@ -1,53 +1,13 @@
 package main
 
 import (
-	"errors"
 	"fmt"
 	"os"
 	"sync"
-	"time"
 
-	"github.com/ismdeep/mirror-data/app/data/global"
 	"github.com/ismdeep/mirror-data/app/data/internal/version"
 	"github.com/ismdeep/mirror-data/app/data/task"
-	"github.com/ismdeep/mirror-data/pkg/log"
 )
-
-var tasks map[string]task.Interface
-
-func init() {
-	tasks = map[string]task.Interface{
-		"electron-ssr-backup":           &task.ElectronSsrBackup{},
-		"etcd-manager":                  &task.EtcdManager{},
-		"git-for-windows":               &task.GitForWindows{},
-		"go":                            &task.GoDev{},
-		"harbor":                        &task.Harbor{},
-		"ipfs-desktop":                  &task.IPFSDesktop{},
-		"jetbrains":                     &task.JetBrains{},
-		"obsidian":                      &task.Obsidian{},
-		"openssl":                       &task.OpenSSL{},
-		"rclone":                        &task.Rclone{},
-		"ventoy":                        &task.Ventoy{},
-		"ctop":                          &task.Ctop{},
-		"another-redis-desktop-manager": &task.AnotherRedisDesktopManager{},
-		"docker-compose":                &task.DockerCompose{},
-		"image-syncer":                  &task.ImageSyncer{},
-		"ipfs-kubo":                     &task.IPFSKubo{},
-		"pandoc":                        &task.Pandoc{},
-		"yq":                            &task.Yq{},
-	}
-}
-
-func convert(args []string) []string {
-	if len(args) <= 0 || args[0] == "all" {
-		var lst []string
-		for name := range tasks {
-			lst = append(lst, name)
-		}
-		return lst
-	}
-	return args
-}
 
 func main() {
 
@@ -60,35 +20,32 @@ func main() {
 		fmt.Println("Commit ID:", version.CommitID)
 		fmt.Println("Commit Date:", version.CommitDate)
 		fmt.Println()
-		time.Sleep(300 * time.Millisecond)
+	}
+
+	taskLst := os.Args[1:]
+	if len(taskLst) <= 1 {
+		for taskName := range task.Tasks {
+			taskLst = append(taskLst, taskName)
+		}
 	}
 
 	var wg sync.WaitGroup
-	lst := convert(os.Args[1:])
-	for _, arg := range lst {
-		t, ok := tasks[arg]
-		if !ok {
-			panic(fmt.Errorf("invalid task name. [%v]", arg))
-		}
+	for _, taskName := range taskLst {
 		wg.Add(1)
-		go func(name string, t task.Interface) {
+		go func(taskName string) {
+			defer func() {
+				if r := recover(); r != nil {
+					fmt.Println("[ERROR] failed to run task:", r)
+				}
+				wg.Done()
+			}()
+			t, ok := task.Tasks[taskName]
+			if !ok {
+				panic(fmt.Errorf("task not found: %v", taskName))
+			}
 			t.Run()
-			log.WithName(name).Info("finished")
-			wg.Done()
-		}(arg, t)
+
+		}(taskName)
 	}
 	wg.Wait()
-
-	close(global.Errors)
-
-	var errLst []error
-	for err := range global.Errors {
-		errLst = append(errLst, err)
-	}
-	if len(errLst) > 0 {
-		fmt.Println("================ ERROR ================")
-		if err := errors.Join(errLst...); err != nil {
-			fmt.Println("ERR:", err.Error())
-		}
-	}
 }

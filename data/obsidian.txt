@@ -707,3 +707,16 @@ obsidian|v1.5.11/obsidian-1.5.11-arm64.tar.gz|https://github.com/obsidianmd/obsi
 obsidian|v1.5.11/obsidian-1.5.11.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.11/obsidian-1.5.11.tar.gz|107180896|application/octet-stream|1710862145
 obsidian|v1.5.11/Obsidian.1.5.11-arm64.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.11/Obsidian.1.5.11-arm64.exe|85472384|application/octet-stream|1710862211
 obsidian|v1.5.11/Obsidian-1.5.11.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.11/Obsidian-1.5.11.apk|12734199|application/vnd.android.package-archive|1710866825
+obsidian|v1.5.12/obsidian-1.5.12.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/obsidian-1.5.12.asar.gz|8781526|application/octet-stream|1711822735
+obsidian|v1.5.12/Obsidian-1.5.12.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/Obsidian-1.5.12.apk|12733971|application/vnd.android.package-archive|1711981761
+obsidian|v1.5.12/Obsidian-1.5.12-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/Obsidian-1.5.12-arm64.AppImage|113365948|application/octet-stream|1711822901
+obsidian|v1.5.12/Obsidian.1.5.12-allusers.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/Obsidian.1.5.12-allusers.exe|82517416|application/octet-stream|1711822760
+obsidian|v1.5.12/Obsidian-1.5.12.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/Obsidian-1.5.12.AppImage|113266922|application/octet-stream|1711822876
+obsidian|v1.5.12/obsidian-1.5.12.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/obsidian-1.5.12.tar.gz|107180662|application/octet-stream|1711822888
+obsidian|v1.5.12/Obsidian.1.5.12-32.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/Obsidian.1.5.12-32.exe|72896704|application/octet-stream|1711822753
+obsidian|v1.5.12/Obsidian.1.5.12-arm64.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/Obsidian.1.5.12-arm64.exe|85472608|application/octet-stream|1711822768
+obsidian|v1.5.12/Obsidian.1.5.12.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/Obsidian.1.5.12.exe|82489664|application/octet-stream|1711822746
+obsidian|v1.5.12/obsidian-1.5.12-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/obsidian-1.5.12-arm64.tar.gz|106911948|application/octet-stream|1711822912
+obsidian|v1.5.12/Obsidian-1.5.12-universal.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/Obsidian-1.5.12-universal.dmg|184025541|application/octet-stream|1711822831
+obsidian|v1.5.12/obsidian_1.5.12_amd64.snap|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/obsidian_1.5.12_amd64.snap|123088896|application/octet-stream|1711822930
+obsidian|v1.5.12/obsidian_1.5.12_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/obsidian_1.5.12_amd64.deb|78651254|application/octet-stream|1711822959

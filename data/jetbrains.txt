@@ -5465,3 +5465,10 @@ jetbrains|RubyMine/release/2023.3/2023.3.6/windowsZip/RubyMine-2023.3.6.win.zip|
 jetbrains|RubyMine/release/2023.3/2023.3.6/linuxARM64/RubyMine-2023.3.6-aarch64.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2023.3.6-aarch64.tar.gz|668371451|binary/octet-stream|1711372504
 jetbrains|PyCharmCommunity/release/2023.3/2023.3.5/windowsZip/pycharm-community-2023.3.5.win.zip|https://download.jetbrains.com/python/pycharm-community-2023.3.5.win.zip|629727169|binary/octet-stream|1711128115
 jetbrains|PyCharmCommunity/release/2023.3/2023.3.5/windowsZipARM64/pycharm-community-2023.3.5-aarch64.win.zip|https://download.jetbrains.com/python/pycharm-community-2023.3.5-aarch64.win.zip|614269239|binary/octet-stream|1711128060
+jetbrains|DataGrip/release/2024.1/2024.1/windows/datagrip-2024.1.exe|https://download.jetbrains.com/datagrip/datagrip-2024.1.exe|609697072|binary/octet-stream|1712148838
+jetbrains|DataGrip/release/2024.1/2024.1/mac/datagrip-2024.1.dmg|https://download.jetbrains.com/datagrip/datagrip-2024.1.dmg|710332651|binary/octet-stream|1712148820
+jetbrains|DataGrip/release/2024.1/2024.1/linux/datagrip-2024.1.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2024.1.tar.gz|734236063|binary/octet-stream|1712148862
+jetbrains|DataGrip/release/2024.1/2024.1/macM1/datagrip-2024.1-aarch64.dmg|https://download.jetbrains.com/datagrip/datagrip-2024.1-aarch64.dmg|700670074|binary/octet-stream|1712148816
+jetbrains|DataGrip/release/2024.1/2024.1/windowsARM64/datagrip-2024.1-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2024.1-aarch64.exe|586179304|binary/octet-stream|1712148816
+jetbrains|DataGrip/release/2024.1/2024.1/windowsZip/datagrip-2024.1.win.zip|https://download.jetbrains.com/datagrip/datagrip-2024.1.win.zip|742722988|binary/octet-stream|1712148863
+jetbrains|DataGrip/release/2024.1/2024.1/linuxARM64/datagrip-2024.1-aarch64.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2024.1-aarch64.tar.gz|734012300|binary/octet-stream|1712148817

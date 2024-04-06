@@ -5529,3 +5529,10 @@ jetbrains|IDEA/release/2024.1/2024.1/linux/ideaIU-2024.1.tar.gz|https://download
 jetbrains|RubyMine/release/2024.1/2024.1/windowsZip/RubyMine-2024.1.win.zip|https://download.jetbrains.com/ruby/RubyMine-2024.1.win.zip|832212898|binary/octet-stream|1711637769
 jetbrains|WebStorm/release/2024.1/2024.1/windowsZip/WebStorm-2024.1.win.zip|https://download.jetbrains.com/webstorm/WebStorm-2024.1.win.zip|790840876|binary/octet-stream|1711645197
 jetbrains|DataSpell/release/2024.1/2024.1/linuxARM64/dataspell-2024.1-aarch64.tar.gz|https://download.jetbrains.com/python/dataspell-2024.1-aarch64.tar.gz|1021354744|binary/octet-stream|1712097142
+jetbrains|DataGrip/release/2024.1/2024.1.1/mac/datagrip-2024.1.1.dmg|https://download.jetbrains.com/datagrip/datagrip-2024.1.1.dmg|710052980|binary/octet-stream|1712326187
+jetbrains|DataGrip/release/2024.1/2024.1.1/macM1/datagrip-2024.1.1-aarch64.dmg|https://download.jetbrains.com/datagrip/datagrip-2024.1.1-aarch64.dmg|700462403|binary/octet-stream|1712326184
+jetbrains|DataGrip/release/2024.1/2024.1.1/linux/datagrip-2024.1.1.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2024.1.1.tar.gz|734006135|binary/octet-stream|1712326227
+jetbrains|DataGrip/release/2024.1/2024.1.1/windowsARM64/datagrip-2024.1.1-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2024.1.1-aarch64.exe|585934392|binary/octet-stream|1712326184
+jetbrains|DataGrip/release/2024.1/2024.1.1/windows/datagrip-2024.1.1.exe|https://download.jetbrains.com/datagrip/datagrip-2024.1.1.exe|609452536|binary/octet-stream|1712326207
+jetbrains|DataGrip/release/2024.1/2024.1.1/linuxARM64/datagrip-2024.1.1-aarch64.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2024.1.1-aarch64.tar.gz|733795364|binary/octet-stream|1712326184
+jetbrains|DataGrip/release/2024.1/2024.1.1/windowsZip/datagrip-2024.1.1.win.zip|https://download.jetbrains.com/datagrip/datagrip-2024.1.1.win.zip|742512862|binary/octet-stream|1712326228

@@ -5551,3 +5551,10 @@ jetbrains|CLion/release/2024.1/2024.1/mac/CLion-2024.1.dmg|https://download.jetb
 jetbrains|Rider/release/2024.1/2024.1/windowsZipARM64/JetBrains.Rider-2024.1-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2024.1-aarch64.win.zip|1668259513|binary/octet-stream|1712660523
 jetbrains|Rider/release/2024.1/2024.1/windowsARM64/JetBrains.Rider-2024.1-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2024.1-aarch64.exe|1187591616|binary/octet-stream|1712660405
 jetbrains|CLion/release/2024.1/2024.1/windowsARM64/CLion-2024.1-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2024.1-aarch64.exe|932773456|binary/octet-stream|1712587659
+jetbrains|DataGrip/release/2024.1/2024.1.2/macM1/datagrip-2024.1.2-aarch64.dmg|https://download.jetbrains.com/datagrip/datagrip-2024.1.2-aarch64.dmg|723434535|binary/octet-stream|1713292023
+jetbrains|DataGrip/release/2024.1/2024.1.2/windows/datagrip-2024.1.2.exe|https://download.jetbrains.com/datagrip/datagrip-2024.1.2.exe|626001896|binary/octet-stream|1713292046
+jetbrains|DataGrip/release/2024.1/2024.1.2/mac/datagrip-2024.1.2.dmg|https://download.jetbrains.com/datagrip/datagrip-2024.1.2.dmg|732889943|binary/octet-stream|1713292025
+jetbrains|DataGrip/release/2024.1/2024.1.2/windowsARM64/datagrip-2024.1.2-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2024.1.2-aarch64.exe|602440640|binary/octet-stream|1713292023
+jetbrains|DataGrip/release/2024.1/2024.1.2/linux/datagrip-2024.1.2.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2024.1.2.tar.gz|757731686|binary/octet-stream|1713292061
+jetbrains|DataGrip/release/2024.1/2024.1.2/linuxARM64/datagrip-2024.1.2-aarch64.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2024.1.2-aarch64.tar.gz|757490273|binary/octet-stream|1713292023
+jetbrains|DataGrip/release/2024.1/2024.1.2/windowsZip/datagrip-2024.1.2.win.zip|https://download.jetbrains.com/datagrip/datagrip-2024.1.2.win.zip|766206186|binary/octet-stream|1713292071

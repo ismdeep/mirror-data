@@ -5573,3 +5573,9 @@ jetbrains|WebStorm/release/2024.1/2024.1.1/windows/WebStorm-2024.1.1.exe|https:/
 jetbrains|WebStorm/release/2024.1/2024.1.1/windowsARM64/WebStorm-2024.1.1-aarch64.exe|https://download.jetbrains.com/webstorm/WebStorm-2024.1.1-aarch64.exe|580381376|binary/octet-stream|1713360293
 jetbrains|WebStorm/release/2024.1/2024.1.1/windowsZip/WebStorm-2024.1.1.win.zip|https://download.jetbrains.com/webstorm/WebStorm-2024.1.1.win.zip|793841832|binary/octet-stream|1713360331
 jetbrains|WebStorm/release/2024.1/2024.1.1/linuxARM64/WebStorm-2024.1.1-aarch64.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2024.1.1-aarch64.tar.gz|785043200|binary/octet-stream|1713360293
+jetbrains|DataSpell/release/2024.1/2024.1.1/windows/dataspell-2024.1.1.exe|https://download.jetbrains.com/python/dataspell-2024.1.1.exe|810954984|binary/octet-stream|1713441767
+jetbrains|DataSpell/release/2024.1/2024.1.1/linux/dataspell-2024.1.1.tar.gz|https://download.jetbrains.com/python/dataspell-2024.1.1.tar.gz|1023735385|binary/octet-stream|1713441799
+jetbrains|DataSpell/release/2024.1/2024.1.1/mac/dataspell-2024.1.1.dmg|https://download.jetbrains.com/python/dataspell-2024.1.1.dmg|1008102241|binary/octet-stream|1713441767
+jetbrains|DataSpell/release/2024.1/2024.1.1/windowsARM64/dataspell-2024.1.1-aarch64.exe|https://download.jetbrains.com/python/dataspell-2024.1.1-aarch64.exe|787480040|binary/octet-stream|1713441767
+jetbrains|DataSpell/release/2024.1/2024.1.1/macM1/dataspell-2024.1.1-aarch64.dmg|https://download.jetbrains.com/python/dataspell-2024.1.1-aarch64.dmg|998322652|binary/octet-stream|1713441767
+jetbrains|DataSpell/release/2024.1/2024.1.1/linuxARM64/dataspell-2024.1.1-aarch64.tar.gz|https://download.jetbrains.com/python/dataspell-2024.1.1-aarch64.tar.gz|1024055978|binary/octet-stream|1713441767

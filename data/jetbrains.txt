@@ -5579,3 +5579,11 @@ jetbrains|DataSpell/release/2024.1/2024.1.1/mac/dataspell-2024.1.1.dmg|https://d
 jetbrains|DataSpell/release/2024.1/2024.1.1/windowsARM64/dataspell-2024.1.1-aarch64.exe|https://download.jetbrains.com/python/dataspell-2024.1.1-aarch64.exe|787480040|binary/octet-stream|1713441767
 jetbrains|DataSpell/release/2024.1/2024.1.1/macM1/dataspell-2024.1.1-aarch64.dmg|https://download.jetbrains.com/python/dataspell-2024.1.1-aarch64.dmg|998322652|binary/octet-stream|1713441767
 jetbrains|DataSpell/release/2024.1/2024.1.1/linuxARM64/dataspell-2024.1.1-aarch64.tar.gz|https://download.jetbrains.com/python/dataspell-2024.1.1-aarch64.tar.gz|1024055978|binary/octet-stream|1713441767
+jetbrains|Rider/release/2023.3/2023.3.5/macM1/JetBrains.Rider-2023.3.5-aarch64.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2023.3.5-aarch64.dmg|1111991967|binary/octet-stream|1713814092
+jetbrains|Rider/release/2023.3/2023.3.5/linux/JetBrains.Rider-2023.3.5.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2023.3.5.tar.gz|1167325784|binary/octet-stream|1713814311
+jetbrains|Rider/release/2023.3/2023.3.5/windows/JetBrains.Rider-2023.3.5.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2023.3.5.exe|899592712|binary/octet-stream|1713814137
+jetbrains|Rider/release/2023.3/2023.3.5/windowsZipARM64/JetBrains.Rider-2023.3.5-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2023.3.5-aarch64.win.zip|1264875030|binary/octet-stream|1713814259
+jetbrains|Rider/release/2023.3/2023.3.5/linuxARM64/JetBrains.Rider-2023.3.5-aarch64.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2023.3.5-aarch64.tar.gz|1160345209|binary/octet-stream|1713814358
+jetbrains|Rider/release/2023.3/2023.3.5/mac/JetBrains.Rider-2023.3.5.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2023.3.5.dmg|1070994563|binary/octet-stream|1713814049
+jetbrains|Rider/release/2023.3/2023.3.5/windowsZip/JetBrains.Rider-2023.3.5.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2023.3.5.win.zip|1275551843|binary/octet-stream|1713814209
+jetbrains|Rider/release/2023.3/2023.3.5/windowsARM64/JetBrains.Rider-2023.3.5-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2023.3.5-aarch64.exe|871591160|binary/octet-stream|1713814173

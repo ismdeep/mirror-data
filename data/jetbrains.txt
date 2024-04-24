@@ -5587,3 +5587,10 @@ jetbrains|Rider/release/2023.3/2023.3.5/linuxARM64/JetBrains.Rider-2023.3.5-aarc
 jetbrains|Rider/release/2023.3/2023.3.5/mac/JetBrains.Rider-2023.3.5.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2023.3.5.dmg|1070994563|binary/octet-stream|1713814049
 jetbrains|Rider/release/2023.3/2023.3.5/windowsZip/JetBrains.Rider-2023.3.5.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2023.3.5.win.zip|1275551843|binary/octet-stream|1713814209
 jetbrains|Rider/release/2023.3/2023.3.5/windowsARM64/JetBrains.Rider-2023.3.5-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2023.3.5-aarch64.exe|871591160|binary/octet-stream|1713814173
+jetbrains|PhpStorm/release/2024.1/2024.1.1/macM1/PhpStorm-2024.1.1-aarch64.dmg|https://download.jetbrains.com/webide/PhpStorm-2024.1.1-aarch64.dmg|797885263|binary/octet-stream|1713892287
+jetbrains|PhpStorm/release/2024.1/2024.1.1/mac/PhpStorm-2024.1.1.dmg|https://download.jetbrains.com/webide/PhpStorm-2024.1.1.dmg|807605951|binary/octet-stream|1713892288
+jetbrains|PhpStorm/release/2024.1/2024.1.1/windows/PhpStorm-2024.1.1.exe|https://download.jetbrains.com/webide/PhpStorm-2024.1.1.exe|641945600|binary/octet-stream|1713892313
+jetbrains|PhpStorm/release/2024.1/2024.1.1/linux/PhpStorm-2024.1.1.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2024.1.1.tar.gz|843926563|binary/octet-stream|1713892329
+jetbrains|PhpStorm/release/2024.1/2024.1.1/linuxARM64/PhpStorm-2024.1.1-aarch64.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2024.1.1-aarch64.tar.gz|843106507|binary/octet-stream|1713892287
+jetbrains|PhpStorm/release/2024.1/2024.1.1/windowsARM64/PhpStorm-2024.1.1-aarch64.exe|https://download.jetbrains.com/webide/PhpStorm-2024.1.1-aarch64.exe|617143720|binary/octet-stream|1713892287
+jetbrains|PhpStorm/release/2024.1/2024.1.1/windowsZip/PhpStorm-2024.1.1.win.zip|https://download.jetbrains.com/webide/PhpStorm-2024.1.1.win.zip|851944553|binary/octet-stream|1713892341

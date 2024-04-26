@@ -5594,3 +5594,17 @@ jetbrains|PhpStorm/release/2024.1/2024.1.1/linux/PhpStorm-2024.1.1.tar.gz|https:
 jetbrains|PhpStorm/release/2024.1/2024.1.1/linuxARM64/PhpStorm-2024.1.1-aarch64.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2024.1.1-aarch64.tar.gz|843106507|binary/octet-stream|1713892287
 jetbrains|PhpStorm/release/2024.1/2024.1.1/windowsARM64/PhpStorm-2024.1.1-aarch64.exe|https://download.jetbrains.com/webide/PhpStorm-2024.1.1-aarch64.exe|617143720|binary/octet-stream|1713892287
 jetbrains|PhpStorm/release/2024.1/2024.1.1/windowsZip/PhpStorm-2024.1.1.win.zip|https://download.jetbrains.com/webide/PhpStorm-2024.1.1.win.zip|851944553|binary/octet-stream|1713892341
+jetbrains|CLion/release/2024.1/2024.1.1/windowsARM64/CLion-2024.1.1-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2024.1.1-aarch64.exe|934583576|binary/octet-stream|1714065187
+jetbrains|CLion/release/2024.1/2024.1.1/linux/CLion-2024.1.1.tar.gz|https://download.jetbrains.com/cpp/CLion-2024.1.1.tar.gz|1214239700|binary/octet-stream|1714065249
+jetbrains|CLion/release/2024.1/2024.1.1/macM1/CLion-2024.1.1-aarch64.dmg|https://download.jetbrains.com/cpp/CLion-2024.1.1-aarch64.dmg|1162011834|binary/octet-stream|1714065187
+jetbrains|CLion/release/2024.1/2024.1.1/mac/CLion-2024.1.1.dmg|https://download.jetbrains.com/cpp/CLion-2024.1.1.dmg|1144170999|binary/octet-stream|1714065193
+jetbrains|CLion/release/2024.1/2024.1.1/windows/CLion-2024.1.1.exe|https://download.jetbrains.com/cpp/CLion-2024.1.1.exe|1082947152|binary/octet-stream|1714065237
+jetbrains|RubyMine/release/2024.1/2024.1.1/mac/RubyMine-2024.1.1.dmg|https://download.jetbrains.com/ruby/RubyMine-2024.1.1.dmg|784265206|binary/octet-stream|1714041291
+jetbrains|RubyMine/release/2024.1/2024.1.1/macM1/RubyMine-2024.1.1-aarch64.dmg|https://download.jetbrains.com/ruby/RubyMine-2024.1.1-aarch64.dmg|774463837|binary/octet-stream|1714041290
+jetbrains|RubyMine/release/2024.1/2024.1.1/windows/RubyMine-2024.1.1.exe|https://download.jetbrains.com/ruby/RubyMine-2024.1.1.exe|621550880|binary/octet-stream|1714041332
+jetbrains|RubyMine/release/2024.1/2024.1.1/linux/RubyMine-2024.1.1.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2024.1.1.tar.gz|819760956|binary/octet-stream|1714041332
+jetbrains|RubyMine/release/2024.1/2024.1.1/windowsARM64/RubyMine-2024.1.1-aarch64.exe|https://download.jetbrains.com/ruby/RubyMine-2024.1.1-aarch64.exe|597005872|binary/octet-stream|1714041290
+jetbrains|CLion/release/2024.1/2024.1.1/linuxARM64/CLion-2024.1.1-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2024.1.1-aarch64.tar.gz|1211359670|binary/octet-stream|1714065187
+jetbrains|CLion/release/2024.1/2024.1.1/windowsZip/CLion-2024.1.1.win.zip|https://download.jetbrains.com/cpp/CLion-2024.1.1.win.zip|1545400353|binary/octet-stream|1714065252
+jetbrains|RubyMine/release/2024.1/2024.1.1/windowsZip/RubyMine-2024.1.1.win.zip|https://download.jetbrains.com/ruby/RubyMine-2024.1.1.win.zip|835765774|binary/octet-stream|1714041333
+jetbrains|RubyMine/release/2024.1/2024.1.1/linuxARM64/RubyMine-2024.1.1-aarch64.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2024.1.1-aarch64.tar.gz|819284984|binary/octet-stream|1714041290

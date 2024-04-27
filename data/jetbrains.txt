@@ -5608,3 +5608,10 @@ jetbrains|CLion/release/2024.1/2024.1.1/linuxARM64/CLion-2024.1.1-aarch64.tar.gz
 jetbrains|CLion/release/2024.1/2024.1.1/windowsZip/CLion-2024.1.1.win.zip|https://download.jetbrains.com/cpp/CLion-2024.1.1.win.zip|1545400353|binary/octet-stream|1714065252
 jetbrains|RubyMine/release/2024.1/2024.1.1/windowsZip/RubyMine-2024.1.1.win.zip|https://download.jetbrains.com/ruby/RubyMine-2024.1.1.win.zip|835765774|binary/octet-stream|1714041333
 jetbrains|RubyMine/release/2024.1/2024.1.1/linuxARM64/RubyMine-2024.1.1-aarch64.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2024.1.1-aarch64.tar.gz|819284984|binary/octet-stream|1714041290
+jetbrains|WebStorm/release/2024.1/2024.1.2/linux/WebStorm-2024.1.2.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2024.1.2.tar.gz|786360247|binary/octet-stream|1714054350
+jetbrains|WebStorm/release/2024.1/2024.1.2/windows/WebStorm-2024.1.2.exe|https://download.jetbrains.com/webstorm/WebStorm-2024.1.2.exe|605676528|binary/octet-stream|1714054325
+jetbrains|WebStorm/release/2024.1/2024.1.2/macM1/WebStorm-2024.1.2-aarch64.dmg|https://download.jetbrains.com/webstorm/WebStorm-2024.1.2-aarch64.dmg|743364365|binary/octet-stream|1714054312
+jetbrains|WebStorm/release/2024.1/2024.1.2/mac/WebStorm-2024.1.2.dmg|https://download.jetbrains.com/webstorm/WebStorm-2024.1.2.dmg|753355936|binary/octet-stream|1714054314
+jetbrains|WebStorm/release/2024.1/2024.1.2/windowsARM64/WebStorm-2024.1.2-aarch64.exe|https://download.jetbrains.com/webstorm/WebStorm-2024.1.2-aarch64.exe|580874368|binary/octet-stream|1714054312
+jetbrains|WebStorm/release/2024.1/2024.1.2/linuxARM64/WebStorm-2024.1.2-aarch64.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2024.1.2-aarch64.tar.gz|785500171|binary/octet-stream|1714054312
+jetbrains|WebStorm/release/2024.1/2024.1.2/windowsZip/WebStorm-2024.1.2.win.zip|https://download.jetbrains.com/webstorm/WebStorm-2024.1.2.win.zip|794316403|binary/octet-stream|1714054352

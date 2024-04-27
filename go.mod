@@ -8,6 +8,7 @@ require (
 	github.com/antchfx/htmlquery v1.3.0
 	github.com/gin-gonic/gin v1.9.1
 	github.com/google/go-github/v53 v53.2.0
+	github.com/google/uuid v1.6.0
 	github.com/ismdeep/log v0.2.2
 	github.com/sethvargo/go-envconfig v1.0.1
 	github.com/stretchr/testify v1.9.0

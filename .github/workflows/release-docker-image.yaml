@@ -1,0 +1,37 @@
+name: Release Docker Image
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
+
+    steps:
+
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - name: Set up golang
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.22'
+
+      - name: Set up Docker Buildx
+        id: buildx
+        uses: docker/setup-buildx-action@v2
+
+      - name: Login to DockerHub
+        uses: docker/login-action@v2
+        with:
+          username: ismdeep
+          password: ${{ secrets.DOCKER_PASSWORD }}
+
+      - name: Docker release
+        run: docker buildx build --platform linux/amd64 --progress plain --pull --push -t ismdeep/mirror-server:latest -f ./app/mirror/Dockerfile .

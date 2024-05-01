@@ -54,4 +54,5 @@ jobs:
             git add .
             git commit -am "docs: update data via github workflow"
             git push origin HEAD:main
+            docker buildx build --platform linux/amd64 --progress plain --pull --push -t ismdeep/mirror-server:latest -f ./app/mirror/Dockerfile .
           fi

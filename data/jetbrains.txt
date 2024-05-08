@@ -5645,3 +5645,11 @@ jetbrains|PyCharmCommunity/release/2024.1/2024.1.1/windowsZip/pycharm-community-
 jetbrains|GoLand/release/2024.1/2024.1.1/windowsARM64/goland-2024.1.1-aarch64.exe|https://download.jetbrains.com/go/goland-2024.1.1-aarch64.exe|654870400|binary/octet-stream|1714470141
 jetbrains|GoLand/release/2024.1/2024.1.1/windowsZip/goland-2024.1.1.win.zip|https://download.jetbrains.com/go/goland-2024.1.1.win.zip|895214760|binary/octet-stream|1714470191
 jetbrains|GoLand/release/2024.1/2024.1.1/linuxARM64/goland-2024.1.1-aarch64.tar.gz|https://download.jetbrains.com/go/goland-2024.1.1-aarch64.tar.gz|886853048|binary/octet-stream|1714470141
+jetbrains|Rider/release/2024.1/2024.1.2/windowsZip/JetBrains.Rider-2024.1.2.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.2.win.zip|1697692890|binary/octet-stream|1715081110
+jetbrains|Rider/release/2024.1/2024.1.2/windows/JetBrains.Rider-2024.1.2.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.2.exe|1232243552|binary/octet-stream|1715081012
+jetbrains|Rider/release/2024.1/2024.1.2/mac/JetBrains.Rider-2024.1.2.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.2.dmg|1450070328|binary/octet-stream|1715080891
+jetbrains|Rider/release/2024.1/2024.1.2/macM1/JetBrains.Rider-2024.1.2-aarch64.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.2-aarch64.dmg|1477027185|binary/octet-stream|1715080952
+jetbrains|Rider/release/2024.1/2024.1.2/windowsARM64/JetBrains.Rider-2024.1.2-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.2-aarch64.exe|1193669760|binary/octet-stream|1715081063
+jetbrains|Rider/release/2024.1/2024.1.2/linux/JetBrains.Rider-2024.1.2.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.2.tar.gz|1543214441|binary/octet-stream|1715081246
+jetbrains|Rider/release/2024.1/2024.1.2/windowsZipARM64/JetBrains.Rider-2024.1.2-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.2-aarch64.win.zip|1677280903|binary/octet-stream|1715081177
+jetbrains|Rider/release/2024.1/2024.1.2/linuxARM64/JetBrains.Rider-2024.1.2-aarch64.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.2-aarch64.tar.gz|1534012092|binary/octet-stream|1715081308

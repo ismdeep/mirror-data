@@ -5688,3 +5688,10 @@ jetbrains|GoLand/release/2024.1/2024.1.2/linuxARM64/goland-2024.1.2-aarch64.tar.
 jetbrains|GoLand/release/2024.1/2024.1.2/windowsZip/goland-2024.1.2.win.zip|https://download.jetbrains.com/go/goland-2024.1.2.win.zip|894879862|binary/octet-stream|1716485214
 jetbrains|WebStorm/release/2024.1/2024.1.3/windowsZip/WebStorm-2024.1.3.win.zip|https://download.jetbrains.com/webstorm/WebStorm-2024.1.3.win.zip|793890945|binary/octet-stream|1716474169
 jetbrains|WebStorm/release/2024.1/2024.1.3/linuxARM64/WebStorm-2024.1.3-aarch64.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2024.1.3-aarch64.tar.gz|785168579|binary/octet-stream|1716474128
+jetbrains|PhpStorm/release/2024.1/2024.1.2/macM1/PhpStorm-2024.1.2-aarch64.dmg|https://download.jetbrains.com/webide/PhpStorm-2024.1.2-aarch64.dmg|797605521|binary/octet-stream|1716896152
+jetbrains|PhpStorm/release/2024.1/2024.1.2/windows/PhpStorm-2024.1.2.exe|https://download.jetbrains.com/webide/PhpStorm-2024.1.2.exe|641755200|binary/octet-stream|1716896170
+jetbrains|PhpStorm/release/2024.1/2024.1.2/windowsZip/PhpStorm-2024.1.2.win.zip|https://download.jetbrains.com/webide/PhpStorm-2024.1.2.win.zip|851911251|binary/octet-stream|1716896206
+jetbrains|PhpStorm/release/2024.1/2024.1.2/windowsARM64/PhpStorm-2024.1.2-aarch64.exe|https://download.jetbrains.com/webide/PhpStorm-2024.1.2-aarch64.exe|617002160|binary/octet-stream|1716896152
+jetbrains|PhpStorm/release/2024.1/2024.1.2/linuxARM64/PhpStorm-2024.1.2-aarch64.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2024.1.2-aarch64.tar.gz|843142548|binary/octet-stream|1716896152
+jetbrains|PhpStorm/release/2024.1/2024.1.2/linux/PhpStorm-2024.1.2.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2024.1.2.tar.gz|844010714|binary/octet-stream|1716896188
+jetbrains|PhpStorm/release/2024.1/2024.1.2/mac/PhpStorm-2024.1.2.dmg|https://download.jetbrains.com/webide/PhpStorm-2024.1.2.dmg|807803847|binary/octet-stream|1716896155

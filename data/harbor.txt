@@ -451,3 +451,8 @@ harbor|v2.8.6/md5sum|https://github.com/goharbor/harbor/releases/download/v2.8.6
 harbor|v2.8.6/harbor-online-installer-v2.8.6.tgz.asc|https://github.com/goharbor/harbor/releases/download/v2.8.6/harbor-online-installer-v2.8.6.tgz.asc|833|application/octet-stream|1713767657
 harbor|v2.8.6/harbor-online-installer-v2.8.6.tgz|https://github.com/goharbor/harbor/releases/download/v2.8.6/harbor-online-installer-v2.8.6.tgz|11125|application/octet-stream|1713767657
 harbor|v2.8.6/harbor-offline-installer-v2.8.6.tgz|https://github.com/goharbor/harbor/releases/download/v2.8.6/harbor-offline-installer-v2.8.6.tgz|622752201|application/octet-stream|1713767686
+harbor|v2.11.0/harbor-online-installer-v2.11.0.tgz.asc|https://github.com/goharbor/harbor/releases/download/v2.11.0/harbor-online-installer-v2.11.0.tgz.asc|833|application/octet-stream|1717666768
+harbor|v2.11.0/harbor-offline-installer-v2.11.0.tgz|https://github.com/goharbor/harbor/releases/download/v2.11.0/harbor-offline-installer-v2.11.0.tgz|659171069|application/octet-stream|1717666785
+harbor|v2.11.0/harbor-online-installer-v2.11.0.tgz|https://github.com/goharbor/harbor/releases/download/v2.11.0/harbor-online-installer-v2.11.0.tgz|11576|application/octet-stream|1717666768
+harbor|v2.11.0/harbor-offline-installer-v2.11.0.tgz.asc|https://github.com/goharbor/harbor/releases/download/v2.11.0/harbor-offline-installer-v2.11.0.tgz.asc|833|application/octet-stream|1717666768
+harbor|v2.11.0/md5sum|https://github.com/goharbor/harbor/releases/download/v2.11.0/md5sum|290|application/octet-stream|1717666768

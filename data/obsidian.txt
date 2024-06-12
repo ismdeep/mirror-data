@@ -745,3 +745,11 @@ obsidian|v1.6.3/Obsidian-1.6.3-universal.dmg|https://github.com/obsidianmd/obsid
 obsidian|v1.6.3/Obsidian-1.6.3.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.3/Obsidian-1.6.3.AppImage|113266850|application/octet-stream|1717867746
 obsidian|v1.6.3/Obsidian.1.6.3-32.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.3/Obsidian.1.6.3-32.exe|72909968|application/octet-stream|1717867271
 obsidian|v1.6.3/Obsidian.1.6.3-allusers.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.3/Obsidian.1.6.3-allusers.exe|82585640|application/octet-stream|1717867273
+obsidian|v1.6.3-e30/obsidian_1.6.3_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.3-e30/obsidian_1.6.3_amd64.deb|79185280|application/octet-stream|1717992948
+obsidian|v1.6.3-e30/Obsidian-1.6.3-universal.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.3-e30/Obsidian-1.6.3-universal.dmg|186408732|application/octet-stream|1717992969
+obsidian|v1.6.3-e30/obsidian-1.6.3-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.3-e30/obsidian-1.6.3-arm64.tar.gz|108835780|application/octet-stream|1717992880
+obsidian|v1.6.3-e30/Obsidian.1.6.3.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.3-e30/Obsidian.1.6.3.exe|247014920|application/octet-stream|1717993568
+obsidian|v1.6.3-e30/obsidian-1.6.3.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.3-e30/obsidian-1.6.3.tar.gz|108736340|application/octet-stream|1717992896
+obsidian|v1.6.3-e30/Obsidian-1.6.3.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.3-e30/Obsidian-1.6.3.AppImage|114938491|application/octet-stream|1717992961
+obsidian|v1.6.3-e30/Obsidian-1.6.3-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.3-e30/Obsidian-1.6.3-arm64.AppImage|115363071|application/octet-stream|1717992901
+obsidian|v1.6.3-e30/obsidian_1.6.3_amd64.snap|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.3-e30/obsidian_1.6.3_amd64.snap|124710912|application/octet-stream|1717992954

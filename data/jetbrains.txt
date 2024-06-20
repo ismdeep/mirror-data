@@ -6011,3 +6011,10 @@ jetbrains|DataSpell/release/2024.1/2024.1.3/windows/dataspell-2024.1.3.exe|https
 jetbrains|DataSpell/release/2024.1/2024.1.3/linux/dataspell-2024.1.3.tar.gz|https://download.jetbrains.com/python/dataspell-2024.1.3.tar.gz|1026860941|binary/octet-stream|1718357305
 jetbrains|DataSpell/release/2024.1/2024.1.3/linuxARM64/dataspell-2024.1.3-aarch64.tar.gz|https://download.jetbrains.com/python/dataspell-2024.1.3-aarch64.tar.gz|1027130984|binary/octet-stream|1718357263
 jetbrains|DataSpell/release/2024.1/2024.1.3/windowsARM64/dataspell-2024.1.3-aarch64.exe|https://download.jetbrains.com/python/dataspell-2024.1.3-aarch64.exe|788860848|binary/octet-stream|1718357263
+jetbrains|CLion/release/2024.1/2024.1.4/windows/CLion-2024.1.4.exe|https://download.jetbrains.com/cpp/CLion-2024.1.4.exe|1097248408|binary/octet-stream|1718806038
+jetbrains|CLion/release/2024.1/2024.1.4/mac/CLion-2024.1.4.dmg|https://download.jetbrains.com/cpp/CLion-2024.1.4.dmg|1155284997|binary/octet-stream|1718805990
+jetbrains|CLion/release/2024.1/2024.1.4/macM1/CLion-2024.1.4-aarch64.dmg|https://download.jetbrains.com/cpp/CLion-2024.1.4-aarch64.dmg|1177540910|binary/octet-stream|1718805987
+jetbrains|CLion/release/2024.1/2024.1.4/linux/CLion-2024.1.4.tar.gz|https://download.jetbrains.com/cpp/CLion-2024.1.4.tar.gz|1229627975|binary/octet-stream|1718806056
+jetbrains|CLion/release/2024.1/2024.1.4/windowsARM64/CLion-2024.1.4-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2024.1.4-aarch64.exe|1008224224|binary/octet-stream|1718805987
+jetbrains|CLion/release/2024.1/2024.1.4/windowsZip/CLion-2024.1.4.win.zip|https://download.jetbrains.com/cpp/CLion-2024.1.4.win.zip|1563187407|binary/octet-stream|1718806058
+jetbrains|CLion/release/2024.1/2024.1.4/linuxARM64/CLion-2024.1.4-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2024.1.4-aarch64.tar.gz|1228348182|binary/octet-stream|1718805988

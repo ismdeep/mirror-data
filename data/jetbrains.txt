@@ -6018,3 +6018,10 @@ jetbrains|CLion/release/2024.1/2024.1.4/linux/CLion-2024.1.4.tar.gz|https://down
 jetbrains|CLion/release/2024.1/2024.1.4/windowsARM64/CLion-2024.1.4-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2024.1.4-aarch64.exe|1008224224|binary/octet-stream|1718805987
 jetbrains|CLion/release/2024.1/2024.1.4/windowsZip/CLion-2024.1.4.win.zip|https://download.jetbrains.com/cpp/CLion-2024.1.4.win.zip|1563187407|binary/octet-stream|1718806058
 jetbrains|CLion/release/2024.1/2024.1.4/linuxARM64/CLion-2024.1.4-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2024.1.4-aarch64.tar.gz|1228348182|binary/octet-stream|1718805988
+jetbrains|GoLand/release/2024.1/2024.1.4/macM1/goland-2024.1.4-aarch64.dmg|https://download.jetbrains.com/go/goland-2024.1.4-aarch64.dmg|842695043|binary/octet-stream|1718916247
+jetbrains|GoLand/release/2024.1/2024.1.4/windows/goland-2024.1.4.exe|https://download.jetbrains.com/go/goland-2024.1.4.exe|681543424|binary/octet-stream|1718916279
+jetbrains|GoLand/release/2024.1/2024.1.4/mac/goland-2024.1.4.dmg|https://download.jetbrains.com/go/goland-2024.1.4.dmg|852885913|binary/octet-stream|1718916249
+jetbrains|GoLand/release/2024.1/2024.1.4/linux/goland-2024.1.4.tar.gz|https://download.jetbrains.com/go/goland-2024.1.4.tar.gz|889944003|binary/octet-stream|1718916288
+jetbrains|GoLand/release/2024.1/2024.1.4/linuxARM64/goland-2024.1.4-aarch64.tar.gz|https://download.jetbrains.com/go/goland-2024.1.4-aarch64.tar.gz|889424133|binary/octet-stream|1718916247
+jetbrains|GoLand/release/2024.1/2024.1.4/windowsARM64/goland-2024.1.4-aarch64.exe|https://download.jetbrains.com/go/goland-2024.1.4-aarch64.exe|657046736|binary/octet-stream|1718916247
+jetbrains|GoLand/release/2024.1/2024.1.4/windowsZip/goland-2024.1.4.win.zip|https://download.jetbrains.com/go/goland-2024.1.4.win.zip|897733144|binary/octet-stream|1718916293

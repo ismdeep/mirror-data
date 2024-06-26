@@ -753,3 +753,12 @@ obsidian|v1.6.3-e30/obsidian-1.6.3.tar.gz|https://github.com/obsidianmd/obsidian
 obsidian|v1.6.3-e30/Obsidian-1.6.3.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.3-e30/Obsidian-1.6.3.AppImage|114938491|application/octet-stream|1717992961
 obsidian|v1.6.3-e30/Obsidian-1.6.3-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.3-e30/Obsidian-1.6.3-arm64.AppImage|115363071|application/octet-stream|1717992901
 obsidian|v1.6.3-e30/obsidian_1.6.3_amd64.snap|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.3-e30/obsidian_1.6.3_amd64.snap|124710912|application/octet-stream|1717992954
+obsidian|v1.6.5/Obsidian-1.6.5.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.5/Obsidian-1.6.5.dmg|186451376|application/octet-stream|1719277285
+obsidian|v1.6.5/obsidian-1.6.5.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.5/obsidian-1.6.5.asar.gz|8839622|application/octet-stream|1719276465
+obsidian|v1.6.5/Obsidian-1.6.5-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.5/Obsidian-1.6.5-arm64.AppImage|115424905|application/octet-stream|1719277898
+obsidian|v1.6.5/Obsidian-1.6.5.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.5/Obsidian-1.6.5.exe|247285280|application/octet-stream|1719277078
+obsidian|v1.6.5/Obsidian-1.6.5.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.5/Obsidian-1.6.5.AppImage|115001540|application/octet-stream|1719277902
+obsidian|v1.6.5/obsidian-1.6.5-amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.5/obsidian-1.6.5-amd64.deb|79244640|application/octet-stream|1719277896
+obsidian|v1.6.5/obsidian-1.6.5-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.5/obsidian-1.6.5-arm64.tar.gz|108880593|application/octet-stream|1719277900
+obsidian|v1.6.5/obsidian-1.6.5.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.5/obsidian-1.6.5.tar.gz|108781279|application/octet-stream|1719277907
+obsidian|v1.6.5/Obsidian-1.6.5.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.5/Obsidian-1.6.5.apk|12661791|application/vnd.android.package-archive|1719277483

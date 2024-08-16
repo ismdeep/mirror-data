@@ -6293,3 +6293,11 @@ jetbrains|IDEA/release/2024.2/2024.2.0.1/windowsARM64/ideaIU-2024.2.0.1-aarch64.
 jetbrains|DataGrip/release/2024.2/2024.2.1/linuxARM64/datagrip-2024.2.1-aarch64.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2024.2.1-aarch64.tar.gz|939102721|binary/octet-stream|1723563556
 jetbrains|DataGrip/release/2024.2/2024.2.1/windowsARM64/datagrip-2024.2.1-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2024.2.1-aarch64.exe|769773720|binary/octet-stream|1723563556
 jetbrains|IDEA/release/2024.2/2024.2.0.1/linuxARM64/ideaIU-2024.2.0.1-aarch64.tar.gz|https://download.jetbrains.com/idea/ideaIU-2024.2.0.1-aarch64.tar.gz|1537898163|binary/octet-stream|1723582525
+jetbrains|Rider/release/2024.2/2024.2/mac/JetBrains.Rider-2024.2.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.dmg|1827904862|binary/octet-stream|1723679492
+jetbrains|Rider/release/2024.2/2024.2/linux/JetBrains.Rider-2024.2.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.tar.gz|1924265436|binary/octet-stream|1723679732
+jetbrains|Rider/release/2024.2/2024.2/linuxARM64/JetBrains.Rider-2024.2-aarch64.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2-aarch64.tar.gz|1914769134|binary/octet-stream|1723679772
+jetbrains|Rider/release/2024.2/2024.2/windows/JetBrains.Rider-2024.2.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.exe|1585804704|binary/octet-stream|1723679570
+jetbrains|Rider/release/2024.2/2024.2/windowsZip/JetBrains.Rider-2024.2.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.win.zip|2081765191|binary/octet-stream|1723679639
+jetbrains|Rider/release/2024.2/2024.2/macM1/JetBrains.Rider-2024.2-aarch64.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2-aarch64.dmg|1854614782|binary/octet-stream|1723679530
+jetbrains|Rider/release/2024.2/2024.2/windowsARM64/JetBrains.Rider-2024.2-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2-aarch64.exe|1606186664|binary/octet-stream|1723679605
+jetbrains|Rider/release/2024.2/2024.2/windowsZipARM64/JetBrains.Rider-2024.2-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2-aarch64.win.zip|2141858728|binary/octet-stream|1723679684

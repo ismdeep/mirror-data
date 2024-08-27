@@ -6367,3 +6367,11 @@ jetbrains|PyCharm/release/2024.2/2024.2.0.1/linuxARM64/pycharm-professional-2024
 jetbrains|PyCharmCommunity/release/2024.2/2024.2.0.1/windowsZipARM64/pycharm-community-2024.2.0.1-aarch64.win.zip|https://download.jetbrains.com/python/pycharm-community-2024.2.0.1-aarch64.win.zip|781539833|binary/octet-stream|1724330928
 jetbrains|PhpStorm/release/2024.2/2024.2.0.1/windowsZip/PhpStorm-2024.2.0.1.win.zip|https://download.jetbrains.com/webide/PhpStorm-2024.2.0.1.win.zip|1041759250|binary/octet-stream|1724265090
 jetbrains|PhpStorm/release/2024.2/2024.2.0.1/linuxARM64/PhpStorm-2024.2.0.1-aarch64.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2024.2.0.1-aarch64.tar.gz|1034905759|binary/octet-stream|1724265026
+jetbrains|Rider/release/2024.2/2024.2.2/macM1/JetBrains.Rider-2024.2.2-aarch64.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.2-aarch64.dmg|1854563333|binary/octet-stream|1724665747
+jetbrains|Rider/release/2024.2/2024.2.2/windowsZip/JetBrains.Rider-2024.2.2.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.2.win.zip|2077217822|binary/octet-stream|1724665859
+jetbrains|Rider/release/2024.2/2024.2.2/linuxARM64/JetBrains.Rider-2024.2.2-aarch64.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.2-aarch64.tar.gz|1914481310|binary/octet-stream|1724665993
+jetbrains|Rider/release/2024.2/2024.2.2/linux/JetBrains.Rider-2024.2.2.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.2.tar.gz|1924046542|binary/octet-stream|1724665950
+jetbrains|Rider/release/2024.2/2024.2.2/mac/JetBrains.Rider-2024.2.2.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.2.dmg|1827996861|binary/octet-stream|1724665705
+jetbrains|Rider/release/2024.2/2024.2.2/windows/JetBrains.Rider-2024.2.2.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.2.exe|1585136352|binary/octet-stream|1724665789
+jetbrains|Rider/release/2024.2/2024.2.2/windowsARM64/JetBrains.Rider-2024.2.2-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.2-aarch64.exe|1605508400|binary/octet-stream|1724665823
+jetbrains|Rider/release/2024.2/2024.2.2/windowsZipARM64/JetBrains.Rider-2024.2.2-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.2-aarch64.win.zip|2134512436|binary/octet-stream|1724665905

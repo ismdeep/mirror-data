@@ -6447,3 +6447,10 @@ jetbrains|DataGrip/release/2024.2/2024.2.2/windowsARM64/datagrip-2024.2.2-aarch6
 jetbrains|Rider/release/2024.2/2024.2.3/linuxARM64/JetBrains.Rider-2024.2.3-aarch64.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.3-aarch64.tar.gz|1803438307|binary/octet-stream|1725032322
 jetbrains|DataGrip/release/2024.2/2024.2.2/linuxARM64/datagrip-2024.2.2-aarch64.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2024.2.2-aarch64.tar.gz|833240889|binary/octet-stream|1725028327
 jetbrains|DataGrip/release/2024.2/2024.2.2/windowsZip/datagrip-2024.2.2.win.zip|https://download.jetbrains.com/datagrip/datagrip-2024.2.2.win.zip|839624783|binary/octet-stream|1725028376
+jetbrains|CLion/release/2024.2/2024.2.1/macM1/CLion-2024.2.1-aarch64.dmg|https://download.jetbrains.com/cpp/CLion-2024.2.1-aarch64.dmg|1402171410|binary/octet-stream|1725271753
+jetbrains|CLion/release/2024.2/2024.2.1/mac/CLion-2024.2.1.dmg|https://download.jetbrains.com/cpp/CLion-2024.2.1.dmg|1381848884|binary/octet-stream|1725271769
+jetbrains|CLion/release/2024.2/2024.2.1/windows/CLion-2024.2.1.exe|https://download.jetbrains.com/cpp/CLion-2024.2.1.exe|1262259504|binary/octet-stream|1725271805
+jetbrains|CLion/release/2024.2/2024.2.1/linux/CLion-2024.2.1.tar.gz|https://download.jetbrains.com/cpp/CLion-2024.2.1.tar.gz|1425118772|binary/octet-stream|1725271835
+jetbrains|CLion/release/2024.2/2024.2.1/linuxARM64/CLion-2024.2.1-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2024.2.1-aarch64.tar.gz|1421484653|binary/octet-stream|1725271753
+jetbrains|CLion/release/2024.2/2024.2.1/windowsARM64/CLion-2024.2.1-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2024.2.1-aarch64.exe|1174619904|binary/octet-stream|1725271753
+jetbrains|CLion/release/2024.2/2024.2.1/windowsZip/CLion-2024.2.1.win.zip|https://download.jetbrains.com/cpp/CLion-2024.2.1.win.zip|1737270953|binary/octet-stream|1725271846

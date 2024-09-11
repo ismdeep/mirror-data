@@ -820,3 +820,13 @@ pandoc|3.3/pandoc-3.3-x86_64-macOS.pkg|https://github.com/jgm/pandoc/releases/do
 pandoc|3.3/pandoc-3.3-x86_64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.3/pandoc-3.3-x86_64-macOS.zip|21741995|application/octet-stream|1722211978
 pandoc|3.3/pandoc-3.3-1-arm64.deb|https://github.com/jgm/pandoc/releases/download/3.3/pandoc-3.3-1-arm64.deb|34350086|application/octet-stream|1722211873
 pandoc|3.3/pandoc-3.3-arm64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.3/pandoc-3.3-arm64-macOS.zip|35513723|application/octet-stream|1722211903
+pandoc|3.4/pandoc-3.4-linux-amd64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.4/pandoc-3.4-linux-amd64.tar.gz|32415360|application/octet-stream|1725989424
+pandoc|3.4/pandoc-3.4-windows-x86_64.msi|https://github.com/jgm/pandoc/releases/download/3.4/pandoc-3.4-windows-x86_64.msi|38514688|application/octet-stream|1725989459
+pandoc|3.4/pandoc-3.4-windows-x86_64.zip|https://github.com/jgm/pandoc/releases/download/3.4/pandoc-3.4-windows-x86_64.zip|37245561|application/octet-stream|1725989481
+pandoc|3.4/pandoc-3.4-x86_64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.4/pandoc-3.4-x86_64-macOS.pkg|21898786|application/octet-stream|1725989493
+pandoc|3.4/pandoc-3.4-1-amd64.deb|https://github.com/jgm/pandoc/releases/download/3.4/pandoc-3.4-1-amd64.deb|31912328|application/octet-stream|1725989346
+pandoc|3.4/pandoc-3.4-x86_64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.4/pandoc-3.4-x86_64-macOS.zip|21926889|application/octet-stream|1725989505
+pandoc|3.4/pandoc-3.4-linux-arm64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.4/pandoc-3.4-linux-arm64.tar.gz|35126564|application/octet-stream|1725989441
+pandoc|3.4/pandoc-3.4-1-arm64.deb|https://github.com/jgm/pandoc/releases/download/3.4/pandoc-3.4-1-arm64.deb|34645202|application/octet-stream|1725989370
+pandoc|3.4/pandoc-3.4-arm64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.4/pandoc-3.4-arm64-macOS.pkg|35738883|application/octet-stream|1725989387
+pandoc|3.4/pandoc-3.4-arm64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.4/pandoc-3.4-arm64-macOS.zip|35849240|application/octet-stream|1725989405

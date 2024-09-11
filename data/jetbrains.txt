@@ -6562,3 +6562,10 @@ jetbrains|CLion/release/2023.2/2023.2.5/macM1/CLion-2023.2.5-aarch64.dmg|https:/
 jetbrains|CLion/release/2023.2/2023.2.5/linux/CLion-2023.2.5.tar.gz|https://download.jetbrains.com/cpp/CLion-2023.2.5.tar.gz|868535264|binary/octet-stream|1725881335
 jetbrains|CLion/release/2023.2/2023.2.5/linuxARM64/CLion-2023.2.5-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2023.2.5-aarch64.tar.gz|872614498|binary/octet-stream|1725881282
 jetbrains|CLion/release/2023.2/2023.2.5/windows/CLion-2023.2.5.exe|https://download.jetbrains.com/cpp/CLion-2023.2.5.exe|746279272|binary/octet-stream|1725881326
+jetbrains|GoLand/release/2023.2/2023.2.8/macM1/goland-2023.2.8-aarch64.dmg|https://download.jetbrains.com/go/goland-2023.2.8-aarch64.dmg|645838076|binary/octet-stream|1725960640
+jetbrains|GoLand/release/2023.2/2023.2.8/mac/goland-2023.2.8.dmg|https://download.jetbrains.com/go/goland-2023.2.8.dmg|654018960|binary/octet-stream|1725960642
+jetbrains|GoLand/release/2023.2/2023.2.8/windows/goland-2023.2.8.exe|https://download.jetbrains.com/go/goland-2023.2.8.exe|499678400|binary/octet-stream|1725960666
+jetbrains|GoLand/release/2023.2/2023.2.8/linuxARM64/goland-2023.2.8-aarch64.tar.gz|https://download.jetbrains.com/go/goland-2023.2.8-aarch64.tar.gz|693538722|binary/octet-stream|1725960640
+jetbrains|GoLand/release/2023.2/2023.2.8/linux/goland-2023.2.8.tar.gz|https://download.jetbrains.com/go/goland-2023.2.8.tar.gz|692188386|binary/octet-stream|1725960674
+jetbrains|GoLand/release/2023.2/2023.2.8/windowsZip/goland-2023.2.8.win.zip|https://download.jetbrains.com/go/goland-2023.2.8.win.zip|688358891|binary/octet-stream|1725960682
+jetbrains|GoLand/release/2023.2/2023.2.8/windowsARM64/goland-2023.2.8-aarch64.exe|https://download.jetbrains.com/go/goland-2023.2.8-aarch64.exe|482755984|binary/octet-stream|1725960640

@@ -6569,3 +6569,15 @@ jetbrains|GoLand/release/2023.2/2023.2.8/linuxARM64/goland-2023.2.8-aarch64.tar.
 jetbrains|GoLand/release/2023.2/2023.2.8/linux/goland-2023.2.8.tar.gz|https://download.jetbrains.com/go/goland-2023.2.8.tar.gz|692188386|binary/octet-stream|1725960674
 jetbrains|GoLand/release/2023.2/2023.2.8/windowsZip/goland-2023.2.8.win.zip|https://download.jetbrains.com/go/goland-2023.2.8.win.zip|688358891|binary/octet-stream|1725960682
 jetbrains|GoLand/release/2023.2/2023.2.8/windowsARM64/goland-2023.2.8-aarch64.exe|https://download.jetbrains.com/go/goland-2023.2.8-aarch64.exe|482755984|binary/octet-stream|1725960640
+jetbrains|PyCharm/release/2023.2/2023.2.8/linux/pycharm-professional-2023.2.8.tar.gz|https://download.jetbrains.com/python/pycharm-professional-2023.2.8.tar.gz|765781179|binary/octet-stream|1726049688
+jetbrains|PyCharm/release/2023.2/2023.2.8/windows/pycharm-professional-2023.2.8.exe|https://download.jetbrains.com/python/pycharm-professional-2023.2.8.exe|546456832|binary/octet-stream|1726049681
+jetbrains|PyCharm/release/2023.2/2023.2.8/linuxARM64/pycharm-professional-2023.2.8-aarch64.tar.gz|https://download.jetbrains.com/python/pycharm-professional-2023.2.8-aarch64.tar.gz|767122088|binary/octet-stream|1726049678
+jetbrains|PyCharm/release/2023.2/2023.2.8/macM1/pycharm-professional-2023.2.8-aarch64.dmg|https://download.jetbrains.com/python/pycharm-professional-2023.2.8-aarch64.dmg|720224048|binary/octet-stream|1726049644
+jetbrains|PyCharm/release/2023.2/2023.2.8/windowsARM64/pycharm-professional-2023.2.8-aarch64.exe|https://download.jetbrains.com/python/pycharm-professional-2023.2.8-aarch64.exe|529536376|binary/octet-stream|1726049673
+jetbrains|PyCharm/release/2023.2/2023.2.8/mac/pycharm-professional-2023.2.8.dmg|https://download.jetbrains.com/python/pycharm-professional-2023.2.8.dmg|728433330|binary/octet-stream|1726049680
+jetbrains|PyCharmCommunity/release/2023.2/2023.2.8/windows/pycharm-community-2023.2.8.exe|https://download.jetbrains.com/python/pycharm-community-2023.2.8.exe|438990752|binary/octet-stream|1726049643
+jetbrains|PyCharmCommunity/release/2023.2/2023.2.8/linuxARM64/pycharm-community-2023.2.8-aarch64.tar.gz|https://download.jetbrains.com/python/pycharm-community-2023.2.8-aarch64.tar.gz|590614179|binary/octet-stream|1726049643
+jetbrains|PyCharmCommunity/release/2023.2/2023.2.8/windowsARM64/pycharm-community-2023.2.8-aarch64.exe|https://download.jetbrains.com/python/pycharm-community-2023.2.8-aarch64.exe|422147336|binary/octet-stream|1726049638
+jetbrains|PyCharmCommunity/release/2023.2/2023.2.8/macM1/pycharm-community-2023.2.8-aarch64.dmg|https://download.jetbrains.com/python/pycharm-community-2023.2.8-aarch64.dmg|563015879|binary/octet-stream|1726049631
+jetbrains|PyCharmCommunity/release/2023.2/2023.2.8/linux/pycharm-community-2023.2.8.tar.gz|https://download.jetbrains.com/python/pycharm-community-2023.2.8.tar.gz|588699786|binary/octet-stream|1726049643
+jetbrains|PyCharmCommunity/release/2023.2/2023.2.8/mac/pycharm-community-2023.2.8.dmg|https://download.jetbrains.com/python/pycharm-community-2023.2.8.dmg|571304024|binary/octet-stream|1726049643

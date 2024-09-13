@@ -1051,3 +1051,17 @@ ipfs-desktop|v0.37.0/ipfs-desktop-0.37.0-linux-x64.freebsd|https://github.com/ip
 ipfs-desktop|v0.37.0/ipfs-desktop-0.37.0-linux-x86_64.rpm|https://github.com/ipfs/ipfs-desktop/releases/download/v0.37.0/ipfs-desktop-0.37.0-linux-x86_64.rpm|118618257|application/octet-stream|1718318487
 ipfs-desktop|v0.37.0/ipfs-desktop-0.37.0-linux-x64.tar.xz|https://github.com/ipfs/ipfs-desktop/releases/download/v0.37.0/ipfs-desktop-0.37.0-linux-x64.tar.xz|118231644|application/octet-stream|1718318283
 ipfs-desktop|v0.37.0/latest-linux.yml|https://github.com/ipfs/ipfs-desktop/releases/download/v0.37.0/latest-linux.yml|738|application/octet-stream|1718318629
+ipfs-desktop|v0.38.0/latest-mac.yml|https://github.com/ipfs/ipfs-desktop/releases/download/v0.38.0/latest-mac.yml|520|application/octet-stream|1726183330
+ipfs-desktop|v0.38.0/latest.yml|https://github.com/ipfs/ipfs-desktop/releases/download/v0.38.0/latest.yml|356|application/octet-stream|1726183112
+ipfs-desktop|v0.38.0/ipfs-desktop-0.38.0-squirrel.zip|https://github.com/ipfs/ipfs-desktop/releases/download/v0.38.0/ipfs-desktop-0.38.0-squirrel.zip|250326940|application/octet-stream|1726183329
+ipfs-desktop|v0.38.0/IPFS-Desktop-Setup-0.38.0.exe.blockmap|https://github.com/ipfs/ipfs-desktop/releases/download/v0.38.0/IPFS-Desktop-Setup-0.38.0.exe.blockmap|125464|application/octet-stream|1726183109
+ipfs-desktop|v0.38.0/ipfs-desktop-0.38.0-linux-amd64.deb|https://github.com/ipfs/ipfs-desktop/releases/download/v0.38.0/ipfs-desktop-0.38.0-linux-amd64.deb|120090256|application/octet-stream|1726183215
+ipfs-desktop|v0.38.0/IPFS-Desktop-Setup-0.38.0.exe|https://github.com/ipfs/ipfs-desktop/releases/download/v0.38.0/IPFS-Desktop-Setup-0.38.0.exe|119644504|application/octet-stream|1726183111
+ipfs-desktop|v0.38.0/ipfs-desktop-0.38.0-squirrel.zip.blockmap|https://github.com/ipfs/ipfs-desktop/releases/download/v0.38.0/ipfs-desktop-0.38.0-squirrel.zip.blockmap|260534|application/octet-stream|1726183305
+ipfs-desktop|v0.38.0/ipfs-desktop-0.38.0-mac.dmg|https://github.com/ipfs/ipfs-desktop/releases/download/v0.38.0/ipfs-desktop-0.38.0-mac.dmg|260205652|application/octet-stream|1726183278
+ipfs-desktop|v0.38.0/ipfs-desktop-0.38.0-linux-x86_64.AppImage|https://github.com/ipfs/ipfs-desktop/releases/download/v0.38.0/ipfs-desktop-0.38.0-linux-x86_64.AppImage|164423228|application/octet-stream|1726183054
+ipfs-desktop|v0.38.0/latest-linux.yml|https://github.com/ipfs/ipfs-desktop/releases/download/v0.38.0/latest-linux.yml|738|application/octet-stream|1726183439
+ipfs-desktop|v0.38.0/ipfs-desktop-0.38.0-linux-x64.tar.xz|https://github.com/ipfs/ipfs-desktop/releases/download/v0.38.0/ipfs-desktop-0.38.0-linux-x64.tar.xz|118902864|application/octet-stream|1726183137
+ipfs-desktop|v0.38.0/ipfs-desktop-0.38.0-linux-x86_64.rpm|https://github.com/ipfs/ipfs-desktop/releases/download/v0.38.0/ipfs-desktop-0.38.0-linux-x86_64.rpm|119305313|application/octet-stream|1726183312
+ipfs-desktop|v0.38.0/ipfs-desktop-0.38.0-linux-x64.freebsd|https://github.com/ipfs/ipfs-desktop/releases/download/v0.38.0/ipfs-desktop-0.38.0-linux-x64.freebsd|121798540|application/octet-stream|1726183439
+ipfs-desktop|v0.38.0/ipfs-desktop-0.38.0-mac.dmg.blockmap|https://github.com/ipfs/ipfs-desktop/releases/download/v0.38.0/ipfs-desktop-0.38.0-mac.dmg.blockmap|272142|application/octet-stream|1726183262

@@ -6581,3 +6581,17 @@ jetbrains|PyCharmCommunity/release/2023.2/2023.2.8/windowsARM64/pycharm-communit
 jetbrains|PyCharmCommunity/release/2023.2/2023.2.8/macM1/pycharm-community-2023.2.8-aarch64.dmg|https://download.jetbrains.com/python/pycharm-community-2023.2.8-aarch64.dmg|563015879|binary/octet-stream|1726049631
 jetbrains|PyCharmCommunity/release/2023.2/2023.2.8/linux/pycharm-community-2023.2.8.tar.gz|https://download.jetbrains.com/python/pycharm-community-2023.2.8.tar.gz|588699786|binary/octet-stream|1726049643
 jetbrains|PyCharmCommunity/release/2023.2/2023.2.8/mac/pycharm-community-2023.2.8.dmg|https://download.jetbrains.com/python/pycharm-community-2023.2.8.dmg|571304024|binary/octet-stream|1726049643
+jetbrains|IDEA/release/2024.2/2024.2.2/linux/ideaIU-2024.2.2.tar.gz|https://download.jetbrains.com/idea/ideaIU-2024.2.2.tar.gz|1426991460|binary/octet-stream|1726683788
+jetbrains|IDEA/release/2024.2/2024.2.2/mac/ideaIU-2024.2.2.dmg|https://download.jetbrains.com/idea/ideaIU-2024.2.2.dmg|1369057738|binary/octet-stream|1726683755
+jetbrains|IDEA/release/2024.2/2024.2.2/macM1/ideaIU-2024.2.2-aarch64.dmg|https://download.jetbrains.com/idea/ideaIU-2024.2.2-aarch64.dmg|1359047670|binary/octet-stream|1726683699
+jetbrains|IDEA/release/2024.2/2024.2.2/windows/ideaIU-2024.2.2.exe|https://download.jetbrains.com/idea/ideaIU-2024.2.2.exe|1071780640|binary/octet-stream|1726683768
+jetbrains|IDEA/release/2024.2/2024.2.2/linuxARM64/ideaIU-2024.2.2-aarch64.tar.gz|https://download.jetbrains.com/idea/ideaIU-2024.2.2-aarch64.tar.gz|1425839848|binary/octet-stream|1726683722
+jetbrains|IDEA/release/2024.2/2024.2.2/windowsZip/ideaIU-2024.2.2.win.zip|https://download.jetbrains.com/idea/ideaIU-2024.2.2.win.zip|1433108588|binary/octet-stream|1726683813
+jetbrains|IDEA/release/2024.2/2024.2.2/windowsARM64/ideaIU-2024.2.2-aarch64.exe|https://download.jetbrains.com/idea/ideaIU-2024.2.2-aarch64.exe|1046794760|binary/octet-stream|1726683700
+jetbrains|CLion/release/2024.2/2024.2.2/windows/CLion-2024.2.2.exe|https://download.jetbrains.com/cpp/CLion-2024.2.2.exe|1262812704|binary/octet-stream|1726681630
+jetbrains|CLion/release/2024.2/2024.2.2/mac/CLion-2024.2.2.dmg|https://download.jetbrains.com/cpp/CLion-2024.2.2.dmg|1382064996|binary/octet-stream|1726681564
+jetbrains|CLion/release/2024.2/2024.2.2/macM1/CLion-2024.2.2-aarch64.dmg|https://download.jetbrains.com/cpp/CLion-2024.2.2-aarch64.dmg|1402602471|binary/octet-stream|1726681557
+jetbrains|CLion/release/2024.2/2024.2.2/linux/CLion-2024.2.2.tar.gz|https://download.jetbrains.com/cpp/CLion-2024.2.2.tar.gz|1425685720|binary/octet-stream|1726681643
+jetbrains|CLion/release/2024.2/2024.2.2/windowsZip/CLion-2024.2.2.win.zip|https://download.jetbrains.com/cpp/CLion-2024.2.2.win.zip|1739023047|binary/octet-stream|1726681645
+jetbrains|CLion/release/2024.2/2024.2.2/linuxARM64/CLion-2024.2.2-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2024.2.2-aarch64.tar.gz|1422054703|binary/octet-stream|1726681557
+jetbrains|CLion/release/2024.2/2024.2.2/windowsARM64/CLion-2024.2.2-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2024.2.2-aarch64.exe|1175176192|binary/octet-stream|1726681557

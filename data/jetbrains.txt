@@ -6646,3 +6646,10 @@ jetbrains|Rider/release/2024.2/2024.2.5/linuxARM64/JetBrains.Rider-2024.2.5-aarc
 jetbrains|Rider/release/2024.2/2024.2.5/windowsARM64/JetBrains.Rider-2024.2.5-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.5-aarch64.exe|1492889208|binary/octet-stream|1726833941
 jetbrains|Rider/release/2024.2/2024.2.5/linux/JetBrains.Rider-2024.2.5.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.5.tar.gz|1813265639|binary/octet-stream|1726834066
 jetbrains|Rider/release/2024.2/2024.2.5/windowsZipARM64/JetBrains.Rider-2024.2.5-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.5-aarch64.win.zip|2019799907|binary/octet-stream|1726834020
+jetbrains|GoLand/release/2024.2/2024.2.2.1/mac/goland-2024.2.2.1.dmg|https://download.jetbrains.com/go/goland-2024.2.2.1.dmg|950023647|binary/octet-stream|1727079645
+jetbrains|GoLand/release/2024.2/2024.2.2.1/linux/goland-2024.2.2.1.tar.gz|https://download.jetbrains.com/go/goland-2024.2.2.1.tar.gz|993929924|binary/octet-stream|1727079674
+jetbrains|GoLand/release/2024.2/2024.2.2.1/windows/goland-2024.2.2.1.exe|https://download.jetbrains.com/go/goland-2024.2.2.1.exe|749376720|binary/octet-stream|1727079663
+jetbrains|GoLand/release/2024.2/2024.2.2.1/macM1/goland-2024.2.2.1-aarch64.dmg|https://download.jetbrains.com/go/goland-2024.2.2.1-aarch64.dmg|940218624|binary/octet-stream|1727079635
+jetbrains|GoLand/release/2024.2/2024.2.2.1/linuxARM64/goland-2024.2.2.1-aarch64.tar.gz|https://download.jetbrains.com/go/goland-2024.2.2.1-aarch64.tar.gz|993091073|binary/octet-stream|1727079636
+jetbrains|GoLand/release/2024.2/2024.2.2.1/windowsZip/goland-2024.2.2.1.win.zip|https://download.jetbrains.com/go/goland-2024.2.2.1.win.zip|999337223|binary/octet-stream|1727079697
+jetbrains|GoLand/release/2024.2/2024.2.2.1/windowsARM64/goland-2024.2.2.1-aarch64.exe|https://download.jetbrains.com/go/goland-2024.2.2.1-aarch64.exe|724646664|binary/octet-stream|1727079635

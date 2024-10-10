@@ -6711,3 +6711,11 @@ jetbrains|PyCharmCommunity/release/2024.2/2024.2.3/windowsZipARM64/pycharm-commu
 jetbrains|WebStorm/release/2024.2/2024.2.3/windowsARM64/WebStorm-2024.2.3-aarch64.exe|https://download.jetbrains.com/webstorm/WebStorm-2024.2.3-aarch64.exe|653471920|binary/octet-stream|1727346417
 jetbrains|WebStorm/release/2024.2/2024.2.3/windowsZip/WebStorm-2024.2.3.win.zip|https://download.jetbrains.com/webstorm/WebStorm-2024.2.3.win.zip|886351013|binary/octet-stream|1727346479
 jetbrains|WebStorm/release/2024.2/2024.2.3/linuxARM64/WebStorm-2024.2.3-aarch64.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2024.2.3-aarch64.tar.gz|879538259|binary/octet-stream|1727346417
+jetbrains|Rider/release/2024.2/2024.2.6/windows/JetBrains.Rider-2024.2.6.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.6.exe|1482887584|binary/octet-stream|1728493733
+jetbrains|Rider/release/2024.2/2024.2.6/mac/JetBrains.Rider-2024.2.6.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.6.dmg|1723815641|binary/octet-stream|1728493659
+jetbrains|Rider/release/2024.2/2024.2.6/macM1/JetBrains.Rider-2024.2.6-aarch64.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.6-aarch64.dmg|1750274049|binary/octet-stream|1728493696
+jetbrains|Rider/release/2024.2/2024.2.6/windowsARM64/JetBrains.Rider-2024.2.6-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.6-aarch64.exe|1503252680|binary/octet-stream|1728493765
+jetbrains|Rider/release/2024.2/2024.2.6/linuxARM64/JetBrains.Rider-2024.2.6-aarch64.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.6-aarch64.tar.gz|1814145097|binary/octet-stream|1728493925
+jetbrains|Rider/release/2024.2/2024.2.6/linux/JetBrains.Rider-2024.2.6.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.6.tar.gz|1823630094|binary/octet-stream|1728493885
+jetbrains|Rider/release/2024.2/2024.2.6/windowsZipARM64/JetBrains.Rider-2024.2.6-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.6-aarch64.win.zip|2030050723|binary/octet-stream|1728493840
+jetbrains|Rider/release/2024.2/2024.2.6/windowsZip/JetBrains.Rider-2024.2.6.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.6.win.zip|1972755107|binary/octet-stream|1728493797

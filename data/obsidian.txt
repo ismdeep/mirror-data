@@ -771,3 +771,13 @@ obsidian|v1.6.7/obsidian_1.6.7_amd64.deb|https://github.com/obsidianmd/obsidian-
 obsidian|v1.6.7/obsidian-1.6.7-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.7/obsidian-1.6.7-arm64.tar.gz|108057397|application/octet-stream|1721315044
 obsidian|v1.6.7/obsidian-1.6.7.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.7/obsidian-1.6.7.tar.gz|107961144|application/octet-stream|1721315050
 obsidian|v1.6.7/Obsidian-1.6.7.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.7/Obsidian-1.6.7.apk|12661846|application/vnd.android.package-archive|1721314783
+obsidian|v1.7.4/obsidian-1.7.4.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.4/obsidian-1.7.4.asar.gz|8056043|application/octet-stream|1729107321
+obsidian|v1.7.4/Obsidian-1.7.4.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.4/Obsidian-1.7.4.apk|11782240|application/vnd.android.package-archive|1729107340
+obsidian|v1.7.4/Obsidian-1.7.4.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.4/Obsidian-1.7.4.AppImage|115551907|application/octet-stream|1729099482
+obsidian|v1.7.4/Obsidian-1.7.4.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.4/Obsidian-1.7.4.dmg|186389186|application/octet-stream|1729008039
+obsidian|v1.7.4/obsidian-1.7.4.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.4/obsidian-1.7.4.tar.gz|109408630|application/octet-stream|1729099486
+obsidian|v1.7.4/Obsidian-1.7.4-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.4/Obsidian-1.7.4-arm64.AppImage|115854978|application/octet-stream|1729099489
+obsidian|v1.7.4/obsidian_1.7.4_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.4/obsidian_1.7.4_amd64.deb|79977146|application/octet-stream|1729099492
+obsidian|v1.7.4/Obsidian-1.7.4.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.4/Obsidian-1.7.4.exe|251519976|application/octet-stream|1729008034
+obsidian|v1.7.4/obsidian-1.7.4-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.4/obsidian-1.7.4-arm64.tar.gz|109412252|application/octet-stream|1729099491
+obsidian|v1.7.4/Obsidian-1.7.4.snap|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.4/Obsidian-1.7.4.snap|125374464|application/octet-stream|1729099484

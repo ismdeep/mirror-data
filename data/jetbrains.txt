@@ -6763,3 +6763,10 @@ jetbrains|PyCharmCommunity/release/2024.1/2024.1.7/windowsZip/pycharm-community-
 jetbrains|PyCharmCommunity/release/2024.1/2024.1.7/mac/pycharm-community-2024.1.7.dmg|https://download.jetbrains.com/python/pycharm-community-2024.1.7.dmg|627650537|binary/octet-stream|1729185989
 jetbrains|PyCharmCommunity/release/2024.1/2024.1.7/windowsARM64/pycharm-community-2024.1.7-aarch64.exe|https://download.jetbrains.com/python/pycharm-community-2024.1.7-aarch64.exe|454844856|binary/octet-stream|1729185988
 jetbrains|PyCharm/release/2024.1/2024.1.7/windows/pycharm-professional-2024.1.7.exe|https://download.jetbrains.com/python/pycharm-professional-2024.1.7.exe|750884880|binary/octet-stream|1729186083
+jetbrains|RubyMine/release/2024.1/2024.1.7/linuxARM64/RubyMine-2024.1.7-aarch64.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2024.1.7-aarch64.tar.gz|822052026|binary/octet-stream|1729192657
+jetbrains|RubyMine/release/2024.1/2024.1.7/mac/RubyMine-2024.1.7.dmg|https://download.jetbrains.com/ruby/RubyMine-2024.1.7.dmg|787032271|binary/octet-stream|1729192658
+jetbrains|RubyMine/release/2024.1/2024.1.7/windows/RubyMine-2024.1.7.exe|https://download.jetbrains.com/ruby/RubyMine-2024.1.7.exe|623869864|binary/octet-stream|1729192693
+jetbrains|RubyMine/release/2024.1/2024.1.7/linux/RubyMine-2024.1.7.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2024.1.7.tar.gz|822590576|binary/octet-stream|1729192701
+jetbrains|RubyMine/release/2024.1/2024.1.7/macM1/RubyMine-2024.1.7-aarch64.dmg|https://download.jetbrains.com/ruby/RubyMine-2024.1.7-aarch64.dmg|777367834|binary/octet-stream|1729192657
+jetbrains|RubyMine/release/2024.1/2024.1.7/windowsARM64/RubyMine-2024.1.7-aarch64.exe|https://download.jetbrains.com/ruby/RubyMine-2024.1.7-aarch64.exe|599366704|binary/octet-stream|1729192657
+jetbrains|RubyMine/release/2024.1/2024.1.7/windowsZip/RubyMine-2024.1.7.win.zip|https://download.jetbrains.com/ruby/RubyMine-2024.1.7.win.zip|838506922|binary/octet-stream|1729192704

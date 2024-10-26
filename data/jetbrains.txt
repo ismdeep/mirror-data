@@ -6815,3 +6815,10 @@ jetbrains|IDEA/release/2024.2/2024.2.4/linuxARM64/ideaIU-2024.2.4-aarch64.tar.gz
 jetbrains|PhpStorm/release/2024.2/2024.2.4/windowsZip/PhpStorm-2024.2.4.win.zip|https://download.jetbrains.com/webide/PhpStorm-2024.2.4.win.zip|943868147|binary/octet-stream|1729756579
 jetbrains|Rider/release/2024.2/2024.2.7/windowsZipARM64/JetBrains.Rider-2024.2.7-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.7-aarch64.win.zip|2030322513|binary/octet-stream|1729688578
 jetbrains|WebStorm/release/2024.2/2024.2.4/windowsZip/WebStorm-2024.2.4.win.zip|https://download.jetbrains.com/webstorm/WebStorm-2024.2.4.win.zip|886462967|binary/octet-stream|1729689853
+jetbrains|RubyMine/release/2024.2/2024.2.4/macM1/RubyMine-2024.2.4-aarch64.dmg|https://download.jetbrains.com/ruby/RubyMine-2024.2.4-aarch64.dmg|872638178|binary/octet-stream|1729844627
+jetbrains|RubyMine/release/2024.2/2024.2.4/linux/RubyMine-2024.2.4.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2024.2.4.tar.gz|922074594|binary/octet-stream|1729844678
+jetbrains|RubyMine/release/2024.2/2024.2.4/windows/RubyMine-2024.2.4.exe|https://download.jetbrains.com/ruby/RubyMine-2024.2.4.exe|704757160|binary/octet-stream|1729844652
+jetbrains|RubyMine/release/2024.2/2024.2.4/windowsARM64/RubyMine-2024.2.4-aarch64.exe|https://download.jetbrains.com/ruby/RubyMine-2024.2.4-aarch64.exe|680033216|binary/octet-stream|1729844627
+jetbrains|RubyMine/release/2024.2/2024.2.4/windowsZip/RubyMine-2024.2.4.win.zip|https://download.jetbrains.com/ruby/RubyMine-2024.2.4.win.zip|935809450|binary/octet-stream|1729844680
+jetbrains|RubyMine/release/2024.2/2024.2.4/linuxARM64/RubyMine-2024.2.4-aarch64.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2024.2.4-aarch64.tar.gz|921242335|binary/octet-stream|1729844629
+jetbrains|RubyMine/release/2024.2/2024.2.4/mac/RubyMine-2024.2.4.dmg|https://download.jetbrains.com/ruby/RubyMine-2024.2.4.dmg|882710011|binary/octet-stream|1729844639

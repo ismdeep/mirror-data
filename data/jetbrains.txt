@@ -6822,3 +6822,10 @@ jetbrains|RubyMine/release/2024.2/2024.2.4/windowsARM64/RubyMine-2024.2.4-aarch6
 jetbrains|RubyMine/release/2024.2/2024.2.4/windowsZip/RubyMine-2024.2.4.win.zip|https://download.jetbrains.com/ruby/RubyMine-2024.2.4.win.zip|935809450|binary/octet-stream|1729844680
 jetbrains|RubyMine/release/2024.2/2024.2.4/linuxARM64/RubyMine-2024.2.4-aarch64.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2024.2.4-aarch64.tar.gz|921242335|binary/octet-stream|1729844629
 jetbrains|RubyMine/release/2024.2/2024.2.4/mac/RubyMine-2024.2.4.dmg|https://download.jetbrains.com/ruby/RubyMine-2024.2.4.dmg|882710011|binary/octet-stream|1729844639
+jetbrains|CLion/release/2024.2/2024.2.3/mac/CLion-2024.2.3.dmg|https://download.jetbrains.com/cpp/CLion-2024.2.3.dmg|1388893922|binary/octet-stream|1730130656
+jetbrains|CLion/release/2024.2/2024.2.3/linux/CLion-2024.2.3.tar.gz|https://download.jetbrains.com/cpp/CLion-2024.2.3.tar.gz|1430996899|binary/octet-stream|1730130737
+jetbrains|CLion/release/2024.2/2024.2.3/linuxARM64/CLion-2024.2.3-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2024.2.3-aarch64.tar.gz|1425723386|binary/octet-stream|1730130655
+jetbrains|CLion/release/2024.2/2024.2.3/macM1/CLion-2024.2.3-aarch64.dmg|https://download.jetbrains.com/cpp/CLion-2024.2.3-aarch64.dmg|1407526792|binary/octet-stream|1730130653
+jetbrains|CLion/release/2024.2/2024.2.3/windows/CLion-2024.2.3.exe|https://download.jetbrains.com/cpp/CLion-2024.2.3.exe|1267079064|binary/octet-stream|1730130731
+jetbrains|CLion/release/2024.2/2024.2.3/windowsZip/CLion-2024.2.3.win.zip|https://download.jetbrains.com/cpp/CLion-2024.2.3.win.zip|1729510176|binary/octet-stream|1730130746
+jetbrains|CLion/release/2024.2/2024.2.3/windowsARM64/CLion-2024.2.3-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2024.2.3-aarch64.exe|1188015592|binary/octet-stream|1730130653

@@ -781,3 +781,12 @@ obsidian|v1.7.4/obsidian_1.7.4_amd64.deb|https://github.com/obsidianmd/obsidian-
 obsidian|v1.7.4/Obsidian-1.7.4.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.4/Obsidian-1.7.4.exe|251519976|application/octet-stream|1729008034
 obsidian|v1.7.4/obsidian-1.7.4-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.4/obsidian-1.7.4-arm64.tar.gz|109412252|application/octet-stream|1729099491
 obsidian|v1.7.4/Obsidian-1.7.4.snap|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.4/Obsidian-1.7.4.snap|125374464|application/octet-stream|1729099484
+obsidian|v1.7.5/obsidian-1.7.5.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.5/obsidian-1.7.5.asar.gz|8056498|application/octet-stream|1730754349
+obsidian|v1.7.5/obsidian_1.7.5_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.5/obsidian_1.7.5_amd64.deb|80993390|application/octet-stream|1730754299
+obsidian|v1.7.5/Obsidian-1.7.5.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.5/Obsidian-1.7.5.apk|11782549|application/vnd.android.package-archive|1730754346
+obsidian|v1.7.5/Obsidian-1.7.5.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.5/Obsidian-1.7.5.exe|256892440|application/octet-stream|1730754309
+obsidian|v1.7.5/Obsidian-1.7.5.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.5/Obsidian-1.7.5.dmg|189368693|application/octet-stream|1730754305
+obsidian|v1.7.5/Obsidian-1.7.5.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.5/Obsidian-1.7.5.AppImage|117523913|application/octet-stream|1730754302
+obsidian|v1.7.5/obsidian-1.7.5-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.5/obsidian-1.7.5-arm64.tar.gz|111284965|application/octet-stream|1730754298
+obsidian|v1.7.5/Obsidian-1.7.5-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.5/Obsidian-1.7.5-arm64.AppImage|117802923|application/octet-stream|1730754296
+obsidian|v1.7.5/obsidian-1.7.5.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.5/obsidian-1.7.5.tar.gz|111265292|application/octet-stream|1730754294

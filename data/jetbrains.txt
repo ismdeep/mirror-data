@@ -6829,3 +6829,10 @@ jetbrains|CLion/release/2024.2/2024.2.3/macM1/CLion-2024.2.3-aarch64.dmg|https:/
 jetbrains|CLion/release/2024.2/2024.2.3/windows/CLion-2024.2.3.exe|https://download.jetbrains.com/cpp/CLion-2024.2.3.exe|1267079064|binary/octet-stream|1730130731
 jetbrains|CLion/release/2024.2/2024.2.3/windowsZip/CLion-2024.2.3.win.zip|https://download.jetbrains.com/cpp/CLion-2024.2.3.win.zip|1729510176|binary/octet-stream|1730130746
 jetbrains|CLion/release/2024.2/2024.2.3/windowsARM64/CLion-2024.2.3-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2024.2.3-aarch64.exe|1188015592|binary/octet-stream|1730130653
+jetbrains|WebStorm/release/2024.3/2024.3/mac/WebStorm-2024.3.dmg|https://download.jetbrains.com/webstorm/WebStorm-2024.3.dmg|1024024886|binary/octet-stream|1731415392
+jetbrains|WebStorm/release/2024.3/2024.3/linux/WebStorm-2024.3.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2024.3.tar.gz|1066894355|binary/octet-stream|1731415452
+jetbrains|WebStorm/release/2024.3/2024.3/windows/WebStorm-2024.3.exe|https://download.jetbrains.com/webstorm/WebStorm-2024.3.exe|833737944|binary/octet-stream|1731415430
+jetbrains|WebStorm/release/2024.3/2024.3/linuxARM64/WebStorm-2024.3-aarch64.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2024.3-aarch64.tar.gz|1066409746|binary/octet-stream|1731415390
+jetbrains|WebStorm/release/2024.3/2024.3/macM1/WebStorm-2024.3-aarch64.dmg|https://download.jetbrains.com/webstorm/WebStorm-2024.3-aarch64.dmg|1014540749|binary/octet-stream|1731415390
+jetbrains|WebStorm/release/2024.3/2024.3/windowsARM64/WebStorm-2024.3-aarch64.exe|https://download.jetbrains.com/webstorm/WebStorm-2024.3-aarch64.exe|796750680|binary/octet-stream|1731415390
+jetbrains|WebStorm/release/2024.3/2024.3/windowsZip/WebStorm-2024.3.win.zip|https://download.jetbrains.com/webstorm/WebStorm-2024.3.win.zip|1077831499|binary/octet-stream|1731415460

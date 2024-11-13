@@ -790,3 +790,12 @@ obsidian|v1.7.5/Obsidian-1.7.5.AppImage|https://github.com/obsidianmd/obsidian-r
 obsidian|v1.7.5/obsidian-1.7.5-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.5/obsidian-1.7.5-arm64.tar.gz|111284965|application/octet-stream|1730754298
 obsidian|v1.7.5/Obsidian-1.7.5-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.5/Obsidian-1.7.5-arm64.AppImage|117802923|application/octet-stream|1730754296
 obsidian|v1.7.5/obsidian-1.7.5.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.5/obsidian-1.7.5.tar.gz|111265292|application/octet-stream|1730754294
+obsidian|v1.7.6/obsidian-1.7.6.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.6/obsidian-1.7.6.asar.gz|8000010|application/octet-stream|1731259386
+obsidian|v1.7.6/Obsidian-1.7.6.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.6/Obsidian-1.7.6.exe|256873184|application/octet-stream|1731259709
+obsidian|v1.7.6/obsidian_1.7.6_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.6/obsidian_1.7.6_amd64.deb|80993002|application/octet-stream|1731259699
+obsidian|v1.7.6/Obsidian-1.7.6.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.6/Obsidian-1.7.6.AppImage|117482394|application/octet-stream|1731259702
+obsidian|v1.7.6/Obsidian-1.7.6.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.6/Obsidian-1.7.6.apk|11728923|application/vnd.android.package-archive|1731259432
+obsidian|v1.7.6/Obsidian-1.7.6-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.6/Obsidian-1.7.6-arm64.AppImage|117749965|application/octet-stream|1731259696
+obsidian|v1.7.6/obsidian-1.7.6-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.6/obsidian-1.7.6-arm64.tar.gz|111233825|application/octet-stream|1731259698
+obsidian|v1.7.6/obsidian-1.7.6.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.6/obsidian-1.7.6.tar.gz|111218112|application/octet-stream|1731259711
+obsidian|v1.7.6/Obsidian-1.7.6.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.6/Obsidian-1.7.6.dmg|189344960|application/octet-stream|1731259705

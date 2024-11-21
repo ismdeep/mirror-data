@@ -6895,3 +6895,10 @@ jetbrains|PhpStorm/release/2024.3/2024.3/linuxARM64/PhpStorm-2024.3-aarch64.tar.
 jetbrains|GoLand/release/2024.3/2024.3/linuxARM64/goland-2024.3-aarch64.tar.gz|https://download.jetbrains.com/go/goland-2024.3-aarch64.tar.gz|1077894616|binary/octet-stream|1731579398
 jetbrains|GoLand/release/2024.3/2024.3/windowsARM64/goland-2024.3-aarch64.exe|https://download.jetbrains.com/go/goland-2024.3-aarch64.exe|782707288|binary/octet-stream|1731579398
 jetbrains|GoLand/release/2024.3/2024.3/windowsZip/goland-2024.3.win.zip|https://download.jetbrains.com/go/goland-2024.3.win.zip|1088880815|binary/octet-stream|1731579467
+jetbrains|CLion/release/2024.3/2024.3/windows/CLion-2024.3.exe|https://download.jetbrains.com/cpp/CLion-2024.3.exe|1360374368|binary/octet-stream|1732031962
+jetbrains|CLion/release/2024.3/2024.3/mac/CLion-2024.3.dmg|https://download.jetbrains.com/cpp/CLion-2024.3.dmg|1479884859|binary/octet-stream|1732031905
+jetbrains|CLion/release/2024.3/2024.3/macM1/CLion-2024.3-aarch64.dmg|https://download.jetbrains.com/cpp/CLion-2024.3-aarch64.dmg|1498324231|binary/octet-stream|1732031903
+jetbrains|CLion/release/2024.3/2024.3/linux/CLion-2024.3.tar.gz|https://download.jetbrains.com/cpp/CLion-2024.3.tar.gz|1535155425|binary/octet-stream|1732031980
+jetbrains|CLion/release/2024.3/2024.3/linuxARM64/CLion-2024.3-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2024.3-aarch64.tar.gz|1530175542|binary/octet-stream|1732031903
+jetbrains|CLion/release/2024.3/2024.3/windowsARM64/CLion-2024.3-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2024.3-aarch64.exe|1261474712|binary/octet-stream|1732031903
+jetbrains|CLion/release/2024.3/2024.3/windowsZip/CLion-2024.3.win.zip|https://download.jetbrains.com/cpp/CLion-2024.3.win.zip|1856324125|binary/octet-stream|1732032012

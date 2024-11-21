@@ -1079,3 +1079,17 @@ ipfs-desktop|v0.39.0/ipfs-desktop-0.39.0-mac.dmg|https://github.com/ipfs/ipfs-de
 ipfs-desktop|v0.39.0/ipfs-desktop-0.39.0-linux-x86_64.AppImage|https://github.com/ipfs/ipfs-desktop/releases/download/v0.39.0/ipfs-desktop-0.39.0-linux-x86_64.AppImage|172977671|application/octet-stream|1729190526
 ipfs-desktop|v0.39.0/ipfs-desktop-0.39.0-linux-x64.freebsd|https://github.com/ipfs/ipfs-desktop/releases/download/v0.39.0/ipfs-desktop-0.39.0-linux-x64.freebsd|128919136|application/octet-stream|1729190894
 ipfs-desktop|v0.39.0/ipfs-desktop-0.39.0-linux-x86_64.rpm|https://github.com/ipfs/ipfs-desktop/releases/download/v0.39.0/ipfs-desktop-0.39.0-linux-x86_64.rpm|126585673|application/octet-stream|1729190765
+ipfs-desktop|v0.40.0/latest.yml|https://github.com/ipfs/ipfs-desktop/releases/download/v0.40.0/latest.yml|356|application/octet-stream|1732150397
+ipfs-desktop|v0.40.0/IPFS-Desktop-Setup-0.40.0.exe|https://github.com/ipfs/ipfs-desktop/releases/download/v0.40.0/IPFS-Desktop-Setup-0.40.0.exe|126041840|application/octet-stream|1732150396
+ipfs-desktop|v0.40.0/ipfs-desktop-0.40.0-squirrel.zip.blockmap|https://github.com/ipfs/ipfs-desktop/releases/download/v0.40.0/ipfs-desktop-0.40.0-squirrel.zip.blockmap|272854|application/octet-stream|1732150636
+ipfs-desktop|v0.40.0/latest-mac.yml|https://github.com/ipfs/ipfs-desktop/releases/download/v0.40.0/latest-mac.yml|520|application/octet-stream|1732150684
+ipfs-desktop|v0.40.0/ipfs-desktop-0.40.0-squirrel.zip|https://github.com/ipfs/ipfs-desktop/releases/download/v0.40.0/ipfs-desktop-0.40.0-squirrel.zip|262048419|application/octet-stream|1732150683
+ipfs-desktop|v0.40.0/ipfs-desktop-0.40.0-linux-amd64.deb|https://github.com/ipfs/ipfs-desktop/releases/download/v0.40.0/ipfs-desktop-0.40.0-linux-amd64.deb|127060680|application/octet-stream|1732150515
+ipfs-desktop|v0.40.0/IPFS-Desktop-Setup-0.40.0.exe.blockmap|https://github.com/ipfs/ipfs-desktop/releases/download/v0.40.0/IPFS-Desktop-Setup-0.40.0.exe.blockmap|133684|application/octet-stream|1732150394
+ipfs-desktop|v0.40.0/latest-linux.yml|https://github.com/ipfs/ipfs-desktop/releases/download/v0.40.0/latest-linux.yml|738|application/octet-stream|1732150756
+ipfs-desktop|v0.40.0/ipfs-desktop-0.40.0-linux-x86_64.AppImage|https://github.com/ipfs/ipfs-desktop/releases/download/v0.40.0/ipfs-desktop-0.40.0-linux-x86_64.AppImage|172803424|application/octet-stream|1732150360
+ipfs-desktop|v0.40.0/ipfs-desktop-0.40.0-mac.dmg.blockmap|https://github.com/ipfs/ipfs-desktop/releases/download/v0.40.0/ipfs-desktop-0.40.0-mac.dmg.blockmap|283379|application/octet-stream|1732150585
+ipfs-desktop|v0.40.0/ipfs-desktop-0.40.0-linux-x64.freebsd|https://github.com/ipfs/ipfs-desktop/releases/download/v0.40.0/ipfs-desktop-0.40.0-linux-x64.freebsd|129024180|application/octet-stream|1732150756
+ipfs-desktop|v0.40.0/ipfs-desktop-0.40.0-linux-x86_64.rpm|https://github.com/ipfs/ipfs-desktop/releases/download/v0.40.0/ipfs-desktop-0.40.0-linux-x86_64.rpm|126687029|application/octet-stream|1732150625
+ipfs-desktop|v0.40.0/ipfs-desktop-0.40.0-linux-x64.tar.xz|https://github.com/ipfs/ipfs-desktop/releases/download/v0.40.0/ipfs-desktop-0.40.0-linux-x64.tar.xz|126388424|application/octet-stream|1732150446
+ipfs-desktop|v0.40.0/ipfs-desktop-0.40.0-mac.dmg|https://github.com/ipfs/ipfs-desktop/releases/download/v0.40.0/ipfs-desktop-0.40.0-mac.dmg|272070445|application/octet-stream|1732150608

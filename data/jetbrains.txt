@@ -6966,3 +6966,10 @@ jetbrains|DataGrip/release/2024.3/2024.3.1/linux/datagrip-2024.3.1.tar.gz|https:
 jetbrains|DataGrip/release/2024.3/2024.3.1/windowsARM64/datagrip-2024.3.1-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2024.3.1-aarch64.exe|728988584|binary/octet-stream|1732804611
 jetbrains|DataGrip/release/2024.3/2024.3.1/macM1/datagrip-2024.3.1-aarch64.dmg|https://download.jetbrains.com/datagrip/datagrip-2024.3.1-aarch64.dmg|888833958|binary/octet-stream|1732804611
 jetbrains|DataGrip/release/2024.3/2024.3.1/windowsZip/datagrip-2024.3.1.win.zip|https://download.jetbrains.com/datagrip/datagrip-2024.3.1.win.zip|931284246|binary/octet-stream|1732804666
+jetbrains|WebStorm/release/2024.2/2024.2.5/linux/WebStorm-2024.2.5.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2024.2.5.tar.gz|880583633|binary/octet-stream|1732870608
+jetbrains|WebStorm/release/2024.2/2024.2.5/linuxARM64/WebStorm-2024.2.5-aarch64.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2024.2.5-aarch64.tar.gz|879423161|binary/octet-stream|1732870561
+jetbrains|WebStorm/release/2024.2/2024.2.5/windows/WebStorm-2024.2.5.exe|https://download.jetbrains.com/webstorm/WebStorm-2024.2.5.exe|678597136|binary/octet-stream|1732870599
+jetbrains|WebStorm/release/2024.2/2024.2.5/mac/WebStorm-2024.2.5.dmg|https://download.jetbrains.com/webstorm/WebStorm-2024.2.5.dmg|843047818|binary/octet-stream|1732870564
+jetbrains|WebStorm/release/2024.2/2024.2.5/macM1/WebStorm-2024.2.5-aarch64.dmg|https://download.jetbrains.com/webstorm/WebStorm-2024.2.5-aarch64.dmg|832994029|binary/octet-stream|1732870561
+jetbrains|WebStorm/release/2024.2/2024.2.5/windowsZip/WebStorm-2024.2.5.win.zip|https://download.jetbrains.com/webstorm/WebStorm-2024.2.5.win.zip|886608042|binary/octet-stream|1732870616
+jetbrains|WebStorm/release/2024.2/2024.2.5/windowsARM64/WebStorm-2024.2.5-aarch64.exe|https://download.jetbrains.com/webstorm/WebStorm-2024.2.5-aarch64.exe|653625592|binary/octet-stream|1732870561

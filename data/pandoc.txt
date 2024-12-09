@@ -840,3 +840,13 @@ pandoc|3.5/pandoc-3.5-linux-arm64.tar.gz|https://github.com/jgm/pandoc/releases/
 pandoc|3.5/pandoc-3.5-arm64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.5/pandoc-3.5-arm64-macOS.zip|35805971|application/octet-stream|1728162759
 pandoc|3.5/pandoc-3.5-arm64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.5/pandoc-3.5-arm64-macOS.pkg|35691579|application/octet-stream|1728162737
 pandoc|3.5/pandoc-3.5-x86_64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.5/pandoc-3.5-x86_64-macOS.pkg|21912367|application/octet-stream|1728162825
+pandoc|3.6/pandoc-3.6-linux-arm64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.6/pandoc-3.6-linux-arm64.tar.gz|35511680|application/octet-stream|1733636035
+pandoc|3.6/pandoc-3.6-windows-x86_64.zip|https://github.com/jgm/pandoc/releases/download/3.6/pandoc-3.6-windows-x86_64.zip|37612305|application/octet-stream|1733636066
+pandoc|3.6/pandoc-3.6-linux-amd64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.6/pandoc-3.6-linux-amd64.tar.gz|32764256|application/octet-stream|1733636018
+pandoc|3.6/pandoc-3.6-x86_64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.6/pandoc-3.6-x86_64-macOS.pkg|22173687|application/octet-stream|1733636076
+pandoc|3.6/pandoc-3.6-windows-x86_64.msi|https://github.com/jgm/pandoc/releases/download/3.6/pandoc-3.6-windows-x86_64.msi|38895616|application/octet-stream|1733636052
+pandoc|3.6/pandoc-3.6-arm64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.6/pandoc-3.6-arm64-macOS.zip|36247445|application/octet-stream|1733636004
+pandoc|3.6/pandoc-3.6-1-amd64.deb|https://github.com/jgm/pandoc/releases/download/3.6/pandoc-3.6-1-amd64.deb|32248406|application/octet-stream|1733635948
+pandoc|3.6/pandoc-3.6-x86_64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.6/pandoc-3.6-x86_64-macOS.zip|22215036|application/octet-stream|1733636084
+pandoc|3.6/pandoc-3.6-1-arm64.deb|https://github.com/jgm/pandoc/releases/download/3.6/pandoc-3.6-1-arm64.deb|35019416|application/octet-stream|1733635962
+pandoc|3.6/pandoc-3.6-arm64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.6/pandoc-3.6-arm64-macOS.pkg|36134355|application/octet-stream|1733635982

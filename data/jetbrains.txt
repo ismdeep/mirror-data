@@ -6987,3 +6987,10 @@ jetbrains|WebStorm/release/2024.3/2024.3.1/windowsARM64/WebStorm-2024.3.1-aarch6
 jetbrains|DataGrip/release/2024.3/2024.3.2/macM1/datagrip-2024.3.2-aarch64.dmg|https://download.jetbrains.com/datagrip/datagrip-2024.3.2-aarch64.dmg|890598393|binary/octet-stream|1733402316
 jetbrains|DataGrip/release/2024.3/2024.3.2/linux/datagrip-2024.3.2.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2024.3.2.tar.gz|927779252|binary/octet-stream|1733402356
 jetbrains|DataGrip/release/2024.3/2024.3.2/windowsZip/datagrip-2024.3.2.win.zip|https://download.jetbrains.com/datagrip/datagrip-2024.3.2.win.zip|933121940|binary/octet-stream|1733402358
+jetbrains|IDEA/release/2024.3/2024.3.1/windows/ideaIU-2024.3.1.exe|https://download.jetbrains.com/idea/ideaIU-2024.3.1.exe|1192502680|binary/octet-stream|1733740181
+jetbrains|IDEA/release/2024.3/2024.3.1/linuxARM64/ideaIU-2024.3.1-aarch64.tar.gz|https://download.jetbrains.com/idea/ideaIU-2024.3.1-aarch64.tar.gz|1558499529|binary/octet-stream|1733740125
+jetbrains|IDEA/release/2024.3/2024.3.1/macM1/ideaIU-2024.3.1-aarch64.dmg|https://download.jetbrains.com/idea/ideaIU-2024.3.1-aarch64.dmg|1493838871|binary/octet-stream|1733740108
+jetbrains|IDEA/release/2024.3/2024.3.1/windowsARM64/ideaIU-2024.3.1-aarch64.exe|https://download.jetbrains.com/idea/ideaIU-2024.3.1-aarch64.exe|1155514888|binary/octet-stream|1733740112
+jetbrains|IDEA/release/2024.3/2024.3.1/mac/ideaIU-2024.3.1.dmg|https://download.jetbrains.com/idea/ideaIU-2024.3.1.dmg|1503503019|binary/octet-stream|1733740161
+jetbrains|IDEA/release/2024.3/2024.3.1/windowsZip/ideaIU-2024.3.1.win.zip|https://download.jetbrains.com/idea/ideaIU-2024.3.1.win.zip|1575377998|binary/octet-stream|1733740217
+jetbrains|IDEA/release/2024.3/2024.3.1/linux/ideaIU-2024.3.1.tar.gz|https://download.jetbrains.com/idea/ideaIU-2024.3.1.tar.gz|1559152957|binary/octet-stream|1733740194

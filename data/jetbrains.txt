@@ -6994,3 +6994,17 @@ jetbrains|IDEA/release/2024.3/2024.3.1/windowsARM64/ideaIU-2024.3.1-aarch64.exe|
 jetbrains|IDEA/release/2024.3/2024.3.1/mac/ideaIU-2024.3.1.dmg|https://download.jetbrains.com/idea/ideaIU-2024.3.1.dmg|1503503019|binary/octet-stream|1733740161
 jetbrains|IDEA/release/2024.3/2024.3.1/windowsZip/ideaIU-2024.3.1.win.zip|https://download.jetbrains.com/idea/ideaIU-2024.3.1.win.zip|1575377998|binary/octet-stream|1733740217
 jetbrains|IDEA/release/2024.3/2024.3.1/linux/ideaIU-2024.3.1.tar.gz|https://download.jetbrains.com/idea/ideaIU-2024.3.1.tar.gz|1559152957|binary/octet-stream|1733740194
+jetbrains|CLion/release/2024.3/2024.3.1/windows/CLion-2024.3.1.exe|https://download.jetbrains.com/cpp/CLion-2024.3.1.exe|1359477992|binary/octet-stream|1733836308
+jetbrains|CLion/release/2024.3/2024.3.1/mac/CLion-2024.3.1.dmg|https://download.jetbrains.com/cpp/CLion-2024.3.1.dmg|1485365291|binary/octet-stream|1733836230
+jetbrains|CLion/release/2024.3/2024.3.1/macM1/CLion-2024.3.1-aarch64.dmg|https://download.jetbrains.com/cpp/CLion-2024.3.1-aarch64.dmg|1504544996|binary/octet-stream|1733836228
+jetbrains|CLion/release/2024.3/2024.3.1/linux/CLion-2024.3.1.tar.gz|https://download.jetbrains.com/cpp/CLion-2024.3.1.tar.gz|1536117311|binary/octet-stream|1733836309
+jetbrains|CLion/release/2024.3/2024.3.1/windowsZip/CLion-2024.3.1.win.zip|https://download.jetbrains.com/cpp/CLion-2024.3.1.win.zip|1862523313|binary/octet-stream|1733836316
+jetbrains|CLion/release/2024.3/2024.3.1/linuxARM64/CLion-2024.3.1-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2024.3.1-aarch64.tar.gz|1531013718|binary/octet-stream|1733836229
+jetbrains|CLion/release/2024.3/2024.3.1/windowsARM64/CLion-2024.3.1-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2024.3.1-aarch64.exe|1261023992|binary/octet-stream|1733836228
+jetbrains|PhpStorm/release/2024.3/2024.3.1/macM1/PhpStorm-2024.3.1-aarch64.dmg|https://download.jetbrains.com/webide/PhpStorm-2024.3.1-aarch64.dmg|969740267|binary/octet-stream|1733840379
+jetbrains|PhpStorm/release/2024.3/2024.3.1/windows/PhpStorm-2024.3.1.exe|https://download.jetbrains.com/webide/PhpStorm-2024.3.1.exe|777177072|binary/octet-stream|1733840405
+jetbrains|PhpStorm/release/2024.3/2024.3.1/mac/PhpStorm-2024.3.1.dmg|https://download.jetbrains.com/webide/PhpStorm-2024.3.1.dmg|979257725|binary/octet-stream|1733840383
+jetbrains|PhpStorm/release/2024.3/2024.3.1/windowsARM64/PhpStorm-2024.3.1-aarch64.exe|https://download.jetbrains.com/webide/PhpStorm-2024.3.1-aarch64.exe|740189640|binary/octet-stream|1733840379
+jetbrains|PhpStorm/release/2024.3/2024.3.1/linuxARM64/PhpStorm-2024.3.1-aarch64.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2024.3.1-aarch64.tar.gz|1017973948|binary/octet-stream|1733840379
+jetbrains|PhpStorm/release/2024.3/2024.3.1/linux/PhpStorm-2024.3.1.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2024.3.1.tar.gz|1018635771|binary/octet-stream|1733840430
+jetbrains|PhpStorm/release/2024.3/2024.3.1/windowsZip/PhpStorm-2024.3.1.win.zip|https://download.jetbrains.com/webide/PhpStorm-2024.3.1.win.zip|1034459121|binary/octet-stream|1733840432

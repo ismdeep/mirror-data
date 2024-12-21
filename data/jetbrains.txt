@@ -7103,3 +7103,16 @@ jetbrains|PyCharmCommunity/release/2024.3/2024.3.1.1/windowsZip/pycharm-communit
 jetbrains|PyCharmCommunity/release/2024.3/2024.3.1.1/macM1/pycharm-community-2024.3.1.1-aarch64.dmg|https://download.jetbrains.com/python/pycharm-community-2024.3.1.1-aarch64.dmg|692955193|binary/octet-stream|1734626723
 jetbrains|PyCharmCommunity/release/2024.3/2024.3.1.1/windowsARM64/pycharm-community-2024.3.1.1-aarch64.exe|https://download.jetbrains.com/python/pycharm-community-2024.3.1.1-aarch64.exe|506060320|binary/octet-stream|1734626723
 jetbrains|PyCharmCommunity/release/2024.3/2024.3.1.1/windowsZipARM64/pycharm-community-2024.3.1.1-aarch64.win.zip|https://download.jetbrains.com/python/pycharm-community-2024.3.1.1-aarch64.win.zip|712780700|binary/octet-stream|1734626723
+jetbrains|RubyMine/release/2024.3/2024.3.1.1/mac/RubyMine-2024.3.1.1.dmg|https://download.jetbrains.com/ruby/RubyMine-2024.3.1.1.dmg|980444819|binary/octet-stream|1734686649
+jetbrains|RubyMine/release/2024.3/2024.3.1.1/linuxARM64/RubyMine-2024.3.1.1-aarch64.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2024.3.1.1-aarch64.tar.gz|1019086803|binary/octet-stream|1734686647
+jetbrains|RubyMine/release/2024.3/2024.3.1.1/macM1/RubyMine-2024.3.1.1-aarch64.dmg|https://download.jetbrains.com/ruby/RubyMine-2024.3.1.1-aarch64.dmg|970940252|binary/octet-stream|1734686647
+jetbrains|RubyMine/release/2024.3/2024.3.1.1/windows/RubyMine-2024.3.1.1.exe|https://download.jetbrains.com/ruby/RubyMine-2024.3.1.1.exe|776874120|binary/octet-stream|1734686691
+jetbrains|RubyMine/release/2024.3/2024.3.1.1/linux/RubyMine-2024.3.1.1.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2024.3.1.1.tar.gz|1019387343|binary/octet-stream|1734686695
+jetbrains|DataSpell/release/2024.3/2024.3.1.1/windows/dataspell-2024.3.1.1.exe|https://download.jetbrains.com/python/dataspell-2024.3.1.1.exe|910017000|binary/octet-stream|1734639353
+jetbrains|DataSpell/release/2024.3/2024.3.1.1/mac/dataspell-2024.3.1.1.dmg|https://download.jetbrains.com/python/dataspell-2024.3.1.1.dmg|1142167643|binary/octet-stream|1734639354
+jetbrains|DataSpell/release/2024.3/2024.3.1.1/linux/dataspell-2024.3.1.1.tar.gz|https://download.jetbrains.com/python/dataspell-2024.3.1.1.tar.gz|1158121716|binary/octet-stream|1734639403
+jetbrains|DataSpell/release/2024.3/2024.3.1.1/linuxARM64/dataspell-2024.3.1.1-aarch64.tar.gz|https://download.jetbrains.com/python/dataspell-2024.3.1.1-aarch64.tar.gz|1158622842|binary/octet-stream|1734639353
+jetbrains|DataSpell/release/2024.3/2024.3.1.1/macM1/dataspell-2024.3.1.1-aarch64.dmg|https://download.jetbrains.com/python/dataspell-2024.3.1.1-aarch64.dmg|1132957112|binary/octet-stream|1734639353
+jetbrains|RubyMine/release/2024.3/2024.3.1.1/windowsZip/RubyMine-2024.3.1.1.win.zip|https://download.jetbrains.com/ruby/RubyMine-2024.3.1.1.win.zip|1044176897|binary/octet-stream|1734686703
+jetbrains|RubyMine/release/2024.3/2024.3.1.1/windowsARM64/RubyMine-2024.3.1.1-aarch64.exe|https://download.jetbrains.com/ruby/RubyMine-2024.3.1.1-aarch64.exe|740142400|binary/octet-stream|1734686647
+jetbrains|DataSpell/release/2024.3/2024.3.1.1/windowsARM64/dataspell-2024.3.1.1-aarch64.exe|https://download.jetbrains.com/python/dataspell-2024.3.1.1-aarch64.exe|881474224|binary/octet-stream|1734639353

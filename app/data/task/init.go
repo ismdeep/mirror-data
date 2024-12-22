@@ -9,6 +9,7 @@ func init() {
 		"git-for-windows":               &GitForWindows{},
 		"go":                            &GoDev{},
 		"goose":                         &Goose{},
+		"gosec":                         &GoSec{},
 		"harbor":                        &Harbor{},
 		"ipfs-desktop":                  &IPFSDesktop{},
 		"jetbrains":                     &JetBrains{},

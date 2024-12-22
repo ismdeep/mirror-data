@@ -4,6 +4,9 @@ var Tasks map[string]Interface
 
 func init() {
 	Tasks = map[string]Interface{
+		"another-redis-desktop-manager": &AnotherRedisDesktopManager{},
+		"ctop":                          &Ctop{},
+		"docker-compose":                &DockerCompose{},
 		"electron-ssr-backup":           &ElectronSsrBackup{},
 		"etcd-manager":                  &EtcdManager{},
 		"git-for-windows":               &GitForWindows{},
@@ -12,18 +15,15 @@ func init() {
 		"goose":                         &Goose{},
 		"gosec":                         &GoSec{},
 		"harbor":                        &Harbor{},
+		"image-syncer":                  &ImageSyncer{},
 		"ipfs-desktop":                  &IPFSDesktop{},
+		"ipfs-kubo":                     &IPFSKubo{},
 		"jetbrains":                     &JetBrains{},
 		"obsidian":                      &Obsidian{},
 		"openssl":                       &OpenSSL{},
+		"pandoc":                        &Pandoc{},
 		"rclone":                        &Rclone{},
 		"ventoy":                        &Ventoy{},
-		"ctop":                          &Ctop{},
-		"another-redis-desktop-manager": &AnotherRedisDesktopManager{},
-		"docker-compose":                &DockerCompose{},
-		"image-syncer":                  &ImageSyncer{},
-		"ipfs-kubo":                     &IPFSKubo{},
-		"pandoc":                        &Pandoc{},
 		"yq":                            &Yq{},
 	}
 }

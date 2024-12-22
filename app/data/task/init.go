@@ -8,6 +8,7 @@ func init() {
 		"etcd-manager":                  &EtcdManager{},
 		"git-for-windows":               &GitForWindows{},
 		"go":                            &GoDev{},
+		"golangci-lint":                 &GolangciLint{},
 		"goose":                         &Goose{},
 		"gosec":                         &GoSec{},
 		"harbor":                        &Harbor{},

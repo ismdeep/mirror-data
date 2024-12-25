@@ -7116,3 +7116,11 @@ jetbrains|DataSpell/release/2024.3/2024.3.1.1/macM1/dataspell-2024.3.1.1-aarch64
 jetbrains|RubyMine/release/2024.3/2024.3.1.1/windowsZip/RubyMine-2024.3.1.1.win.zip|https://download.jetbrains.com/ruby/RubyMine-2024.3.1.1.win.zip|1044176897|binary/octet-stream|1734686703
 jetbrains|RubyMine/release/2024.3/2024.3.1.1/windowsARM64/RubyMine-2024.3.1.1-aarch64.exe|https://download.jetbrains.com/ruby/RubyMine-2024.3.1.1-aarch64.exe|740142400|binary/octet-stream|1734686647
 jetbrains|DataSpell/release/2024.3/2024.3.1.1/windowsARM64/dataspell-2024.3.1.1-aarch64.exe|https://download.jetbrains.com/python/dataspell-2024.3.1.1-aarch64.exe|881474224|binary/octet-stream|1734639353
+jetbrains|Rider/release/2024.3/2024.3.3/windows/JetBrains.Rider-2024.3.3.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.3.exe|1531162160|binary/octet-stream|1734991342
+jetbrains|Rider/release/2024.3/2024.3.3/linux/JetBrains.Rider-2024.3.3.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.3.tar.gz|1887033432|binary/octet-stream|1734991495
+jetbrains|Rider/release/2024.3/2024.3.3/macM1/JetBrains.Rider-2024.3.3-aarch64.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.3-aarch64.dmg|1811046553|binary/octet-stream|1734991302
+jetbrains|Rider/release/2024.3/2024.3.3/mac/JetBrains.Rider-2024.3.3.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.3.dmg|1784404186|binary/octet-stream|1734991264
+jetbrains|Rider/release/2024.3/2024.3.3/windowsZipARM64/JetBrains.Rider-2024.3.3-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.3-aarch64.win.zip|2097300131|binary/octet-stream|1734991451
+jetbrains|Rider/release/2024.3/2024.3.3/windowsZip/JetBrains.Rider-2024.3.3.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.3.win.zip|2051798489|binary/octet-stream|1734991407
+jetbrains|Rider/release/2024.3/2024.3.3/windowsARM64/JetBrains.Rider-2024.3.3-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.3-aarch64.exe|1543587200|binary/octet-stream|1734991374
+jetbrains|Rider/release/2024.3/2024.3.3/linuxARM64/JetBrains.Rider-2024.3.3-aarch64.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.3-aarch64.tar.gz|1877757565|binary/octet-stream|1734991534

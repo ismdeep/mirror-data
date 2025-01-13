@@ -860,3 +860,13 @@ pandoc|3.6.1/pandoc-3.6.1-1-arm64.deb|https://github.com/jgm/pandoc/releases/dow
 pandoc|3.6.1/pandoc-3.6.1-x86_64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.6.1/pandoc-3.6.1-x86_64-macOS.zip|22277180|application/octet-stream|1734983573
 pandoc|3.6.1/pandoc-3.6.1-arm64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.6.1/pandoc-3.6.1-arm64-macOS.zip|36323748|application/octet-stream|1734983475
 pandoc|3.6.1/pandoc-3.6.1-x86_64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.6.1/pandoc-3.6.1-x86_64-macOS.pkg|22237490|application/octet-stream|1734983559
+pandoc|3.6.2/pandoc-3.6.2-1-amd64.deb|https://github.com/jgm/pandoc/releases/download/3.6.2/pandoc-3.6.2-1-amd64.deb|32379384|application/octet-stream|1736721603
+pandoc|3.6.2/pandoc-3.6.2-arm64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.6.2/pandoc-3.6.2-arm64-macOS.pkg|36299772|application/octet-stream|1736721629
+pandoc|3.6.2/pandoc-3.6.2-x86_64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.6.2/pandoc-3.6.2-x86_64-macOS.zip|22340211|application/octet-stream|1736721729
+pandoc|3.6.2/pandoc-3.6.2-windows-x86_64.zip|https://github.com/jgm/pandoc/releases/download/3.6.2/pandoc-3.6.2-windows-x86_64.zip|37757758|application/octet-stream|1736721701
+pandoc|3.6.2/pandoc-3.6.2-linux-amd64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.6.2/pandoc-3.6.2-linux-amd64.tar.gz|32896831|application/octet-stream|1736721654
+pandoc|3.6.2/pandoc-3.6.2-windows-x86_64.msi|https://github.com/jgm/pandoc/releases/download/3.6.2/pandoc-3.6.2-windows-x86_64.msi|39043072|application/octet-stream|1736721683
+pandoc|3.6.2/pandoc-3.6.2-x86_64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.6.2/pandoc-3.6.2-x86_64-macOS.pkg|22302944|application/octet-stream|1736721720
+pandoc|3.6.2/pandoc-3.6.2-1-arm64.deb|https://github.com/jgm/pandoc/releases/download/3.6.2/pandoc-3.6.2-1-arm64.deb|35161000|application/octet-stream|1736721616
+pandoc|3.6.2/pandoc-3.6.2-linux-arm64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.6.2/pandoc-3.6.2-linux-arm64.tar.gz|35654724|application/octet-stream|1736721668
+pandoc|3.6.2/pandoc-3.6.2-arm64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.6.2/pandoc-3.6.2-arm64-macOS.zip|36407298|application/octet-stream|1736721642

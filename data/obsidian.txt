@@ -808,3 +808,12 @@ obsidian|v1.7.7/Obsidian-1.7.7-arm64.AppImage|https://github.com/obsidianmd/obsi
 obsidian|v1.7.7/Obsidian-1.7.7.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.7/Obsidian-1.7.7.dmg|189379296|application/octet-stream|1731808653
 obsidian|v1.7.7/obsidian-1.7.7.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.7/obsidian-1.7.7.tar.gz|111265129|application/octet-stream|1731808642
 obsidian|v1.7.7/Obsidian-1.7.7.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.7/Obsidian-1.7.7.exe|256875728|application/octet-stream|1731808657
+obsidian|v1.8.3/obsidian-1.8.3.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.3/obsidian-1.8.3.asar.gz|8123758|application/octet-stream|1738171939
+obsidian|v1.8.3/Obsidian-1.8.3.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.3/Obsidian-1.8.3.dmg|190516366|application/octet-stream|1738171915
+obsidian|v1.8.3/obsidian_1.8.3_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.3/obsidian_1.8.3_amd64.deb|80568512|application/octet-stream|1738171909
+obsidian|v1.8.3/Obsidian-1.8.3.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.3/Obsidian-1.8.3.exe|262724984|application/octet-stream|1738171921
+obsidian|v1.8.3/Obsidian-1.8.3.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.3/Obsidian-1.8.3.apk|10171207|application/vnd.android.package-archive|1738171944
+obsidian|v1.8.3/Obsidian-1.8.3.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.3/Obsidian-1.8.3.AppImage|116559616|application/octet-stream|1738171911
+obsidian|v1.8.3/Obsidian-1.8.3-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.3/Obsidian-1.8.3-arm64.AppImage|116930285|application/octet-stream|1738171905
+obsidian|v1.8.3/obsidian-1.8.3-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.3/obsidian-1.8.3-arm64.tar.gz|114838285|application/octet-stream|1738171907
+obsidian|v1.8.3/obsidian-1.8.3.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.3/obsidian-1.8.3.tar.gz|110349380|application/octet-stream|1738171903

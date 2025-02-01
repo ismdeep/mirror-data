@@ -817,3 +817,12 @@ obsidian|v1.8.3/Obsidian-1.8.3.AppImage|https://github.com/obsidianmd/obsidian-r
 obsidian|v1.8.3/Obsidian-1.8.3-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.3/Obsidian-1.8.3-arm64.AppImage|116930285|application/octet-stream|1738171905
 obsidian|v1.8.3/obsidian-1.8.3-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.3/obsidian-1.8.3-arm64.tar.gz|114838285|application/octet-stream|1738171907
 obsidian|v1.8.3/obsidian-1.8.3.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.3/obsidian-1.8.3.tar.gz|110349380|application/octet-stream|1738171903
+obsidian|v1.8.4/obsidian-1.8.4.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.4/obsidian-1.8.4.asar.gz|8123782|application/octet-stream|1738278013
+obsidian|v1.8.4/Obsidian-1.8.4.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.4/Obsidian-1.8.4.apk|10171237|application/vnd.android.package-archive|1738278004
+obsidian|v1.8.4/Obsidian-1.8.4.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.4/Obsidian-1.8.4.exe|262726424|application/octet-stream|1738277972
+obsidian|v1.8.4/Obsidian-1.8.4.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.4/Obsidian-1.8.4.AppImage|116560024|application/octet-stream|1738277982
+obsidian|v1.8.4/Obsidian-1.8.4.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.4/Obsidian-1.8.4.dmg|190516006|application/octet-stream|1738277967
+obsidian|v1.8.4/obsidian_1.8.4_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.4/obsidian_1.8.4_amd64.deb|80570924|application/octet-stream|1738277980
+obsidian|v1.8.4/obsidian-1.8.4-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.4/obsidian-1.8.4-arm64.tar.gz|114838386|application/octet-stream|1738277978
+obsidian|v1.8.4/Obsidian-1.8.4-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.4/Obsidian-1.8.4-arm64.AppImage|116930664|application/octet-stream|1738277976
+obsidian|v1.8.4/obsidian-1.8.4.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.4/obsidian-1.8.4.tar.gz|110349282|application/octet-stream|1738277974

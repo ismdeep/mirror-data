@@ -7306,3 +7306,10 @@ jetbrains|WebStorm/release/2024.3/2024.3.3/linuxARM64/WebStorm-2024.3.3-aarch64.
 jetbrains|WebStorm/release/2024.3/2024.3.3/windowsZip/WebStorm-2024.3.3.win.zip|https://download.jetbrains.com/webstorm/WebStorm-2024.3.3.win.zip|1106817832|binary/octet-stream|1739791241
 jetbrains|WebStorm/release/2024.3/2024.3.3/mac/WebStorm-2024.3.3.dmg|https://download.jetbrains.com/webstorm/WebStorm-2024.3.3.dmg|1050574370|binary/octet-stream|1739791229
 jetbrains|WebStorm/release/2024.3/2024.3.3/windowsARM64/WebStorm-2024.3.3-aarch64.exe|https://download.jetbrains.com/webstorm/WebStorm-2024.3.3-aarch64.exe|810243016|binary/octet-stream|1739791229
+jetbrains|RubyMine/release/2024.3/2024.3.3/linux/RubyMine-2024.3.3.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2024.3.3.tar.gz|1024387099|binary/octet-stream|1739874819
+jetbrains|RubyMine/release/2024.3/2024.3.3/macM1/RubyMine-2024.3.3-aarch64.dmg|https://download.jetbrains.com/ruby/RubyMine-2024.3.3-aarch64.dmg|975698897|binary/octet-stream|1739874808
+jetbrains|RubyMine/release/2024.3/2024.3.3/windows/RubyMine-2024.3.3.exe|https://download.jetbrains.com/ruby/RubyMine-2024.3.3.exe|775197808|binary/octet-stream|1739874815
+jetbrains|RubyMine/release/2024.3/2024.3.3/mac/RubyMine-2024.3.3.dmg|https://download.jetbrains.com/ruby/RubyMine-2024.3.3.dmg|985190844|binary/octet-stream|1739874809
+jetbrains|RubyMine/release/2024.3/2024.3.3/windowsZip/RubyMine-2024.3.3.win.zip|https://download.jetbrains.com/ruby/RubyMine-2024.3.3.win.zip|1051082123|binary/octet-stream|1739874819
+jetbrains|RubyMine/release/2024.3/2024.3.3/windowsARM64/RubyMine-2024.3.3-aarch64.exe|https://download.jetbrains.com/ruby/RubyMine-2024.3.3-aarch64.exe|738463992|binary/octet-stream|1739874808
+jetbrains|RubyMine/release/2024.3/2024.3.3/linuxARM64/RubyMine-2024.3.3-aarch64.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2024.3.3-aarch64.tar.gz|1024047004|binary/octet-stream|1739874808

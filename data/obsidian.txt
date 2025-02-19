@@ -826,3 +826,12 @@ obsidian|v1.8.4/obsidian_1.8.4_amd64.deb|https://github.com/obsidianmd/obsidian-
 obsidian|v1.8.4/obsidian-1.8.4-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.4/obsidian-1.8.4-arm64.tar.gz|114838386|application/octet-stream|1738277978
 obsidian|v1.8.4/Obsidian-1.8.4-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.4/Obsidian-1.8.4-arm64.AppImage|116930664|application/octet-stream|1738277976
 obsidian|v1.8.4/obsidian-1.8.4.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.4/obsidian-1.8.4.tar.gz|110349282|application/octet-stream|1738277974
+obsidian|v1.8.7/obsidian-1.8.7.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.7/obsidian-1.8.7.asar.gz|8128038|application/octet-stream|1739506099
+obsidian|v1.8.7/Obsidian-1.8.7.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.7/Obsidian-1.8.7.dmg|190531948|application/octet-stream|1739506052
+obsidian|v1.8.7/obsidian_1.8.7_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.7/obsidian_1.8.7_amd64.deb|80565332|application/octet-stream|1739506065
+obsidian|v1.8.7/Obsidian-1.8.7.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.7/Obsidian-1.8.7.AppImage|116579987|application/octet-stream|1739506067
+obsidian|v1.8.7/obsidian-1.8.7.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.7/obsidian-1.8.7.tar.gz|110353378|application/octet-stream|1739506059
+obsidian|v1.8.7/Obsidian-1.8.7-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.7/Obsidian-1.8.7-arm64.AppImage|116946574|application/octet-stream|1739506061
+obsidian|v1.8.7/obsidian-1.8.7-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.7/obsidian-1.8.7-arm64.tar.gz|114844467|application/octet-stream|1739506063
+obsidian|v1.8.7/Obsidian-1.8.7.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.7/Obsidian-1.8.7.apk|10175336|application/vnd.android.package-archive|1739506104
+obsidian|v1.8.7/Obsidian-1.8.7.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.7/Obsidian-1.8.7.exe|262807472|application/octet-stream|1739890514

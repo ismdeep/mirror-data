@@ -7313,3 +7313,11 @@ jetbrains|RubyMine/release/2024.3/2024.3.3/mac/RubyMine-2024.3.3.dmg|https://dow
 jetbrains|RubyMine/release/2024.3/2024.3.3/windowsZip/RubyMine-2024.3.3.win.zip|https://download.jetbrains.com/ruby/RubyMine-2024.3.3.win.zip|1051082123|binary/octet-stream|1739874819
 jetbrains|RubyMine/release/2024.3/2024.3.3/windowsARM64/RubyMine-2024.3.3-aarch64.exe|https://download.jetbrains.com/ruby/RubyMine-2024.3.3-aarch64.exe|738463992|binary/octet-stream|1739874808
 jetbrains|RubyMine/release/2024.3/2024.3.3/linuxARM64/RubyMine-2024.3.3-aarch64.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2024.3.3-aarch64.tar.gz|1024047004|binary/octet-stream|1739874808
+jetbrains|Rider/release/2024.1/2024.1.7/windowsZip/JetBrains.Rider-2024.1.7.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.7.win.zip|1710764291|binary/octet-stream|1739971748
+jetbrains|Rider/release/2024.1/2024.1.7/windowsARM64/JetBrains.Rider-2024.1.7-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.7-aarch64.exe|1267192488|binary/octet-stream|1739971720
+jetbrains|Rider/release/2024.1/2024.1.7/macM1/JetBrains.Rider-2024.1.7-aarch64.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.7-aarch64.dmg|1495559622|binary/octet-stream|1739971658
+jetbrains|Rider/release/2024.1/2024.1.7/linuxARM64/JetBrains.Rider-2024.1.7-aarch64.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.7-aarch64.tar.gz|1552074335|binary/octet-stream|1739971866
+jetbrains|Rider/release/2024.1/2024.1.7/linux/JetBrains.Rider-2024.1.7.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.7.tar.gz|1561321085|binary/octet-stream|1739971829
+jetbrains|Rider/release/2024.1/2024.1.7/windowsZipARM64/JetBrains.Rider-2024.1.7-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.7-aarch64.win.zip|1768908780|binary/octet-stream|1739971787
+jetbrains|Rider/release/2024.1/2024.1.7/mac/JetBrains.Rider-2024.1.7.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.7.dmg|1468389896|binary/octet-stream|1739971625
+jetbrains|Rider/release/2024.1/2024.1.7/windows/JetBrains.Rider-2024.1.7.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.7.exe|1246023192|binary/octet-stream|1739971691

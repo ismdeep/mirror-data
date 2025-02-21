@@ -7321,3 +7321,10 @@ jetbrains|Rider/release/2024.1/2024.1.7/linux/JetBrains.Rider-2024.1.7.tar.gz|ht
 jetbrains|Rider/release/2024.1/2024.1.7/windowsZipARM64/JetBrains.Rider-2024.1.7-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.7-aarch64.win.zip|1768908780|binary/octet-stream|1739971787
 jetbrains|Rider/release/2024.1/2024.1.7/mac/JetBrains.Rider-2024.1.7.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.7.dmg|1468389896|binary/octet-stream|1739971625
 jetbrains|Rider/release/2024.1/2024.1.7/windows/JetBrains.Rider-2024.1.7.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.7.exe|1246023192|binary/octet-stream|1739971691
+jetbrains|DataGrip/release/2024.3/2024.3.5/macM1/datagrip-2024.3.5-aarch64.dmg|https://download.jetbrains.com/datagrip/datagrip-2024.3.5-aarch64.dmg|944144437|binary/octet-stream|1740089172
+jetbrains|DataGrip/release/2024.3/2024.3.5/mac/datagrip-2024.3.5.dmg|https://download.jetbrains.com/datagrip/datagrip-2024.3.5.dmg|953266593|binary/octet-stream|1740089172
+jetbrains|DataGrip/release/2024.3/2024.3.5/windows/datagrip-2024.3.5.exe|https://download.jetbrains.com/datagrip/datagrip-2024.3.5.exe|793798544|binary/octet-stream|1740089181
+jetbrains|DataGrip/release/2024.3/2024.3.5/windowsARM64/datagrip-2024.3.5-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2024.3.5-aarch64.exe|765191856|binary/octet-stream|1740089172
+jetbrains|DataGrip/release/2024.3/2024.3.5/linux/datagrip-2024.3.5.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2024.3.5.tar.gz|981567555|binary/octet-stream|1740089185
+jetbrains|DataGrip/release/2024.3/2024.3.5/linuxARM64/datagrip-2024.3.5-aarch64.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2024.3.5-aarch64.tar.gz|981518266|binary/octet-stream|1740089172
+jetbrains|DataGrip/release/2024.3/2024.3.5/windowsZip/datagrip-2024.3.5.win.zip|https://download.jetbrains.com/datagrip/datagrip-2024.3.5.win.zip|989320543|binary/octet-stream|1740089185

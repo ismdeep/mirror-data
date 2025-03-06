@@ -7400,3 +7400,10 @@ jetbrains|IDEA/release/2024.3/2024.3.4/linux/ideaIU-2024.3.4.tar.gz|https://down
 jetbrains|IDEA/release/2024.3/2024.3.4/mac/ideaIU-2024.3.4.dmg|https://download.jetbrains.com/idea/ideaIU-2024.3.4.dmg|1532367591|binary/octet-stream|1740677047
 jetbrains|IDEA/release/2024.3/2024.3.4/macM1/ideaIU-2024.3.4-aarch64.dmg|https://download.jetbrains.com/idea/ideaIU-2024.3.4-aarch64.dmg|1523062488|binary/octet-stream|1740677014
 jetbrains|IDEA/release/2024.3/2024.3.4/windowsZip/ideaIU-2024.3.4.win.zip|https://download.jetbrains.com/idea/ideaIU-2024.3.4.win.zip|1606886755|binary/octet-stream|1740677065
+jetbrains|IDEA/release/2024.3/2024.3.4.1/windows/ideaIU-2024.3.4.1.exe|https://download.jetbrains.com/idea/ideaIU-2024.3.4.1.exe|1214076400|binary/octet-stream|1741190378
+jetbrains|IDEA/release/2024.3/2024.3.4.1/mac/ideaIU-2024.3.4.1.dmg|https://download.jetbrains.com/idea/ideaIU-2024.3.4.1.dmg|1532342244|binary/octet-stream|1741190375
+jetbrains|IDEA/release/2024.3/2024.3.4.1/macM1/ideaIU-2024.3.4.1-aarch64.dmg|https://download.jetbrains.com/idea/ideaIU-2024.3.4.1-aarch64.dmg|1522821568|binary/octet-stream|1741190349
+jetbrains|IDEA/release/2024.3/2024.3.4.1/linux/ideaIU-2024.3.4.1.tar.gz|https://download.jetbrains.com/idea/ideaIU-2024.3.4.1.tar.gz|1588329007|binary/octet-stream|1741190390
+jetbrains|IDEA/release/2024.3/2024.3.4.1/windowsARM64/ideaIU-2024.3.4.1-aarch64.exe|https://download.jetbrains.com/idea/ideaIU-2024.3.4.1-aarch64.exe|1177086488|binary/octet-stream|1741190350
+jetbrains|IDEA/release/2024.3/2024.3.4.1/linuxARM64/ideaIU-2024.3.4.1-aarch64.tar.gz|https://download.jetbrains.com/idea/ideaIU-2024.3.4.1-aarch64.tar.gz|1587650836|binary/octet-stream|1741190357
+jetbrains|IDEA/release/2024.3/2024.3.4.1/windowsZip/ideaIU-2024.3.4.1.win.zip|https://download.jetbrains.com/idea/ideaIU-2024.3.4.1.win.zip|1606823880|binary/octet-stream|1741190404

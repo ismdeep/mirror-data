@@ -7428,3 +7428,10 @@ jetbrains|PhpStorm/release/2024.3/2024.3.5/mac/PhpStorm-2024.3.5.dmg|https://dow
 jetbrains|PhpStorm/release/2024.3/2024.3.5/linux/PhpStorm-2024.3.5.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2024.3.5.tar.gz|1041249561|binary/octet-stream|1741882955
 jetbrains|PhpStorm/release/2024.3/2024.3.5/linuxARM64/PhpStorm-2024.3.5-aarch64.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2024.3.5-aarch64.tar.gz|1040565401|binary/octet-stream|1741882942
 jetbrains|PhpStorm/release/2024.3/2024.3.5/windowsARM64/PhpStorm-2024.3.5-aarch64.exe|https://download.jetbrains.com/webide/PhpStorm-2024.3.5-aarch64.exe|755905288|binary/octet-stream|1741882942
+jetbrains|RubyMine/release/2024.3/2024.3.5/macM1/RubyMine-2024.3.5-aarch64.dmg|https://download.jetbrains.com/ruby/RubyMine-2024.3.5-aarch64.dmg|975947632|binary/octet-stream|1741958641
+jetbrains|RubyMine/release/2024.3/2024.3.5/windows/RubyMine-2024.3.5.exe|https://download.jetbrains.com/ruby/RubyMine-2024.3.5.exe|775349008|binary/octet-stream|1741958648
+jetbrains|RubyMine/release/2024.3/2024.3.5/mac/RubyMine-2024.3.5.dmg|https://download.jetbrains.com/ruby/RubyMine-2024.3.5.dmg|985409297|binary/octet-stream|1741958641
+jetbrains|RubyMine/release/2024.3/2024.3.5/windowsARM64/RubyMine-2024.3.5-aarch64.exe|https://download.jetbrains.com/ruby/RubyMine-2024.3.5-aarch64.exe|738615136|binary/octet-stream|1741958641
+jetbrains|RubyMine/release/2024.3/2024.3.5/linux/RubyMine-2024.3.5.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2024.3.5.tar.gz|1024633234|binary/octet-stream|1741958650
+jetbrains|RubyMine/release/2024.3/2024.3.5/windowsZip/RubyMine-2024.3.5.win.zip|https://download.jetbrains.com/ruby/RubyMine-2024.3.5.win.zip|1051338958|binary/octet-stream|1741958653
+jetbrains|RubyMine/release/2024.3/2024.3.5/linuxARM64/RubyMine-2024.3.5-aarch64.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2024.3.5-aarch64.tar.gz|1024294830|binary/octet-stream|1741958641

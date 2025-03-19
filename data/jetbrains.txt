@@ -7435,3 +7435,10 @@ jetbrains|RubyMine/release/2024.3/2024.3.5/windowsARM64/RubyMine-2024.3.5-aarch6
 jetbrains|RubyMine/release/2024.3/2024.3.5/linux/RubyMine-2024.3.5.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2024.3.5.tar.gz|1024633234|binary/octet-stream|1741958650
 jetbrains|RubyMine/release/2024.3/2024.3.5/windowsZip/RubyMine-2024.3.5.win.zip|https://download.jetbrains.com/ruby/RubyMine-2024.3.5.win.zip|1051338958|binary/octet-stream|1741958653
 jetbrains|RubyMine/release/2024.3/2024.3.5/linuxARM64/RubyMine-2024.3.5-aarch64.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2024.3.5-aarch64.tar.gz|1024294830|binary/octet-stream|1741958641
+jetbrains|IDEA/release/2024.3/2024.3.5/linux/ideaIU-2024.3.5.tar.gz|https://download.jetbrains.com/idea/ideaIU-2024.3.5.tar.gz|1588498226|binary/octet-stream|1742287807
+jetbrains|IDEA/release/2024.3/2024.3.5/macM1/ideaIU-2024.3.5-aarch64.dmg|https://download.jetbrains.com/idea/ideaIU-2024.3.5-aarch64.dmg|1523086507|binary/octet-stream|1742287760
+jetbrains|IDEA/release/2024.3/2024.3.5/windows/ideaIU-2024.3.5.exe|https://download.jetbrains.com/idea/ideaIU-2024.3.5.exe|1214197704|binary/octet-stream|1742287796
+jetbrains|IDEA/release/2024.3/2024.3.5/mac/ideaIU-2024.3.5.dmg|https://download.jetbrains.com/idea/ideaIU-2024.3.5.dmg|1532741637|binary/octet-stream|1742287794
+jetbrains|IDEA/release/2024.3/2024.3.5/linuxARM64/ideaIU-2024.3.5-aarch64.tar.gz|https://download.jetbrains.com/idea/ideaIU-2024.3.5-aarch64.tar.gz|1587799438|binary/octet-stream|1742287771
+jetbrains|IDEA/release/2024.3/2024.3.5/windowsZip/ideaIU-2024.3.5.win.zip|https://download.jetbrains.com/idea/ideaIU-2024.3.5.win.zip|1607021115|binary/octet-stream|1742287821
+jetbrains|IDEA/release/2024.3/2024.3.5/windowsARM64/ideaIU-2024.3.5-aarch64.exe|https://download.jetbrains.com/idea/ideaIU-2024.3.5-aarch64.exe|1177207984|binary/octet-stream|1742287764

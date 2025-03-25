@@ -7458,3 +7458,10 @@ jetbrains|PyCharm/release/2024.3/2024.3.5/linuxARM64/pycharm-professional-2024.3
 jetbrains|PyCharm/release/2024.3/2024.3.5/windowsZipARM64/pycharm-professional-2024.3.5-aarch64.win.zip|https://download.jetbrains.com/python/pycharm-professional-2024.3.5-aarch64.win.zip|1154261387|binary/octet-stream|1742321578
 jetbrains|PyCharmCommunity/release/2024.3/2024.3.5/windowsARM64/pycharm-community-2024.3.5-aarch64.exe|https://download.jetbrains.com/python/pycharm-community-2024.3.5-aarch64.exe|561557832|binary/octet-stream|1742321543
 jetbrains|PyCharmCommunity/release/2024.3/2024.3.5/windowsZipARM64/pycharm-community-2024.3.5-aarch64.win.zip|https://download.jetbrains.com/python/pycharm-community-2024.3.5-aarch64.win.zip|790136918|binary/octet-stream|1742321543
+jetbrains|CLion/release/2024.3/2024.3.5/linux/CLion-2024.3.5.tar.gz|https://download.jetbrains.com/cpp/CLion-2024.3.5.tar.gz|1577257365|binary/octet-stream|1742822003
+jetbrains|CLion/release/2024.3/2024.3.5/macM1/CLion-2024.3.5-aarch64.dmg|https://download.jetbrains.com/cpp/CLion-2024.3.5-aarch64.dmg|1549510941|binary/octet-stream|1742821973
+jetbrains|CLion/release/2024.3/2024.3.5/windows/CLion-2024.3.5.exe|https://download.jetbrains.com/cpp/CLion-2024.3.5.exe|1392200232|binary/octet-stream|1742822001
+jetbrains|CLion/release/2024.3/2024.3.5/windowsARM64/CLion-2024.3.5-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2024.3.5-aarch64.exe|1301149544|binary/octet-stream|1742821973
+jetbrains|CLion/release/2024.3/2024.3.5/windowsZip/CLion-2024.3.5.win.zip|https://download.jetbrains.com/cpp/CLion-2024.3.5.win.zip|1911552838|binary/octet-stream|1742822004
+jetbrains|CLion/release/2024.3/2024.3.5/mac/CLion-2024.3.5.dmg|https://download.jetbrains.com/cpp/CLion-2024.3.5.dmg|1526373030|binary/octet-stream|1742821973
+jetbrains|CLion/release/2024.3/2024.3.5/linuxARM64/CLion-2024.3.5-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2024.3.5-aarch64.tar.gz|1571910063|binary/octet-stream|1742821973

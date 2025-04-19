@@ -44,7 +44,11 @@ var (
 		"application/gzip-compressed", "application/x-gzip-compressed",
 		"gzip/document")
 	sevenZ = newMIME("application/x-7z-compressed", ".7z", magic.SevenZ)
-	zip    = newMIME("application/zip", ".zip", magic.Zip, xlsx, docx, pptx, epub, jar, odt, ods, odp, odg, odf, odc, sxc).
+	// APK must be checked before JAR because APK is a subset of JAR.
+	// This means APK should be a child of JAR detector, but in practice,
+	// the decisive signature for JAR might be located at the end of the file
+	// and not reachable because of library readLimit.
+	zip = newMIME("application/zip", ".zip", magic.Zip, xlsx, docx, pptx, epub, apk, jar, odt, ods, odp, odg, odf, odc, sxc).
 		alias("application/x-zip", "application/x-zip-compressed")
 	tar = newMIME("application/x-tar", ".tar", magic.Tar)
 	xar = newMIME("application/x-xar", ".xar", magic.Xar)
@@ -57,6 +61,7 @@ var (
 	pptx = newMIME("application/vnd.openxmlformats-officedocument.presentationml.presentation", ".pptx", magic.Pptx)
 	epub = newMIME("application/epub+zip", ".epub", magic.Epub)
 	jar  = newMIME("application/jar", ".jar", magic.Jar)
+	apk  = newMIME("application/vnd.android.package-archive", ".apk", magic.APK)
 	ole  = newMIME("application/x-ole-storage", "", magic.Ole, msi, aaf, msg, xls, pub, ppt, doc)
 	msi  = newMIME("application/x-ms-installer", ".msi", magic.Msi).
 		alias("application/x-windows-installer", "application/x-msi")
@@ -78,7 +83,7 @@ var (
 	text     = newMIME("text/plain", ".txt", magic.Text, html, svg, xml, php, js, lua, perl, python, json, ndJSON, rtf, srt, tcl, csv, tsv, vCard, iCalendar, warc, vtt)
 	xml      = newMIME("text/xml", ".xml", magic.XML, rss, atom, x3d, kml, xliff, collada, gml, gpx, tcx, amf, threemf, xfdf, owl2).
 			alias("application/xml")
-	json    = newMIME("application/json", ".json", magic.JSON, geoJSON, har)
+	json    = newMIME("application/json", ".json", magic.JSON, geoJSON, har, gltf)
 	har     = newMIME("application/json", ".har", magic.HAR)
 	csv     = newMIME("text/csv", ".csv", magic.Csv)
 	tsv     = newMIME("text/tab-separated-values", ".tsv", magic.Tsv)
@@ -257,7 +262,8 @@ var (
 	pat     = newMIME("image/x-gimp-pat", ".pat", magic.Pat)
 	gbr     = newMIME("image/x-gimp-gbr", ".gbr", magic.Gbr)
 	xfdf    = newMIME("application/vnd.adobe.xfdf", ".xfdf", magic.Xfdf)
-	glb     = newMIME("model/gltf-binary", ".glb", magic.Glb)
+	glb     = newMIME("model/gltf-binary", ".glb", magic.GLB)
+	gltf    = newMIME("model/gltf+json", ".gltf", magic.GLTF)
 	jxr     = newMIME("image/jxr", ".jxr", magic.Jxr).alias("image/vnd.ms-photo")
 	parquet = newMIME("application/vnd.apache.parquet", ".parquet", magic.Par1).
 		alias("application/x-parquet")

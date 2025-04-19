@@ -6,12 +6,12 @@ import (
 	"net/http"
 	"time"
 
+	"github.com/earthboundkid/versioninfo/v2"
 	"github.com/google/go-github/v53/github"
 	"github.com/google/uuid"
 	"go.uber.org/zap"
 
 	"github.com/ismdeep/mirror-data/app/mirror/conf"
-	"github.com/ismdeep/mirror-data/internal/version"
 	"github.com/ismdeep/mirror-data/pkg/log"
 	"github.com/ismdeep/mirror-data/pkg/notification"
 )
@@ -24,7 +24,7 @@ func checkUpdateInfoCore(ctx context.Context, callback func(branchInfo github.Br
 		return
 	}
 
-	if branchInfo.Commit.GetSHA() != version.CommitID {
+	if branchInfo.Commit.GetSHA() != versioninfo.Revision {
 		if err := callback(*branchInfo); err != nil {
 			log.WithContext(ctx).Error("callback failed", zap.Error(err))
 		}

@@ -1,16 +1,11 @@
-FROM golang:1.22-bookworm AS builder
+FROM golang:1.23.6-bookworm AS builder
 WORKDIR /src
 COPY . .
 RUN \
     # get commit info
     commit_id=$(git log -1 --pretty=format:"%H" | awk '{print $1}') && \
     commit_date=$(git log -1 --pretty=format:"%ci") && \
-    # ldflags \
-    ldflags="\
-              -X 'github.com/ismdeep/mirror-data/internal/version.CommitDate=${commit_date}' \
-              -X 'github.com/ismdeep/mirror-data/internal/version.CommitID=${commit_id}' \
-            " && \
-    go build -o ./bin/mirror -mod vendor -ldflags "-s -w ${ldflags}" -trimpath ./app/mirror
+    go build -o ./bin/mirror -mod vendor -ldflags "-s -w" -trimpath ./app/mirror
 
 FROM debian:12
 ENV MIRROR_SERVER_BIND=0.0.0.0:80 \

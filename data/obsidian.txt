@@ -844,3 +844,12 @@ obsidian|v1.8.9/obsidian_1.8.9_amd64.deb|https://github.com/obsidianmd/obsidian-
 obsidian|v1.8.9/obsidian-1.8.9.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.9/obsidian-1.8.9.tar.gz|110032080|application/octet-stream|1741019332
 obsidian|v1.8.9/Obsidian-1.8.9.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.9/Obsidian-1.8.9.AppImage|116255653|application/octet-stream|1741019341
 obsidian|v1.8.9/obsidian-1.8.9-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.9/obsidian-1.8.9-arm64.tar.gz|114564362|application/octet-stream|1741019337
+obsidian|v1.8.10/Obsidian-1.8.10.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/Obsidian-1.8.10.exe|266665104|application/octet-stream|1745250693
+obsidian|v1.8.10/obsidian-1.8.10.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/obsidian-1.8.10.asar.gz|8128788|application/octet-stream|1745248182
+obsidian|v1.8.10/Obsidian-1.8.10.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/Obsidian-1.8.10.dmg|190614006|application/octet-stream|1745250938
+obsidian|v1.8.10/Obsidian-1.8.10.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/Obsidian-1.8.10.apk|10200951|application/vnd.android.package-archive|1745248185
+obsidian|v1.8.10/Obsidian-1.8.10-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/Obsidian-1.8.10-arm64.AppImage|116671271|application/octet-stream|1745337612
+obsidian|v1.8.10/obsidian_1.8.10_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/obsidian_1.8.10_amd64.deb|80536530|application/octet-stream|1745250705
+obsidian|v1.8.10/obsidian-1.8.10.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/obsidian-1.8.10.tar.gz|110592123|application/octet-stream|1745250698
+obsidian|v1.8.10/obsidian-1.8.10-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/obsidian-1.8.10-arm64.tar.gz|114587146|application/octet-stream|1745337610
+obsidian|v1.8.10/Obsidian-1.8.10.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/Obsidian-1.8.10.AppImage|116781756|application/octet-stream|1745250688

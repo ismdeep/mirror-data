@@ -7617,3 +7617,10 @@ jetbrains|GoLand/release/2024.2/2024.2.5/mac/goland-2024.2.5.dmg|https://downloa
 jetbrains|GoLand/release/2024.2/2024.2.5/linuxARM64/goland-2024.2.5-aarch64.tar.gz|https://download.jetbrains.com/go/goland-2024.2.5-aarch64.tar.gz|1003186609|binary/octet-stream|1745493120
 jetbrains|GoLand/release/2024.2/2024.2.5/linux/goland-2024.2.5.tar.gz|https://download.jetbrains.com/go/goland-2024.2.5.tar.gz|1004003332|binary/octet-stream|1745493138
 jetbrains|GoLand/release/2024.2/2024.2.5/windowsZip/goland-2024.2.5.win.zip|https://download.jetbrains.com/go/goland-2024.2.5.win.zip|1009818136|binary/octet-stream|1745493141
+jetbrains|Rider/release/2025.1/2025.1.1/windows/JetBrains.Rider-2025.1.1.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.1.exe|1547574888|binary/octet-stream|1745854543
+jetbrains|Rider/release/2025.1/2025.1.1/mac/JetBrains.Rider-2025.1.1.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.1.dmg|1818744964|binary/octet-stream|1745854465
+jetbrains|Rider/release/2025.1/2025.1.1/macM1/JetBrains.Rider-2025.1.1-aarch64.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.1-aarch64.dmg|1849012350|binary/octet-stream|1745854504
+jetbrains|Rider/release/2025.1/2025.1.1/linux/JetBrains.Rider-2025.1.1.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.1.tar.gz|1925297260|binary/octet-stream|1745854697
+jetbrains|Rider/release/2025.1/2025.1.1/windowsZip/JetBrains.Rider-2025.1.1.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.1.win.zip|2087725647|binary/octet-stream|1745854609
+jetbrains|Rider/release/2025.1/2025.1.1/linuxARM64/JetBrains.Rider-2025.1.1-aarch64.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.1-aarch64.tar.gz|1915130826|binary/octet-stream|1745854739
+jetbrains|Rider/release/2025.1/2025.1.1/windowsARM64/JetBrains.Rider-2025.1.1-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.1-aarch64.exe|1571233152|binary/octet-stream|1745854575

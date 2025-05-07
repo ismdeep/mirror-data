@@ -7637,3 +7637,17 @@ jetbrains|DataGrip/release/2025.1/2025.1.1/windows/datagrip-2025.1.1.exe|https:/
 jetbrains|DataGrip/release/2025.1/2025.1.1/windowsZip/datagrip-2025.1.1.win.zip|https://download.jetbrains.com/datagrip/datagrip-2025.1.1.win.zip|990454828|binary/octet-stream|1746175026
 jetbrains|DataGrip/release/2025.1/2025.1.1/windowsARM64/datagrip-2025.1.1-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2025.1.1-aarch64.exe|757605584|binary/octet-stream|1746175017
 jetbrains|DataGrip/release/2025.1/2025.1.1/linuxARM64/datagrip-2025.1.1-aarch64.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2025.1.1-aarch64.tar.gz|987306819|binary/octet-stream|1746175017
+jetbrains|IDEA/release/2025.1/2025.1.1/macM1/ideaIU-2025.1.1-aarch64.dmg|https://download.jetbrains.com/idea/ideaIU-2025.1.1-aarch64.dmg|1605507014|binary/octet-stream|1746620328
+jetbrains|IDEA/release/2025.1/2025.1.1/linux/ideaIU-2025.1.1.tar.gz|https://download.jetbrains.com/idea/ideaIU-2025.1.1.tar.gz|1681351571|binary/octet-stream|1746620353
+jetbrains|IDEA/release/2025.1/2025.1.1/mac/ideaIU-2025.1.1.dmg|https://download.jetbrains.com/idea/ideaIU-2025.1.1.dmg|1616471226|binary/octet-stream|1746620348
+jetbrains|IDEA/release/2025.1/2025.1.1/linuxARM64/ideaIU-2025.1.1-aarch64.tar.gz|https://download.jetbrains.com/idea/ideaIU-2025.1.1-aarch64.tar.gz|1678399086|binary/octet-stream|1746620336
+jetbrains|IDEA/release/2025.1/2025.1.1/windows/ideaIU-2025.1.1.exe|https://download.jetbrains.com/idea/ideaIU-2025.1.1.exe|1266063104|binary/octet-stream|1746620353
+jetbrains|IDEA/release/2025.1/2025.1.1/windowsARM64/ideaIU-2025.1.1-aarch64.exe|https://download.jetbrains.com/idea/ideaIU-2025.1.1-aarch64.exe|1228200320|binary/octet-stream|1746620334
+jetbrains|IDEA/release/2025.1/2025.1.1/windowsZip/ideaIU-2025.1.1.win.zip|https://download.jetbrains.com/idea/ideaIU-2025.1.1.win.zip|1694377299|binary/octet-stream|1746620364
+jetbrains|CLion/release/2025.1/2025.1.1/macM1/CLion-2025.1.1-aarch64.dmg|https://download.jetbrains.com/cpp/CLion-2025.1.1-aarch64.dmg|1572102702|binary/octet-stream|1746560057
+jetbrains|CLion/release/2025.1/2025.1.1/linuxARM64/CLion-2025.1.1-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2025.1.1-aarch64.tar.gz|1596838857|binary/octet-stream|1746560057
+jetbrains|CLion/release/2025.1/2025.1.1/mac/CLion-2025.1.1.dmg|https://download.jetbrains.com/cpp/CLion-2025.1.1.dmg|1550703763|binary/octet-stream|1746560063
+jetbrains|CLion/release/2025.1/2025.1.1/windowsZip/CLion-2025.1.1.win.zip|https://download.jetbrains.com/cpp/CLion-2025.1.1.win.zip|1933981290|binary/octet-stream|1746560088
+jetbrains|CLion/release/2025.1/2025.1.1/windows/CLion-2025.1.1.exe|https://download.jetbrains.com/cpp/CLion-2025.1.1.exe|1398731192|binary/octet-stream|1746560063
+jetbrains|CLion/release/2025.1/2025.1.1/linux/CLion-2025.1.1.tar.gz|https://download.jetbrains.com/cpp/CLion-2025.1.1.tar.gz|1604527911|binary/octet-stream|1746560078
+jetbrains|CLion/release/2025.1/2025.1.1/windowsARM64/CLion-2025.1.1-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2025.1.1-aarch64.exe|1317101656|binary/octet-stream|1746560057

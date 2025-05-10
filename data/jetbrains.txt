@@ -7696,3 +7696,10 @@ jetbrains|RubyMine/release/2025.1/2025.1.1/windowsZip/RubyMine-2025.1.1.win.zip|
 jetbrains|RubyMine/release/2025.1/2025.1.1/windowsARM64/RubyMine-2025.1.1-aarch64.exe|https://download.jetbrains.com/ruby/RubyMine-2025.1.1-aarch64.exe|731698712|binary/octet-stream|1746694866
 jetbrains|RubyMine/release/2025.1/2025.1.1/linuxARM64/RubyMine-2025.1.1-aarch64.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2025.1.1-aarch64.tar.gz|1035704970|binary/octet-stream|1746694875
 jetbrains|RubyMine/release/2025.1/2025.1.1/linux/RubyMine-2025.1.1.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2025.1.1.tar.gz|1038322190|binary/octet-stream|1746694921
+jetbrains|IDEA/release/2025.1/2025.1.1.1/macM1/ideaIU-2025.1.1.1-aarch64.dmg|https://download.jetbrains.com/idea/ideaIU-2025.1.1.1-aarch64.dmg|1605638446|binary/octet-stream|1746797555
+jetbrains|IDEA/release/2025.1/2025.1.1.1/windows/ideaIU-2025.1.1.1.exe|https://download.jetbrains.com/idea/ideaIU-2025.1.1.1.exe|1266249784|binary/octet-stream|1746797608
+jetbrains|IDEA/release/2025.1/2025.1.1.1/mac/ideaIU-2025.1.1.1.dmg|https://download.jetbrains.com/idea/ideaIU-2025.1.1.1.dmg|1616583653|binary/octet-stream|1746797595
+jetbrains|IDEA/release/2025.1/2025.1.1.1/linuxARM64/ideaIU-2025.1.1.1-aarch64.tar.gz|https://download.jetbrains.com/idea/ideaIU-2025.1.1.1-aarch64.tar.gz|1678615748|binary/octet-stream|1746797586
+jetbrains|IDEA/release/2025.1/2025.1.1.1/windowsARM64/ideaIU-2025.1.1.1-aarch64.exe|https://download.jetbrains.com/idea/ideaIU-2025.1.1.1-aarch64.exe|1228386664|binary/octet-stream|1746797573
+jetbrains|IDEA/release/2025.1/2025.1.1.1/windowsZip/ideaIU-2025.1.1.1.win.zip|https://download.jetbrains.com/idea/ideaIU-2025.1.1.1.win.zip|1694591205|binary/octet-stream|1746797665
+jetbrains|IDEA/release/2025.1/2025.1.1.1/linux/ideaIU-2025.1.1.1.tar.gz|https://download.jetbrains.com/idea/ideaIU-2025.1.1.1.tar.gz|1681592268|binary/octet-stream|1746797630

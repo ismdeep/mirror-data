@@ -7703,3 +7703,10 @@ jetbrains|IDEA/release/2025.1/2025.1.1.1/linuxARM64/ideaIU-2025.1.1.1-aarch64.ta
 jetbrains|IDEA/release/2025.1/2025.1.1.1/windowsARM64/ideaIU-2025.1.1.1-aarch64.exe|https://download.jetbrains.com/idea/ideaIU-2025.1.1.1-aarch64.exe|1228386664|binary/octet-stream|1746797573
 jetbrains|IDEA/release/2025.1/2025.1.1.1/windowsZip/ideaIU-2025.1.1.1.win.zip|https://download.jetbrains.com/idea/ideaIU-2025.1.1.1.win.zip|1694591205|binary/octet-stream|1746797665
 jetbrains|IDEA/release/2025.1/2025.1.1.1/linux/ideaIU-2025.1.1.1.tar.gz|https://download.jetbrains.com/idea/ideaIU-2025.1.1.1.tar.gz|1681592268|binary/octet-stream|1746797630
+jetbrains|GoLand/release/2025.1/2025.1.1/windows/goland-2025.1.1.exe|https://download.jetbrains.com/go/goland-2025.1.1.exe|832016440|binary/octet-stream|1747070121
+jetbrains|GoLand/release/2025.1/2025.1.1/linux/goland-2025.1.1.tar.gz|https://download.jetbrains.com/go/goland-2025.1.1.tar.gz|1120783192|binary/octet-stream|1747070120
+jetbrains|GoLand/release/2025.1/2025.1.1/macM1/goland-2025.1.1-aarch64.dmg|https://download.jetbrains.com/go/goland-2025.1.1-aarch64.dmg|1062258831|binary/octet-stream|1747070116
+jetbrains|GoLand/release/2025.1/2025.1.1/mac/goland-2025.1.1.dmg|https://download.jetbrains.com/go/goland-2025.1.1.dmg|1073091958|binary/octet-stream|1747070118
+jetbrains|GoLand/release/2025.1/2025.1.1/windowsARM64/goland-2025.1.1-aarch64.exe|https://download.jetbrains.com/go/goland-2025.1.1-aarch64.exe|794419312|binary/octet-stream|1747070116
+jetbrains|GoLand/release/2025.1/2025.1.1/windowsZip/goland-2025.1.1.win.zip|https://download.jetbrains.com/go/goland-2025.1.1.win.zip|1132949747|binary/octet-stream|1747070123
+jetbrains|GoLand/release/2025.1/2025.1.1/linuxARM64/goland-2025.1.1-aarch64.tar.gz|https://download.jetbrains.com/go/goland-2025.1.1-aarch64.tar.gz|1118167582|binary/octet-stream|1747070116

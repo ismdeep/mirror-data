@@ -25,6 +25,9 @@ jobs:
         with:
           go-version: '1.23.6'
 
+      - name: Install rclone
+        run: make install-rclone
+
       - name: Build
         run: make bin
 

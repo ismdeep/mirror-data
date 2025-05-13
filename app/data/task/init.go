@@ -4,6 +4,7 @@ var Tasks map[string]Interface
 
 func init() {
 	Tasks = map[string]Interface{
+		"alpine-linux":                  &AlpineLinux{},
 		"another-redis-desktop-manager": &AnotherRedisDesktopManager{},
 		"ctop":                          &Ctop{},
 		"docker-compose":                &DockerCompose{},
@@ -22,6 +23,7 @@ func init() {
 		"obsidian":                      &Obsidian{},
 		"openssl":                       &OpenSSL{},
 		"pandoc":                        &Pandoc{},
+		"python":                        &Python{},
 		"rclone":                        &Rclone{},
 		"ventoy":                        &Ventoy{},
 		"yq":                            &Yq{},

@@ -11,8 +11,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ismdeep/mirror-data/pkg/log"
 	"go.uber.org/zap"
+
+	"github.com/ismdeep/mirror-data/pkg/log"
 )
 
 // LinkPair link pair
@@ -24,7 +25,7 @@ type LinkPair struct {
 // Storage model
 type Storage struct {
 	BucketName    string
-	ExistsMap     map[string]bool
+	ExistsMap     sync.Map
 	Fp            *os.File
 	FpMutex       sync.Mutex
 	C             chan LinkPair
@@ -37,7 +38,6 @@ func New(bucketName string, coroutineSize int) *Storage {
 	var storage Storage
 	storage.BucketName = bucketName
 	storage.CoroutineSize = coroutineSize
-	storage.ExistsMap = make(map[string]bool)
 	storage.C = make(chan LinkPair, 1024)
 
 	fp, err := os.OpenFile(fmt.Sprintf("./data/%v.txt", bucketName), os.O_CREATE|os.O_RDONLY, 0644)
@@ -60,7 +60,7 @@ func New(bucketName string, coroutineSize int) *Storage {
 
 		s = strings.TrimSpace(s)
 		items := strings.Split(s, "|")
-		storage.ExistsMap[items[1]] = true
+		storage.ExistsMap.Store(items[1], true)
 	}
 
 	fpWrite, err := os.OpenFile(fmt.Sprintf("./data/%v.txt", bucketName), os.O_CREATE|os.O_WRONLY|os.O_APPEND, 0644)
@@ -88,7 +88,7 @@ func (receiver *Storage) write(link string, content string) error {
 		receiver.FpMutex.Unlock()
 	}()
 
-	if _, ok := receiver.ExistsMap[link]; ok {
+	if _, ok := receiver.ExistsMap.Load(link); ok {
 		return nil
 	}
 
@@ -96,7 +96,7 @@ func (receiver *Storage) write(link string, content string) error {
 		return err
 	}
 
-	receiver.ExistsMap[link] = true
+	receiver.ExistsMap.Store(link, true)
 
 	return nil
 }
@@ -106,7 +106,7 @@ func (receiver *Storage) startConsumer() {
 		receiver.WG.Add(1)
 		go func() {
 			for item := range receiver.C {
-				if _, ok := receiver.ExistsMap[item.Link]; ok {
+				if _, ok := receiver.ExistsMap.Load(item.Link); ok {
 					log.WithName(receiver.BucketName).Debug("already exists", zap.String("link", item.Link))
 					continue
 				}

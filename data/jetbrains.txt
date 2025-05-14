@@ -7710,3 +7710,10 @@ jetbrains|GoLand/release/2025.1/2025.1.1/mac/goland-2025.1.1.dmg|https://downloa
 jetbrains|GoLand/release/2025.1/2025.1.1/windowsARM64/goland-2025.1.1-aarch64.exe|https://download.jetbrains.com/go/goland-2025.1.1-aarch64.exe|794419312|binary/octet-stream|1747070116
 jetbrains|GoLand/release/2025.1/2025.1.1/windowsZip/goland-2025.1.1.win.zip|https://download.jetbrains.com/go/goland-2025.1.1.win.zip|1132949747|binary/octet-stream|1747070123
 jetbrains|GoLand/release/2025.1/2025.1.1/linuxARM64/goland-2025.1.1-aarch64.tar.gz|https://download.jetbrains.com/go/goland-2025.1.1-aarch64.tar.gz|1118167582|binary/octet-stream|1747070116
+jetbrains|PhpStorm/release/2025.1/2025.1.1/linux/PhpStorm-2025.1.1.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2025.1.1.tar.gz|1057914196|binary/octet-stream|1747162637
+jetbrains|PhpStorm/release/2025.1/2025.1.1/windowsZip/PhpStorm-2025.1.1.win.zip|https://download.jetbrains.com/webide/PhpStorm-2025.1.1.win.zip|1070276095|binary/octet-stream|1747162639
+jetbrains|PhpStorm/release/2025.1/2025.1.1/mac/PhpStorm-2025.1.1.dmg|https://download.jetbrains.com/webide/PhpStorm-2025.1.1.dmg|1013087407|binary/octet-stream|1747162633
+jetbrains|PhpStorm/release/2025.1/2025.1.1/macM1/PhpStorm-2025.1.1-aarch64.dmg|https://download.jetbrains.com/webide/PhpStorm-2025.1.1-aarch64.dmg|1002282462|binary/octet-stream|1747162630
+jetbrains|PhpStorm/release/2025.1/2025.1.1/windows/PhpStorm-2025.1.1.exe|https://download.jetbrains.com/webide/PhpStorm-2025.1.1.exe|789475944|binary/octet-stream|1747162635
+jetbrains|PhpStorm/release/2025.1/2025.1.1/windowsARM64/PhpStorm-2025.1.1-aarch64.exe|https://download.jetbrains.com/webide/PhpStorm-2025.1.1-aarch64.exe|751597920|binary/octet-stream|1747162630
+jetbrains|PhpStorm/release/2025.1/2025.1.1/linuxARM64/PhpStorm-2025.1.1-aarch64.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2025.1.1-aarch64.tar.gz|1054965432|binary/octet-stream|1747162631

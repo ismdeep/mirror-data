@@ -7739,3 +7739,11 @@ jetbrains|PyCharm/release/2025.1/2025.1.1.1/windowsZip/pycharm-2025.1.1.1.win.zi
 jetbrains|PyCharm/release/2025.1/2025.1.1.1/mac/pycharm-2025.1.1.1.dmg|https://download.jetbrains.com/python/pycharm-2025.1.1.1.dmg|1133228342|binary/octet-stream|1747254452
 jetbrains|PyCharm/release/2025.1/2025.1.1.1/windowsZipARM64/pycharm-2025.1.1.1-aarch64.win.zip|https://download.jetbrains.com/python/pycharm-2025.1.1.1-aarch64.win.zip|1156103015|binary/octet-stream|1747254452
 jetbrains|PyCharm/release/2025.1/2025.1.1.1/linuxARM64/pycharm-2025.1.1.1-aarch64.tar.gz|https://download.jetbrains.com/python/pycharm-2025.1.1.1-aarch64.tar.gz|1171821950|binary/octet-stream|1747254452
+jetbrains|Rider/release/2024.3/2024.3.8/windows/JetBrains.Rider-2024.3.8.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.8.exe|1546086432|binary/octet-stream|1747745868
+jetbrains|Rider/release/2024.3/2024.3.8/linux/JetBrains.Rider-2024.3.8.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.8.tar.gz|1907700473|binary/octet-stream|1747746029
+jetbrains|Rider/release/2024.3/2024.3.8/windowsZipARM64/JetBrains.Rider-2024.3.8-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.8-aarch64.win.zip|2123559457|binary/octet-stream|1747745981
+jetbrains|Rider/release/2024.3/2024.3.8/macM1/JetBrains.Rider-2024.3.8-aarch64.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.8-aarch64.dmg|1836340586|binary/octet-stream|1747745829
+jetbrains|Rider/release/2024.3/2024.3.8/linuxARM64/JetBrains.Rider-2024.3.8-aarch64.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.8-aarch64.tar.gz|1898230233|binary/octet-stream|1747746074
+jetbrains|Rider/release/2024.3/2024.3.8/windowsARM64/JetBrains.Rider-2024.3.8-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.8-aarch64.exe|1561362744|binary/octet-stream|1747745902
+jetbrains|Rider/release/2024.3/2024.3.8/windowsZip/JetBrains.Rider-2024.3.8.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.8.win.zip|2074140924|binary/octet-stream|1747745936
+jetbrains|Rider/release/2024.3/2024.3.8/mac/JetBrains.Rider-2024.3.8.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.8.dmg|1805198975|binary/octet-stream|1747745788

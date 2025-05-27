@@ -813,3 +813,4 @@ python|3.9.19/Python-3.9.19.tar.xz|https://www.python.org/ftp/python/3.9.19/Pyth
 python|3.9.20/Python-3.9.20.tar.xz|https://www.python.org/ftp/python/3.9.20/Python-3.9.20.tar.xz|19648968|application/octet-stream|1725651999
 python|3.9.21/Python-3.9.21.tar.xz|https://www.python.org/ftp/python/3.9.21/Python-3.9.21.tar.xz|19647056|application/octet-stream|1733249938
 python|3.9.22/Python-3.9.22.tar.xz|https://www.python.org/ftp/python/3.9.22/Python-3.9.22.tar.xz|19652572|application/octet-stream|1744127158
+python|3.14.0/Python-3.14.0b2.tar.xz|https://www.python.org/ftp/python/3.14.0/Python-3.14.0b2.tar.xz|23579860|application/octet-stream|1748268365

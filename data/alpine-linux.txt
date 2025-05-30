@@ -2233,3 +2233,17 @@ alpine-linux|v3.22/x86_64/alpine-xen-3.22.0_rc2-x86_64.iso|https://dl-cdn.alpine
 alpine-linux|v3.22/aarch64/alpine-standard-3.22.0_rc2-aarch64.iso|https://dl-cdn.alpinelinux.org/alpine/v3.22/releases/aarch64/alpine-standard-3.22.0_rc2-aarch64.iso|288071680|application/octet-stream|1748467814
 alpine-linux|v3.22/armv7/alpine-virt-3.22.0_rc1-armv7.iso|https://dl-cdn.alpinelinux.org/alpine/v3.22/releases/armv7/alpine-virt-3.22.0_rc1-armv7.iso|48732160|application/octet-stream|1748409951
 alpine-linux|v3.22/armv7/alpine-standard-3.22.0_rc1-armv7.iso|https://dl-cdn.alpinelinux.org/alpine/v3.22/releases/armv7/alpine-standard-3.22.0_rc1-armv7.iso|114655232|application/octet-stream|1748409939
+alpine-linux|v3.22/s390x/alpine-standard-3.22.0_rc3-s390x.iso|https://dl-cdn.alpinelinux.org/alpine/v3.22/releases/s390x/alpine-standard-3.22.0_rc3-s390x.iso|90341376|application/octet-stream|1748525457
+alpine-linux|v3.22/loongarch64/alpine-standard-3.22.0_rc3-loongarch64.iso|https://dl-cdn.alpinelinux.org/alpine/v3.22/releases/loongarch64/alpine-standard-3.22.0_rc3-loongarch64.iso|109993984|application/octet-stream|1748525452
+alpine-linux|v3.22/x86/alpine-standard-3.22.0_rc3-x86.iso|https://dl-cdn.alpinelinux.org/alpine/v3.22/releases/x86/alpine-standard-3.22.0_rc3-x86.iso|222298112|application/octet-stream|1748525555
+alpine-linux|v3.22/x86_64/alpine-xen-3.22.0_rc3-x86_64.iso|https://dl-cdn.alpinelinux.org/alpine/v3.22/releases/x86_64/alpine-xen-3.22.0_rc3-x86_64.iso|1246003200|application/octet-stream|1748526083
+alpine-linux|v3.22/ppc64le/alpine-standard-3.22.0_rc3-ppc64le.iso|https://dl-cdn.alpinelinux.org/alpine/v3.22/releases/ppc64le/alpine-standard-3.22.0_rc3-ppc64le.iso|180709376|application/octet-stream|1748525490
+alpine-linux|v3.22/armv7/alpine-standard-3.22.0_rc3-armv7.iso|https://dl-cdn.alpinelinux.org/alpine/v3.22/releases/armv7/alpine-standard-3.22.0_rc3-armv7.iso|114655232|application/octet-stream|1748525524
+alpine-linux|v3.22/x86_64/alpine-standard-3.22.0_rc3-x86_64.iso|https://dl-cdn.alpinelinux.org/alpine/v3.22/releases/x86_64/alpine-standard-3.22.0_rc3-x86_64.iso|281018368|application/octet-stream|1748525735
+alpine-linux|v3.22/armv7/alpine-virt-3.22.0_rc3-armv7.iso|https://dl-cdn.alpinelinux.org/alpine/v3.22/releases/armv7/alpine-virt-3.22.0_rc3-armv7.iso|48732160|application/octet-stream|1748525537
+alpine-linux|v3.22/x86_64/alpine-virt-3.22.0_rc3-x86_64.iso|https://dl-cdn.alpinelinux.org/alpine/v3.22/releases/x86_64/alpine-virt-3.22.0_rc3-x86_64.iso|68157440|application/octet-stream|1748525936
+alpine-linux|v3.22/x86/alpine-extended-3.22.0_rc3-x86.iso|https://dl-cdn.alpinelinux.org/alpine/v3.22/releases/x86/alpine-extended-3.22.0_rc3-x86.iso|1045430272|application/octet-stream|1748525656
+alpine-linux|v3.22/aarch64/alpine-standard-3.22.0_rc3-aarch64.iso|https://dl-cdn.alpinelinux.org/alpine/v3.22/releases/aarch64/alpine-standard-3.22.0_rc3-aarch64.iso|288071680|application/octet-stream|1748525613
+alpine-linux|v3.22/x86/alpine-virt-3.22.0_rc3-x86.iso|https://dl-cdn.alpinelinux.org/alpine/v3.22/releases/x86/alpine-virt-3.22.0_rc3-x86.iso|51380224|application/octet-stream|1748525705
+alpine-linux|v3.22/aarch64/alpine-virt-3.22.0_rc3-aarch64.iso|https://dl-cdn.alpinelinux.org/alpine/v3.22/releases/aarch64/alpine-virt-3.22.0_rc3-aarch64.iso|80193536|application/octet-stream|1748525628
+alpine-linux|v3.22/x86_64/alpine-extended-3.22.0_rc3-x86_64.iso|https://dl-cdn.alpinelinux.org/alpine/v3.22/releases/x86_64/alpine-extended-3.22.0_rc3-x86_64.iso|1166376960|application/octet-stream|1748525885

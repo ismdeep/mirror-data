@@ -7806,3 +7806,17 @@ jetbrains|PyCharm/release/2024.3/2024.3.6/mac/pycharm-professional-2024.3.6.dmg|
 jetbrains|PyCharm/release/2024.3/2024.3.6/linux/pycharm-professional-2024.3.6.tar.gz|https://download.jetbrains.com/python/pycharm-professional-2024.3.6.tar.gz|1166923598|binary/octet-stream|1748478674
 jetbrains|PyCharm/release/2024.3/2024.3.6/windowsARM64/pycharm-professional-2024.3.6-aarch64.exe|https://download.jetbrains.com/python/pycharm-professional-2024.3.6-aarch64.exe|841055768|binary/octet-stream|1748478610
 jetbrains|PyCharm/release/2024.3/2024.3.6/windowsZip/pycharm-professional-2024.3.6.win.zip|https://download.jetbrains.com/python/pycharm-professional-2024.3.6.win.zip|1196649817|binary/octet-stream|1748478681
+jetbrains|PhpStorm/release/2024.3/2024.3.6/windows/PhpStorm-2024.3.6.exe|https://download.jetbrains.com/webide/PhpStorm-2024.3.6.exe|793235272|binary/octet-stream|1748620436
+jetbrains|RubyMine/release/2024.3/2024.3.6/windows/RubyMine-2024.3.6.exe|https://download.jetbrains.com/ruby/RubyMine-2024.3.6.exe|775735040|binary/octet-stream|1748589970
+jetbrains|PhpStorm/release/2024.3/2024.3.6/mac/PhpStorm-2024.3.6.dmg|https://download.jetbrains.com/webide/PhpStorm-2024.3.6.dmg|1002061729|binary/octet-stream|1748620439
+jetbrains|PhpStorm/release/2024.3/2024.3.6/macM1/PhpStorm-2024.3.6-aarch64.dmg|https://download.jetbrains.com/webide/PhpStorm-2024.3.6-aarch64.dmg|992598612|binary/octet-stream|1748620426
+jetbrains|PhpStorm/release/2024.3/2024.3.6/linuxARM64/PhpStorm-2024.3.6-aarch64.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2024.3.6-aarch64.tar.gz|1040942081|binary/octet-stream|1748620426
+jetbrains|PhpStorm/release/2024.3/2024.3.6/linux/PhpStorm-2024.3.6.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2024.3.6.tar.gz|1041546786|binary/octet-stream|1748620457
+jetbrains|RubyMine/release/2024.3/2024.3.6/windowsARM64/RubyMine-2024.3.6-aarch64.exe|https://download.jetbrains.com/ruby/RubyMine-2024.3.6-aarch64.exe|739007384|binary/octet-stream|1748589966
+jetbrains|RubyMine/release/2024.3/2024.3.6/windowsZip/RubyMine-2024.3.6.win.zip|https://download.jetbrains.com/ruby/RubyMine-2024.3.6.win.zip|1051762254|binary/octet-stream|1748589973
+jetbrains|RubyMine/release/2024.3/2024.3.6/macM1/RubyMine-2024.3.6-aarch64.dmg|https://download.jetbrains.com/ruby/RubyMine-2024.3.6-aarch64.dmg|976425634|binary/octet-stream|1748589966
+jetbrains|RubyMine/release/2024.3/2024.3.6/mac/RubyMine-2024.3.6.dmg|https://download.jetbrains.com/ruby/RubyMine-2024.3.6.dmg|985743566|binary/octet-stream|1748589967
+jetbrains|PhpStorm/release/2024.3/2024.3.6/windowsZip/PhpStorm-2024.3.6.win.zip|https://download.jetbrains.com/webide/PhpStorm-2024.3.6.win.zip|1059717193|binary/octet-stream|1748620464
+jetbrains|PhpStorm/release/2024.3/2024.3.6/windowsARM64/PhpStorm-2024.3.6-aarch64.exe|https://download.jetbrains.com/webide/PhpStorm-2024.3.6-aarch64.exe|756251320|binary/octet-stream|1748620426
+jetbrains|RubyMine/release/2024.3/2024.3.6/linuxARM64/RubyMine-2024.3.6-aarch64.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2024.3.6-aarch64.tar.gz|1024807505|binary/octet-stream|1748589966
+jetbrains|RubyMine/release/2024.3/2024.3.6/linux/RubyMine-2024.3.6.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2024.3.6.tar.gz|1025072073|binary/octet-stream|1748589972

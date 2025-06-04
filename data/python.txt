@@ -814,3 +814,8 @@ python|3.9.20/Python-3.9.20.tar.xz|https://www.python.org/ftp/python/3.9.20/Pyth
 python|3.9.21/Python-3.9.21.tar.xz|https://www.python.org/ftp/python/3.9.21/Python-3.9.21.tar.xz|19647056|application/octet-stream|1733249938
 python|3.9.22/Python-3.9.22.tar.xz|https://www.python.org/ftp/python/3.9.22/Python-3.9.22.tar.xz|19652572|application/octet-stream|1744127158
 python|3.14.0/Python-3.14.0b2.tar.xz|https://www.python.org/ftp/python/3.14.0/Python-3.14.0b2.tar.xz|23579860|application/octet-stream|1748268365
+python|3.10.18/Python-3.10.18.tar.xz|https://www.python.org/ftp/python/3.10.18/Python-3.10.18.tar.xz|19619316|application/octet-stream|1748977166
+python|3.11.13/Python-3.11.13.tar.xz|https://www.python.org/ftp/python/3.11.13/Python-3.11.13.tar.xz|20117496|application/octet-stream|1748978939
+python|3.12.11/Python-3.12.11.tar.xz|https://www.python.org/ftp/python/3.12.11/Python-3.12.11.tar.xz|20525812|application/octet-stream|1748972370
+python|3.13.4/Python-3.13.4.tar.xz|https://www.python.org/ftp/python/3.13.4/Python-3.13.4.tar.xz|22672472|application/octet-stream|1748972409
+python|3.9.23/Python-3.9.23.tar.xz|https://www.python.org/ftp/python/3.9.23/Python-3.9.23.tar.xz|19659284|application/octet-stream|1748977742

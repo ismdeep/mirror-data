@@ -7848,3 +7848,17 @@ jetbrains|GoLand/release/2025.1/2025.1.2/linux/goland-2025.1.2.tar.gz|https://do
 jetbrains|GoLand/release/2025.1/2025.1.2/windowsARM64/goland-2025.1.2-aarch64.exe|https://download.jetbrains.com/go/goland-2025.1.2-aarch64.exe|791839088|binary/octet-stream|1749112527
 jetbrains|CLion/release/2025.1/2025.1.2/linuxARM64/CLion-2025.1.2-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2025.1.2-aarch64.tar.gz|1601855663|binary/octet-stream|1749120727
 jetbrains|GoLand/release/2025.1/2025.1.2/linuxARM64/goland-2025.1.2-aarch64.tar.gz|https://download.jetbrains.com/go/goland-2025.1.2-aarch64.tar.gz|1120462912|binary/octet-stream|1749112527
+jetbrains|PhpStorm/release/2025.1/2025.1.2/windows/PhpStorm-2025.1.2.exe|https://download.jetbrains.com/webide/PhpStorm-2025.1.2.exe|787266280|binary/octet-stream|1749204381
+jetbrains|RubyMine/release/2025.1/2025.1.2/linuxARM64/RubyMine-2025.1.2-aarch64.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2025.1.2-aarch64.tar.gz|1038018788|binary/octet-stream|1749125302
+jetbrains|PhpStorm/release/2025.1/2025.1.2/windowsARM64/PhpStorm-2025.1.2-aarch64.exe|https://download.jetbrains.com/webide/PhpStorm-2025.1.2-aarch64.exe|749396536|binary/octet-stream|1749204376
+jetbrains|PhpStorm/release/2025.1/2025.1.2/mac/PhpStorm-2025.1.2.dmg|https://download.jetbrains.com/webide/PhpStorm-2025.1.2.dmg|1015830428|binary/octet-stream|1749204378
+jetbrains|PhpStorm/release/2025.1/2025.1.2/macM1/PhpStorm-2025.1.2-aarch64.dmg|https://download.jetbrains.com/webide/PhpStorm-2025.1.2-aarch64.dmg|1004660435|binary/octet-stream|1749204376
+jetbrains|PhpStorm/release/2025.1/2025.1.2/linuxARM64/PhpStorm-2025.1.2-aarch64.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2025.1.2-aarch64.tar.gz|1057605864|binary/octet-stream|1749204376
+jetbrains|RubyMine/release/2025.1/2025.1.2/mac/RubyMine-2025.1.2.dmg|https://download.jetbrains.com/ruby/RubyMine-2025.1.2.dmg|995981978|binary/octet-stream|1749125302
+jetbrains|RubyMine/release/2025.1/2025.1.2/windowsARM64/RubyMine-2025.1.2-aarch64.exe|https://download.jetbrains.com/ruby/RubyMine-2025.1.2-aarch64.exe|729198296|binary/octet-stream|1749125302
+jetbrains|PhpStorm/release/2025.1/2025.1.2/linux/PhpStorm-2025.1.2.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2025.1.2.tar.gz|1060555865|binary/octet-stream|1749204384
+jetbrains|RubyMine/release/2025.1/2025.1.2/macM1/RubyMine-2025.1.2-aarch64.dmg|https://download.jetbrains.com/ruby/RubyMine-2025.1.2-aarch64.dmg|985036918|binary/octet-stream|1749125302
+jetbrains|RubyMine/release/2025.1/2025.1.2/linux/RubyMine-2025.1.2.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2025.1.2.tar.gz|1040651630|binary/octet-stream|1749125306
+jetbrains|PhpStorm/release/2025.1/2025.1.2/windowsZip/PhpStorm-2025.1.2.win.zip|https://download.jetbrains.com/webide/PhpStorm-2025.1.2.win.zip|1072912128|binary/octet-stream|1749204383
+jetbrains|RubyMine/release/2025.1/2025.1.2/windowsZip/RubyMine-2025.1.2.win.zip|https://download.jetbrains.com/ruby/RubyMine-2025.1.2.win.zip|1061214985|binary/octet-stream|1749125308
+jetbrains|RubyMine/release/2025.1/2025.1.2/windows/RubyMine-2025.1.2.exe|https://download.jetbrains.com/ruby/RubyMine-2025.1.2.exe|766797160|binary/octet-stream|1749125303

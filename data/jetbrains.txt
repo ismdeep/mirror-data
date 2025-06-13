@@ -7878,3 +7878,11 @@ jetbrains|PyCharm/release/2025.1/2025.1.2/mac/pycharm-2025.1.2.dmg|https://downl
 jetbrains|PyCharm/release/2025.1/2025.1.2/windowsZip/pycharm-2025.1.2.win.zip|https://download.jetbrains.com/python/pycharm-2025.1.2.win.zip|1205630046|binary/octet-stream|1749641663
 jetbrains|PyCharm/release/2025.1/2025.1.2/linuxARM64/pycharm-2025.1.2-aarch64.tar.gz|https://download.jetbrains.com/python/pycharm-2025.1.2-aarch64.tar.gz|1178743040|binary/octet-stream|1749641655
 jetbrains|PyCharm/release/2025.1/2025.1.2/windowsZipARM64/pycharm-2025.1.2-aarch64.win.zip|https://download.jetbrains.com/python/pycharm-2025.1.2-aarch64.win.zip|1163108502|binary/octet-stream|1749641655
+jetbrains|Rider/release/2025.1/2025.1.3/mac/JetBrains.Rider-2025.1.3.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.3.dmg|1826091486|binary/octet-stream|1749723516
+jetbrains|Rider/release/2025.1/2025.1.3/macM1/JetBrains.Rider-2025.1.3-aarch64.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.3-aarch64.dmg|1855761594|binary/octet-stream|1749723557
+jetbrains|Rider/release/2025.1/2025.1.3/windows/JetBrains.Rider-2025.1.3.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.3.exe|1547953080|binary/octet-stream|1749723600
+jetbrains|Rider/release/2025.1/2025.1.3/linux/JetBrains.Rider-2025.1.3.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.3.tar.gz|1932321773|binary/octet-stream|1749723765
+jetbrains|Rider/release/2025.1/2025.1.3/linuxARM64/JetBrains.Rider-2025.1.3-aarch64.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.3-aarch64.tar.gz|1922198152|binary/octet-stream|1749723806
+jetbrains|Rider/release/2025.1/2025.1.3/windowsARM64/JetBrains.Rider-2025.1.3-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.3-aarch64.exe|1571618680|binary/octet-stream|1749723634
+jetbrains|Rider/release/2025.1/2025.1.3/windowsZipARM64/JetBrains.Rider-2025.1.3-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.3-aarch64.win.zip|2158585800|binary/octet-stream|1749723716
+jetbrains|Rider/release/2025.1/2025.1.3/windowsZip/JetBrains.Rider-2025.1.3.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.3.win.zip|2094167434|binary/octet-stream|1749723669

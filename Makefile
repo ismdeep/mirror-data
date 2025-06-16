@@ -7,6 +7,13 @@ bin:
 	go build -o bin/data   -mod vendor -trimpath -ldflags '-s -w' ./app/data/
 	go build -o bin/mirror -mod vendor -trimpath -ldflags '-s -w' ./app/mirror/
 
+# `make server`                    Server
+.PHONY: server
+server:
+	docker buildx build \
+		--platform linux/amd64 \
+		--progress plain --pull --push -t ismdeep/mirror-server:latest -f ./app/mirror/Dockerfile .
+
 # `make publish`                   Publish
 .PHONY: publish
 publish:
@@ -15,11 +22,9 @@ publish:
 		git config user.email "l.jiang.1024@gmail.com" && \
 		git add . && \
 		git commit -am "docs: update data via github workflow" && \
-		git push origin HEAD:main && \
-		docker buildx build \
-			--platform linux/amd64 \
-			--progress plain --pull --push -t ismdeep/mirror-server:latest -f ./app/mirror/Dockerfile .; \
+		git push origin HEAD:main; \
 	fi
+	make server
 
 # `make install-rclone`            Install rclone
 .PHONY: install-rclone

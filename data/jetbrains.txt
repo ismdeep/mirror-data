@@ -7928,3 +7928,11 @@ jetbrains|PhpStorm/release/2025.1/2025.1.3/windowsARM64/PhpStorm-2025.1.3-aarch6
 jetbrains|PhpStorm/release/2025.1/2025.1.3/linuxARM64/PhpStorm-2025.1.3-aarch64.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2025.1.3-aarch64.tar.gz|1065759667|binary/octet-stream|1750793721
 jetbrains|PhpStorm/release/2025.1/2025.1.3/mac/PhpStorm-2025.1.3.dmg|https://download.jetbrains.com/webide/PhpStorm-2025.1.3.dmg|1022183283|binary/octet-stream|1750793721
 jetbrains|PhpStorm/release/2025.1/2025.1.3/linux/PhpStorm-2025.1.3.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2025.1.3.tar.gz|1067251576|binary/octet-stream|1750793725
+jetbrains|Rider/release/2025.1/2025.1.4/windows/JetBrains.Rider-2025.1.4.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.4.exe|1558988448|binary/octet-stream|1751265307
+jetbrains|Rider/release/2025.1/2025.1.4/linux/JetBrains.Rider-2025.1.4.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.4.tar.gz|1939404518|binary/octet-stream|1751265491
+jetbrains|Rider/release/2025.1/2025.1.4/macM1/JetBrains.Rider-2025.1.4-aarch64.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.4-aarch64.dmg|1862477648|binary/octet-stream|1751265264
+jetbrains|Rider/release/2025.1/2025.1.4/linuxARM64/JetBrains.Rider-2025.1.4-aarch64.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.4-aarch64.tar.gz|1929242166|binary/octet-stream|1751265534
+jetbrains|Rider/release/2025.1/2025.1.4/windowsARM64/JetBrains.Rider-2025.1.4-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.4-aarch64.exe|1582656864|binary/octet-stream|1751265341
+jetbrains|Rider/release/2025.1/2025.1.4/mac/JetBrains.Rider-2025.1.4.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.4.dmg|1832555389|binary/octet-stream|1751265223
+jetbrains|Rider/release/2025.1/2025.1.4/windowsZip/JetBrains.Rider-2025.1.4.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.4.win.zip|2101287490|binary/octet-stream|1751265377
+jetbrains|Rider/release/2025.1/2025.1.4/windowsZipARM64/JetBrains.Rider-2025.1.4-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.4-aarch64.win.zip|2165704383|binary/octet-stream|1751265425

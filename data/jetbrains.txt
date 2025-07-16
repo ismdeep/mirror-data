@@ -7974,3 +7974,9 @@ jetbrains|PyCharmCommunity/release/2025.1/2025.1.3.1/windowsZipARM64/pycharm-com
 jetbrains|PyCharm/release/2025.1/2025.1.3.1/linuxARM64/pycharm-2025.1.3.1-aarch64.tar.gz|https://download.jetbrains.com/python/pycharm-2025.1.3.1-aarch64.tar.gz|1184238867|binary/octet-stream|1752160065
 jetbrains|PyCharm/release/2025.1/2025.1.3.1/mac/pycharm-2025.1.3.1.dmg|https://download.jetbrains.com/python/pycharm-2025.1.3.1.dmg|1144451749|binary/octet-stream|1752160065
 jetbrains|PyCharm/release/2025.1/2025.1.3.1/windowsZipARM64/pycharm-2025.1.3.1-aarch64.win.zip|https://download.jetbrains.com/python/pycharm-2025.1.3.1-aarch64.win.zip|1167113660|binary/octet-stream|1752160065
+jetbrains|DataSpell/release/2025.1/2025.1.2.1/macM1/dataspell-2025.1.2.1-aarch64.dmg|https://download.jetbrains.com/python/dataspell-2025.1.2.1-aarch64.dmg|1198523881|binary/octet-stream|1752520547
+jetbrains|DataSpell/release/2025.1/2025.1.2.1/windows/dataspell-2025.1.2.1.exe|https://download.jetbrains.com/python/dataspell-2025.1.2.1.exe|952586440|binary/octet-stream|1752520547
+jetbrains|DataSpell/release/2025.1/2025.1.2.1/linux/dataspell-2025.1.2.1.tar.gz|https://download.jetbrains.com/python/dataspell-2025.1.2.1.tar.gz|1229401630|binary/octet-stream|1752520549
+jetbrains|DataSpell/release/2025.1/2025.1.2.1/mac/dataspell-2025.1.2.1.dmg|https://download.jetbrains.com/python/dataspell-2025.1.2.1.dmg|1209227534|binary/octet-stream|1752520547
+jetbrains|DataSpell/release/2025.1/2025.1.2.1/linuxARM64/dataspell-2025.1.2.1-aarch64.tar.gz|https://download.jetbrains.com/python/dataspell-2025.1.2.1-aarch64.tar.gz|1229099578|binary/octet-stream|1752520547
+jetbrains|DataSpell/release/2025.1/2025.1.2.1/windowsARM64/dataspell-2025.1.2.1-aarch64.exe|https://download.jetbrains.com/python/dataspell-2025.1.2.1-aarch64.exe|923186264|binary/octet-stream|1752520547

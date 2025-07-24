@@ -7980,3 +7980,10 @@ jetbrains|DataSpell/release/2025.1/2025.1.2.1/linux/dataspell-2025.1.2.1.tar.gz|
 jetbrains|DataSpell/release/2025.1/2025.1.2.1/mac/dataspell-2025.1.2.1.dmg|https://download.jetbrains.com/python/dataspell-2025.1.2.1.dmg|1209227534|binary/octet-stream|1752520547
 jetbrains|DataSpell/release/2025.1/2025.1.2.1/linuxARM64/dataspell-2025.1.2.1-aarch64.tar.gz|https://download.jetbrains.com/python/dataspell-2025.1.2.1-aarch64.tar.gz|1229099578|binary/octet-stream|1752520547
 jetbrains|DataSpell/release/2025.1/2025.1.2.1/windowsARM64/dataspell-2025.1.2.1-aarch64.exe|https://download.jetbrains.com/python/dataspell-2025.1.2.1-aarch64.exe|923186264|binary/octet-stream|1752520547
+jetbrains|CLion/release/2025.1/2025.1.4/windows/CLion-2025.1.4.exe|https://download.jetbrains.com/cpp/CLion-2025.1.4.exe|1374838456|binary/octet-stream|1753271101
+jetbrains|CLion/release/2025.1/2025.1.4/macM1/CLion-2025.1.4-aarch64.dmg|https://download.jetbrains.com/cpp/CLion-2025.1.4-aarch64.dmg|1536109674|binary/octet-stream|1753271095
+jetbrains|CLion/release/2025.1/2025.1.4/mac/CLion-2025.1.4.dmg|https://download.jetbrains.com/cpp/CLion-2025.1.4.dmg|1515417535|binary/octet-stream|1753271099
+jetbrains|CLion/release/2025.1/2025.1.4/linux/CLion-2025.1.4.tar.gz|https://download.jetbrains.com/cpp/CLion-2025.1.4.tar.gz|1572762665|binary/octet-stream|1753271101
+jetbrains|CLion/release/2025.1/2025.1.4/windowsARM64/CLion-2025.1.4-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2025.1.4-aarch64.exe|1292012480|binary/octet-stream|1753271095
+jetbrains|CLion/release/2025.1/2025.1.4/windowsZip/CLion-2025.1.4.win.zip|https://download.jetbrains.com/cpp/CLion-2025.1.4.win.zip|1899608073|binary/octet-stream|1753271104
+jetbrains|CLion/release/2025.1/2025.1.4/linuxARM64/CLion-2025.1.4-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2025.1.4-aarch64.tar.gz|1563056200|binary/octet-stream|1753271095

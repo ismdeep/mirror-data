@@ -7,10 +7,11 @@ import (
 	"time"
 
 	"github.com/antchfx/htmlquery"
+	"golang.org/x/net/html"
+
 	"github.com/ismdeep/mirror-data/app/data/conf"
 	"github.com/ismdeep/mirror-data/app/data/global"
 	"github.com/ismdeep/mirror-data/app/data/internal/store"
-	"golang.org/x/net/html"
 )
 
 type GoDev struct {
@@ -91,4 +92,8 @@ func (receiver *GoDev) GetVersion(s string) string {
 	}
 
 	return strings.Join(items, ".")
+}
+
+func (receiver *GoDev) GetBucketName() string {
+	return "go"
 }

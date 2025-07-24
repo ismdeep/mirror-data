@@ -10,6 +10,10 @@ import (
 type OpenSSL struct {
 }
 
+func (receiver *OpenSSL) GetBucketName() string {
+	return "openssl"
+}
+
 func (receiver *OpenSSL) Run() {
 	storage := store.New("openssl", conf.Config.StorageCoroutineSize)
 	versions := []string{

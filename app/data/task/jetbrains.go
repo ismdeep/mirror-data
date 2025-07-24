@@ -14,6 +14,10 @@ type JetBrains struct {
 	storage *store.Storage
 }
 
+func (receiver *JetBrains) GetBucketName() string {
+	return "jetbrains"
+}
+
 func (receiver *JetBrains) Run() {
 	receiver.storage = store.New("jetbrains", conf.Config.StorageCoroutineSize)
 

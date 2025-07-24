@@ -35,7 +35,7 @@ jobs:
         run: echo "${{ secrets.SECRETS_YAML }}" > secrets.yaml
 
       - name: Run mirror-data
-        run: ./bin/data
+        run: ./bin/data --meta _meta.yaml
 
       - name: Set up Docker Buildx
         id: buildx

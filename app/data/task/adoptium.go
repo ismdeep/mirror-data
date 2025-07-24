@@ -37,3 +37,7 @@ func (receiver *Adoptium) Run() {
 		}
 	}
 }
+
+func (receiver *Adoptium) GetBucketName() string {
+	return "adoptium"
+}

@@ -1,0 +1,73 @@
+github_buckets:
+  another-redis-desktop-manager:
+    owner: qishibo
+    repo: AnotherRedisDesktopManager
+  axel:
+    owner: axel-download-accelerator
+    repo: axel
+  ctop:
+    owner: bcicen
+    repo: ctop
+  docker-compose:
+    owner: docker
+    repo: compose
+    ignored: '.*-rc.*'
+  electron-ssr-backup:
+    owner: qingshuisiyuan
+    repo: electron-ssr-backup
+  etcd-manager:
+    owner: gtamas
+    repo: etcdmanager
+  fiber:
+    owner: gofiber
+    repo: fiber
+  goose:
+    owner: pressly
+    repo: goose
+  golangci-lint:
+    owner: golangci
+    repo: golangci-lint
+  image-syncer:
+    owner: AliyunContainerService
+    repo: image-syncer
+  gosec:
+    owner: securego
+    repo: gosec
+  harbor:
+    owner: goharbor
+    repo: harbor
+    ignored: '.*-rc.*|.*-tech-preview.*'
+  ipfs-desktop:
+    owner: ipfs
+    repo: ipfs-desktop
+    ignored: '.*-rc\..*|.*-beta\..*'
+  ipfs-kubo:
+    owner: ipfs
+    repo: kubo
+    ignored: '.*-rc.*'
+  obsidian:
+    owner: obsidianmd
+    repo: obsidian-releases
+  pandoc:
+    owner: jgm
+    repo: pandoc
+  yq:
+    owner: mikefarah
+    repo: yq
+  ventoy:
+    owner: ventoy
+    repo: Ventoy
+    ignored: '.*beta.*'
+  rclone:
+    owner: rclone
+    repo: rclone
+  protobuf:
+    owner: protocolbuffers
+    repo: protobuf
+  git-for-windows:
+    owner: git-for-windows
+    repo: git
+    ignored: '.*-rc.*|.*prerelease-.*'
+  dbeaver:
+    owner: dbeaver
+    repo: dbeaver

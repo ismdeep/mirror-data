@@ -3,16 +3,21 @@ package task
 import (
 	"fmt"
 
+	"go.uber.org/zap"
+
 	"github.com/ismdeep/mirror-data/app/data/conf"
 	"github.com/ismdeep/mirror-data/app/data/global"
 	"github.com/ismdeep/mirror-data/app/data/internal/rclone"
 	"github.com/ismdeep/mirror-data/app/data/internal/store"
 	util2 "github.com/ismdeep/mirror-data/app/data/internal/util"
 	"github.com/ismdeep/mirror-data/pkg/log"
-	"go.uber.org/zap"
 )
 
 type Python struct {
+}
+
+func (receiver *Python) GetBucketName() string {
+	return "python"
 }
 
 func (receiver *Python) Run() {

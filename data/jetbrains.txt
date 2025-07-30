@@ -8022,3 +8022,10 @@ jetbrains|RubyMine/release/2025.1/2025.1.4.1/windowsARM64/RubyMine-2025.1.4.1-aa
 jetbrains|WebStorm/release/2025.1/2025.1.4.1/linuxARM64/WebStorm-2025.1.4.1-aarch64.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2025.1.4.1-aarch64.tar.gz|1065303182|binary/octet-stream|1753441167
 jetbrains|WebStorm/release/2025.1/2025.1.4.1/windowsZip/WebStorm-2025.1.4.1.win.zip|https://download.jetbrains.com/webstorm/WebStorm-2025.1.4.1.win.zip|1078669918|binary/octet-stream|1753441174
 jetbrains|WebStorm/release/2025.1/2025.1.4.1/windowsARM64/WebStorm-2025.1.4.1-aarch64.exe|https://download.jetbrains.com/webstorm/WebStorm-2025.1.4.1-aarch64.exe|777769768|binary/octet-stream|1753441167
+jetbrains|DataGrip/release/2025.2/2025.2/macM1/datagrip-2025.2-aarch64.dmg|https://download.jetbrains.com/datagrip/datagrip-2025.2-aarch64.dmg|1117662809|binary/octet-stream|1753784826
+jetbrains|DataGrip/release/2025.2/2025.2/linux/datagrip-2025.2.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2025.2.tar.gz|1064633855|binary/octet-stream|1753784843
+jetbrains|DataGrip/release/2025.2/2025.2/windows/datagrip-2025.2.exe|https://download.jetbrains.com/datagrip/datagrip-2025.2.exe|945551808|binary/octet-stream|1753784841
+jetbrains|DataGrip/release/2025.2/2025.2/mac/datagrip-2025.2.dmg|https://download.jetbrains.com/datagrip/datagrip-2025.2.dmg|1128892774|binary/octet-stream|1753784838
+jetbrains|DataGrip/release/2025.2/2025.2/linuxARM64/datagrip-2025.2-aarch64.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2025.2-aarch64.tar.gz|1062320153|binary/octet-stream|1753784826
+jetbrains|DataGrip/release/2025.2/2025.2/windowsZip/datagrip-2025.2.win.zip|https://download.jetbrains.com/datagrip/datagrip-2025.2.win.zip|1173826392|binary/octet-stream|1753784844
+jetbrains|DataGrip/release/2025.2/2025.2/windowsARM64/datagrip-2025.2-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2025.2-aarch64.exe|804992024|binary/octet-stream|1753784826

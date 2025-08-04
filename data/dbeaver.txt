@@ -2300,3 +2300,12 @@ dbeaver|6.3.0/dbeaver-ce-6.3.0-installer.pkg|https://github.com/dbeaver/dbeaver/
 dbeaver|5.0.2/dbeaver-ce_5.0.2_i386.deb|https://github.com/dbeaver/dbeaver/releases/download/5.0.2/dbeaver-ce_5.0.2_i386.deb|50551016|application/octet-stream|1638933743
 dbeaver|5.0.6/dbeaver-ce_5.0.6_amd64.deb|https://github.com/dbeaver/dbeaver/releases/download/5.0.6/dbeaver-ce_5.0.6_amd64.deb|54898044|application/octet-stream|1638933701
 dbeaver|4.0.6/dbeaver-ce-4.0.6-solaris.gtk.x86_64.tar.gz|https://github.com/dbeaver/dbeaver/releases/download/4.0.6/dbeaver-ce-4.0.6-solaris.gtk.x86_64.tar.gz|42134652|application/octet-stream|1638933701
+dbeaver|25.1.4/dbeaver-ce_25.1.4_amd64.deb|https://github.com/dbeaver/dbeaver/releases/download/25.1.4/dbeaver-ce_25.1.4_amd64.deb|132686054|application/octet-stream|1754236128
+dbeaver|25.1.4/dbeaver-ce-25.1.4-macos-aarch64.dmg|https://github.com/dbeaver/dbeaver/releases/download/25.1.4/dbeaver-ce-25.1.4-macos-aarch64.dmg|130518409|application/octet-stream|1754236095
+dbeaver|25.1.4/dbeaver-ce-25.1.4-x86_64-setup.exe|https://github.com/dbeaver/dbeaver/releases/download/25.1.4/dbeaver-ce-25.1.4-x86_64-setup.exe|128183672|application/octet-stream|1754236135
+dbeaver|25.1.4/dbeaver-ce-25.1.4-win32.win32.x86_64.zip|https://github.com/dbeaver/dbeaver/releases/download/25.1.4/dbeaver-ce-25.1.4-win32.win32.x86_64.zip|131849033|application/octet-stream|1754236108
+dbeaver|25.1.4/dbeaver-ce-25.1.4-linux.gtk.x86_64-nojdk.tar.gz|https://github.com/dbeaver/dbeaver/releases/download/25.1.4/dbeaver-ce-25.1.4-linux.gtk.x86_64-nojdk.tar.gz|90195777|application/octet-stream|1754236038
+dbeaver|25.1.4/dbeaver-ce-25.1.4-stable.x86_64.rpm|https://github.com/dbeaver/dbeaver/releases/download/25.1.4/dbeaver-ce-25.1.4-stable.x86_64.rpm|132788674|application/octet-stream|1754236044
+dbeaver|25.1.4/dbeaver-ce-25.1.4-linux.gtk.aarch64-nojdk.tar.gz|https://github.com/dbeaver/dbeaver/releases/download/25.1.4/dbeaver-ce-25.1.4-linux.gtk.aarch64-nojdk.tar.gz|90076310|application/octet-stream|1754236101
+dbeaver|25.1.4/dbeaver-ce-25.1.4-macos-x86_64.dmg|https://github.com/dbeaver/dbeaver/releases/download/25.1.4/dbeaver-ce-25.1.4-macos-x86_64.dmg|131671205|application/octet-stream|1754236122
+dbeaver|25.1.4/dbeaver-ce-25.1.4-linux.gtk.x86_64.tar.gz|https://github.com/dbeaver/dbeaver/releases/download/25.1.4/dbeaver-ce-25.1.4-linux.gtk.x86_64.tar.gz|132649852|application/octet-stream|1754236115

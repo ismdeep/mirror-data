@@ -8095,3 +8095,10 @@ jetbrains|CLion/release/2025.2/2025.2/mac/CLion-2025.2.dmg|https://download.jetb
 jetbrains|CLion/release/2025.2/2025.2/windowsARM64/CLion-2025.2-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2025.2-aarch64.exe|1564698776|binary/octet-stream|1754320741
 jetbrains|CLion/release/2025.2/2025.2/linuxARM64/CLion-2025.2-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2025.2-aarch64.tar.gz|2139634891|binary/octet-stream|1754320741
 jetbrains|CLion/release/2025.2/2025.2/windowsZip/CLion-2025.2.win.zip|https://download.jetbrains.com/cpp/CLion-2025.2.win.zip|2492940256|binary/octet-stream|1754320767
+jetbrains|DataGrip/release/2025.2/2025.2.1/macM1/datagrip-2025.2.1-aarch64.dmg|https://download.jetbrains.com/datagrip/datagrip-2025.2.1-aarch64.dmg|1117532671|binary/octet-stream|1754478323
+jetbrains|DataGrip/release/2025.2/2025.2.1/mac/datagrip-2025.2.1.dmg|https://download.jetbrains.com/datagrip/datagrip-2025.2.1.dmg|1128953521|binary/octet-stream|1754478329
+jetbrains|DataGrip/release/2025.2/2025.2.1/windowsZip/datagrip-2025.2.1.win.zip|https://download.jetbrains.com/datagrip/datagrip-2025.2.1.win.zip|1173764173|binary/octet-stream|1754478333
+jetbrains|DataGrip/release/2025.2/2025.2.1/windows/datagrip-2025.2.1.exe|https://download.jetbrains.com/datagrip/datagrip-2025.2.1.exe|945534432|binary/octet-stream|1754478330
+jetbrains|DataGrip/release/2025.2/2025.2.1/linuxARM64/datagrip-2025.2.1-aarch64.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2025.2.1-aarch64.tar.gz|1062265614|binary/octet-stream|1754478323
+jetbrains|DataGrip/release/2025.2/2025.2.1/windowsARM64/datagrip-2025.2.1-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2025.2.1-aarch64.exe|804974400|binary/octet-stream|1754478323
+jetbrains|DataGrip/release/2025.2/2025.2.1/linux/datagrip-2025.2.1.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2025.2.1.tar.gz|1064580177|binary/octet-stream|1754478331

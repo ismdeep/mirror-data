@@ -823,3 +823,4 @@ python|3.13.5/Python-3.13.5.tar.xz|https://www.python.org/ftp/python/3.13.5/Pyth
 python|3.14.0/Python-3.14.0b3.tar.xz|https://www.python.org/ftp/python/3.14.0/Python-3.14.0b3.tar.xz|23626928|application/octet-stream|1750178296
 python|3.14.0/Python-3.14.0b4.tar.xz|https://www.python.org/ftp/python/3.14.0/Python-3.14.0b4.tar.xz|23641472|application/octet-stream|1751969232
 python|3.14.0/Python-3.14.0rc1.tar.xz|https://www.python.org/ftp/python/3.14.0/Python-3.14.0rc1.tar.xz|23661916|application/octet-stream|1753204761
+python|3.13.6/Python-3.13.6.tar.xz|https://www.python.org/ftp/python/3.13.6/Python-3.13.6.tar.xz|22761268|application/octet-stream|1754493907

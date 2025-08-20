@@ -8146,3 +8146,11 @@ jetbrains|GoLand/release/2025.2/2025.2.0.1/windowsZip/goland-2025.2.0.1.win.zip|
 jetbrains|GoLand/release/2025.2/2025.2.0.1/linuxARM64/goland-2025.2.0.1-aarch64.tar.gz|https://download.jetbrains.com/go/goland-2025.2.0.1-aarch64.tar.gz|1185326282|binary/octet-stream|1755538501
 jetbrains|GoLand/release/2025.2/2025.2.0.1/mac/goland-2025.2.0.1.dmg|https://download.jetbrains.com/go/goland-2025.2.0.1.dmg|1239342512|binary/octet-stream|1755538517
 jetbrains|GoLand/release/2025.2/2025.2.0.1/windowsARM64/goland-2025.2.0.1-aarch64.exe|https://download.jetbrains.com/go/goland-2025.2.0.1-aarch64.exe|830695968|binary/octet-stream|1755538501
+jetbrains|Rider/release/2025.1/2025.1.6/linux/JetBrains.Rider-2025.1.6.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.6.tar.gz|1896978835|binary/octet-stream|1755593603
+jetbrains|Rider/release/2025.1/2025.1.6/windowsZip/JetBrains.Rider-2025.1.6.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.6.win.zip|2056242242|binary/octet-stream|1755593515
+jetbrains|Rider/release/2025.1/2025.1.6/linuxARM64/JetBrains.Rider-2025.1.6-aarch64.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.6-aarch64.tar.gz|1884692466|binary/octet-stream|1755593645
+jetbrains|Rider/release/2025.1/2025.1.6/windows/JetBrains.Rider-2025.1.6.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.6.exe|1526128120|binary/octet-stream|1755593449
+jetbrains|Rider/release/2025.1/2025.1.6/macM1/JetBrains.Rider-2025.1.6-aarch64.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.6-aarch64.dmg|1815374606|binary/octet-stream|1755593411
+jetbrains|Rider/release/2025.1/2025.1.6/windowsARM64/JetBrains.Rider-2025.1.6-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.6-aarch64.exe|1549120000|binary/octet-stream|1755593482
+jetbrains|Rider/release/2025.1/2025.1.6/mac/JetBrains.Rider-2025.1.6.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.6.dmg|1786250149|binary/octet-stream|1755593373
+jetbrains|Rider/release/2025.1/2025.1.6/windowsZipARM64/JetBrains.Rider-2025.1.6-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.6-aarch64.win.zip|2120096696|binary/octet-stream|1755593558

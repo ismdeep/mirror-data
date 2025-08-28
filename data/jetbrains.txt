@@ -8162,3 +8162,10 @@ jetbrains|Rider/release/2025.2/2025.2.0.1/linuxARM64/JetBrains.Rider-2025.2.0.1-
 jetbrains|Rider/release/2025.2/2025.2.0.1/windowsARM64/JetBrains.Rider-2025.2.0.1-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.0.1-aarch64.exe|1615675448|binary/octet-stream|1755767404
 jetbrains|Rider/release/2025.2/2025.2.0.1/windowsZipARM64/JetBrains.Rider-2025.2.0.1-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.0.1-aarch64.win.zip|2234339335|binary/octet-stream|1755767498
 jetbrains|Rider/release/2025.2/2025.2.0.1/mac/JetBrains.Rider-2025.2.0.1.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.0.1.dmg|1999206351|binary/octet-stream|1755767282
+jetbrains|CLion/release/2025.1/2025.1.5/windows/CLion-2025.1.5.exe|https://download.jetbrains.com/cpp/CLion-2025.1.5.exe|1375126520|binary/octet-stream|1756299734
+jetbrains|CLion/release/2025.1/2025.1.5/mac/CLion-2025.1.5.dmg|https://download.jetbrains.com/cpp/CLion-2025.1.5.dmg|1515596471|binary/octet-stream|1756299733
+jetbrains|CLion/release/2025.1/2025.1.5/macM1/CLion-2025.1.5-aarch64.dmg|https://download.jetbrains.com/cpp/CLion-2025.1.5-aarch64.dmg|1536411954|binary/octet-stream|1756299727
+jetbrains|CLion/release/2025.1/2025.1.5/linuxARM64/CLion-2025.1.5-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2025.1.5-aarch64.tar.gz|1563324559|binary/octet-stream|1756299727
+jetbrains|CLion/release/2025.1/2025.1.5/linux/CLion-2025.1.5.tar.gz|https://download.jetbrains.com/cpp/CLion-2025.1.5.tar.gz|1573241867|binary/octet-stream|1756299736
+jetbrains|CLion/release/2025.1/2025.1.5/windowsARM64/CLion-2025.1.5-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2025.1.5-aarch64.exe|1292268608|binary/octet-stream|1756299727
+jetbrains|CLion/release/2025.1/2025.1.5/windowsZip/CLion-2025.1.5.win.zip|https://download.jetbrains.com/cpp/CLion-2025.1.5.win.zip|1899940695|binary/octet-stream|1756299737

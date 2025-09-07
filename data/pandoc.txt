@@ -920,3 +920,13 @@ pandoc|3.7.0.2/pandoc-3.7.0.2-arm64-macOS.pkg|https://github.com/jgm/pandoc/rele
 pandoc|3.7.0.2/pandoc-3.7.0.2-windows-x86_64.msi|https://github.com/jgm/pandoc/releases/download/3.7.0.2/pandoc-3.7.0.2-windows-x86_64.msi|40005632|application/octet-stream|1748503698
 pandoc|3.7.0.2/pandoc-3.7.0.2-x86_64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.7.0.2/pandoc-3.7.0.2-x86_64-macOS.pkg|23224580|application/octet-stream|1748503716
 pandoc|3.7.0.2/pandoc-3.7.0.2-1-amd64.deb|https://github.com/jgm/pandoc/releases/download/3.7.0.2/pandoc-3.7.0.2-1-amd64.deb|33152090|application/octet-stream|1748503635
+pandoc|3.8/pandoc-3.8-arm64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.8/pandoc-3.8-arm64-macOS.pkg|42283417|application/octet-stream|1757197390
+pandoc|3.8/pandoc-3.8-x86_64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.8/pandoc-3.8-x86_64-macOS.pkg|23542647|application/octet-stream|1757197421
+pandoc|3.8/pandoc-3.8-linux-arm64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.8/pandoc-3.8-linux-arm64.tar.gz|36980605|application/octet-stream|1757197406
+pandoc|3.8/pandoc-3.8-windows-x86_64.zip|https://github.com/jgm/pandoc/releases/download/3.8/pandoc-3.8-windows-x86_64.zip|39106201|application/octet-stream|1757197417
+pandoc|3.8/pandoc-3.8-1-arm64.deb|https://github.com/jgm/pandoc/releases/download/3.8/pandoc-3.8-1-arm64.deb|36460992|application/octet-stream|1757197384
+pandoc|3.8/pandoc-3.8-x86_64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.8/pandoc-3.8-x86_64-macOS.zip|23581194|application/octet-stream|1757197425
+pandoc|3.8/pandoc-3.8-1-amd64.deb|https://github.com/jgm/pandoc/releases/download/3.8/pandoc-3.8-1-amd64.deb|33527338|application/octet-stream|1757197379
+pandoc|3.8/pandoc-3.8-arm64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.8/pandoc-3.8-arm64-macOS.zip|42413815|application/octet-stream|1757197396
+pandoc|3.8/pandoc-3.8-windows-x86_64.msi|https://github.com/jgm/pandoc/releases/download/3.8/pandoc-3.8-windows-x86_64.msi|40439808|application/octet-stream|1757197412
+pandoc|3.8/pandoc-3.8-linux-amd64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.8/pandoc-3.8-linux-amd64.tar.gz|34067480|application/octet-stream|1757197401

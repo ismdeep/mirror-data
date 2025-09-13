@@ -8373,3 +8373,16 @@ jetbrains|IDEA/release/2024.3/2024.3.7/mac/ideaIU-2024.3.7.dmg|https://download.
 jetbrains|IDEA/release/2024.3/2024.3.7/linuxARM64/ideaIU-2024.3.7-aarch64.tar.gz|https://download.jetbrains.com/idea/ideaIU-2024.3.7-aarch64.tar.gz|1589857806|binary/octet-stream|1757585363
 jetbrains|IDEA/release/2024.3/2024.3.7/windowsZip/ideaIU-2024.3.7.win.zip|https://download.jetbrains.com/idea/ideaIU-2024.3.7.win.zip|1609088309|binary/octet-stream|1757585373
 jetbrains|IDEA/release/2024.3/2024.3.7/windowsARM64/ideaIU-2024.3.7-aarch64.exe|https://download.jetbrains.com/idea/ideaIU-2024.3.7-aarch64.exe|1179350424|binary/octet-stream|1757585360
+jetbrains|PhpStorm/release/2024.3/2024.3.7/windows/PhpStorm-2024.3.7.exe|https://download.jetbrains.com/webide/PhpStorm-2024.3.7.exe|793275248|binary/octet-stream|1757666509
+jetbrains|PhpStorm/release/2024.3/2024.3.7/macM1/PhpStorm-2024.3.7-aarch64.dmg|https://download.jetbrains.com/webide/PhpStorm-2024.3.7-aarch64.dmg|992683101|binary/octet-stream|1757666507
+jetbrains|PhpStorm/release/2024.3/2024.3.7/linux/PhpStorm-2024.3.7.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2024.3.7.tar.gz|1041628071|binary/octet-stream|1757666510
+jetbrains|PhpStorm/release/2024.3/2024.3.7/mac/PhpStorm-2024.3.7.dmg|https://download.jetbrains.com/webide/PhpStorm-2024.3.7.dmg|1002091816|binary/octet-stream|1757666507
+jetbrains|PhpStorm/release/2024.3/2024.3.7/linuxARM64/PhpStorm-2024.3.7-aarch64.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2024.3.7-aarch64.tar.gz|1040956564|binary/octet-stream|1757666507
+jetbrains|PhpStorm/release/2024.3/2024.3.7/windowsZip/PhpStorm-2024.3.7.win.zip|https://download.jetbrains.com/webide/PhpStorm-2024.3.7.win.zip|1059753088|binary/octet-stream|1757666511
+jetbrains|PhpStorm/release/2024.3/2024.3.7/windowsARM64/PhpStorm-2024.3.7-aarch64.exe|https://download.jetbrains.com/webide/PhpStorm-2024.3.7-aarch64.exe|756283680|binary/octet-stream|1757666507
+jetbrains|DataSpell/release/2025.2/2025.2.1/linux/dataspell-2025.2.1.tar.gz|https://download.jetbrains.com/python/dataspell-2025.2.1.tar.gz|1298579809|binary/octet-stream|1757602354
+jetbrains|DataSpell/release/2025.2/2025.2.1/linuxARM64/dataspell-2025.2.1-aarch64.tar.gz|https://download.jetbrains.com/python/dataspell-2025.2.1-aarch64.tar.gz|1296650149|binary/octet-stream|1757602344
+jetbrains|DataSpell/release/2025.2/2025.2.1/mac/dataspell-2025.2.1.dmg|https://download.jetbrains.com/python/dataspell-2025.2.1.dmg|1378377626|binary/octet-stream|1757602348
+jetbrains|DataSpell/release/2025.2/2025.2.1/windowsARM64/dataspell-2025.2.1-aarch64.exe|https://download.jetbrains.com/python/dataspell-2025.2.1-aarch64.exe|962332208|binary/octet-stream|1757602344
+jetbrains|DataSpell/release/2025.2/2025.2.1/windows/dataspell-2025.2.1.exe|https://download.jetbrains.com/python/dataspell-2025.2.1.exe|1104684136|binary/octet-stream|1757602353
+jetbrains|DataSpell/release/2025.2/2025.2.1/macM1/dataspell-2025.2.1-aarch64.dmg|https://download.jetbrains.com/python/dataspell-2025.2.1-aarch64.dmg|1367164637|binary/octet-stream|1757602344

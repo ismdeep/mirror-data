@@ -8452,3 +8452,10 @@ jetbrains|PyCharm/release/2025.2/2025.2.2/windowsZip/pycharm-2025.2.2.win.zip|ht
 jetbrains|PyCharmCommunity/release/2025.2/2025.2.2/linux/pycharm-community-2025.2.2.tar.gz|https://download.jetbrains.com/python/pycharm-community-2025.2.2.tar.gz|920832560|binary/octet-stream|1758549569
 jetbrains|PyCharmCommunity/release/2025.2/2025.2.2/windowsARM64/pycharm-community-2025.2.2-aarch64.exe|https://download.jetbrains.com/python/pycharm-community-2025.2.2-aarch64.exe|654238760|binary/octet-stream|1758549563
 jetbrains|PyCharmCommunity/release/2025.2/2025.2.2/windowsZipARM64/pycharm-community-2025.2.2-aarch64.win.zip|https://download.jetbrains.com/python/pycharm-community-2025.2.2-aarch64.win.zip|910739741|binary/octet-stream|1758549567
+jetbrains|IDEA/release/2025.1/2025.1.6/windowsARM64/ideaIU-2025.1.6-aarch64.exe|https://download.jetbrains.com/idea/ideaIU-2025.1.6-aarch64.exe|1204724528|binary/octet-stream|1758640980
+jetbrains|IDEA/release/2025.1/2025.1.6/linuxARM64/ideaIU-2025.1.6-aarch64.tar.gz|https://download.jetbrains.com/idea/ideaIU-2025.1.6-aarch64.tar.gz|1646570155|binary/octet-stream|1758640981
+jetbrains|IDEA/release/2025.1/2025.1.6/linux/ideaIU-2025.1.6.tar.gz|https://download.jetbrains.com/idea/ideaIU-2025.1.6.tar.gz|1650361221|binary/octet-stream|1758640992
+jetbrains|IDEA/release/2025.1/2025.1.6/windowsZip/ideaIU-2025.1.6.win.zip|https://download.jetbrains.com/idea/ideaIU-2025.1.6.win.zip|1660676669|binary/octet-stream|1758640992
+jetbrains|IDEA/release/2025.1/2025.1.6/macM1/ideaIU-2025.1.6-aarch64.dmg|https://download.jetbrains.com/idea/ideaIU-2025.1.6-aarch64.dmg|1569348364|binary/octet-stream|1758640978
+jetbrains|IDEA/release/2025.1/2025.1.6/mac/ideaIU-2025.1.6.dmg|https://download.jetbrains.com/idea/ideaIU-2025.1.6.dmg|1581002772|binary/octet-stream|1758640988
+jetbrains|IDEA/release/2025.1/2025.1.6/windows/ideaIU-2025.1.6.exe|https://download.jetbrains.com/idea/ideaIU-2025.1.6.exe|1243282608|binary/octet-stream|1758640989

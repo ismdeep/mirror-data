@@ -8480,3 +8480,10 @@ jetbrains|CLion/release/2025.1/2025.1.6/macM1/CLion-2025.1.6-aarch64.dmg|https:/
 jetbrains|CLion/release/2025.1/2025.1.6/windowsZip/CLion-2025.1.6.win.zip|https://download.jetbrains.com/cpp/CLion-2025.1.6.win.zip|1900353013|binary/octet-stream|1758701945
 jetbrains|CLion/release/2025.1/2025.1.6/windows/CLion-2025.1.6.exe|https://download.jetbrains.com/cpp/CLion-2025.1.6.exe|1375504800|binary/octet-stream|1758701938
 jetbrains|CLion/release/2025.1/2025.1.6/linuxARM64/CLion-2025.1.6-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2025.1.6-aarch64.tar.gz|1563695292|binary/octet-stream|1758701929
+jetbrains|GoLand/release/2025.1/2025.1.6/windows/goland-2025.1.6.exe|https://download.jetbrains.com/go/goland-2025.1.6.exe|809276336|binary/octet-stream|1758809304
+jetbrains|GoLand/release/2025.1/2025.1.6/mac/goland-2025.1.6.dmg|https://download.jetbrains.com/go/goland-2025.1.6.dmg|1037916432|binary/octet-stream|1758809302
+jetbrains|GoLand/release/2025.1/2025.1.6/windowsARM64/goland-2025.1.6-aarch64.exe|https://download.jetbrains.com/go/goland-2025.1.6-aarch64.exe|770973176|binary/octet-stream|1758809300
+jetbrains|GoLand/release/2025.1/2025.1.6/macM1/goland-2025.1.6-aarch64.dmg|https://download.jetbrains.com/go/goland-2025.1.6-aarch64.dmg|1026415566|binary/octet-stream|1758809300
+jetbrains|GoLand/release/2025.1/2025.1.6/windowsZip/goland-2025.1.6.win.zip|https://download.jetbrains.com/go/goland-2025.1.6.win.zip|1099549048|binary/octet-stream|1758809312
+jetbrains|GoLand/release/2025.1/2025.1.6/linux/goland-2025.1.6.tar.gz|https://download.jetbrains.com/go/goland-2025.1.6.tar.gz|1090107203|binary/octet-stream|1758809308
+jetbrains|GoLand/release/2025.1/2025.1.6/linuxARM64/goland-2025.1.6-aarch64.tar.gz|https://download.jetbrains.com/go/goland-2025.1.6-aarch64.tar.gz|1086658862|binary/octet-stream|1758809300

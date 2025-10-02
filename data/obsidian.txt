@@ -871,3 +871,13 @@ obsidian|v1.9.12/Obsidian-1.9.12.exe|https://github.com/obsidianmd/obsidian-rele
 obsidian|v1.9.12/obsidian-1.9.12-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.12/obsidian-1.9.12-arm64.tar.gz|118895511|application/octet-stream|1756217983
 obsidian|v1.9.12/Obsidian-1.9.12.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.12/Obsidian-1.9.12.apk|12088275|application/vnd.android.package-archive|1756217626
 obsidian|v1.9.12/obsidian-1.9.12.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.12/obsidian-1.9.12.tar.gz|119494715|application/octet-stream|1756217994
+obsidian|v1.9.14/obsidian-1.9.14.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/obsidian-1.9.14.asar.gz|9033685|application/octet-stream|1759173656
+obsidian|v1.9.14/obsidian_1.9.14_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/obsidian_1.9.14_amd64.deb|86502322|application/octet-stream|1759173689
+obsidian|v1.9.14/Obsidian-1.9.14.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/Obsidian-1.9.14.apk|12088802|application/vnd.android.package-archive|1759173651
+obsidian|v1.9.14/obsidian-1.9.14-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/obsidian-1.9.14-arm64.tar.gz|118698722|application/octet-stream|1759173687
+obsidian|v1.9.14/obsidian-1.9.14.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/obsidian-1.9.14.tar.gz|118705183|application/octet-stream|1759173682
+obsidian|v1.9.14/Obsidian-1.9.14-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/Obsidian-1.9.14-arm64.AppImage|125708435|application/octet-stream|1759173684
+obsidian|v1.9.14/Obsidian-1.9.14.snap|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/Obsidian-1.9.14.snap|135163904|application/octet-stream|1759173679
+obsidian|v1.9.14/Obsidian-1.9.14.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/Obsidian-1.9.14.exe|277991104|application/octet-stream|1759173676
+obsidian|v1.9.14/Obsidian-1.9.14.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/Obsidian-1.9.14.AppImage|125481460|application/octet-stream|1759173692
+obsidian|v1.9.14/Obsidian-1.9.14.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/Obsidian-1.9.14.dmg|211031905|application/octet-stream|1759173671

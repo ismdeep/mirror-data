@@ -3769,3 +3769,15 @@ protobuf|v32.1/protoc-32.1-osx-universal_binary.zip|https://github.com/protocolb
 protobuf|v32.1/protoc-32.1-osx-x86_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v32.1/protoc-32.1-osx-x86_64.zip|2639849|application/octet-stream|1757623018
 protobuf|v32.1/protoc-32.1-linux-x86_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v32.1/protoc-32.1-linux-x86_64.zip|3550399|application/octet-stream|1757623017
 protobuf|v32.1/protoc-32.1-linux-ppcle_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v32.1/protoc-32.1-linux-ppcle_64.zip|3853441|application/octet-stream|1757623017
+protobuf|v33.0-rc1/protoc-33.0-rc-1-linux-x86_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.0-rc1/protoc-33.0-rc-1-linux-x86_64.zip|3560399|application/octet-stream|1759333347
+protobuf|v33.0-rc1/protoc-33.0-rc-1-linux-aarch_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.0-rc1/protoc-33.0-rc-1-linux-aarch_64.zip|3516964|application/octet-stream|1759333346
+protobuf|v33.0-rc1/protoc-33.0-rc-1-linux-s390_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.0-rc1/protoc-33.0-rc-1-linux-s390_64.zip|4569658|application/octet-stream|1759333346
+protobuf|v33.0-rc1/protobuf-33.0-rc1.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.0-rc1/protobuf-33.0-rc1.zip|11670592|application/octet-stream|1759333346
+protobuf|v33.0-rc1/protobuf-33.0-rc1.tar.gz|https://github.com/protocolbuffers/protobuf/releases/download/v33.0-rc1/protobuf-33.0-rc1.tar.gz|9730539|application/octet-stream|1759333347
+protobuf|v33.0-rc1/protoc-33.0-rc-1-win32.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.0-rc1/protoc-33.0-rc-1-win32.zip|3517636|application/octet-stream|1759333348
+protobuf|v33.0-rc1/protoc-33.0-rc-1-osx-aarch_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.0-rc1/protoc-33.0-rc-1-osx-aarch_64.zip|2532249|application/octet-stream|1759333347
+protobuf|v33.0-rc1/protoc-33.0-rc-1-linux-ppcle_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.0-rc1/protoc-33.0-rc-1-linux-ppcle_64.zip|3865419|application/octet-stream|1759333346
+protobuf|v33.0-rc1/protoc-33.0-rc-1-linux-x86_32.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.0-rc1/protoc-33.0-rc-1-linux-x86_32.zip|3862571|application/octet-stream|1759333347
+protobuf|v33.0-rc1/protoc-33.0-rc-1-osx-universal_binary.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.0-rc1/protoc-33.0-rc-1-osx-universal_binary.zip|5135603|application/octet-stream|1759333347
+protobuf|v33.0-rc1/protoc-33.0-rc-1-win64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.0-rc1/protoc-33.0-rc-1-win64.zip|3429340|application/octet-stream|1759333348
+protobuf|v33.0-rc1/protoc-33.0-rc-1-osx-x86_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.0-rc1/protoc-33.0-rc-1-osx-x86_64.zip|2653697|application/octet-stream|1759333347

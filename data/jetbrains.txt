@@ -8525,3 +8525,10 @@ jetbrains|RubyMine/release/2025.1/2025.1.6/mac/RubyMine-2025.1.6.dmg|https://dow
 jetbrains|RubyMine/release/2025.1/2025.1.6/windows/RubyMine-2025.1.6.exe|https://download.jetbrains.com/ruby/RubyMine-2025.1.6.exe|744968976|binary/octet-stream|1759148523
 jetbrains|RubyMine/release/2025.1/2025.1.6/windowsARM64/RubyMine-2025.1.6-aarch64.exe|https://download.jetbrains.com/ruby/RubyMine-2025.1.6-aarch64.exe|706665368|binary/octet-stream|1759148518
 jetbrains|RubyMine/release/2025.1/2025.1.6/linuxARM64/RubyMine-2025.1.6-aarch64.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2025.1.6-aarch64.tar.gz|1001006011|binary/octet-stream|1759148518
+jetbrains|DataGrip/release/2025.2/2025.2.4/macM1/datagrip-2025.2.4-aarch64.dmg|https://download.jetbrains.com/datagrip/datagrip-2025.2.4-aarch64.dmg|1118929229|binary/octet-stream|1759325040
+jetbrains|DataGrip/release/2025.2/2025.2.4/windows/datagrip-2025.2.4.exe|https://download.jetbrains.com/datagrip/datagrip-2025.2.4.exe|948110352|binary/octet-stream|1759325046
+jetbrains|DataGrip/release/2025.2/2025.2.4/mac/datagrip-2025.2.4.dmg|https://download.jetbrains.com/datagrip/datagrip-2025.2.4.dmg|1130417099|binary/octet-stream|1759325044
+jetbrains|DataGrip/release/2025.2/2025.2.4/linux/datagrip-2025.2.4.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2025.2.4.tar.gz|1064074255|binary/octet-stream|1759325050
+jetbrains|DataGrip/release/2025.2/2025.2.4/windowsZip/datagrip-2025.2.4.win.zip|https://download.jetbrains.com/datagrip/datagrip-2025.2.4.win.zip|1175092176|binary/octet-stream|1759325051
+jetbrains|DataGrip/release/2025.2/2025.2.4/windowsARM64/datagrip-2025.2.4-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2025.2.4-aarch64.exe|805680112|binary/octet-stream|1759325040
+jetbrains|DataGrip/release/2025.2/2025.2.4/linuxARM64/datagrip-2025.2.4-aarch64.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2025.2.4-aarch64.tar.gz|1061585545|binary/octet-stream|1759325040

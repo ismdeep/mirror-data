@@ -940,3 +940,13 @@ pandoc|3.8.1/pandoc-3.8.1-x86_64-macOS.pkg|https://github.com/jgm/pandoc/release
 pandoc|3.8.1/pandoc-3.8.1-x86_64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.8.1/pandoc-3.8.1-x86_64-macOS.zip|23708249|application/octet-stream|1759158128
 pandoc|3.8.1/pandoc-3.8.1-linux-arm64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.8.1/pandoc-3.8.1-linux-arm64.tar.gz|37090163|application/octet-stream|1759158109
 pandoc|3.8.1/pandoc-3.8.1-arm64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.8.1/pandoc-3.8.1-arm64-macOS.pkg|42408487|application/octet-stream|1759158093
+pandoc|3.8.2/pandoc-3.8.2-linux-amd64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.8.2/pandoc-3.8.2-linux-amd64.tar.gz|34229290|application/octet-stream|1759698819
+pandoc|3.8.2/pandoc-3.8.2-1-arm64.deb|https://github.com/jgm/pandoc/releases/download/3.8.2/pandoc-3.8.2-1-arm64.deb|36630706|application/octet-stream|1759698243
+pandoc|3.8.2/pandoc-3.8.2-windows-x86_64.zip|https://github.com/jgm/pandoc/releases/download/3.8.2/pandoc-3.8.2-windows-x86_64.zip|39270165|application/octet-stream|1759699277
+pandoc|3.8.2/pandoc-3.8.2-windows-x86_64.msi|https://github.com/jgm/pandoc/releases/download/3.8.2/pandoc-3.8.2-windows-x86_64.msi|40611840|application/octet-stream|1759699135
+pandoc|3.8.2/pandoc-3.8.2-arm64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.8.2/pandoc-3.8.2-arm64-macOS.pkg|42477107|application/octet-stream|1759698465
+pandoc|3.8.2/pandoc-3.8.2-x86_64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.8.2/pandoc-3.8.2-x86_64-macOS.pkg|25621412|application/octet-stream|1759699398
+pandoc|3.8.2/pandoc-3.8.2-linux-arm64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.8.2/pandoc-3.8.2-linux-arm64.tar.gz|37157585|application/octet-stream|1759698981
+pandoc|3.8.2/pandoc-3.8.2-arm64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.8.2/pandoc-3.8.2-arm64-macOS.zip|42605589|application/octet-stream|1759698664
+pandoc|3.8.2/pandoc-3.8.2-x86_64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.8.2/pandoc-3.8.2-x86_64-macOS.zip|25664618|application/octet-stream|1759699548
+pandoc|3.8.2/pandoc-3.8.2-1-amd64.deb|https://github.com/jgm/pandoc/releases/download/3.8.2/pandoc-3.8.2-1-amd64.deb|33690320|application/octet-stream|1759698000

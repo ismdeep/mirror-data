@@ -827,3 +827,5 @@ python|3.13.6/Python-3.13.6.tar.xz|https://www.python.org/ftp/python/3.13.6/Pyth
 python|3.13.7/Python-3.13.7.tar.xz|https://www.python.org/ftp/python/3.13.7/Python-3.13.7.tar.xz|22769492|application/octet-stream|1755179750
 python|3.14.0/Python-3.14.0rc2.tar.xz|https://www.python.org/ftp/python/3.14.0/Python-3.14.0rc2.tar.xz|23566140|application/octet-stream|1755176758
 python|3.14.0/Python-3.14.0rc3.tar.xz|https://www.python.org/ftp/python/3.14.0/Python-3.14.0rc3.tar.xz|23585028|application/octet-stream|1758189115
+python|3.13.8/Python-3.13.8.tar.xz|https://www.python.org/ftp/python/3.13.8/Python-3.13.8.tar.xz|22681576|application/octet-stream|1759845243
+python|3.14.0/Python-3.14.0.tar.xz|https://www.python.org/ftp/python/3.14.0/Python-3.14.0.tar.xz|23595844|application/octet-stream|1759833961

@@ -3805,3 +3805,6 @@ protobuf|v33.0/protobuf-33.0.tar.gz|https://github.com/protocolbuffers/protobuf/
 protobuf|v33.0/protoc-33.0-linux-ppcle_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.0/protoc-33.0-linux-ppcle_64.zip|3866043|application/octet-stream|1760559133
 protobuf|v33.0/protoc-33.0-linux-x86_32.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.0/protoc-33.0-linux-x86_32.zip|3863543|application/octet-stream|1760559133
 protobuf|v33.0/protobuf-33.0.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.0/protobuf-33.0.zip|8781054|application/octet-stream|1760559133
+protobuf|v33.0/MODULE.bazel.intoto.jsonl|https://github.com/protocolbuffers/protobuf/releases/download/v33.0/MODULE.bazel.intoto.jsonl|10780|application/octet-stream|1760635404
+protobuf|v33.0/source.json.intoto.jsonl|https://github.com/protocolbuffers/protobuf/releases/download/v33.0/source.json.intoto.jsonl|10874|application/octet-stream|1760635404
+protobuf|v33.0/protobuf-33.0.tar.gz.intoto.jsonl|https://github.com/protocolbuffers/protobuf/releases/download/v33.0/protobuf-33.0.tar.gz.intoto.jsonl|10709|application/octet-stream|1760653356

@@ -8598,3 +8598,10 @@ jetbrains|Rider/release/2025.2/2025.2.3/windowsZipARM64/JetBrains.Rider-2025.2.3
 jetbrains|Rider/release/2025.2/2025.2.3/linuxARM64/JetBrains.Rider-2025.2.3-aarch64.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.3-aarch64.tar.gz|1998420114|binary/octet-stream|1759739841
 jetbrains|Rider/release/2025.2/2025.2.3/windowsARM64/JetBrains.Rider-2025.2.3-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.3-aarch64.exe|1618935640|binary/octet-stream|1759739667
 jetbrains|Rider/release/2025.2/2025.2.3/windowsZip/JetBrains.Rider-2025.2.3.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.3.win.zip|2284809128|binary/octet-stream|1759739701
+jetbrains|IDEA/release/2025.2/2025.2.4/linux/ideaIU-2025.2.4.tar.gz|https://download.jetbrains.com/idea/ideaIU-2025.2.4.tar.gz|1787254659|binary/octet-stream|1761234883
+jetbrains|IDEA/release/2025.2/2025.2.4/macM1/ideaIU-2025.2.4-aarch64.dmg|https://download.jetbrains.com/idea/ideaIU-2025.2.4-aarch64.dmg|1811897391|binary/octet-stream|1761234865
+jetbrains|IDEA/release/2025.2/2025.2.4/mac/ideaIU-2025.2.4.dmg|https://download.jetbrains.com/idea/ideaIU-2025.2.4.dmg|1823525309|binary/octet-stream|1761234878
+jetbrains|IDEA/release/2025.2/2025.2.4/windowsZip/ideaIU-2025.2.4.win.zip|https://download.jetbrains.com/idea/ideaIU-2025.2.4.win.zip|1910424852|binary/octet-stream|1761234885
+jetbrains|IDEA/release/2025.2/2025.2.4/windows/ideaIU-2025.2.4.exe|https://download.jetbrains.com/idea/ideaIU-2025.2.4.exe|1428948848|binary/octet-stream|1761234882
+jetbrains|IDEA/release/2025.2/2025.2.4/windowsARM64/ideaIU-2025.2.4-aarch64.exe|https://download.jetbrains.com/idea/ideaIU-2025.2.4-aarch64.exe|1278167920|binary/octet-stream|1761234865
+jetbrains|IDEA/release/2025.2/2025.2.4/linuxARM64/ideaIU-2025.2.4-aarch64.tar.gz|https://download.jetbrains.com/idea/ideaIU-2025.2.4-aarch64.tar.gz|1784166900|binary/octet-stream|1761234866

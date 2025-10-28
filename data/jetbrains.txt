@@ -8655,3 +8655,10 @@ jetbrains|RubyMine/release/2025.2/2025.2.4/windowsZip/RubyMine-2025.2.4.win.zip|
 jetbrains|PyCharmCommunity/release/2025.2/2025.2.4/windowsZip/pycharm-community-2025.2.4.win.zip|https://download.jetbrains.com/python/pycharm-community-2025.2.4.win.zip|1080056331|binary/octet-stream|1761251358
 jetbrains|PyCharmCommunity/release/2025.2/2025.2.4/windowsARM64/pycharm-community-2025.2.4-aarch64.exe|https://download.jetbrains.com/python/pycharm-community-2025.2.4-aarch64.exe|660275576|binary/octet-stream|1761251351
 jetbrains|PyCharmCommunity/release/2025.2/2025.2.4/windowsZipARM64/pycharm-community-2025.2.4-aarch64.win.zip|https://download.jetbrains.com/python/pycharm-community-2025.2.4-aarch64.win.zip|922791767|binary/octet-stream|1761251352
+jetbrains|CLion/release/2025.2/2025.2.4/windows/CLion-2025.2.4.exe|https://download.jetbrains.com/cpp/CLion-2025.2.4.exe|1813120656|binary/octet-stream|1761582189
+jetbrains|CLion/release/2025.2/2025.2.4/macM1/CLion-2025.2.4-aarch64.dmg|https://download.jetbrains.com/cpp/CLion-2025.2.4-aarch64.dmg|2154750306|binary/octet-stream|1761582176
+jetbrains|CLion/release/2025.2/2025.2.4/windowsARM64/CLion-2025.2.4-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2025.2.4-aarch64.exe|1553464072|binary/octet-stream|1761582176
+jetbrains|CLion/release/2025.2/2025.2.4/mac/CLion-2025.2.4.dmg|https://download.jetbrains.com/cpp/CLion-2025.2.4.dmg|2177573947|binary/octet-stream|1761582187
+jetbrains|CLion/release/2025.2/2025.2.4/linuxARM64/CLion-2025.2.4-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2025.2.4-aarch64.tar.gz|2130557409|binary/octet-stream|1761582176
+jetbrains|CLion/release/2025.2/2025.2.4/windowsZip/CLion-2025.2.4.win.zip|https://download.jetbrains.com/cpp/CLion-2025.2.4.win.zip|2485062779|binary/octet-stream|1761582199
+jetbrains|CLion/release/2025.2/2025.2.4/linux/CLion-2025.2.4.tar.gz|https://download.jetbrains.com/cpp/CLion-2025.2.4.tar.gz|2134909533|binary/octet-stream|1761582190

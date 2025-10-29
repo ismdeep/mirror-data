@@ -8662,3 +8662,11 @@ jetbrains|CLion/release/2025.2/2025.2.4/mac/CLion-2025.2.4.dmg|https://download.
 jetbrains|CLion/release/2025.2/2025.2.4/linuxARM64/CLion-2025.2.4-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2025.2.4-aarch64.tar.gz|2130557409|binary/octet-stream|1761582176
 jetbrains|CLion/release/2025.2/2025.2.4/windowsZip/CLion-2025.2.4.win.zip|https://download.jetbrains.com/cpp/CLion-2025.2.4.win.zip|2485062779|binary/octet-stream|1761582199
 jetbrains|CLion/release/2025.2/2025.2.4/linux/CLion-2025.2.4.tar.gz|https://download.jetbrains.com/cpp/CLion-2025.2.4.tar.gz|2134909533|binary/octet-stream|1761582190
+jetbrains|Rider/release/2025.2/2025.2.4/windows/JetBrains.Rider-2025.2.4.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.4.exe|1730542312|binary/octet-stream|1761640845
+jetbrains|Rider/release/2025.2/2025.2.4/macM1/JetBrains.Rider-2025.2.4-aarch64.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.4-aarch64.dmg|2068966641|binary/octet-stream|1761640801
+jetbrains|Rider/release/2025.2/2025.2.4/linuxARM64/JetBrains.Rider-2025.2.4-aarch64.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.4-aarch64.tar.gz|1965225165|binary/octet-stream|1761641058
+jetbrains|Rider/release/2025.2/2025.2.4/mac/JetBrains.Rider-2025.2.4.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.4.dmg|2044056337|binary/octet-stream|1761640759
+jetbrains|Rider/release/2025.2/2025.2.4/windowsZip/JetBrains.Rider-2025.2.4.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.4.win.zip|2318422526|binary/octet-stream|1761640917
+jetbrains|Rider/release/2025.2/2025.2.4/windowsARM64/JetBrains.Rider-2025.2.4-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.4-aarch64.exe|1624202288|binary/octet-stream|1761640883
+jetbrains|Rider/release/2025.2/2025.2.4/windowsZipARM64/JetBrains.Rider-2025.2.4-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.4-aarch64.win.zip|2254081741|binary/octet-stream|1761640966
+jetbrains|Rider/release/2025.2/2025.2.4/linux/JetBrains.Rider-2025.2.4.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.4.tar.gz|1978806858|binary/octet-stream|1761641015

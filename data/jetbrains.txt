@@ -8691,3 +8691,9 @@ jetbrains|WebStorm/release/2025.1/2025.1.7/linux/WebStorm-2025.1.7.tar.gz|https:
 jetbrains|WebStorm/release/2025.1/2025.1.7/macM1/WebStorm-2025.1.7-aarch64.dmg|https://download.jetbrains.com/webstorm/WebStorm-2025.1.7-aarch64.dmg|1009990377|binary/octet-stream|1761747328
 jetbrains|WebStorm/release/2025.1/2025.1.7/mac/WebStorm-2025.1.7.dmg|https://download.jetbrains.com/webstorm/WebStorm-2025.1.7.dmg|1021417831|binary/octet-stream|1761747329
 jetbrains|WebStorm/release/2025.1/2025.1.7/linuxARM64/WebStorm-2025.1.7-aarch64.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2025.1.7-aarch64.tar.gz|1065710013|binary/octet-stream|1761747328
+jetbrains|DataSpell/release/2025.2/2025.2.3/macM1/dataspell-2025.2.3-aarch64.dmg|https://download.jetbrains.com/python/dataspell-2025.2.3-aarch64.dmg|1387199660|binary/octet-stream|1761787348
+jetbrains|DataSpell/release/2025.2/2025.2.3/windows/dataspell-2025.2.3.exe|https://download.jetbrains.com/python/dataspell-2025.2.3.exe|1117699072|binary/octet-stream|1761787353
+jetbrains|DataSpell/release/2025.2/2025.2.3/mac/dataspell-2025.2.3.dmg|https://download.jetbrains.com/python/dataspell-2025.2.3.dmg|1398482587|binary/octet-stream|1761787351
+jetbrains|DataSpell/release/2025.2/2025.2.3/linuxARM64/dataspell-2025.2.3-aarch64.tar.gz|https://download.jetbrains.com/python/dataspell-2025.2.3-aarch64.tar.gz|1316483469|binary/octet-stream|1761787348
+jetbrains|DataSpell/release/2025.2/2025.2.3/linux/dataspell-2025.2.3.tar.gz|https://download.jetbrains.com/python/dataspell-2025.2.3.tar.gz|1318414432|binary/octet-stream|1761787356
+jetbrains|DataSpell/release/2025.2/2025.2.3/windowsARM64/dataspell-2025.2.3-aarch64.exe|https://download.jetbrains.com/python/dataspell-2025.2.3-aarch64.exe|975369200|binary/octet-stream|1761787348

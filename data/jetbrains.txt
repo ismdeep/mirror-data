@@ -8697,3 +8697,17 @@ jetbrains|DataSpell/release/2025.2/2025.2.3/mac/dataspell-2025.2.3.dmg|https://d
 jetbrains|DataSpell/release/2025.2/2025.2.3/linuxARM64/dataspell-2025.2.3-aarch64.tar.gz|https://download.jetbrains.com/python/dataspell-2025.2.3-aarch64.tar.gz|1316483469|binary/octet-stream|1761787348
 jetbrains|DataSpell/release/2025.2/2025.2.3/linux/dataspell-2025.2.3.tar.gz|https://download.jetbrains.com/python/dataspell-2025.2.3.tar.gz|1318414432|binary/octet-stream|1761787356
 jetbrains|DataSpell/release/2025.2/2025.2.3/windowsARM64/dataspell-2025.2.3-aarch64.exe|https://download.jetbrains.com/python/dataspell-2025.2.3-aarch64.exe|975369200|binary/octet-stream|1761787348
+jetbrains|CLion/release/2025.1/2025.1.7/linux/CLion-2025.1.7.tar.gz|https://download.jetbrains.com/cpp/CLion-2025.1.7.tar.gz|1574224459|binary/octet-stream|1761894313
+jetbrains|CLion/release/2025.1/2025.1.7/linuxARM64/CLion-2025.1.7-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2025.1.7-aarch64.tar.gz|1563402706|binary/octet-stream|1761894303
+jetbrains|CLion/release/2025.1/2025.1.7/windowsARM64/CLion-2025.1.7-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2025.1.7-aarch64.exe|1292272976|binary/octet-stream|1761894303
+jetbrains|CLion/release/2025.1/2025.1.7/windows/CLion-2025.1.7.exe|https://download.jetbrains.com/cpp/CLion-2025.1.7.exe|1376137800|binary/octet-stream|1761894312
+jetbrains|CLion/release/2025.1/2025.1.7/mac/CLion-2025.1.7.dmg|https://download.jetbrains.com/cpp/CLion-2025.1.7.dmg|1515938542|binary/octet-stream|1761894308
+jetbrains|CLion/release/2025.1/2025.1.7/windowsZip/CLion-2025.1.7.win.zip|https://download.jetbrains.com/cpp/CLion-2025.1.7.win.zip|1901092838|binary/octet-stream|1761894319
+jetbrains|CLion/release/2025.1/2025.1.7/macM1/CLion-2025.1.7-aarch64.dmg|https://download.jetbrains.com/cpp/CLion-2025.1.7-aarch64.dmg|1536715393|binary/octet-stream|1761894303
+jetbrains|GoLand/release/2025.1/2025.1.7/macM1/goland-2025.1.7-aarch64.dmg|https://download.jetbrains.com/go/goland-2025.1.7-aarch64.dmg|1026482569|binary/octet-stream|1761912601
+jetbrains|GoLand/release/2025.1/2025.1.7/windowsZip/goland-2025.1.7.win.zip|https://download.jetbrains.com/go/goland-2025.1.7.win.zip|1099491126|binary/octet-stream|1761912607
+jetbrains|GoLand/release/2025.1/2025.1.7/linuxARM64/goland-2025.1.7-aarch64.tar.gz|https://download.jetbrains.com/go/goland-2025.1.7-aarch64.tar.gz|1086603641|binary/octet-stream|1761912601
+jetbrains|GoLand/release/2025.1/2025.1.7/windows/goland-2025.1.7.exe|https://download.jetbrains.com/go/goland-2025.1.7.exe|809229384|binary/octet-stream|1761912604
+jetbrains|GoLand/release/2025.1/2025.1.7/linux/goland-2025.1.7.tar.gz|https://download.jetbrains.com/go/goland-2025.1.7.tar.gz|1090076368|binary/octet-stream|1761912606
+jetbrains|GoLand/release/2025.1/2025.1.7/mac/goland-2025.1.7.dmg|https://download.jetbrains.com/go/goland-2025.1.7.dmg|1037969149|binary/octet-stream|1761912602
+jetbrains|GoLand/release/2025.1/2025.1.7/windowsARM64/goland-2025.1.7-aarch64.exe|https://download.jetbrains.com/go/goland-2025.1.7-aarch64.exe|770926448|binary/octet-stream|1761912601

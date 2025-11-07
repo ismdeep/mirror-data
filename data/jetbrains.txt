@@ -8711,3 +8711,10 @@ jetbrains|GoLand/release/2025.1/2025.1.7/windows/goland-2025.1.7.exe|https://dow
 jetbrains|GoLand/release/2025.1/2025.1.7/linux/goland-2025.1.7.tar.gz|https://download.jetbrains.com/go/goland-2025.1.7.tar.gz|1090076368|binary/octet-stream|1761912606
 jetbrains|GoLand/release/2025.1/2025.1.7/mac/goland-2025.1.7.dmg|https://download.jetbrains.com/go/goland-2025.1.7.dmg|1037969149|binary/octet-stream|1761912602
 jetbrains|GoLand/release/2025.1/2025.1.7/windowsARM64/goland-2025.1.7-aarch64.exe|https://download.jetbrains.com/go/goland-2025.1.7-aarch64.exe|770926448|binary/octet-stream|1761912601
+jetbrains|RubyMine/release/2025.1/2025.1.7/windows/RubyMine-2025.1.7.exe|https://download.jetbrains.com/ruby/RubyMine-2025.1.7.exe|744928944|binary/octet-stream|1762420568
+jetbrains|RubyMine/release/2025.1/2025.1.7/linuxARM64/RubyMine-2025.1.7-aarch64.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2025.1.7-aarch64.tar.gz|1000982584|binary/octet-stream|1762420566
+jetbrains|RubyMine/release/2025.1/2025.1.7/windowsZip/RubyMine-2025.1.7.win.zip|https://download.jetbrains.com/ruby/RubyMine-2025.1.7.win.zip|1022271507|binary/octet-stream|1762420580
+jetbrains|RubyMine/release/2025.1/2025.1.7/macM1/RubyMine-2025.1.7-aarch64.dmg|https://download.jetbrains.com/ruby/RubyMine-2025.1.7-aarch64.dmg|944142608|binary/octet-stream|1762420566
+jetbrains|RubyMine/release/2025.1/2025.1.7/mac/RubyMine-2025.1.7.dmg|https://download.jetbrains.com/ruby/RubyMine-2025.1.7.dmg|955597182|binary/octet-stream|1762420566
+jetbrains|RubyMine/release/2025.1/2025.1.7/linux/RubyMine-2025.1.7.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2025.1.7.tar.gz|1004438599|binary/octet-stream|1762420577
+jetbrains|RubyMine/release/2025.1/2025.1.7/windowsARM64/RubyMine-2025.1.7-aarch64.exe|https://download.jetbrains.com/ruby/RubyMine-2025.1.7-aarch64.exe|706626136|binary/octet-stream|1762420566

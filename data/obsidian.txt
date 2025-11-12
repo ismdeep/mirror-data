@@ -881,3 +881,12 @@ obsidian|v1.9.14/Obsidian-1.9.14.snap|https://github.com/obsidianmd/obsidian-rel
 obsidian|v1.9.14/Obsidian-1.9.14.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/Obsidian-1.9.14.exe|277991104|application/octet-stream|1759173676
 obsidian|v1.9.14/Obsidian-1.9.14.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/Obsidian-1.9.14.AppImage|125481460|application/octet-stream|1759173692
 obsidian|v1.9.14/Obsidian-1.9.14.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/Obsidian-1.9.14.dmg|211031905|application/octet-stream|1759173671
+obsidian|v1.10.3/obsidian-1.10.3.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.3/obsidian-1.10.3.asar.gz|9053948|application/octet-stream|1762873299
+obsidian|v1.10.3/Obsidian-1.10.3.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.3/Obsidian-1.10.3.apk|12110614|application/vnd.android.package-archive|1762873295
+obsidian|v1.10.3/Obsidian-1.10.3.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.3/Obsidian-1.10.3.dmg|210411569|application/octet-stream|1762878548
+obsidian|v1.10.3/Obsidian-1.10.3.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.3/Obsidian-1.10.3.exe|291798232|application/octet-stream|1762877942
+obsidian|v1.10.3/obsidian-1.10.3-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.3/obsidian-1.10.3-arm64.tar.gz|118408898|application/octet-stream|1762877953
+obsidian|v1.10.3/Obsidian-1.10.3-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.3/Obsidian-1.10.3-arm64.AppImage|125417241|application/octet-stream|1762877951
+obsidian|v1.10.3/obsidian-1.10.3.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.3/obsidian-1.10.3.tar.gz|118419919|application/octet-stream|1762877948
+obsidian|v1.10.3/obsidian_1.10.3_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.3/obsidian_1.10.3_amd64.deb|86311760|application/octet-stream|1762877955
+obsidian|v1.10.3/Obsidian-1.10.3.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.3/Obsidian-1.10.3.AppImage|125183414|application/octet-stream|1762877958

@@ -8742,3 +8742,11 @@ jetbrains|Rider/release/2025.3/2025.3/windowsARM64/JetBrains.Rider-2025.3-aarch6
 jetbrains|Rider/release/2025.3/2025.3/linuxARM64/JetBrains.Rider-2025.3-aarch64.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2025.3-aarch64.tar.gz|1988131767|binary/octet-stream|1762802333
 jetbrains|Rider/release/2025.3/2025.3/windowsZipARM64/JetBrains.Rider-2025.3-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2025.3-aarch64.win.zip|2397278646|binary/octet-stream|1762802238
 jetbrains|Rider/release/2025.3/2025.3/windowsZip/JetBrains.Rider-2025.3.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.win.zip|2324716215|binary/octet-stream|1762802187
+jetbrains|Rider/release/2025.3/2025.3.0.1/macM1/JetBrains.Rider-2025.3.0.1-aarch64.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.0.1-aarch64.dmg|1999118822|binary/octet-stream|1763034123
+jetbrains|Rider/release/2025.3/2025.3.0.1/windows/JetBrains.Rider-2025.3.0.1.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.0.1.exe|1669467280|binary/octet-stream|1763034167
+jetbrains|Rider/release/2025.3/2025.3.0.1/mac/JetBrains.Rider-2025.3.0.1.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.0.1.dmg|1968702601|binary/octet-stream|1763034081
+jetbrains|Rider/release/2025.3/2025.3.0.1/windowsZip/JetBrains.Rider-2025.3.0.1.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.0.1.win.zip|2323817990|binary/octet-stream|1763034240
+jetbrains|Rider/release/2025.3/2025.3.0.1/windowsZipARM64/JetBrains.Rider-2025.3.0.1-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.0.1-aarch64.win.zip|2396352494|binary/octet-stream|1763034289
+jetbrains|Rider/release/2025.3/2025.3.0.1/linux/JetBrains.Rider-2025.3.0.1.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.0.1.tar.gz|1999851831|binary/octet-stream|1763034340
+jetbrains|Rider/release/2025.3/2025.3.0.1/windowsARM64/JetBrains.Rider-2025.3.0.1-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.0.1-aarch64.exe|1694000704|binary/octet-stream|1763034204
+jetbrains|Rider/release/2025.3/2025.3.0.1/linuxARM64/JetBrains.Rider-2025.3.0.1-aarch64.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.0.1-aarch64.tar.gz|1987226490|binary/octet-stream|1763034383

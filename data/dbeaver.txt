@@ -2367,3 +2367,13 @@ dbeaver|25.2.4/dbeaver-ce-25.2.4-x86_64-setup.exe|https://github.com/dbeaver/dbe
 dbeaver|25.2.4/dbeaver-ce-25.2.4-linux.gtk.aarch64.tar.gz|https://github.com/dbeaver/dbeaver/releases/download/25.2.4/dbeaver-ce-25.2.4-linux.gtk.aarch64.tar.gz|125706925|application/octet-stream|1762104908
 dbeaver|25.2.4/dbeaver-ce-25.2.4-macos-x86_64.dmg|https://github.com/dbeaver/dbeaver/releases/download/25.2.4/dbeaver-ce-25.2.4-macos-x86_64.dmg|124674003|application/octet-stream|1762104902
 dbeaver|25.2.4/dbeaver-ce-25.2.4-linux.gtk.aarch64-nojdk.tar.gz|https://github.com/dbeaver/dbeaver/releases/download/25.2.4/dbeaver-ce-25.2.4-linux.gtk.aarch64-nojdk.tar.gz|92407890|application/octet-stream|1762104936
+dbeaver|25.2.5/dbeaver-ce-25.2.5-x86_64-setup.exe|https://github.com/dbeaver/dbeaver/releases/download/25.2.5/dbeaver-ce-25.2.5-x86_64-setup.exe|117852472|application/octet-stream|1763316245
+dbeaver|25.2.5/dbeaver-ce-25.2.5-macos-aarch64.dmg|https://github.com/dbeaver/dbeaver/releases/download/25.2.5/dbeaver-ce-25.2.5-macos-aarch64.dmg|123507238|application/octet-stream|1763316257
+dbeaver|25.2.5/dbeaver-ce_25.2.5_amd64.deb|https://github.com/dbeaver/dbeaver/releases/download/25.2.5/dbeaver-ce_25.2.5_amd64.deb|126463412|application/octet-stream|1763316268
+dbeaver|25.2.5/dbeaver-ce-25.2.5-win32.win32.x86_64.zip|https://github.com/dbeaver/dbeaver/releases/download/25.2.5/dbeaver-ce-25.2.5-win32.win32.x86_64.zip|130928672|application/octet-stream|1763316274
+dbeaver|25.2.5/dbeaver-ce-25.2.5-linux.gtk.x86_64-nojdk.tar.gz|https://github.com/dbeaver/dbeaver/releases/download/25.2.5/dbeaver-ce-25.2.5-linux.gtk.x86_64-nojdk.tar.gz|92554505|application/octet-stream|1763316239
+dbeaver|25.2.5/dbeaver-ce-25.2.5-macos-x86_64.dmg|https://github.com/dbeaver/dbeaver/releases/download/25.2.5/dbeaver-ce-25.2.5-macos-x86_64.dmg|124738037|application/octet-stream|1763316251
+dbeaver|25.2.5/dbeaver-ce-25.2.5-stable.x86_64.rpm|https://github.com/dbeaver/dbeaver/releases/download/25.2.5/dbeaver-ce-25.2.5-stable.x86_64.rpm|126554967|application/octet-stream|1763316263
+dbeaver|25.2.5/dbeaver-ce-25.2.5-linux.gtk.x86_64.tar.gz|https://github.com/dbeaver/dbeaver/releases/download/25.2.5/dbeaver-ce-25.2.5-linux.gtk.x86_64.tar.gz|126419019|application/octet-stream|1763316280
+dbeaver|25.2.5/dbeaver-ce-25.2.5-linux.gtk.aarch64-nojdk.tar.gz|https://github.com/dbeaver/dbeaver/releases/download/25.2.5/dbeaver-ce-25.2.5-linux.gtk.aarch64-nojdk.tar.gz|92431191|application/octet-stream|1763316235
+dbeaver|25.2.5/dbeaver-ce-25.2.5-linux.gtk.aarch64.tar.gz|https://github.com/dbeaver/dbeaver/releases/download/25.2.5/dbeaver-ce-25.2.5-linux.gtk.aarch64.tar.gz|125731680|application/octet-stream|1763316229

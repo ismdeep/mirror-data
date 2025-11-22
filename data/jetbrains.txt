@@ -8765,3 +8765,17 @@ jetbrains|Rider/release/2025.3/2025.3.0.2/linux/JetBrains.Rider-2025.3.0.2.tar.g
 jetbrains|Rider/release/2025.3/2025.3.0.2/mac/JetBrains.Rider-2025.3.0.2.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.0.2.dmg|1968666742|binary/octet-stream|1763652204
 jetbrains|Rider/release/2025.3/2025.3.0.2/windowsZipARM64/JetBrains.Rider-2025.3.0.2-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.0.2-aarch64.win.zip|2396483201|binary/octet-stream|1763652410
 jetbrains|Rider/release/2025.3/2025.3.0.2/windowsZip/JetBrains.Rider-2025.3.0.2.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.0.2.win.zip|2323920466|binary/octet-stream|1763652361
+jetbrains|WebStorm/release/2025.2/2025.2.5/mac/WebStorm-2025.2.5.dmg|https://download.jetbrains.com/webstorm/WebStorm-2025.2.5.dmg|1234871668|binary/octet-stream|1763718805
+jetbrains|WebStorm/release/2025.2/2025.2.5/macM1/WebStorm-2025.2.5-aarch64.dmg|https://download.jetbrains.com/webstorm/WebStorm-2025.2.5-aarch64.dmg|1223256655|binary/octet-stream|1763718798
+jetbrains|WebStorm/release/2025.2/2025.2.5/linux/WebStorm-2025.2.5.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2025.2.5.tar.gz|1177634598|binary/octet-stream|1763718808
+jetbrains|WebStorm/release/2025.2/2025.2.5/windows/WebStorm-2025.2.5.exe|https://download.jetbrains.com/webstorm/WebStorm-2025.2.5.exe|995479224|binary/octet-stream|1763718805
+jetbrains|WebStorm/release/2025.2/2025.2.5/linuxARM64/WebStorm-2025.2.5-aarch64.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2025.2.5-aarch64.tar.gz|1174566314|binary/octet-stream|1763718798
+jetbrains|WebStorm/release/2025.2/2025.2.5/windowsARM64/WebStorm-2025.2.5-aarch64.exe|https://download.jetbrains.com/webstorm/WebStorm-2025.2.5-aarch64.exe|844756816|binary/octet-stream|1763718798
+jetbrains|WebStorm/release/2025.2/2025.2.5/windowsZip/WebStorm-2025.2.5.win.zip|https://download.jetbrains.com/webstorm/WebStorm-2025.2.5.win.zip|1300084811|binary/octet-stream|1763718810
+jetbrains|PhpStorm/release/2025.2/2025.2.5/windowsARM64/PhpStorm-2025.2.5-aarch64.exe|https://download.jetbrains.com/webide/PhpStorm-2025.2.5-aarch64.exe|796768856|binary/octet-stream|1763664640
+jetbrains|PhpStorm/release/2025.2/2025.2.5/macM1/PhpStorm-2025.2.5-aarch64.dmg|https://download.jetbrains.com/webide/PhpStorm-2025.2.5-aarch64.dmg|1177200275|binary/octet-stream|1763664640
+jetbrains|PhpStorm/release/2025.2/2025.2.5/mac/PhpStorm-2025.2.5.dmg|https://download.jetbrains.com/webide/PhpStorm-2025.2.5.dmg|1188824598|binary/octet-stream|1763664647
+jetbrains|PhpStorm/release/2025.2/2025.2.5/windows/PhpStorm-2025.2.5.exe|https://download.jetbrains.com/webide/PhpStorm-2025.2.5.exe|947491424|binary/octet-stream|1763664649
+jetbrains|PhpStorm/release/2025.2/2025.2.5/linux/PhpStorm-2025.2.5.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2025.2.5.tar.gz|1132531723|binary/octet-stream|1763664651
+jetbrains|PhpStorm/release/2025.2/2025.2.5/linuxARM64/PhpStorm-2025.2.5-aarch64.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2025.2.5-aarch64.tar.gz|1129461313|binary/octet-stream|1763664640
+jetbrains|PhpStorm/release/2025.2/2025.2.5/windowsZip/PhpStorm-2025.2.5.win.zip|https://download.jetbrains.com/webide/PhpStorm-2025.2.5.win.zip|1255025499|binary/octet-stream|1763664653

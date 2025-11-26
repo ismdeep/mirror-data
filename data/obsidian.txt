@@ -890,3 +890,12 @@ obsidian|v1.10.3/Obsidian-1.10.3-arm64.AppImage|https://github.com/obsidianmd/ob
 obsidian|v1.10.3/obsidian-1.10.3.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.3/obsidian-1.10.3.tar.gz|118419919|application/octet-stream|1762877948
 obsidian|v1.10.3/obsidian_1.10.3_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.3/obsidian_1.10.3_amd64.deb|86311760|application/octet-stream|1762877955
 obsidian|v1.10.3/Obsidian-1.10.3.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.3/Obsidian-1.10.3.AppImage|125183414|application/octet-stream|1762877958
+obsidian|v1.10.6/obsidian-1.10.6.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/obsidian-1.10.6.asar.gz|9054843|application/octet-stream|1764086931
+obsidian|v1.10.6/obsidian_1.10.6_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/obsidian_1.10.6_amd64.deb|86313124|application/octet-stream|1764086891
+obsidian|v1.10.6/Obsidian-1.10.6.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/Obsidian-1.10.6.exe|291796608|application/octet-stream|1764086882
+obsidian|v1.10.6/Obsidian-1.10.6.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/Obsidian-1.10.6.dmg|210410377|application/octet-stream|1764086877
+obsidian|v1.10.6/obsidian-1.10.6-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/obsidian-1.10.6-arm64.tar.gz|118402386|application/octet-stream|1764086889
+obsidian|v1.10.6/obsidian-1.10.6.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/obsidian-1.10.6.tar.gz|118420302|application/octet-stream|1764086884
+obsidian|v1.10.6/Obsidian-1.10.6.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/Obsidian-1.10.6.apk|10844567|application/vnd.android.package-archive|1764102322
+obsidian|v1.10.6/Obsidian-1.10.6-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/Obsidian-1.10.6-arm64.AppImage|125421423|application/octet-stream|1764086886
+obsidian|v1.10.6/Obsidian-1.10.6.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/Obsidian-1.10.6.AppImage|125170595|application/octet-stream|1764086893

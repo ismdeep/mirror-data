@@ -8855,3 +8855,10 @@ jetbrains|PyCharmCommunity/release/2025.2/2025.2.5/windowsZip/pycharm-community-
 jetbrains|PyCharmCommunity/release/2025.2/2025.2.5/windowsARM64/pycharm-community-2025.2.5-aarch64.exe|https://download.jetbrains.com/python/pycharm-community-2025.2.5-aarch64.exe|654851208|binary/octet-stream|1764325985
 jetbrains|PyCharmCommunity/release/2025.2/2025.2.5/windows/pycharm-community-2025.2.5.exe|https://download.jetbrains.com/python/pycharm-community-2025.2.5.exe|805252592|binary/octet-stream|1764325990
 jetbrains|PyCharmCommunity/release/2025.2/2025.2.5/windowsZipARM64/pycharm-community-2025.2.5-aarch64.win.zip|https://download.jetbrains.com/python/pycharm-community-2025.2.5-aarch64.win.zip|911750592|binary/octet-stream|1764325986
+jetbrains|DataGrip/release/2025.3/2025.3/macM1/datagrip-2025.3-aarch64.dmg|https://download.jetbrains.com/datagrip/datagrip-2025.3-aarch64.dmg|988386185|binary/octet-stream|1764667529
+jetbrains|DataGrip/release/2025.3/2025.3/linux/datagrip-2025.3.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2025.3.tar.gz|1048279933|binary/octet-stream|1764667534
+jetbrains|DataGrip/release/2025.3/2025.3/mac/datagrip-2025.3.dmg|https://download.jetbrains.com/datagrip/datagrip-2025.3.dmg|999884074|binary/octet-stream|1764667532
+jetbrains|DataGrip/release/2025.3/2025.3/windows/datagrip-2025.3.exe|https://download.jetbrains.com/datagrip/datagrip-2025.3.exe|823222200|binary/octet-stream|1764667533
+jetbrains|DataGrip/release/2025.3/2025.3/windowsZip/datagrip-2025.3.win.zip|https://download.jetbrains.com/datagrip/datagrip-2025.3.win.zip|1047262304|binary/octet-stream|1764667535
+jetbrains|DataGrip/release/2025.3/2025.3/windowsARM64/datagrip-2025.3-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2025.3-aarch64.exe|790898600|binary/octet-stream|1764667529
+jetbrains|DataGrip/release/2025.3/2025.3/linuxARM64/datagrip-2025.3-aarch64.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2025.3-aarch64.tar.gz|1044220101|binary/octet-stream|1764667529

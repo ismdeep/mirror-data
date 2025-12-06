@@ -3820,3 +3820,15 @@ protobuf|v33.1/protoc-33.1-linux-aarch_64.zip|https://github.com/protocolbuffers
 protobuf|v33.1/protoc-33.1-win32.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.1/protoc-33.1-win32.zip|3518245|application/octet-stream|1762984815
 protobuf|v33.1/protoc-33.1-linux-x86_32.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.1/protoc-33.1-linux-x86_32.zip|3863689|application/octet-stream|1762984815
 protobuf|v33.1/protobuf-33.1.tar.gz|https://github.com/protocolbuffers/protobuf/releases/download/v33.1/protobuf-33.1.tar.gz|6865436|application/octet-stream|1762984814
+protobuf|v33.2/protoc-33.2-linux-x86_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.2/protoc-33.2-linux-x86_64.zip|3560922|application/octet-stream|1764972844
+protobuf|v33.2/protoc-33.2-osx-aarch_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.2/protoc-33.2-osx-aarch_64.zip|2532713|application/octet-stream|1764972844
+protobuf|v33.2/protoc-33.2-win32.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.2/protoc-33.2-win32.zip|3518256|application/octet-stream|1764972845
+protobuf|v33.2/protobuf-33.2.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.2/protobuf-33.2.zip|8785879|application/octet-stream|1764972844
+protobuf|v33.2/protoc-33.2-win64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.2/protoc-33.2-win64.zip|3429944|application/octet-stream|1764972845
+protobuf|v33.2/protoc-33.2-linux-ppcle_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.2/protoc-33.2-linux-ppcle_64.zip|3865988|application/octet-stream|1764972844
+protobuf|v33.2/protoc-33.2-osx-x86_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.2/protoc-33.2-osx-x86_64.zip|2654431|application/octet-stream|1764972845
+protobuf|v33.2/protoc-33.2-osx-universal_binary.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.2/protoc-33.2-osx-universal_binary.zip|5137217|application/octet-stream|1764972845
+protobuf|v33.2/protobuf-33.2.tar.gz|https://github.com/protocolbuffers/protobuf/releases/download/v33.2/protobuf-33.2.tar.gz|6868986|application/octet-stream|1764972844
+protobuf|v33.2/protoc-33.2-linux-s390_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.2/protoc-33.2-linux-s390_64.zip|4571098|application/octet-stream|1764972844
+protobuf|v33.2/protoc-33.2-linux-aarch_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.2/protoc-33.2-linux-aarch_64.zip|3518173|application/octet-stream|1764972844
+protobuf|v33.2/protoc-33.2-linux-x86_32.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.2/protoc-33.2-linux-x86_32.zip|3863460|application/octet-stream|1764972844

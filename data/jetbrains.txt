@@ -8912,3 +8912,9 @@ jetbrains|CLion/release/2025.3/2025.3/windowsARM64/CLion-2025.3-aarch64.exe|http
 jetbrains|IDEA/release/2025.3/2025.3/windowsARM64/idea-2025.3-aarch64.exe|https://download.jetbrains.com/idea/idea-2025.3-aarch64.exe|1067752608|binary/octet-stream|1765179681
 jetbrains|WebStorm/release/2025.3/2025.3/windowsZip/WebStorm-2025.3.win.zip|https://download.jetbrains.com/webstorm/WebStorm-2025.3.win.zip|1087412645|binary/octet-stream|1764952662
 jetbrains|WebStorm/release/2025.3/2025.3/windowsARM64/WebStorm-2025.3-aarch64.exe|https://download.jetbrains.com/webstorm/WebStorm-2025.3-aarch64.exe|779269736|binary/octet-stream|1764952653
+jetbrains|DataSpell/release/2025.3/2025.3/windows/dataspell-2025.3.exe|https://download.jetbrains.com/python/dataspell-2025.3.exe|941889976|binary/octet-stream|1765273156
+jetbrains|DataSpell/release/2025.3/2025.3/macM1/dataspell-2025.3-aarch64.dmg|https://download.jetbrains.com/python/dataspell-2025.3-aarch64.dmg|1177921554|binary/octet-stream|1765273152
+jetbrains|DataSpell/release/2025.3/2025.3/windowsARM64/dataspell-2025.3-aarch64.exe|https://download.jetbrains.com/python/dataspell-2025.3-aarch64.exe|909631464|binary/octet-stream|1765273152
+jetbrains|DataSpell/release/2025.3/2025.3/linux/dataspell-2025.3.tar.gz|https://download.jetbrains.com/python/dataspell-2025.3.tar.gz|1219023335|binary/octet-stream|1765273157
+jetbrains|DataSpell/release/2025.3/2025.3/linuxARM64/dataspell-2025.3-aarch64.tar.gz|https://download.jetbrains.com/python/dataspell-2025.3-aarch64.tar.gz|1215531976|binary/octet-stream|1765273152
+jetbrains|DataSpell/release/2025.3/2025.3/mac/dataspell-2025.3.dmg|https://download.jetbrains.com/python/dataspell-2025.3.dmg|1189232786|binary/octet-stream|1765273153

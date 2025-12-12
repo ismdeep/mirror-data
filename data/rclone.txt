@@ -4088,3 +4088,4 @@ rclone|v1.72.1/rclone-v1.72.1-solaris-amd64.zip|https://github.com/rclone/rclone
 rclone|v1.72.1/SHA256SUMS|https://github.com/rclone/rclone/releases/download/v1.72.1/SHA256SUMS|4700|application/octet-stream|1765378541
 rclone|v1.72.1/version.txt|https://github.com/rclone/rclone/releases/download/v1.72.1/version.txt|15|application/octet-stream|1765378542
 rclone|v1.72.1/rclone-v1.72.1-windows-amd64.zip|https://github.com/rclone/rclone/releases/download/v1.72.1/rclone-v1.72.1-windows-amd64.zip|27013218|application/octet-stream|1765378524
+rclone|v1.72.1/rclone-v1.72.1-osx-amd64.zip|https://github.com/rclone/rclone/releases/download/v1.72.1/rclone-v1.72.1-osx-amd64.zip|30253309|application/octet-stream|1765454446

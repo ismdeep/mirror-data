@@ -8961,3 +8961,10 @@ jetbrains|PhpStorm/release/2025.2/2025.2.6/windowsARM64/PhpStorm-2025.2.6-aarch6
 jetbrains|PhpStorm/release/2025.2/2025.2.6/windows/PhpStorm-2025.2.6.exe|https://download.jetbrains.com/webide/PhpStorm-2025.2.6.exe|947477648|binary/octet-stream|1765461798
 jetbrains|PhpStorm/release/2025.2/2025.2.6/windowsZip/PhpStorm-2025.2.6.win.zip|https://download.jetbrains.com/webide/PhpStorm-2025.2.6.win.zip|1255031213|binary/octet-stream|1765461802
 jetbrains|PhpStorm/release/2025.2/2025.2.6/macM1/PhpStorm-2025.2.6-aarch64.dmg|https://download.jetbrains.com/webide/PhpStorm-2025.2.6-aarch64.dmg|1177387051|binary/octet-stream|1765461788
+jetbrains|GoLand/release/2025.2/2025.2.6/windows/goland-2025.2.6.exe|https://download.jetbrains.com/go/goland-2025.2.6.exe|997839904|binary/octet-stream|1765527960
+jetbrains|GoLand/release/2025.2/2025.2.6/macM1/goland-2025.2.6-aarch64.dmg|https://download.jetbrains.com/go/goland-2025.2.6-aarch64.dmg|1258449887|binary/octet-stream|1765527946
+jetbrains|GoLand/release/2025.2/2025.2.6/linux/goland-2025.2.6.tar.gz|https://download.jetbrains.com/go/goland-2025.2.6.tar.gz|1224664966|binary/octet-stream|1765527963
+jetbrains|GoLand/release/2025.2/2025.2.6/windowsARM64/goland-2025.2.6-aarch64.exe|https://download.jetbrains.com/go/goland-2025.2.6-aarch64.exe|847375944|binary/octet-stream|1765527946
+jetbrains|GoLand/release/2025.2/2025.2.6/linuxARM64/goland-2025.2.6-aarch64.tar.gz|https://download.jetbrains.com/go/goland-2025.2.6-aarch64.tar.gz|1221923922|binary/octet-stream|1765527946
+jetbrains|GoLand/release/2025.2/2025.2.6/windowsZip/goland-2025.2.6.win.zip|https://download.jetbrains.com/go/goland-2025.2.6.win.zip|1346969363|binary/octet-stream|1765527965
+jetbrains|GoLand/release/2025.2/2025.2.6/mac/goland-2025.2.6.dmg|https://download.jetbrains.com/go/goland-2025.2.6.dmg|1269766800|binary/octet-stream|1765527955

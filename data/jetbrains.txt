@@ -9042,3 +9042,9 @@ jetbrains|PhpStorm/release/2025.3/2025.3.1/linux/PhpStorm-2025.3.1.tar.gz|https:
 jetbrains|PhpStorm/release/2025.3/2025.3.1/windows/PhpStorm-2025.3.1.exe|https://download.jetbrains.com/webide/PhpStorm-2025.3.1.exe|790474112|binary/octet-stream|1766150221
 jetbrains|PhpStorm/release/2025.3/2025.3.1/linuxARM64/PhpStorm-2025.3.1-aarch64.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2025.3.1-aarch64.tar.gz|1050723885|binary/octet-stream|1766150218
 jetbrains|PhpStorm/release/2025.3/2025.3.1/windowsZip/PhpStorm-2025.3.1.win.zip|https://download.jetbrains.com/webide/PhpStorm-2025.3.1.win.zip|1066115772|binary/octet-stream|1766150226
+jetbrains|DataSpell/release/2025.3/2025.3.1/macM1/dataspell-2025.3.1-aarch64.dmg|https://download.jetbrains.com/python/dataspell-2025.3.1-aarch64.dmg|1177364971|binary/octet-stream|1766397565
+jetbrains|DataSpell/release/2025.3/2025.3.1/linux/dataspell-2025.3.1.tar.gz|https://download.jetbrains.com/python/dataspell-2025.3.1.tar.gz|1218916794|binary/octet-stream|1766397569
+jetbrains|DataSpell/release/2025.3/2025.3.1/linuxARM64/dataspell-2025.3.1-aarch64.tar.gz|https://download.jetbrains.com/python/dataspell-2025.3.1-aarch64.tar.gz|1215427645|binary/octet-stream|1766397565
+jetbrains|DataSpell/release/2025.3/2025.3.1/windows/dataspell-2025.3.1.exe|https://download.jetbrains.com/python/dataspell-2025.3.1.exe|941881344|binary/octet-stream|1766397567
+jetbrains|DataSpell/release/2025.3/2025.3.1/windowsARM64/dataspell-2025.3.1-aarch64.exe|https://download.jetbrains.com/python/dataspell-2025.3.1-aarch64.exe|909595760|binary/octet-stream|1766397565
+jetbrains|DataSpell/release/2025.3/2025.3.1/mac/dataspell-2025.3.1.dmg|https://download.jetbrains.com/python/dataspell-2025.3.1.dmg|1189201027|binary/octet-stream|1766397566

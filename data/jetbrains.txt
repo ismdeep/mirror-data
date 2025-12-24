@@ -9048,3 +9048,10 @@ jetbrains|DataSpell/release/2025.3/2025.3.1/linuxARM64/dataspell-2025.3.1-aarch6
 jetbrains|DataSpell/release/2025.3/2025.3.1/windows/dataspell-2025.3.1.exe|https://download.jetbrains.com/python/dataspell-2025.3.1.exe|941881344|binary/octet-stream|1766397567
 jetbrains|DataSpell/release/2025.3/2025.3.1/windowsARM64/dataspell-2025.3.1-aarch64.exe|https://download.jetbrains.com/python/dataspell-2025.3.1-aarch64.exe|909595760|binary/octet-stream|1766397565
 jetbrains|DataSpell/release/2025.3/2025.3.1/mac/dataspell-2025.3.1.dmg|https://download.jetbrains.com/python/dataspell-2025.3.1.dmg|1189201027|binary/octet-stream|1766397566
+jetbrains|DataGrip/release/2025.3/2025.3.2/macM1/datagrip-2025.3.2-aarch64.dmg|https://download.jetbrains.com/datagrip/datagrip-2025.3.2-aarch64.dmg|1000998588|binary/octet-stream|1766506896
+jetbrains|DataGrip/release/2025.3/2025.3.2/linux/datagrip-2025.3.2.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2025.3.2.tar.gz|1061141699|binary/octet-stream|1766506903
+jetbrains|DataGrip/release/2025.3/2025.3.2/mac/datagrip-2025.3.2.dmg|https://download.jetbrains.com/datagrip/datagrip-2025.3.2.dmg|1012595625|binary/octet-stream|1766506900
+jetbrains|DataGrip/release/2025.3/2025.3.2/windows/datagrip-2025.3.2.exe|https://download.jetbrains.com/datagrip/datagrip-2025.3.2.exe|835631200|binary/octet-stream|1766506910
+jetbrains|DataGrip/release/2025.3/2025.3.2/windowsARM64/datagrip-2025.3.2-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2025.3.2-aarch64.exe|803280392|binary/octet-stream|1766506896
+jetbrains|DataGrip/release/2025.3/2025.3.2/windowsZip/datagrip-2025.3.2.win.zip|https://download.jetbrains.com/datagrip/datagrip-2025.3.2.win.zip|1060113836|binary/octet-stream|1766506908
+jetbrains|DataGrip/release/2025.3/2025.3.2/linuxARM64/datagrip-2025.3.2-aarch64.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2025.3.2-aarch64.tar.gz|1057085700|binary/octet-stream|1766506896

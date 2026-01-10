@@ -9083,3 +9083,10 @@ jetbrains|PhpStorm/release/2025.3/2025.3.1.1/linuxARM64/PhpStorm-2025.3.1.1-aarc
 jetbrains|GoLand/release/2025.3/2025.3.1/windows/goland-2025.3.1.exe|https://download.jetbrains.com/go/goland-2025.3.1.exe|835016768|binary/octet-stream|1767885278
 jetbrains|GoLand/release/2025.3/2025.3.1/windowsARM64/goland-2025.3.1-aarch64.exe|https://download.jetbrains.com/go/goland-2025.3.1-aarch64.exe|794536248|binary/octet-stream|1767885271
 jetbrains|GoLand/release/2025.3/2025.3.1/windowsZip/goland-2025.3.1.win.zip|https://download.jetbrains.com/go/goland-2025.3.1.win.zip|1146125150|binary/octet-stream|1767885280
+jetbrains|DataGrip/release/2025.3/2025.3.3/mac/datagrip-2025.3.3.dmg|https://download.jetbrains.com/datagrip/datagrip-2025.3.3.dmg|1012980496|binary/octet-stream|1767953209
+jetbrains|DataGrip/release/2025.3/2025.3.3/macM1/datagrip-2025.3.3-aarch64.dmg|https://download.jetbrains.com/datagrip/datagrip-2025.3.3-aarch64.dmg|1001377380|binary/octet-stream|1767953205
+jetbrains|DataGrip/release/2025.3/2025.3.3/windows/datagrip-2025.3.3.exe|https://download.jetbrains.com/datagrip/datagrip-2025.3.3.exe|835980912|binary/octet-stream|1767953211
+jetbrains|DataGrip/release/2025.3/2025.3.3/linux/datagrip-2025.3.3.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2025.3.3.tar.gz|1061543848|binary/octet-stream|1767953212
+jetbrains|DataGrip/release/2025.3/2025.3.3/linuxARM64/datagrip-2025.3.3-aarch64.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2025.3.3-aarch64.tar.gz|1057460962|binary/octet-stream|1767953211
+jetbrains|DataGrip/release/2025.3/2025.3.3/windowsARM64/datagrip-2025.3.3-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2025.3.3-aarch64.exe|803630136|binary/octet-stream|1767953205
+jetbrains|DataGrip/release/2025.3/2025.3.3/windowsZip/datagrip-2025.3.3.win.zip|https://download.jetbrains.com/datagrip/datagrip-2025.3.3.win.zip|1060489367|binary/octet-stream|1767953215

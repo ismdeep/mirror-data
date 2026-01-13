@@ -899,3 +899,13 @@ obsidian|v1.10.6/obsidian-1.10.6.tar.gz|https://github.com/obsidianmd/obsidian-r
 obsidian|v1.10.6/Obsidian-1.10.6.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/Obsidian-1.10.6.apk|10844567|application/vnd.android.package-archive|1764102322
 obsidian|v1.10.6/Obsidian-1.10.6-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/Obsidian-1.10.6-arm64.AppImage|125421423|application/octet-stream|1764086886
 obsidian|v1.10.6/Obsidian-1.10.6.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/Obsidian-1.10.6.AppImage|125170595|application/octet-stream|1764086893
+obsidian|v1.11.4/obsidian-1.11.4.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.4/obsidian-1.11.4.asar.gz|8769455|application/octet-stream|1768229826
+obsidian|v1.11.4/Obsidian-1.11.4.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.4/Obsidian-1.11.4.exe|296492160|application/octet-stream|1768229524
+obsidian|v1.11.4/Obsidian-1.11.4.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.4/Obsidian-1.11.4.dmg|214464092|application/octet-stream|1768229714
+obsidian|v1.11.4/Obsidian-1.11.4-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.4/Obsidian-1.11.4-arm64.AppImage|125078410|application/octet-stream|1768229511
+obsidian|v1.11.4/Obsidian-1.11.4.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.4/Obsidian-1.11.4.apk|14561045|application/vnd.android.package-archive|1768229736
+obsidian|v1.11.4/Obsidian-1.11.4.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.4/Obsidian-1.11.4.AppImage|125036147|application/octet-stream|1768229517
+obsidian|v1.11.4/obsidian_1.11.4_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.4/obsidian_1.11.4_amd64.deb|85906404|application/octet-stream|1768229515
+obsidian|v1.11.4/Obsidian-1.11.4.exe.blockmap|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.4/Obsidian-1.11.4.exe.blockmap|303281|application/octet-stream|1768229524
+obsidian|v1.11.4/obsidian-1.11.4.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.4/obsidian-1.11.4.tar.gz|118292255|application/octet-stream|1768229526
+obsidian|v1.11.4/obsidian-1.11.4-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.4/obsidian-1.11.4-arm64.tar.gz|117993486|application/octet-stream|1768229513

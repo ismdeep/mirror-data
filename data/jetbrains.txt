@@ -9119,3 +9119,10 @@ jetbrains|PyCharm/release/2025.3/2025.3.1.1/mac/pycharm-2025.3.1.1.dmg|https://d
 jetbrains|PyCharm/release/2025.3/2025.3.1.1/windowsZip/pycharm-2025.3.1.1.win.zip|https://download.jetbrains.com/python/pycharm-2025.3.1.1.win.zip|1231315720|binary/octet-stream|1768220482
 jetbrains|PyCharm/release/2025.3/2025.3.1.1/linux/pycharm-2025.3.1.1.tar.gz|https://download.jetbrains.com/python/pycharm-2025.3.1.1.tar.gz|1207855450|binary/octet-stream|1768220481
 jetbrains|PyCharm/release/2025.3/2025.3.1.1/windowsZipARM64/pycharm-2025.3.1.1-aarch64.win.zip|https://download.jetbrains.com/python/pycharm-2025.3.1.1-aarch64.win.zip|1188942344|binary/octet-stream|1768220475
+jetbrains|GoLand/release/2025.3/2025.3.1.1/windows/goland-2025.3.1.1.exe|https://download.jetbrains.com/go/goland-2025.3.1.1.exe|835079360|binary/octet-stream|1768382513
+jetbrains|GoLand/release/2025.3/2025.3.1.1/linux/goland-2025.3.1.1.tar.gz|https://download.jetbrains.com/go/goland-2025.3.1.1.tar.gz|1135678494|binary/octet-stream|1768382514
+jetbrains|GoLand/release/2025.3/2025.3.1.1/macM1/goland-2025.3.1.1-aarch64.dmg|https://download.jetbrains.com/go/goland-2025.3.1.1-aarch64.dmg|1061044842|binary/octet-stream|1768382506
+jetbrains|GoLand/release/2025.3/2025.3.1.1/mac/goland-2025.3.1.1.dmg|https://download.jetbrains.com/go/goland-2025.3.1.1.dmg|1073211443|binary/octet-stream|1768382510
+jetbrains|GoLand/release/2025.3/2025.3.1.1/windowsZip/goland-2025.3.1.1.win.zip|https://download.jetbrains.com/go/goland-2025.3.1.1.win.zip|1146207788|binary/octet-stream|1768382520
+jetbrains|GoLand/release/2025.3/2025.3.1.1/windowsARM64/goland-2025.3.1.1-aarch64.exe|https://download.jetbrains.com/go/goland-2025.3.1.1-aarch64.exe|794599120|binary/octet-stream|1768382506
+jetbrains|GoLand/release/2025.3/2025.3.1.1/linuxARM64/goland-2025.3.1.1-aarch64.tar.gz|https://download.jetbrains.com/go/goland-2025.3.1.1-aarch64.tar.gz|1131333002|binary/octet-stream|1768382516

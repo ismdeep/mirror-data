@@ -909,3 +909,12 @@ obsidian|v1.11.4/obsidian_1.11.4_amd64.deb|https://github.com/obsidianmd/obsidia
 obsidian|v1.11.4/Obsidian-1.11.4.exe.blockmap|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.4/Obsidian-1.11.4.exe.blockmap|303281|application/octet-stream|1768229524
 obsidian|v1.11.4/obsidian-1.11.4.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.4/obsidian-1.11.4.tar.gz|118292255|application/octet-stream|1768229526
 obsidian|v1.11.4/obsidian-1.11.4-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.4/obsidian-1.11.4-arm64.tar.gz|117993486|application/octet-stream|1768229513
+obsidian|v1.11.5/obsidian-1.11.5.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.5/obsidian-1.11.5.asar.gz|8771203|application/octet-stream|1768930850
+obsidian|v1.11.5/Obsidian-1.11.5.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.5/Obsidian-1.11.5.apk|15513098|application/vnd.android.package-archive|1768930854
+obsidian|v1.11.5/Obsidian-1.11.5-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.5/Obsidian-1.11.5-arm64.AppImage|125067777|application/octet-stream|1768933983
+obsidian|v1.11.5/Obsidian-1.11.5.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.5/Obsidian-1.11.5.exe|296495960|application/octet-stream|1768933962
+obsidian|v1.11.5/Obsidian-1.11.5.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.5/Obsidian-1.11.5.AppImage|124469109|application/octet-stream|1768933990
+obsidian|v1.11.5/Obsidian-1.11.5.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.5/Obsidian-1.11.5.dmg|214961966|application/octet-stream|1768933994
+obsidian|v1.11.5/obsidian-1.11.5-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.5/obsidian-1.11.5-arm64.tar.gz|117968996|application/octet-stream|1768933985
+obsidian|v1.11.5/obsidian-1.11.5.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.5/obsidian-1.11.5.tar.gz|117669114|application/octet-stream|1768933980
+obsidian|v1.11.5/obsidian_1.11.5_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.5/obsidian_1.11.5_amd64.deb|85650922|application/octet-stream|1768933987

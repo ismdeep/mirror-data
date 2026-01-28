@@ -9168,3 +9168,11 @@ jetbrains|PhpStorm/release/2025.3/2025.3.2/windowsARM64/PhpStorm-2025.3.2-aarch6
 jetbrains|PhpStorm/release/2025.3/2025.3.2/windowsZip/PhpStorm-2025.3.2.win.zip|https://download.jetbrains.com/webide/PhpStorm-2025.3.2.win.zip|1066013332|binary/octet-stream|1769089708
 jetbrains|RubyMine/release/2025.3/2025.3.2/windowsARM64/RubyMine-2025.3.2-aarch64.exe|https://download.jetbrains.com/ruby/RubyMine-2025.3.2-aarch64.exe|712878816|binary/octet-stream|1769084051
 jetbrains|RubyMine/release/2025.3/2025.3.2/windowsZip/RubyMine-2025.3.2.win.zip|https://download.jetbrains.com/ruby/RubyMine-2025.3.2.win.zip|1036416771|binary/octet-stream|1769084073
+jetbrains|PyCharm/release/2025.3/2025.3.2/macM1/pycharm-2025.3.2-aarch64.dmg|https://download.jetbrains.com/python/pycharm-2025.3.2-aarch64.dmg|1146009268|binary/octet-stream|1769529681
+jetbrains|PyCharm/release/2025.3/2025.3.2/linux/pycharm-2025.3.2.tar.gz|https://download.jetbrains.com/python/pycharm-2025.3.2.tar.gz|1208634858|binary/octet-stream|1769529688
+jetbrains|PyCharm/release/2025.3/2025.3.2/windows/pycharm-2025.3.2.exe|https://download.jetbrains.com/python/pycharm-2025.3.2.exe|889740480|binary/octet-stream|1769529695
+jetbrains|PyCharm/release/2025.3/2025.3.2/mac/pycharm-2025.3.2.dmg|https://download.jetbrains.com/python/pycharm-2025.3.2.dmg|1157947379|binary/octet-stream|1769529687
+jetbrains|PyCharm/release/2025.3/2025.3.2/linuxARM64/pycharm-2025.3.2-aarch64.tar.gz|https://download.jetbrains.com/python/pycharm-2025.3.2-aarch64.tar.gz|1204314385|binary/octet-stream|1769529684
+jetbrains|PyCharm/release/2025.3/2025.3.2/windowsARM64/pycharm-2025.3.2-aarch64.exe|https://download.jetbrains.com/python/pycharm-2025.3.2-aarch64.exe|849261512|binary/octet-stream|1769529682
+jetbrains|PyCharm/release/2025.3/2025.3.2/windowsZip/pycharm-2025.3.2.win.zip|https://download.jetbrains.com/python/pycharm-2025.3.2.win.zip|1232940341|binary/octet-stream|1769529693
+jetbrains|PyCharm/release/2025.3/2025.3.2/windowsZipARM64/pycharm-2025.3.2-aarch64.win.zip|https://download.jetbrains.com/python/pycharm-2025.3.2-aarch64.win.zip|1190558909|binary/octet-stream|1769529686

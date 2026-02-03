@@ -9190,3 +9190,11 @@ jetbrains|DataSpell/release/2025.3/2025.3.2/windowsARM64/dataspell-2025.3.2-aarc
 jetbrains|DataSpell/release/2025.3/2025.3.2/linuxARM64/dataspell-2025.3.2-aarch64.tar.gz|https://download.jetbrains.com/python/dataspell-2025.3.2-aarch64.tar.gz|1215892956|binary/octet-stream|1769708735
 jetbrains|DataSpell/release/2025.3/2025.3.2/linux/dataspell-2025.3.2.tar.gz|https://download.jetbrains.com/python/dataspell-2025.3.2.tar.gz|1219356923|binary/octet-stream|1769708740
 jetbrains|DataSpell/release/2025.3/2025.3.2/mac/dataspell-2025.3.2.dmg|https://download.jetbrains.com/python/dataspell-2025.3.2.dmg|1190636686|binary/octet-stream|1769708736
+jetbrains|PyCharm/release/2025.3/2025.3.2.1/windows/pycharm-2025.3.2.1.exe|https://download.jetbrains.com/python/pycharm-2025.3.2.1.exe|889735552|binary/octet-stream|1770042667
+jetbrains|PyCharm/release/2025.3/2025.3.2.1/linuxARM64/pycharm-2025.3.2.1-aarch64.tar.gz|https://download.jetbrains.com/python/pycharm-2025.3.2.1-aarch64.tar.gz|1204386244|binary/octet-stream|1770042660
+jetbrains|PyCharm/release/2025.3/2025.3.2.1/linux/pycharm-2025.3.2.1.tar.gz|https://download.jetbrains.com/python/pycharm-2025.3.2.1.tar.gz|1208692716|binary/octet-stream|1770042670
+jetbrains|PyCharm/release/2025.3/2025.3.2.1/macM1/pycharm-2025.3.2.1-aarch64.dmg|https://download.jetbrains.com/python/pycharm-2025.3.2.1-aarch64.dmg|1146052085|binary/octet-stream|1770042660
+jetbrains|PyCharm/release/2025.3/2025.3.2.1/mac/pycharm-2025.3.2.1.dmg|https://download.jetbrains.com/python/pycharm-2025.3.2.1.dmg|1157909478|binary/octet-stream|1770042662
+jetbrains|PyCharm/release/2025.3/2025.3.2.1/windowsZip/pycharm-2025.3.2.1.win.zip|https://download.jetbrains.com/python/pycharm-2025.3.2.1.win.zip|1232942618|binary/octet-stream|1770042672
+jetbrains|PyCharm/release/2025.3/2025.3.2.1/windowsARM64/pycharm-2025.3.2.1-aarch64.exe|https://download.jetbrains.com/python/pycharm-2025.3.2.1-aarch64.exe|849256512|binary/octet-stream|1770042660
+jetbrains|PyCharm/release/2025.3/2025.3.2.1/windowsZipARM64/pycharm-2025.3.2.1-aarch64.win.zip|https://download.jetbrains.com/python/pycharm-2025.3.2.1-aarch64.win.zip|1190561180|binary/octet-stream|1770042665

@@ -3889,3 +3889,15 @@ protobuf|v33.5/protobuf-33.5.bazel.tar.gz.intoto.jsonl|https://github.com/protoc
 protobuf|v33.5/protoc-33.5-osx-universal_binary.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.5/protoc-33.5-osx-universal_binary.zip|5138265|application/octet-stream|1769719791
 protobuf|v33.5/protoc-33.5-osx-x86_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.5/protoc-33.5-osx-x86_64.zip|2654927|application/octet-stream|1769719791
 protobuf|v33.5/protobuf-33.5.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.5/protobuf-33.5.zip|8809845|application/octet-stream|1769719790
+protobuf|v29.6/protoc-29.6-linux-x86_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v29.6/protoc-29.6-linux-x86_64.zip|3288889|application/octet-stream|1770242169
+protobuf|v29.6/protoc-29.6-osx-universal_binary.zip|https://github.com/protocolbuffers/protobuf/releases/download/v29.6/protoc-29.6-osx-universal_binary.zip|4625174|application/octet-stream|1770242169
+protobuf|v29.6/protoc-29.6-win64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v29.6/protoc-29.6-win64.zip|3189581|application/octet-stream|1770242169
+protobuf|v29.6/protoc-29.6-osx-x86_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v29.6/protoc-29.6-osx-x86_64.zip|2381700|application/octet-stream|1770242169
+protobuf|v29.6/protoc-29.6-win32.zip|https://github.com/protocolbuffers/protobuf/releases/download/v29.6/protoc-29.6-win32.zip|3263714|application/octet-stream|1770242169
+protobuf|v29.6/protoc-29.6-osx-aarch_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v29.6/protoc-29.6-osx-aarch_64.zip|2291566|application/octet-stream|1770242169
+protobuf|v29.6/protoc-29.6-linux-s390_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v29.6/protoc-29.6-linux-s390_64.zip|4207005|application/octet-stream|1770242168
+protobuf|v29.6/protoc-29.6-linux-aarch_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v29.6/protoc-29.6-linux-aarch_64.zip|3258529|application/octet-stream|1770242168
+protobuf|v29.6/protoc-29.6-linux-x86_32.zip|https://github.com/protocolbuffers/protobuf/releases/download/v29.6/protoc-29.6-linux-x86_32.zip|3563333|application/octet-stream|1770242169
+protobuf|v29.6/protobuf-29.6.tar.gz|https://github.com/protocolbuffers/protobuf/releases/download/v29.6/protobuf-29.6.tar.gz|9340881|application/octet-stream|1770242168
+protobuf|v29.6/protoc-29.6-linux-ppcle_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v29.6/protoc-29.6-linux-ppcle_64.zip|3562049|application/octet-stream|1770242168
+protobuf|v29.6/protobuf-29.6.zip|https://github.com/protocolbuffers/protobuf/releases/download/v29.6/protobuf-29.6.zip|11132225|application/octet-stream|1770242168

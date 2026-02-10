@@ -9205,3 +9205,10 @@ jetbrains|DataGrip/release/2025.3/2025.3.5/mac/datagrip-2025.3.5.dmg|https://dow
 jetbrains|DataGrip/release/2025.3/2025.3.5/windowsZip/datagrip-2025.3.5.win.zip|https://download.jetbrains.com/datagrip/datagrip-2025.3.5.win.zip|1062580802|binary/octet-stream|1770287491
 jetbrains|DataGrip/release/2025.3/2025.3.5/linuxARM64/datagrip-2025.3.5-aarch64.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2025.3.5-aarch64.tar.gz|1058817372|binary/octet-stream|1770287483
 jetbrains|DataGrip/release/2025.3/2025.3.5/windowsARM64/datagrip-2025.3.5-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2025.3.5-aarch64.exe|805480792|binary/octet-stream|1770287480
+jetbrains|GoLand/release/2025.3/2025.3.2/macM1/goland-2025.3.2-aarch64.dmg|https://download.jetbrains.com/go/goland-2025.3.2-aarch64.dmg|1082283167|binary/octet-stream|1770634298
+jetbrains|GoLand/release/2025.3/2025.3.2/linux/goland-2025.3.2.tar.gz|https://download.jetbrains.com/go/goland-2025.3.2.tar.gz|1155713172|binary/octet-stream|1770634305
+jetbrains|GoLand/release/2025.3/2025.3.2/windows/goland-2025.3.2.exe|https://download.jetbrains.com/go/goland-2025.3.2.exe|855204216|binary/octet-stream|1770634303
+jetbrains|GoLand/release/2025.3/2025.3.2/mac/goland-2025.3.2.dmg|https://download.jetbrains.com/go/goland-2025.3.2.dmg|1094299017|binary/octet-stream|1770634301
+jetbrains|GoLand/release/2025.3/2025.3.2/windowsARM64/goland-2025.3.2-aarch64.exe|https://download.jetbrains.com/go/goland-2025.3.2-aarch64.exe|814725336|binary/octet-stream|1770634298
+jetbrains|GoLand/release/2025.3/2025.3.2/linuxARM64/goland-2025.3.2-aarch64.tar.gz|https://download.jetbrains.com/go/goland-2025.3.2-aarch64.tar.gz|1151402373|binary/octet-stream|1770634298
+jetbrains|GoLand/release/2025.3/2025.3.2/windowsZip/goland-2025.3.2.win.zip|https://download.jetbrains.com/go/goland-2025.3.2.win.zip|1166979459|binary/octet-stream|1770634306

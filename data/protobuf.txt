@@ -3913,3 +3913,15 @@ protobuf|v34.0-rc2/protobuf-34.0-rc2.tar.gz|https://github.com/protocolbuffers/p
 protobuf|v34.0-rc2/protobuf-34.0-rc2.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.0-rc2/protobuf-34.0-rc2.zip|9040395|application/octet-stream|1770402885
 protobuf|v34.0-rc2/protoc-34.0-rc-2-osx-aarch_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.0-rc2/protoc-34.0-rc-2-osx-aarch_64.zip|2567289|application/octet-stream|1770402886
 protobuf|v34.0-rc2/protoc-34.0-rc-2-osx-x86_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.0-rc2/protoc-34.0-rc-2-osx-x86_64.zip|2699712|application/octet-stream|1770402886
+protobuf|v34.0/protoc-34.0-win32.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.0/protoc-34.0-win32.zip|3568463|application/octet-stream|1772056100
+protobuf|v34.0/protobuf-34.0.tar.gz|https://github.com/protocolbuffers/protobuf/releases/download/v34.0/protobuf-34.0.tar.gz|7032061|application/octet-stream|1772056099
+protobuf|v34.0/protoc-34.0-win64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.0/protoc-34.0-win64.zip|3487249|application/octet-stream|1772056100
+protobuf|v34.0/protoc-34.0-osx-universal_binary.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.0/protoc-34.0-osx-universal_binary.zip|5217176|application/octet-stream|1772056100
+protobuf|v34.0/protoc-34.0-osx-x86_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.0/protoc-34.0-osx-x86_64.zip|2699624|application/octet-stream|1772056100
+protobuf|v34.0/protoc-34.0-linux-s390_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.0/protoc-34.0-linux-s390_64.zip|4650230|application/octet-stream|1772056099
+protobuf|v34.0/protoc-34.0-linux-ppcle_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.0/protoc-34.0-linux-ppcle_64.zip|3924590|application/octet-stream|1772056099
+protobuf|v34.0/protoc-34.0-linux-aarch_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.0/protoc-34.0-linux-aarch_64.zip|3564295|application/octet-stream|1772056099
+protobuf|v34.0/protoc-34.0-linux-x86_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.0/protoc-34.0-linux-x86_64.zip|3612073|application/octet-stream|1772056100
+protobuf|v34.0/protobuf-34.0.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.0/protobuf-34.0.zip|9010413|application/octet-stream|1772056099
+protobuf|v34.0/protoc-34.0-linux-x86_32.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.0/protoc-34.0-linux-x86_32.zip|3915134|application/octet-stream|1772056100
+protobuf|v34.0/protoc-34.0-osx-aarch_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.0/protoc-34.0-osx-aarch_64.zip|2567059|application/octet-stream|1772056099

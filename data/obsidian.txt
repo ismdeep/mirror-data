@@ -927,3 +927,12 @@ obsidian|v1.11.7/obsidian-1.11.7.tar.gz|https://github.com/obsidianmd/obsidian-r
 obsidian|v1.11.7/Obsidian-1.11.7-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.7/Obsidian-1.11.7-arm64.AppImage|125077152|application/octet-stream|1770318271
 obsidian|v1.11.7/obsidian-1.11.7-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.7/obsidian-1.11.7-arm64.tar.gz|117991009|application/octet-stream|1770318274
 obsidian|v1.11.7/Obsidian-1.11.7.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.7/Obsidian-1.11.7.apk|15522244|application/vnd.android.package-archive|1770318317
+obsidian|v1.12.4/Obsidian-1.12.4.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.4/Obsidian-1.12.4.dmg|213282199|application/octet-stream|1772207318
+obsidian|v1.12.4/obsidian-1.12.4.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.4/obsidian-1.12.4.asar.gz|8322418|application/octet-stream|1772207360
+obsidian|v1.12.4/obsidian-1.12.4.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.4/obsidian-1.12.4.tar.gz|117225918|application/octet-stream|1772207325
+obsidian|v1.12.4/Obsidian-1.12.4.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.4/Obsidian-1.12.4.apk|15052824|application/vnd.android.package-archive|1772207394
+obsidian|v1.12.4/obsidian-1.12.4-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.4/obsidian-1.12.4-arm64.tar.gz|117517014|application/octet-stream|1772207309
+obsidian|v1.12.4/Obsidian-1.12.4-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.4/Obsidian-1.12.4-arm64.AppImage|124589124|application/octet-stream|1772207307
+obsidian|v1.12.4/Obsidian-1.12.4.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.4/Obsidian-1.12.4.exe|295466400|application/octet-stream|1772207322
+obsidian|v1.12.4/Obsidian-1.12.4.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.4/Obsidian-1.12.4.AppImage|124009781|application/octet-stream|1772207314
+obsidian|v1.12.4/obsidian_1.12.4_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.4/obsidian_1.12.4_amd64.deb|85762132|application/octet-stream|1772207311

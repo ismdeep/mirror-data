@@ -2449,3 +2449,15 @@ dbeaver|25.3.5/dbeaver-ce-25.3.5-linux-aarch64.deb|https://github.com/dbeaver/db
 dbeaver|25.3.5/dbeaver-ce-25.3.5-linux-x86_64.tar.gz|https://github.com/dbeaver/dbeaver/releases/download/25.3.5/dbeaver-ce-25.3.5-linux-x86_64.tar.gz|124602890|application/octet-stream|1771180188
 dbeaver|25.3.5/dbeaver-ce-25.3.5-linux-x86_64.rpm|https://github.com/dbeaver/dbeaver/releases/download/25.3.5/dbeaver-ce-25.3.5-linux-x86_64.rpm|124732106|application/octet-stream|1771180240
 dbeaver|25.3.5/dbeaver-ce-25.3.5-windows-aarch64.zip|https://github.com/dbeaver/dbeaver/releases/download/25.3.5/dbeaver-ce-25.3.5-windows-aarch64.zip|120809208|application/octet-stream|1771180201
+dbeaver|26.0.0/dbeaver-ce-26.0.0-macos-aarch64.dmg|https://github.com/dbeaver/dbeaver/releases/download/26.0.0/dbeaver-ce-26.0.0-macos-aarch64.dmg|121734889|application/octet-stream|1772390630
+dbeaver|26.0.0/dbeaver-ce-26.0.0-windows-x86_64.exe|https://github.com/dbeaver/dbeaver/releases/download/26.0.0/dbeaver-ce-26.0.0-windows-x86_64.exe|116023688|application/octet-stream|1772390612
+dbeaver|26.0.0/dbeaver-ce-26.0.0-linux-x86_64.deb|https://github.com/dbeaver/dbeaver/releases/download/26.0.0/dbeaver-ce-26.0.0-linux-x86_64.deb|124667116|application/octet-stream|1772390563
+dbeaver|26.0.0/dbeaver-ce-26.0.0-linux-aarch64.deb|https://github.com/dbeaver/dbeaver/releases/download/26.0.0/dbeaver-ce-26.0.0-linux-aarch64.deb|123975190|application/octet-stream|1772390637
+dbeaver|26.0.0/dbeaver-ce-26.0.0-linux-x86_64.rpm|https://github.com/dbeaver/dbeaver/releases/download/26.0.0/dbeaver-ce-26.0.0-linux-x86_64.rpm|124756515|application/octet-stream|1772390587
+dbeaver|26.0.0/dbeaver-ce-26.0.0-linux-aarch64.rpm|https://github.com/dbeaver/dbeaver/releases/download/26.0.0/dbeaver-ce-26.0.0-linux-aarch64.rpm|124062407|application/octet-stream|1772390570
+dbeaver|26.0.0/dbeaver-ce-26.0.0-windows-x86_64.zip|https://github.com/dbeaver/dbeaver/releases/download/26.0.0/dbeaver-ce-26.0.0-windows-x86_64.zip|129124810|application/octet-stream|1772390575
+dbeaver|26.0.0/dbeaver-ce-26.0.0-linux-aarch64.tar.gz|https://github.com/dbeaver/dbeaver/releases/download/26.0.0/dbeaver-ce-26.0.0-linux-aarch64.tar.gz|123935367|application/octet-stream|1772390581
+dbeaver|26.0.0/dbeaver-ce-26.0.0-windows-aarch64.exe|https://github.com/dbeaver/dbeaver/releases/download/26.0.0/dbeaver-ce-26.0.0-windows-aarch64.exe|109689176|application/octet-stream|1772390606
+dbeaver|26.0.0/dbeaver-ce-26.0.0-linux-x86_64.tar.gz|https://github.com/dbeaver/dbeaver/releases/download/26.0.0/dbeaver-ce-26.0.0-linux-x86_64.tar.gz|124624717|application/octet-stream|1772390557
+dbeaver|26.0.0/dbeaver-ce-26.0.0-macos-x86_64.dmg|https://github.com/dbeaver/dbeaver/releases/download/26.0.0/dbeaver-ce-26.0.0-macos-x86_64.dmg|122908976|application/octet-stream|1772390619
+dbeaver|26.0.0/dbeaver-ce-26.0.0-windows-aarch64.zip|https://github.com/dbeaver/dbeaver/releases/download/26.0.0/dbeaver-ce-26.0.0-windows-aarch64.zip|120832697|application/octet-stream|1772390625

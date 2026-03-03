@@ -3925,3 +3925,4 @@ protobuf|v34.0/protoc-34.0-linux-x86_64.zip|https://github.com/protocolbuffers/p
 protobuf|v34.0/protobuf-34.0.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.0/protobuf-34.0.zip|9010413|application/octet-stream|1772056099
 protobuf|v34.0/protoc-34.0-linux-x86_32.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.0/protoc-34.0-linux-x86_32.zip|3915134|application/octet-stream|1772056100
 protobuf|v34.0/protoc-34.0-osx-aarch_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.0/protoc-34.0-osx-aarch_64.zip|2567059|application/octet-stream|1772056099
+protobuf|v34.0/protobuf-34.0.bazel.tar.gz|https://github.com/protocolbuffers/protobuf/releases/download/v34.0/protobuf-34.0.bazel.tar.gz|7036742|application/octet-stream|1772499553

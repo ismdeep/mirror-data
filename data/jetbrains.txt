@@ -9270,3 +9270,17 @@ jetbrains|PyCharm/release/2025.3/2025.3.3/windowsZip/pycharm-2025.3.3.win.zip|ht
 jetbrains|PyCharm/release/2025.3/2025.3.3/windowsARM64/pycharm-2025.3.3-aarch64.exe|https://download.jetbrains.com/python/pycharm-2025.3.3-aarch64.exe|850871752|binary/octet-stream|1771576372
 jetbrains|IDEA/release/2025.3/2025.3.3/windowsZip/idea-2025.3.3.win.zip|https://download.jetbrains.com/idea/idea-2025.3.3.win.zip|1529249730|binary/octet-stream|1771603516
 jetbrains|PyCharm/release/2025.3/2025.3.3/windowsZipARM64/pycharm-2025.3.3-aarch64.win.zip|https://download.jetbrains.com/python/pycharm-2025.3.3-aarch64.win.zip|1192229909|binary/octet-stream|1771576375
+jetbrains|PhpStorm/release/2025.3/2025.3.4/linux/PhpStorm-2025.3.4.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2025.3.4.tar.gz|1056429985|binary/octet-stream|1773761797
+jetbrains|PhpStorm/release/2025.3/2025.3.4/windowsARM64/PhpStorm-2025.3.4-aarch64.exe|https://download.jetbrains.com/webide/PhpStorm-2025.3.4-aarch64.exe|752387944|binary/octet-stream|1773761786
+jetbrains|PhpStorm/release/2025.3/2025.3.4/macM1/PhpStorm-2025.3.4-aarch64.dmg|https://download.jetbrains.com/webide/PhpStorm-2025.3.4-aarch64.dmg|992253386|binary/octet-stream|1773761786
+jetbrains|PhpStorm/release/2025.3/2025.3.4/linuxARM64/PhpStorm-2025.3.4-aarch64.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2025.3.4-aarch64.tar.gz|1051799372|binary/octet-stream|1773761786
+jetbrains|PhpStorm/release/2025.3/2025.3.4/mac/PhpStorm-2025.3.4.dmg|https://download.jetbrains.com/webide/PhpStorm-2025.3.4.dmg|1004406733|binary/octet-stream|1773761794
+jetbrains|PhpStorm/release/2025.3/2025.3.4/windows/PhpStorm-2025.3.4.exe|https://download.jetbrains.com/webide/PhpStorm-2025.3.4.exe|793013520|binary/octet-stream|1773761796
+jetbrains|IDEA/release/2025.3/2025.3.4/linux/idea-2025.3.4.tar.gz|https://download.jetbrains.com/idea/idea-2025.3.4.tar.gz|1520023031|binary/octet-stream|1773757991
+jetbrains|IDEA/release/2025.3/2025.3.4/mac/idea-2025.3.4.dmg|https://download.jetbrains.com/idea/idea-2025.3.4.dmg|1451247868|binary/octet-stream|1773757981
+jetbrains|IDEA/release/2025.3/2025.3.4/linuxARM64/idea-2025.3.4-aarch64.tar.gz|https://download.jetbrains.com/idea/idea-2025.3.4-aarch64.tar.gz|1515393163|binary/octet-stream|1773757981
+jetbrains|IDEA/release/2025.3/2025.3.4/macM1/idea-2025.3.4-aarch64.dmg|https://download.jetbrains.com/idea/idea-2025.3.4-aarch64.dmg|1438895428|binary/octet-stream|1773757976
+jetbrains|IDEA/release/2025.3/2025.3.4/windowsZip/idea-2025.3.4.win.zip|https://download.jetbrains.com/idea/idea-2025.3.4.win.zip|1532262393|binary/octet-stream|1773757992
+jetbrains|IDEA/release/2025.3/2025.3.4/windowsARM64/idea-2025.3.4-aarch64.exe|https://download.jetbrains.com/idea/idea-2025.3.4-aarch64.exe|1072505496|binary/octet-stream|1773757976
+jetbrains|IDEA/release/2025.3/2025.3.4/windows/idea-2025.3.4.exe|https://download.jetbrains.com/idea/idea-2025.3.4.exe|1113130952|binary/octet-stream|1773757987
+jetbrains|PhpStorm/release/2025.3/2025.3.4/windowsZip/PhpStorm-2025.3.4.win.zip|https://download.jetbrains.com/webide/PhpStorm-2025.3.4.win.zip|1067999026|binary/octet-stream|1773761798

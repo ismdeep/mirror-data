@@ -3926,3 +3926,17 @@ protobuf|v34.0/protobuf-34.0.zip|https://github.com/protocolbuffers/protobuf/rel
 protobuf|v34.0/protoc-34.0-linux-x86_32.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.0/protoc-34.0-linux-x86_32.zip|3915134|application/octet-stream|1772056100
 protobuf|v34.0/protoc-34.0-osx-aarch_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.0/protoc-34.0-osx-aarch_64.zip|2567059|application/octet-stream|1772056099
 protobuf|v34.0/protobuf-34.0.bazel.tar.gz|https://github.com/protocolbuffers/protobuf/releases/download/v34.0/protobuf-34.0.bazel.tar.gz|7036742|application/octet-stream|1772499553
+protobuf|v33.6/protoc-33.6-osx-universal_binary.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.6/protoc-33.6-osx-universal_binary.zip|5138242|application/octet-stream|1773855268
+protobuf|v33.6/protobuf-33.6.tar.gz|https://github.com/protocolbuffers/protobuf/releases/download/v33.6/protobuf-33.6.tar.gz|6888932|application/octet-stream|1773855267
+protobuf|v33.6/protobuf-33.6.bazel.tar.gz.intoto.jsonl|https://github.com/protocolbuffers/protobuf/releases/download/v33.6/protobuf-33.6.bazel.tar.gz.intoto.jsonl|10956|application/octet-stream|1773855652
+protobuf|v33.6/protoc-33.6-osx-x86_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.6/protoc-33.6-osx-x86_64.zip|2654920|application/octet-stream|1773855268
+protobuf|v33.6/protobuf-33.6.bazel.tar.gz|https://github.com/protocolbuffers/protobuf/releases/download/v33.6/protobuf-33.6.bazel.tar.gz|6891206|application/octet-stream|1773855652
+protobuf|v33.6/protoc-33.6-linux-x86_32.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.6/protoc-33.6-linux-x86_32.zip|3864143|application/octet-stream|1773855268
+protobuf|v33.6/protoc-33.6-win64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.6/protoc-33.6-win64.zip|3430583|application/octet-stream|1773855268
+protobuf|v33.6/protoc-33.6-win32.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.6/protoc-33.6-win32.zip|3518418|application/octet-stream|1773855268
+protobuf|v33.6/protoc-33.6-linux-ppcle_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.6/protoc-33.6-linux-ppcle_64.zip|3866194|application/octet-stream|1773855267
+protobuf|v33.6/protoc-33.6-osx-aarch_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.6/protoc-33.6-osx-aarch_64.zip|2532868|application/octet-stream|1773855268
+protobuf|v33.6/protoc-33.6-linux-s390_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.6/protoc-33.6-linux-s390_64.zip|4571948|application/octet-stream|1773855269
+protobuf|v33.6/protoc-33.6-linux-x86_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.6/protoc-33.6-linux-x86_64.zip|3561157|application/octet-stream|1773855268
+protobuf|v33.6/protoc-33.6-linux-aarch_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.6/protoc-33.6-linux-aarch_64.zip|3518706|application/octet-stream|1773855267
+protobuf|v33.6/protobuf-33.6.zip|https://github.com/protocolbuffers/protobuf/releases/download/v33.6/protobuf-33.6.zip|8810296|application/octet-stream|1773855267

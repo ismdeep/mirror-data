@@ -992,3 +992,14 @@ pandoc|3.9.0.1/pandoc-3.9.0.1-windows-x86_64.msi|https://github.com/jgm/pandoc/r
 pandoc|3.9.0.1/pandoc-3.9.0.1-arm64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.9.0.1/pandoc-3.9.0.1-arm64-macOS.pkg|36564711|application/octet-stream|1773847661
 pandoc|3.9.0.1/pandoc-3.9.0.1-linux-arm64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.9.0.1/pandoc-3.9.0.1-linux-arm64.tar.gz|36946860|application/octet-stream|1773847676
 pandoc|3.9.0.1/pandoc-3.9.0.1-1-arm64.deb|https://github.com/jgm/pandoc/releases/download/3.9.0.1/pandoc-3.9.0.1-1-arm64.deb|36416098|application/octet-stream|1773847655
+pandoc|3.9.0.2/pandoc-3.9.0.2-linux-amd64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.9.0.2/pandoc-3.9.0.2-linux-amd64.tar.gz|34520947|application/octet-stream|1773925020
+pandoc|3.9.0.2/pandoc-3.9.0.2-1-amd64.deb|https://github.com/jgm/pandoc/releases/download/3.9.0.2/pandoc-3.9.0.2-1-amd64.deb|33955892|application/octet-stream|1773924862
+pandoc|3.9.0.2/pandoc-3.9.0.2-arm64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.9.0.2/pandoc-3.9.0.2-arm64-macOS.pkg|36568072|application/octet-stream|1773924939
+pandoc|3.9.0.2/pandoc-3.9.0.2-windows-x86_64.zip|https://github.com/jgm/pandoc/releases/download/3.9.0.2/pandoc-3.9.0.2-windows-x86_64.zip|41250425|application/octet-stream|1773925163
+pandoc|3.9.0.2/pandoc-3.9.0.2-linux-arm64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.9.0.2/pandoc-3.9.0.2-linux-arm64.tar.gz|36948718|application/octet-stream|1773925069
+pandoc|3.9.0.2/pandoc.wasm.zip|https://github.com/jgm/pandoc/releases/download/3.9.0.2/pandoc.wasm.zip|16182738|application/octet-stream|1773925251
+pandoc|3.9.0.2/pandoc-3.9.0.2-x86_64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.9.0.2/pandoc-3.9.0.2-x86_64-macOS.zip|25764704|application/octet-stream|1773925227
+pandoc|3.9.0.2/pandoc-3.9.0.2-x86_64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.9.0.2/pandoc-3.9.0.2-x86_64-macOS.pkg|25722703|application/octet-stream|1773925198
+pandoc|3.9.0.2/pandoc-3.9.0.2-1-arm64.deb|https://github.com/jgm/pandoc/releases/download/3.9.0.2/pandoc-3.9.0.2-1-arm64.deb|36418982|application/octet-stream|1773924897
+pandoc|3.9.0.2/pandoc-3.9.0.2-arm64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.9.0.2/pandoc-3.9.0.2-arm64-macOS.zip|36687858|application/octet-stream|1773924980
+pandoc|3.9.0.2/pandoc-3.9.0.2-windows-x86_64.msi|https://github.com/jgm/pandoc/releases/download/3.9.0.2/pandoc-3.9.0.2-windows-x86_64.msi|40980480|application/octet-stream|1773925118

@@ -9298,3 +9298,17 @@ jetbrains|GoLand/release/2025.3/2025.3.4/mac/goland-2025.3.4.dmg|https://downloa
 jetbrains|GoLand/release/2025.3/2025.3.4/linuxARM64/goland-2025.3.4-aarch64.tar.gz|https://download.jetbrains.com/go/goland-2025.3.4-aarch64.tar.gz|1153861579|binary/octet-stream|1773962812
 jetbrains|GoLand/release/2025.3/2025.3.4/windowsARM64/goland-2025.3.4-aarch64.exe|https://download.jetbrains.com/go/goland-2025.3.4-aarch64.exe|817072632|binary/octet-stream|1773962808
 jetbrains|GoLand/release/2025.3/2025.3.4/windowsZip/goland-2025.3.4.win.zip|https://download.jetbrains.com/go/goland-2025.3.4.win.zip|1169508564|binary/octet-stream|1773962817
+jetbrains|RubyMine/release/2025.3/2025.3.4/macM1/RubyMine-2025.3.4-aarch64.dmg|https://download.jetbrains.com/ruby/RubyMine-2025.3.4-aarch64.dmg|954084428|binary/octet-stream|1774258184
+jetbrains|CLion/release/2025.3/2025.3.4/windowsARM64/CLion-2025.3.4-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2025.3.4-aarch64.exe|1531761240|binary/octet-stream|1774283989
+jetbrains|RubyMine/release/2025.3/2025.3.4/mac/RubyMine-2025.3.4.dmg|https://download.jetbrains.com/ruby/RubyMine-2025.3.4.dmg|965929710|binary/octet-stream|1774258186
+jetbrains|RubyMine/release/2025.3/2025.3.4/linux/RubyMine-2025.3.4.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2025.3.4.tar.gz|1017633562|binary/octet-stream|1774258192
+jetbrains|RubyMine/release/2025.3/2025.3.4/windows/RubyMine-2025.3.4.exe|https://download.jetbrains.com/ruby/RubyMine-2025.3.4.exe|755141280|binary/octet-stream|1774258190
+jetbrains|CLion/release/2025.3/2025.3.4/windows/CLion-2025.3.4.exe|https://download.jetbrains.com/cpp/CLion-2025.3.4.exe|1682540656|binary/octet-stream|1774283996
+jetbrains|CLion/release/2025.3/2025.3.4/linux/CLion-2025.3.4.tar.gz|https://download.jetbrains.com/cpp/CLion-2025.3.4.tar.gz|2094391256|binary/octet-stream|1774284002
+jetbrains|CLion/release/2025.3/2025.3.4/mac/CLion-2025.3.4.dmg|https://download.jetbrains.com/cpp/CLion-2025.3.4.dmg|2025632851|binary/octet-stream|1774283992
+jetbrains|CLion/release/2025.3/2025.3.4/macM1/CLion-2025.3.4-aarch64.dmg|https://download.jetbrains.com/cpp/CLion-2025.3.4-aarch64.dmg|2001077367|binary/octet-stream|1774283989
+jetbrains|RubyMine/release/2025.3/2025.3.4/linuxARM64/RubyMine-2025.3.4-aarch64.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2025.3.4-aarch64.tar.gz|1013333449|binary/octet-stream|1774258197
+jetbrains|RubyMine/release/2025.3/2025.3.4/windowsARM64/RubyMine-2025.3.4-aarch64.exe|https://download.jetbrains.com/ruby/RubyMine-2025.3.4-aarch64.exe|714771664|binary/octet-stream|1774258184
+jetbrains|CLion/release/2025.3/2025.3.4/linuxARM64/CLion-2025.3.4-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2025.3.4-aarch64.tar.gz|2088231654|binary/octet-stream|1774283992
+jetbrains|RubyMine/release/2025.3/2025.3.4/windowsZip/RubyMine-2025.3.4.win.zip|https://download.jetbrains.com/ruby/RubyMine-2025.3.4.win.zip|1038303895|binary/octet-stream|1774258192
+jetbrains|CLion/release/2025.3/2025.3.4/windowsZip/CLion-2025.3.4.win.zip|https://download.jetbrains.com/cpp/CLion-2025.3.4.win.zip|2339598039|binary/octet-stream|1774284005

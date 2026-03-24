@@ -936,3 +936,12 @@ obsidian|v1.12.4/Obsidian-1.12.4-arm64.AppImage|https://github.com/obsidianmd/ob
 obsidian|v1.12.4/Obsidian-1.12.4.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.4/Obsidian-1.12.4.exe|295466400|application/octet-stream|1772207322
 obsidian|v1.12.4/Obsidian-1.12.4.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.4/Obsidian-1.12.4.AppImage|124009781|application/octet-stream|1772207314
 obsidian|v1.12.4/obsidian_1.12.4_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.4/obsidian_1.12.4_amd64.deb|85762132|application/octet-stream|1772207311
+obsidian|v1.12.7/obsidian-1.12.7-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/obsidian-1.12.7-arm64.tar.gz|117539982|application/octet-stream|1774279649
+obsidian|v1.12.7/Obsidian-1.12.7.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/Obsidian-1.12.7.AppImage|124027043|application/octet-stream|1774279502
+obsidian|v1.12.7/Obsidian-1.12.7.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/Obsidian-1.12.7.apk|15053081|application/vnd.android.package-archive|1774279770
+obsidian|v1.12.7/obsidian_1.12.7_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/obsidian_1.12.7_amd64.deb|85762386|application/octet-stream|1774279658
+obsidian|v1.12.7/obsidian-1.12.7.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/obsidian-1.12.7.tar.gz|117247533|application/octet-stream|1774279625
+obsidian|v1.12.7/Obsidian-1.12.7.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/Obsidian-1.12.7.exe|295530200|application/octet-stream|1774279613
+obsidian|v1.12.7/Obsidian-1.12.7.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/Obsidian-1.12.7.dmg|213334249|application/octet-stream|1774279523
+obsidian|v1.12.7/obsidian-1.12.7.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/obsidian-1.12.7.asar.gz|8323080|application/octet-stream|1774279672
+obsidian|v1.12.7/Obsidian-1.12.7-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/Obsidian-1.12.7-arm64.AppImage|124625813|application/octet-stream|1774279637

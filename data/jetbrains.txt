@@ -9369,3 +9369,11 @@ jetbrains|DataGrip/release/2026.1/2026.1/windowsZip/datagrip-2026.1.win.zip|http
 jetbrains|GoLand/release/2026.1/2026.1/windowsARM64/goland-2026.1-aarch64.exe|https://download.jetbrains.com/go/goland-2026.1-aarch64.exe|894912112|binary/octet-stream|1774516700
 jetbrains|DataGrip/release/2026.1/2026.1/windows/datagrip-2026.1.exe|https://download.jetbrains.com/datagrip/datagrip-2026.1.exe|888173168|binary/octet-stream|1774542413
 jetbrains|GoLand/release/2026.1/2026.1/windowsZip/goland-2026.1.win.zip|https://download.jetbrains.com/go/goland-2026.1.win.zip|1223527612|binary/octet-stream|1774516725
+jetbrains|Rider/release/2025.3/2025.3.4/windows/JetBrains.Rider-2025.3.4.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.4.exe|1692046984|binary/octet-stream|1774605608
+jetbrains|Rider/release/2025.3/2025.3.4/macM1/JetBrains.Rider-2025.3.4-aarch64.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.4-aarch64.dmg|2004961436|binary/octet-stream|1774605564
+jetbrains|Rider/release/2025.3/2025.3.4/mac/JetBrains.Rider-2025.3.4.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.4.dmg|1974489923|binary/octet-stream|1774605520
+jetbrains|Rider/release/2025.3/2025.3.4/linux/JetBrains.Rider-2025.3.4.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.4.tar.gz|2005593327|binary/octet-stream|1774605789
+jetbrains|Rider/release/2025.3/2025.3.4/windowsZip/JetBrains.Rider-2025.3.4.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.4.win.zip|2330536694|binary/octet-stream|1774605684
+jetbrains|Rider/release/2025.3/2025.3.4/linuxARM64/JetBrains.Rider-2025.3.4-aarch64.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.4-aarch64.tar.gz|1993023268|binary/octet-stream|1774605833
+jetbrains|Rider/release/2025.3/2025.3.4/windowsARM64/JetBrains.Rider-2025.3.4-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.4-aarch64.exe|1716715752|binary/octet-stream|1774605645
+jetbrains|Rider/release/2025.3/2025.3.4/windowsZipARM64/JetBrains.Rider-2025.3.4-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.4-aarch64.win.zip|2403293099|binary/octet-stream|1774605735

@@ -321,3 +321,7 @@ ventoy|v1.1.10/ventoy-1.1.10-livecd.iso|https://github.com/ventoy/Ventoy/release
 ventoy|v1.1.10/ventoy-1.1.10-windows.zip|https://github.com/ventoy/Ventoy/releases/download/v1.1.10/ventoy-1.1.10-windows.zip|16721005|application/octet-stream|1766322701
 ventoy|v1.1.10/sha256.txt|https://github.com/ventoy/Ventoy/releases/download/v1.1.10/sha256.txt|276|application/octet-stream|1766322249
 ventoy|v1.1.10/ventoy-1.1.10-linux.tar.gz|https://github.com/ventoy/Ventoy/releases/download/v1.1.10/ventoy-1.1.10-linux.tar.gz|20370890|application/octet-stream|1766322709
+ventoy|v1.1.11/ventoy-1.1.11-linux.tar.gz|https://github.com/ventoy/Ventoy/releases/download/v1.1.11/ventoy-1.1.11-linux.tar.gz|20361691|application/octet-stream|1775403320
+ventoy|v1.1.11/ventoy-1.1.11-windows.zip|https://github.com/ventoy/Ventoy/releases/download/v1.1.11/ventoy-1.1.11-windows.zip|16712614|application/octet-stream|1775403209
+ventoy|v1.1.11/ventoy-1.1.11-livecd.iso|https://github.com/ventoy/Ventoy/releases/download/v1.1.11/ventoy-1.1.11-livecd.iso|196018176|application/octet-stream|1775404202
+ventoy|v1.1.11/sha256.txt|https://github.com/ventoy/Ventoy/releases/download/v1.1.11/sha256.txt|276|application/octet-stream|1775403106

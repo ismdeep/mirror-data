@@ -9449,3 +9449,17 @@ jetbrains|CLion/release/2026.1/2026.1.1/windowsARM64/CLion-2026.1.1-aarch64.exe|
 jetbrains|CLion/release/2026.1/2026.1.1/mac/CLion-2026.1.1.dmg|https://download.jetbrains.com/cpp/CLion-2026.1.1.dmg|1708814382|binary/octet-stream|1776942798
 jetbrains|CLion/release/2026.1/2026.1.1/linux/CLion-2026.1.1.tar.gz|https://download.jetbrains.com/cpp/CLion-2026.1.1.tar.gz|1764329316|binary/octet-stream|1776942802
 jetbrains|CLion/release/2026.1/2026.1.1/linuxARM64/CLion-2026.1.1-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2026.1.1-aarch64.tar.gz|1752819302|binary/octet-stream|1776942793
+jetbrains|PhpStorm/release/2026.1/2026.1.1/macM1/PhpStorm-2026.1.1-aarch64.dmg|https://download.jetbrains.com/webide/PhpStorm-2026.1.1-aarch64.dmg|1001478054|binary/octet-stream|1777022133
+jetbrains|PhpStorm/release/2026.1/2026.1.1/linux/PhpStorm-2026.1.1.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2026.1.1.tar.gz|1066256336|binary/octet-stream|1777022142
+jetbrains|PhpStorm/release/2026.1/2026.1.1/mac/PhpStorm-2026.1.1.dmg|https://download.jetbrains.com/webide/PhpStorm-2026.1.1.dmg|1014138030|binary/octet-stream|1777022136
+jetbrains|WebStorm/release/2026.1/2026.1.1/windows/WebStorm-2026.1.1.exe|https://download.jetbrains.com/webstorm/WebStorm-2026.1.1.exe|845528800|binary/octet-stream|1776955284
+jetbrains|WebStorm/release/2026.1/2026.1.1/linux/WebStorm-2026.1.1.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2026.1.1.tar.gz|1095554498|binary/octet-stream|1776955285
+jetbrains|WebStorm/release/2026.1/2026.1.1/macM1/WebStorm-2026.1.1-aarch64.dmg|https://download.jetbrains.com/webstorm/WebStorm-2026.1.1-aarch64.dmg|1032411317|binary/octet-stream|1776955279
+jetbrains|WebStorm/release/2026.1/2026.1.1/mac/WebStorm-2026.1.1.dmg|https://download.jetbrains.com/webstorm/WebStorm-2026.1.1.dmg|1044628829|binary/octet-stream|1776955283
+jetbrains|PhpStorm/release/2026.1/2026.1.1/windows/PhpStorm-2026.1.1.exe|https://download.jetbrains.com/webide/PhpStorm-2026.1.1.exe|809170128|binary/octet-stream|1777022140
+jetbrains|PhpStorm/release/2026.1/2026.1.1/windowsARM64/PhpStorm-2026.1.1-aarch64.exe|https://download.jetbrains.com/webide/PhpStorm-2026.1.1-aarch64.exe|795177264|binary/octet-stream|1777022133
+jetbrains|PhpStorm/release/2026.1/2026.1.1/windowsZip/PhpStorm-2026.1.1.win.zip|https://download.jetbrains.com/webide/PhpStorm-2026.1.1.win.zip|1079865761|binary/octet-stream|1777022143
+jetbrains|PhpStorm/release/2026.1/2026.1.1/linuxARM64/PhpStorm-2026.1.1-aarch64.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2026.1.1-aarch64.tar.gz|1061302506|binary/octet-stream|1777022133
+jetbrains|WebStorm/release/2026.1/2026.1.1/linuxARM64/WebStorm-2026.1.1-aarch64.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2026.1.1-aarch64.tar.gz|1090614791|binary/octet-stream|1776955279
+jetbrains|WebStorm/release/2026.1/2026.1.1/windowsARM64/WebStorm-2026.1.1-aarch64.exe|https://download.jetbrains.com/webstorm/WebStorm-2026.1.1-aarch64.exe|831536272|binary/octet-stream|1776955279
+jetbrains|WebStorm/release/2026.1/2026.1.1/windowsZip/WebStorm-2026.1.1.win.zip|https://download.jetbrains.com/webstorm/WebStorm-2026.1.1.win.zip|1109210390|binary/octet-stream|1776955287

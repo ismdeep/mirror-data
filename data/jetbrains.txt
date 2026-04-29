@@ -9471,3 +9471,11 @@ jetbrains|Rider/release/2026.1/2026.1.1/linuxARM64/JetBrains.Rider-2026.1.1-aarc
 jetbrains|Rider/release/2026.1/2026.1.1/windowsZip/JetBrains.Rider-2026.1.1.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2026.1.1.win.zip|2429591974|binary/octet-stream|1777278705
 jetbrains|Rider/release/2026.1/2026.1.1/windowsARM64/JetBrains.Rider-2026.1.1-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2026.1.1-aarch64.exe|1808048656|binary/octet-stream|1777278665
 jetbrains|Rider/release/2026.1/2026.1.1/windowsZipARM64/JetBrains.Rider-2026.1.1-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2026.1.1-aarch64.win.zip|2526586756|binary/octet-stream|1777278759
+jetbrains|PyCharm/release/2026.1/2026.1.1/macM1/pycharm-2026.1.1-aarch64.dmg|https://download.jetbrains.com/python/pycharm-2026.1.1-aarch64.dmg|1153746968|binary/octet-stream|1777362021
+jetbrains|PyCharm/release/2026.1/2026.1.1/mac/pycharm-2026.1.1.dmg|https://download.jetbrains.com/python/pycharm-2026.1.1.dmg|1166243603|binary/octet-stream|1777362034
+jetbrains|PyCharm/release/2026.1/2026.1.1/linux/pycharm-2026.1.1.tar.gz|https://download.jetbrains.com/python/pycharm-2026.1.1.tar.gz|1216500497|binary/octet-stream|1777362031
+jetbrains|PyCharm/release/2026.1/2026.1.1/windowsARM64/pycharm-2026.1.1-aarch64.exe|https://download.jetbrains.com/python/pycharm-2026.1.1-aarch64.exe|894498768|binary/octet-stream|1777362021
+jetbrains|PyCharm/release/2026.1/2026.1.1/linuxARM64/pycharm-2026.1.1-aarch64.tar.gz|https://download.jetbrains.com/python/pycharm-2026.1.1-aarch64.tar.gz|1211885841|binary/octet-stream|1777362025
+jetbrains|PyCharm/release/2026.1/2026.1.1/windows/pycharm-2026.1.1.exe|https://download.jetbrains.com/python/pycharm-2026.1.1.exe|908234920|binary/octet-stream|1777362045
+jetbrains|PyCharm/release/2026.1/2026.1.1/windowsZip/pycharm-2026.1.1.win.zip|https://download.jetbrains.com/python/pycharm-2026.1.1.win.zip|1243159376|binary/octet-stream|1777362037
+jetbrains|PyCharm/release/2026.1/2026.1.1/windowsZipARM64/pycharm-2026.1.1-aarch64.win.zip|https://download.jetbrains.com/python/pycharm-2026.1.1-aarch64.win.zip|1226723384|binary/octet-stream|1777362021

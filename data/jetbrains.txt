@@ -9479,3 +9479,9 @@ jetbrains|PyCharm/release/2026.1/2026.1.1/linuxARM64/pycharm-2026.1.1-aarch64.ta
 jetbrains|PyCharm/release/2026.1/2026.1.1/windows/pycharm-2026.1.1.exe|https://download.jetbrains.com/python/pycharm-2026.1.1.exe|908234920|binary/octet-stream|1777362045
 jetbrains|PyCharm/release/2026.1/2026.1.1/windowsZip/pycharm-2026.1.1.win.zip|https://download.jetbrains.com/python/pycharm-2026.1.1.win.zip|1243159376|binary/octet-stream|1777362037
 jetbrains|PyCharm/release/2026.1/2026.1.1/windowsZipARM64/pycharm-2026.1.1-aarch64.win.zip|https://download.jetbrains.com/python/pycharm-2026.1.1-aarch64.win.zip|1226723384|binary/octet-stream|1777362021
+jetbrains|DataSpell/release/2026.1/2026.1.1/macM1/dataspell-2026.1.1-aarch64.dmg|https://download.jetbrains.com/python/dataspell-2026.1.1-aarch64.dmg|1231199232|binary/octet-stream|1777403311
+jetbrains|DataSpell/release/2026.1/2026.1.1/linux/dataspell-2026.1.1.tar.gz|https://download.jetbrains.com/python/dataspell-2026.1.1.tar.gz|1273143672|binary/octet-stream|1777403316
+jetbrains|DataSpell/release/2026.1/2026.1.1/mac/dataspell-2026.1.1.dmg|https://download.jetbrains.com/python/dataspell-2026.1.1.dmg|1243054663|binary/octet-stream|1777403311
+jetbrains|DataSpell/release/2026.1/2026.1.1/windows/dataspell-2026.1.1.exe|https://download.jetbrains.com/python/dataspell-2026.1.1.exe|993415224|binary/octet-stream|1777403325
+jetbrains|DataSpell/release/2026.1/2026.1.1/linuxARM64/dataspell-2026.1.1-aarch64.tar.gz|https://download.jetbrains.com/python/dataspell-2026.1.1-aarch64.tar.gz|1269360369|binary/octet-stream|1777403321
+jetbrains|DataSpell/release/2026.1/2026.1.1/windowsARM64/dataspell-2026.1.1-aarch64.exe|https://download.jetbrains.com/python/dataspell-2026.1.1-aarch64.exe|987870456|binary/octet-stream|1777403311

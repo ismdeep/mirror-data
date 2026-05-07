@@ -9800,3 +9800,17 @@ jetbrains|DataGrip/release/2026.1/2026.1.3/macM1/datagrip-2026.1.3-aarch64.dmg|h
 jetbrains|DataGrip/release/2026.1/2026.1.3/windowsARM64/datagrip-2026.1.3-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2026.1.3-aarch64.exe|879576040|binary/octet-stream|1777989578
 jetbrains|DataGrip/release/2026.1/2026.1.3/windowsZip/datagrip-2026.1.3.win.zip|https://download.jetbrains.com/datagrip/datagrip-2026.1.3.win.zip|1115370107|binary/octet-stream|1777989591
 jetbrains|DataGrip/release/2026.1/2026.1.3/linuxARM64/datagrip-2026.1.3-aarch64.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2026.1.3-aarch64.tar.gz|1109207230|binary/octet-stream|1777989580
+jetbrains|IDEA/release/2025.3/2025.3.5/linux/idea-2025.3.5.tar.gz|https://download.jetbrains.com/idea/idea-2025.3.5.tar.gz|1520318196|binary/octet-stream|1778075753
+jetbrains|IDEA/release/2025.3/2025.3.5/mac/idea-2025.3.5.dmg|https://download.jetbrains.com/idea/idea-2025.3.5.dmg|1451263642|binary/octet-stream|1778075736
+jetbrains|IDEA/release/2025.3/2025.3.5/windows/idea-2025.3.5.exe|https://download.jetbrains.com/idea/idea-2025.3.5.exe|1113342328|binary/octet-stream|1778075746
+jetbrains|IDEA/release/2025.3/2025.3.5/macM1/idea-2025.3.5-aarch64.dmg|https://download.jetbrains.com/idea/idea-2025.3.5-aarch64.dmg|1439154859|binary/octet-stream|1778075704
+jetbrains|IDEA/release/2025.3/2025.3.5/linuxARM64/idea-2025.3.5-aarch64.tar.gz|https://download.jetbrains.com/idea/idea-2025.3.5-aarch64.tar.gz|1515708361|binary/octet-stream|1778075704
+jetbrains|IDEA/release/2025.3/2025.3.5/windowsZip/idea-2025.3.5.win.zip|https://download.jetbrains.com/idea/idea-2025.3.5.win.zip|1532601857|binary/octet-stream|1778075753
+jetbrains|IDEA/release/2025.3/2025.3.5/windowsARM64/idea-2025.3.5-aarch64.exe|https://download.jetbrains.com/idea/idea-2025.3.5-aarch64.exe|1072716528|binary/octet-stream|1778075704
+jetbrains|WebStorm/release/2025.3/2025.3.5/linux/WebStorm-2025.3.5.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2025.3.5.tar.gz|1077836263|binary/octet-stream|1778068296
+jetbrains|WebStorm/release/2025.3/2025.3.5/mac/WebStorm-2025.3.5.dmg|https://download.jetbrains.com/webstorm/WebStorm-2025.3.5.dmg|1027058393|binary/octet-stream|1778068292
+jetbrains|WebStorm/release/2025.3/2025.3.5/linuxARM64/WebStorm-2025.3.5-aarch64.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2025.3.5-aarch64.tar.gz|1073199502|binary/octet-stream|1778068293
+jetbrains|WebStorm/release/2025.3/2025.3.5/macM1/WebStorm-2025.3.5-aarch64.dmg|https://download.jetbrains.com/webstorm/WebStorm-2025.3.5-aarch64.dmg|1014869599|binary/octet-stream|1778068288
+jetbrains|WebStorm/release/2025.3/2025.3.5/windows/WebStorm-2025.3.5.exe|https://download.jetbrains.com/webstorm/WebStorm-2025.3.5.exe|822077832|binary/octet-stream|1778068295
+jetbrains|WebStorm/release/2025.3/2025.3.5/windowsZip/WebStorm-2025.3.5.win.zip|https://download.jetbrains.com/webstorm/WebStorm-2025.3.5.win.zip|1089439075|binary/octet-stream|1778068299
+jetbrains|WebStorm/release/2025.3/2025.3.5/windowsARM64/WebStorm-2025.3.5-aarch64.exe|https://download.jetbrains.com/webstorm/WebStorm-2025.3.5-aarch64.exe|781452232|binary/octet-stream|1778068289

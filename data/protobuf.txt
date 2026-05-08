@@ -3980,3 +3980,15 @@ protobuf|v35.0-rc1/protoc-35.0-rc-1-linux-x86_64.zip|https://github.com/protocol
 protobuf|v35.0-rc1/protoc-35.0-rc-1-osx-universal_binary.zip|https://github.com/protocolbuffers/protobuf/releases/download/v35.0-rc1/protoc-35.0-rc-1-osx-universal_binary.zip|5269308|application/octet-stream|1776716412
 protobuf|v35.0-rc1/protoc-35.0-rc-1-osx-x86_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v35.0-rc1/protoc-35.0-rc-1-osx-x86_64.zip|2726987|application/octet-stream|1776716412
 protobuf|v35.0-rc1/protoc-35.0-rc-1-linux-x86_32.zip|https://github.com/protocolbuffers/protobuf/releases/download/v35.0-rc1/protoc-35.0-rc-1-linux-x86_32.zip|3938662|application/octet-stream|1776716412
+protobuf|v35.0-rc2/protoc-35.0-rc-2-linux-x86_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v35.0-rc2/protoc-35.0-rc-2-linux-x86_64.zip|3633973|application/octet-stream|1778183798
+protobuf|v35.0-rc2/protoc-35.0-rc-2-win64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v35.0-rc2/protoc-35.0-rc-2-win64.zip|3518479|application/octet-stream|1778183798
+protobuf|v35.0-rc2/protoc-35.0-rc-2-linux-aarch_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v35.0-rc2/protoc-35.0-rc-2-linux-aarch_64.zip|3583310|application/octet-stream|1778183797
+protobuf|v35.0-rc2/protoc-35.0-rc-2-linux-x86_32.zip|https://github.com/protocolbuffers/protobuf/releases/download/v35.0-rc2/protoc-35.0-rc-2-linux-x86_32.zip|3934602|application/octet-stream|1778183798
+protobuf|v35.0-rc2/protoc-35.0-rc-2-osx-x86_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v35.0-rc2/protoc-35.0-rc-2-osx-x86_64.zip|2716728|application/octet-stream|1778183798
+protobuf|v35.0-rc2/protoc-35.0-rc-2-linux-s390_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v35.0-rc2/protoc-35.0-rc-2-linux-s390_64.zip|4641951|application/octet-stream|1778183797
+protobuf|v35.0-rc2/protobuf-35.0-rc2.zip|https://github.com/protocolbuffers/protobuf/releases/download/v35.0-rc2/protobuf-35.0-rc2.zip|9200915|application/octet-stream|1778183797
+protobuf|v35.0-rc2/protobuf-35.0-rc2.tar.gz|https://github.com/protocolbuffers/protobuf/releases/download/v35.0-rc2/protobuf-35.0-rc2.tar.gz|7147238|application/octet-stream|1778183797
+protobuf|v35.0-rc2/protoc-35.0-rc-2-osx-aarch_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v35.0-rc2/protoc-35.0-rc-2-osx-aarch_64.zip|2585966|application/octet-stream|1778183798
+protobuf|v35.0-rc2/protoc-35.0-rc-2-osx-universal_binary.zip|https://github.com/protocolbuffers/protobuf/releases/download/v35.0-rc2/protoc-35.0-rc-2-osx-universal_binary.zip|5252346|application/octet-stream|1778183798
+protobuf|v35.0-rc2/protoc-35.0-rc-2-win32.zip|https://github.com/protocolbuffers/protobuf/releases/download/v35.0-rc2/protoc-35.0-rc-2-win32.zip|3604957|application/octet-stream|1778183798
+protobuf|v35.0-rc2/protoc-35.0-rc-2-linux-ppcle_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v35.0-rc2/protoc-35.0-rc-2-linux-ppcle_64.zip|3943622|application/octet-stream|1778183797

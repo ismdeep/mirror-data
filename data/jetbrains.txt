@@ -9844,3 +9844,10 @@ jetbrains|RubyMine/release/2025.3/2025.3.5/linux/RubyMine-2025.3.5.tar.gz|https:
 jetbrains|PyCharmCommunity/release/2025.3/2025.3/windowsZipARM64/pycharm-2025.3-aarch64.win.zip|https://download.jetbrains.com/python/pycharm-2025.3-aarch64.win.zip|1188342713|binary/octet-stream|1765184360
 jetbrains|PyCharmCommunity/release/2025.3/2025.3/linux/pycharm-2025.3.tar.gz|https://download.jetbrains.com/python/pycharm-2025.3.tar.gz|1207179572|binary/octet-stream|1765184366
 jetbrains|PyCharmCommunity/release/2025.3/2025.3/windowsZip/pycharm-2025.3.win.zip|https://download.jetbrains.com/python/pycharm-2025.3.win.zip|1230707243|binary/octet-stream|1765184368
+jetbrains|PhpStorm/release/2025.3/2025.3.5/linux/PhpStorm-2025.3.5.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2025.3.5.tar.gz|1056399646|binary/octet-stream|1778487963
+jetbrains|PhpStorm/release/2025.3/2025.3.5/mac/PhpStorm-2025.3.5.dmg|https://download.jetbrains.com/webide/PhpStorm-2025.3.5.dmg|1004251462|binary/octet-stream|1778487960
+jetbrains|PhpStorm/release/2025.3/2025.3.5/windows/PhpStorm-2025.3.5.exe|https://download.jetbrains.com/webide/PhpStorm-2025.3.5.exe|792991992|binary/octet-stream|1778487961
+jetbrains|PhpStorm/release/2025.3/2025.3.5/windowsARM64/PhpStorm-2025.3.5-aarch64.exe|https://download.jetbrains.com/webide/PhpStorm-2025.3.5-aarch64.exe|752366104|binary/octet-stream|1778487952
+jetbrains|PhpStorm/release/2025.3/2025.3.5/macM1/PhpStorm-2025.3.5-aarch64.dmg|https://download.jetbrains.com/webide/PhpStorm-2025.3.5-aarch64.dmg|992223830|binary/octet-stream|1778487952
+jetbrains|PhpStorm/release/2025.3/2025.3.5/windowsZip/PhpStorm-2025.3.5.win.zip|https://download.jetbrains.com/webide/PhpStorm-2025.3.5.win.zip|1067971461|binary/octet-stream|1778487965
+jetbrains|PhpStorm/release/2025.3/2025.3.5/linuxARM64/PhpStorm-2025.3.5-aarch64.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2025.3.5-aarch64.tar.gz|1051772739|binary/octet-stream|1778487957

@@ -71,3 +71,45 @@ github_buckets:
   dbeaver:
     owner: dbeaver
     repo: dbeaver
+  adoptium-temurin8-binaries:
+    owner: adoptium
+    repo: temurin8-binaries
+  adoptium-temurin11-binaries:
+    owner: adoptium
+    repo: temurin11-binaries
+  adoptium-temurin16-binaries:
+    owner: adoptium
+    repo: temurin16-binaries
+  adoptium-temurin17-binaries:
+    owner: adoptium
+    repo: temurin17-binaries
+  adoptium-temurin18-binaries:
+    owner: adoptium
+    repo: temurin18-binaries
+  adoptium-temurin19-binaries:
+    owner: adoptium
+    repo: temurin19-binaries
+  adoptium-temurin20-binaries:
+    owner: adoptium
+    repo: temurin20-binaries
+  adoptium-temurin21-binaries:
+    owner: adoptium
+    repo: temurin21-binaries
+  adoptium-temurin22-binaries:
+    owner: adoptium
+    repo: temurin22-binaries
+  adoptium-temurin23-binaries:
+    owner: adoptium
+    repo: temurin23-binaries
+  adoptium-temurin24-binaries:
+    owner: adoptium
+    repo: temurin24-binaries
+  adoptium-temurin25-binaries:
+    owner: adoptium
+    repo: temurin25-binaries
+  adoptium-temurin26-binaries:
+    owner: adoptium
+    repo: temurin26-binaries
+  adoptium-temurin27-binaries:
+    owner: adoptium
+    repo: temurin27-binaries

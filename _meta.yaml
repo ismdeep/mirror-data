@@ -137,6 +137,9 @@ github_buckets:
   ismdeep-yamlctl:
     owner: ismdeep
     repo: yamlctl
+  ismdeep-k8s-installer:
+    owner: ismdeep
+    repo: k8s-installer
   p4gefau1t-trojan-go:
     owner: p4gefau1t
     repo: trojan-go

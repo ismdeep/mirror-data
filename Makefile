@@ -4,8 +4,8 @@ help:
 # `make bin`                       Build binary
 .PHONY: bin
 bin:
-	go build -o bin/data   -mod vendor -trimpath -ldflags '-s -w' ./app/data/
-	go build -o bin/mirror -mod vendor -trimpath -ldflags '-s -w' ./app/mirror/
+	CGO_ENABLED=0 go build -o bin/data   -mod vendor -trimpath -ldflags '-s -w' ./app/data/
+	CGO_ENABLED=0 go build -o bin/mirror -mod vendor -trimpath -ldflags '-s -w' ./app/mirror/
 
 # `make server`                    Server
 .PHONY: server

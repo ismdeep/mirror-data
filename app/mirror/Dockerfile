@@ -1,11 +1,10 @@
-FROM golang:1.23.6-bookworm AS builder
+FROM golang:1.26.3 AS builder
 WORKDIR /src
 COPY . .
 RUN \
-    # get commit info
     commit_id=$(git log -1 --pretty=format:"%H" | awk '{print $1}') && \
     commit_date=$(git log -1 --pretty=format:"%ci") && \
-    go build -o ./bin/mirror -mod vendor -ldflags "-s -w" -trimpath ./app/mirror
+    CGO_ENABLED=0 go build -o ./bin/mirror -mod vendor -ldflags "-s -w" -trimpath ./app/mirror
 
 FROM debian:12
 ENV MIRROR_SERVER_BIND=0.0.0.0:80 \

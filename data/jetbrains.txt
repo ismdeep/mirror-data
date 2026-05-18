@@ -9887,3 +9887,10 @@ jetbrains|IDEA/release/2026.1/2026.1.2/macM1/idea-2026.1.2-aarch64.dmg|https://d
 jetbrains|RubyMine/release/2026.1/2026.1.2/windowsZip/RubyMine-2026.1.2.win.zip|https://download.jetbrains.com/ruby/RubyMine-2026.1.2.win.zip|1056491032|binary/octet-stream|1778845403
 jetbrains|WebStorm/release/2026.1/2026.1.2/windowsZip/WebStorm-2026.1.2.win.zip|https://download.jetbrains.com/webstorm/WebStorm-2026.1.2.win.zip|1109519954|binary/octet-stream|1778836802
 jetbrains|GoLand/release/2026.1/2026.1.2/windowsZip/goland-2026.1.2.win.zip|https://download.jetbrains.com/go/goland-2026.1.2.win.zip|1211510667|binary/octet-stream|1778842394
+jetbrains|CLion/release/2026.1/2026.1.2/linux/CLion-2026.1.2.tar.gz|https://download.jetbrains.com/cpp/CLion-2026.1.2.tar.gz|1753655066|binary/octet-stream|1779095981
+jetbrains|CLion/release/2026.1/2026.1.2/macM1/CLion-2026.1.2-aarch64.dmg|https://download.jetbrains.com/cpp/CLion-2026.1.2-aarch64.dmg|1722385946|binary/octet-stream|1779095961
+jetbrains|CLion/release/2026.1/2026.1.2/mac/CLion-2026.1.2.dmg|https://download.jetbrains.com/cpp/CLion-2026.1.2.dmg|1699122864|binary/octet-stream|1779095974
+jetbrains|CLion/release/2026.1/2026.1.2/windowsZip/CLion-2026.1.2.win.zip|https://download.jetbrains.com/cpp/CLion-2026.1.2.win.zip|2069890627|binary/octet-stream|1779095983
+jetbrains|CLion/release/2026.1/2026.1.2/windowsARM64/CLion-2026.1.2-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2026.1.2-aarch64.exe|1734923008|binary/octet-stream|1779095961
+jetbrains|CLion/release/2026.1/2026.1.2/windows/CLion-2026.1.2.exe|https://download.jetbrains.com/cpp/CLion-2026.1.2.exe|1528142248|binary/octet-stream|1779095980
+jetbrains|CLion/release/2026.1/2026.1.2/linuxARM64/CLion-2026.1.2-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2026.1.2-aarch64.tar.gz|1742171688|binary/octet-stream|1779095967

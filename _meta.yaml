@@ -113,3 +113,12 @@ github_buckets:
   adoptium-temurin27-binaries:
     owner: adoptium
     repo: temurin27-binaries
+  ismdeep-socks5-server:
+    owner: ismdeep
+    repo: socks5-server
+  ismdeep-tcp-pipe:
+    owner: ismdeep
+    repo: tcp-pipe
+  ismdeep-yamlctl:
+    owner: ismdeep
+    repo: yamlctl

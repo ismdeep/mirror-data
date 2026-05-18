@@ -149,3 +149,7 @@ github_buckets:
   jq:
     owner: jqlang
     repo: jq
+  task:
+    owner: go-task
+    repo: task
+    ignored: '^nightly/.*$'

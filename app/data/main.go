@@ -5,6 +5,7 @@ import (
 	"fmt"
 
 	"github.com/ismdeep/log"
+	"github.com/kopeisec/fp"
 	"github.com/spf13/cobra"
 	"go.uber.org/zap"
 
@@ -15,9 +16,15 @@ import (
 	"github.com/ismdeep/mirror-data/app/data/task"
 )
 
+type TaskItem struct {
+	Name string
+	Task task.Interface
+}
+
 func main() {
 	var metaPath string
 	var secretsPath string
+	var repos []string
 	var allPages bool
 
 	m := cobra.Command{
@@ -41,6 +48,7 @@ func main() {
 			fmt.Println("metaPath:", metaPath)
 			fmt.Println("secretsPath:", secretsPath)
 			fmt.Println("allPages:", allPages)
+			fmt.Println("repos:", repos)
 
 			// load meta
 			metaData, err := meta.LoadFromFile(metaPath)
@@ -61,30 +69,40 @@ func main() {
 			conf.Secrets = secretsData
 
 			// load tasks
-			tasks := make(map[string]task.Interface)
+			var tasks []TaskItem
 			if metaData.AlpineLinux.Enabled {
-				tasks["alpine-linux"] = &task.AlpineLinux{}
+				tasks = append(tasks, TaskItem{Name: "alpine-linux", Task: &task.AlpineLinux{}})
 			}
 			if metaData.Go.Enabled {
-				tasks["go"] = &task.GoDev{}
+				tasks = append(tasks, TaskItem{Name: "go", Task: &task.GoDev{}})
 			}
 			if metaData.JetBrains.Enabled {
-				tasks["jetbrains"] = &task.JetBrains{}
+				tasks = append(tasks, TaskItem{Name: "jetbrains", Task: &task.JetBrains{}})
 			}
 			if metaData.OpenSSL.Enabled {
-				tasks["openssl"] = &task.OpenSSL{}
+				tasks = append(tasks, TaskItem{Name: "openssl", Task: &task.OpenSSL{}})
 			}
 			if metaData.Python.Enabled {
-				tasks["python"] = &task.Python{}
+				tasks = append(tasks, TaskItem{Name: "python", Task: &task.Python{}})
 			}
 			for bucket, githubBucket := range metaData.GitHubBuckets {
-				tasks[bucket] = task.NewGithubBucket(bucket, githubBucket.Owner, githubBucket.Repo, githubBucket.Ignored, allPages)
+				tasks = append(tasks, TaskItem{
+					Name: bucket,
+					Task: task.NewGithubBucket(bucket, githubBucket.Owner, githubBucket.Repo, githubBucket.Ignored, allPages),
+				})
+			}
+
+			// selected tasks
+			if len(repos) != 0 {
+				tasks = fp.Wrap(tasks).Filter(func(item TaskItem) bool {
+					return StringSliceContains(repos, item.Name)
+				})
 			}
 
 			// run tasks
 			for _, t := range tasks {
-				log.WithContext(ctx).Info("start to run task", zap.String("bucket", t.GetBucketName()))
-				t.Run()
+				log.WithContext(ctx).Info("start to run task", zap.String("bucket", t.Task.GetBucketName()))
+				t.Task.Run()
 			}
 
 			return nil
@@ -94,6 +112,7 @@ func main() {
 	m.PersistentFlags().StringVar(&metaPath, "meta", "", "path to mirror meta file")
 	m.PersistentFlags().StringVar(&secretsPath, "secrets", "", "path to mirror secrets file")
 	m.PersistentFlags().BoolVar(&allPages, "all-pages", false, "check all pages for every repository")
+	m.PersistentFlags().StringSliceVar(&repos, "repo", []string{}, "mirror repos to mirror")
 
 	_ = m.MarkPersistentFlagRequired("meta")
 	_ = m.MarkPersistentFlagRequired("secrets")
@@ -101,4 +120,10 @@ func main() {
 	if err := m.Execute(); err != nil {
 		panic(err)
 	}
+}
+
+func StringSliceContains(slice []string, s string) bool {
+	return len(fp.Wrap(slice).Filter(func(t string) bool {
+		return s == t
+	})) > 0
 }

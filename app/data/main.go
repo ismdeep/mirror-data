@@ -16,6 +16,7 @@ import (
 
 func main() {
 	var metaPath string
+	var checkAllGitHubReleasePages bool
 
 	m := cobra.Command{
 		Use:   "mirror",
@@ -44,7 +45,7 @@ func main() {
 				}
 				metaMap := meta.Load(raw)
 				for bucket, githubBucket := range metaMap.GitHubBuckets {
-					tasks[bucket] = task.NewGithubBucket(bucket, githubBucket.Owner, githubBucket.Repo, githubBucket.Ignored)
+					tasks[bucket] = task.NewGithubBucket(bucket, githubBucket.Owner, githubBucket.Repo, githubBucket.Ignored, checkAllGitHubReleasePages)
 				}
 			}
 
@@ -58,6 +59,7 @@ func main() {
 	}
 
 	m.PersistentFlags().StringVar(&metaPath, "meta", "", "path to mirror meta file")
+	m.PersistentFlags().BoolVar(&checkAllGitHubReleasePages, "check-all-github-release-pages", false, "check all pages for every GitHub releases repository")
 
 	if err := m.Execute(); err != nil {
 		panic(err)

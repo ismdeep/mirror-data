@@ -7,18 +7,20 @@ import (
 )
 
 type GithubBucket struct {
-	bucket  string
-	owner   string
-	repo    string
-	ignored string
+	bucket                     string
+	owner                      string
+	repo                       string
+	ignored                    string
+	checkAllGitHubReleasePages bool
 }
 
-func NewGithubBucket(bucket string, owner string, repo string, ignored string) *GithubBucket {
+func NewGithubBucket(bucket string, owner string, repo string, ignored string, checkAllGitHubReleasePages bool) *GithubBucket {
 	return &GithubBucket{
-		bucket:  bucket,
-		owner:   owner,
-		repo:    repo,
-		ignored: ignored,
+		bucket:                     bucket,
+		owner:                      owner,
+		repo:                       repo,
+		ignored:                    ignored,
+		checkAllGitHubReleasePages: checkAllGitHubReleasePages,
 	}
 }
 
@@ -31,7 +33,7 @@ func (receiver *GithubBucket) Run() {
 		}
 	}
 
-	github.FetchReleases(receiver.bucket, receiver.owner, receiver.repo, f)
+	github.FetchReleases(receiver.bucket, receiver.owner, receiver.repo, f, receiver.checkAllGitHubReleasePages)
 }
 
 func (receiver *GithubBucket) GetBucketName() string {

@@ -13,7 +13,7 @@ import (
 )
 
 // FetchReleases fetch releases
-func FetchReleases(bucketName string, owner string, repo string, ignoredFunc func(s string) bool) {
+func FetchReleases(bucketName string, owner string, repo string, ignoredFunc func(s string) bool, checkAllPages bool) {
 	storage := store.New(bucketName, conf.Config.StorageCoroutineSize)
 	defer func() {
 		storage.CloseAndWait()
@@ -48,7 +48,7 @@ func FetchReleases(bucketName string, owner string, repo string, ignoredFunc fun
 			}
 		}
 
-		if len(releases) < 100 {
+		if !checkAllPages || len(releases) < 100 {
 			break
 		}
 		page++

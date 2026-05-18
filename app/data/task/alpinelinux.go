@@ -1,8 +1,10 @@
 package task
 
 import (
+	"context"
 	"fmt"
 
+	"github.com/ismdeep/log"
 	"go.uber.org/zap"
 
 	"github.com/ismdeep/mirror-data/app/data/conf"
@@ -10,13 +12,14 @@ import (
 	"github.com/ismdeep/mirror-data/app/data/internal/rclone"
 	"github.com/ismdeep/mirror-data/app/data/internal/store"
 	util2 "github.com/ismdeep/mirror-data/app/data/internal/util"
-	"github.com/ismdeep/mirror-data/pkg/log"
 )
 
 type AlpineLinux struct {
 }
 
 func (receiver *AlpineLinux) Run() {
+	ctx := context.Background()
+
 	storage := store.New("alpine-linux", conf.Config.StorageCoroutineSize)
 
 	remoteSite := "https://dl-cdn.alpinelinux.org/alpine"
@@ -43,7 +46,7 @@ func (receiver *AlpineLinux) Run() {
 		for version := range versionChan {
 			items, err := rclone.JSON("lsjson", "-R", "--http-url", fmt.Sprintf("%v/%v/releases/", remoteSite, version), ":http:")
 			if err != nil {
-				log.WithName("alpine-linux").Error("failed on lsjson", zap.Error(err))
+				log.WithContext(ctx).Error("failed on lsjson", zap.String("bucket", "alpine-linux"), zap.Error(err))
 				return err
 			}
 			for _, v := range items {

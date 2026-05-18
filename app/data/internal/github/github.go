@@ -5,16 +5,18 @@ import (
 	"fmt"
 
 	"github.com/google/go-github/v53/github"
+	"github.com/ismdeep/log"
 	"go.uber.org/zap"
 
 	"github.com/ismdeep/mirror-data/app/data/conf"
 	"github.com/ismdeep/mirror-data/app/data/global"
 	"github.com/ismdeep/mirror-data/app/data/internal/store"
-	"github.com/ismdeep/mirror-data/pkg/log"
 )
 
 // FetchReleases fetch releases
 func FetchReleases(bucketName string, owner string, repo string, ignoredFunc func(s string) bool, checkAllPages bool) {
+	ctx := context.Background()
+
 	storage := store.New(bucketName, conf.Config.StorageCoroutineSize)
 	defer func() {
 		storage.CloseAndWait()
@@ -24,7 +26,11 @@ func FetchReleases(bucketName string, owner string, repo string, ignoredFunc fun
 	cli := github.NewTokenClient(context.TODO(), token)
 	page := 1
 	for {
-		log.WithName(bucketName).Info(bucketName, zap.Any("page", page))
+		log.WithContext(ctx).Info("fetching",
+			zap.Any("page", page),
+			zap.String("bucket", bucketName),
+			zap.String("owner", owner),
+			zap.String("repo", repo))
 		releases, _, err := cli.Repositories.ListReleases(context.TODO(), owner, repo, &github.ListOptions{
 			Page:    page,
 			PerPage: 100,
@@ -41,7 +47,8 @@ func FetchReleases(bucketName string, owner string, repo string, ignoredFunc fun
 			for _, asset := range release.Assets {
 				link := fmt.Sprintf("%v/%v", *release.TagName, *asset.Name)
 				if ignoredFunc != nil && ignoredFunc(link) {
-					log.WithName(bucketName).Debug("ignored", zap.String("link", link))
+					log.WithContext(ctx).Debug("ignored", zap.String("bucket", bucketName),
+						zap.String("link", link))
 					continue
 				}
 				originLink := *asset.BrowserDownloadURL

@@ -2,6 +2,7 @@ package store
 
 import (
 	"bufio"
+	"context"
 	"errors"
 	"fmt"
 	"io"
@@ -11,9 +12,8 @@ import (
 	"sync"
 	"time"
 
+	"github.com/ismdeep/log"
 	"go.uber.org/zap"
-
-	"github.com/ismdeep/mirror-data/pkg/log"
 )
 
 // LinkPair link pair
@@ -102,12 +102,14 @@ func (receiver *Storage) write(link string, content string) error {
 }
 
 func (receiver *Storage) startConsumer() {
+	ctx := context.Background()
 	for i := 0; i < receiver.CoroutineSize; i++ {
 		receiver.WG.Add(1)
 		go func() {
 			for item := range receiver.C {
 				if _, ok := receiver.ExistsMap.Load(item.Link); ok {
-					log.WithName(receiver.BucketName).Debug("already exists", zap.String("link", item.Link))
+					log.WithContext(ctx).Debug("already exists", zap.String("bucket", receiver.BucketName),
+						zap.String("link", item.Link))
 					continue
 				}
 
@@ -134,7 +136,8 @@ func (receiver *Storage) startConsumer() {
 					contentLength,
 					contentType,
 					lastModified.Unix()))
-				log.WithName(receiver.BucketName).Info("saved", zap.String("link", item.Link))
+				log.WithContext(ctx).Info("saved", zap.String("bucket", receiver.BucketName),
+					zap.String("link", item.Link))
 			}
 			receiver.WG.Done()
 		}()

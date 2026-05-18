@@ -1,22 +1,26 @@
 package task
 
 import (
+	"context"
 	"fmt"
 	"strings"
+
+	"github.com/ismdeep/log"
+	"go.uber.org/zap"
 
 	"github.com/ismdeep/mirror-data/app/data/conf"
 	"github.com/ismdeep/mirror-data/app/data/global"
 	"github.com/ismdeep/mirror-data/app/data/internal/rclone"
 	"github.com/ismdeep/mirror-data/app/data/internal/store"
 	"github.com/ismdeep/mirror-data/app/data/internal/util"
-	"github.com/ismdeep/mirror-data/pkg/log"
-	"go.uber.org/zap"
 )
 
 type NodeJS struct {
 }
 
 func (receiver *NodeJS) Run() {
+	ctx := context.Background()
+
 	storage := store.New("nodejs", conf.Config.StorageCoroutineSize)
 	defer func() {
 		storage.CloseAndWait()
@@ -41,9 +45,11 @@ func (receiver *NodeJS) Run() {
 			if !version.IsDir || receiver.isIgnoredPath(version.Path) {
 				continue
 			}
-			items, err := rclone.JSON("lsjson", "--http-url", fmt.Sprintf("https://nodejs.org/dist/%v/", version.Path), ":http:")
+			items, err := rclone.JSON("lsjson",
+				"--http-url", fmt.Sprintf("https://nodejs.org/dist/%v/", version.Path), ":http:")
 			if err != nil {
-				log.WithName("nodejs").Error("failed on lsjson", zap.Error(err))
+				log.WithContext(ctx).Error("failed on lsjson", zap.String("bucket", "nodejs"),
+					zap.Error(err))
 				return err
 			}
 			for _, v := range items {

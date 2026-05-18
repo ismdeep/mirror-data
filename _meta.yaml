@@ -140,3 +140,6 @@ github_buckets:
   p4gefau1t-trojan-go:
     owner: p4gefau1t
     repo: trojan-go
+  whatcable:
+    owner: darrylmorley
+    repo: whatcable

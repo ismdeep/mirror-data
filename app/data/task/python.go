@@ -11,7 +11,7 @@ import (
 	"github.com/ismdeep/mirror-data/app/data/global"
 	"github.com/ismdeep/mirror-data/app/data/internal/rclone"
 	"github.com/ismdeep/mirror-data/app/data/internal/store"
-	util2 "github.com/ismdeep/mirror-data/app/data/internal/util"
+	"github.com/ismdeep/mirror-data/app/data/internal/util"
 )
 
 type Python struct {
@@ -45,7 +45,7 @@ func (receiver *Python) Run() {
 		}
 	}()
 
-	err = util2.CoroutineRun(conf.Config.CoroutineSize, func() error {
+	err = util.CoroutineRun(conf.Config.CoroutineSize, func() error {
 		for version := range versionChan {
 			if !version.IsDir || !('0' <= version.Path[0] && version.Path[0] <= '9') {
 				continue
@@ -76,5 +76,5 @@ func (receiver *Python) Run() {
 
 // IsCompressFile is compress file
 func (receiver *Python) IsCompressFile(path string) bool {
-	return util2.StringEndWith(path, ".tar.xz")
+	return util.StringEndWith(path, ".tar.xz")
 }

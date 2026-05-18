@@ -11,7 +11,7 @@ import (
 	"github.com/ismdeep/mirror-data/app/data/global"
 	"github.com/ismdeep/mirror-data/app/data/internal/rclone"
 	"github.com/ismdeep/mirror-data/app/data/internal/store"
-	util2 "github.com/ismdeep/mirror-data/app/data/internal/util"
+	"github.com/ismdeep/mirror-data/app/data/internal/util"
 )
 
 type AlpineLinux struct {
@@ -36,13 +36,13 @@ func (receiver *AlpineLinux) Run() {
 		}()
 
 		for _, vResp := range versionsResp {
-			if util2.IsAlpineVersion(vResp.Path) {
+			if util.IsAlpineVersion(vResp.Path) {
 				versionChan <- vResp.Path
 			}
 		}
 	}()
 
-	err = util2.CoroutineRun(conf.Config.CoroutineSize, func() error {
+	err = util.CoroutineRun(conf.Config.CoroutineSize, func() error {
 		for version := range versionChan {
 			items, err := rclone.JSON("lsjson", "-R", "--http-url", fmt.Sprintf("%v/%v/releases/", remoteSite, version), ":http:")
 			if err != nil {
@@ -54,7 +54,7 @@ func (receiver *AlpineLinux) Run() {
 					continue
 				}
 
-				if util2.StringEndWith(v.Path, ".iso") {
+				if util.StringEndWith(v.Path, ".iso") {
 					storage.Add(
 						fmt.Sprintf("%v/%v", version, v.Path),
 						fmt.Sprintf("%v/%v/releases/%v", remoteSite, version, v.Path))

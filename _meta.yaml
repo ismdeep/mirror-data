@@ -143,3 +143,6 @@ github_buckets:
   whatcable:
     owner: darrylmorley
     repo: whatcable
+  jq:
+    owner: jqlang
+    repo: jq

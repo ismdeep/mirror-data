@@ -5,11 +5,12 @@ import (
 	"fmt"
 
 	"github.com/google/go-github/v53/github"
+	"go.uber.org/zap"
+
 	"github.com/ismdeep/mirror-data/app/data/conf"
 	"github.com/ismdeep/mirror-data/app/data/global"
 	"github.com/ismdeep/mirror-data/app/data/internal/store"
 	"github.com/ismdeep/mirror-data/pkg/log"
-	"go.uber.org/zap"
 )
 
 // FetchReleases fetch releases

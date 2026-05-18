@@ -122,3 +122,6 @@ github_buckets:
   ismdeep-yamlctl:
     owner: ismdeep
     repo: yamlctl
+  p4gefau1t-trojan-go:
+    owner: p4gefau1t
+    repo: trojan-go

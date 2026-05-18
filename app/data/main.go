@@ -36,6 +36,8 @@ func main() {
 				fmt.Println()
 			}
 
+			fmt.Println("Check All GitHub Release Pages:", checkAllGitHubReleasePages)
+
 			tasks := task.Tasks
 
 			if metaPath != "" {

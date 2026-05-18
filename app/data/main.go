@@ -36,7 +36,7 @@ func main() {
 				fmt.Println()
 			}
 
-			fmt.Println("Check All GitHub Release Pages:", allPages)
+			fmt.Println("All Pages:", allPages)
 
 			raw, err := os.ReadFile(metaPath)
 			if err != nil {

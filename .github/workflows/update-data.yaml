@@ -8,8 +8,8 @@ on:
     - cron: '24 0 * * *'
   workflow_dispatch:
     inputs:
-      check-all-github-release-pages:
-        description: Check all pages for every GitHub releases repository
+      all-pages:
+        description: Check all pages for every repository
         type: boolean
         default: false
         required: false
@@ -20,7 +20,7 @@ jobs:
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
-      CHECK_ALL_GITHUB_RELEASE_PAGES: ${{ github.event_name == 'workflow_dispatch' && inputs.check-all-github-release-pages || false }}
+      ALL_PAGES: ${{ github.event_name == 'workflow_dispatch' && inputs.all-pages || false }}
 
     steps:
 
@@ -42,7 +42,7 @@ jobs:
         run: echo "${{ secrets.SECRETS_YAML }}" > secrets.yaml
 
       - name: Run mirror-data
-        run: ./bin/data --meta _meta.yaml --check-all-github-release-pages="${CHECK_ALL_GITHUB_RELEASE_PAGES}"
+        run: ./bin/data --meta _meta.yaml --all-pages="${ALL_PAGES}"
 
       - name: Set up Docker Buildx
         id: buildx

@@ -94,9 +94,9 @@ func main() {
 
 			// selected tasks
 			if len(repos) != 0 {
-				tasks = fp.Wrap(tasks).Filter(func(item TaskItem) bool {
-					return StringSliceContains(repos, item.Name)
-				})
+				repoTasks := fp.Transform(repos, func(t string) TaskItem { return TaskItem{Name: t} })
+				taskItemEqual := func(item1 TaskItem, item2 TaskItem) bool { return item1.Name == item2.Name }
+				tasks = fp.Wrap(tasks).FilterInSlice(repoTasks, taskItemEqual)
 			}
 
 			// run tasks
@@ -120,10 +120,4 @@ func main() {
 	if err := m.Execute(); err != nil {
 		panic(err)
 	}
-}
-
-func StringSliceContains(slice []string, s string) bool {
-	return len(fp.Wrap(slice).Filter(func(t string) bool {
-		return s == t
-	})) > 0
 }

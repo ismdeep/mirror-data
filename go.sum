@@ -57,8 +57,8 @@ github.com/json-iterator/go v1.1.12 h1:PV8peI4a0ysnczrg+LtxykD8LfKY9ML6u2jnxaEnr
 github.com/json-iterator/go v1.1.12/go.mod h1:e30LSqwooZae/UwlEbR2852Gd8hjQvJoHmT4TnhNGBo=
 github.com/klauspost/cpuid/v2 v2.3.0 h1:S4CRMLnYUhGeDFDqkGriYKdfoFlDnMtqTiI/sFzhA9Y=
 github.com/klauspost/cpuid/v2 v2.3.0/go.mod h1:hqwkgyIinND0mEev00jJYCxPNVRVXFQeu1XKlok6oO0=
-github.com/kopeisec/fp v0.0.0-20250729121817-9dffe175936d h1:XkUPCryFDJKaNBYY9cPqWBQ6ANH1jIDlTTG9mVhY6Tk=
-github.com/kopeisec/fp v0.0.0-20250729121817-9dffe175936d/go.mod h1:svviYzQNTit7XW5mZi7JgTAIkXWSo5MXRet4PUeTuCc=
+github.com/kopeisec/fp v0.0.0-20260518141301-bfb39b4432f8 h1:Io2QGYMjaRoB8zFK78tEVpZOJ/sC726MtkoWJHSv/+g=
+github.com/kopeisec/fp v0.0.0-20260518141301-bfb39b4432f8/go.mod h1:sok5xK8+KKPuPTYJk3BmBMTXoK9QOqtIVhd/vgg8Jwo=
 github.com/kr/pretty v0.3.1 h1:flRD4NNwYAUpkphVc1HcthR4KEIFJ65n8Mw5qdRn3LE=
 github.com/kr/pretty v0.3.1/go.mod h1:hoEshYVHaxMs3cyo3Yncou5ZscifuDolrwPKZanG3xk=
 github.com/kr/text v0.2.0 h1:5Nx0Ya0ZqY2ygV366QzturHI13Jq95ApcVaJBhpS+AY=

@@ -29,6 +29,15 @@ func (s Slice[T]) FilterWithKeyFunc(keyFunc func(T) string) Slice[T] {
 	})
 }
 
+// FilterInSlice 筛选出在 Slice 中的
+func (s Slice[T]) FilterInSlice(slice []T, equal func(T, T) bool) Slice[T] {
+	return s.Filter(func(item T) bool {
+		return len(Wrap(slice).Filter(func(itemInSlice T) bool {
+			return equal(itemInSlice, item)
+		})) > 0
+	})
+}
+
 // RemoveDuplicate 方法移除切片中的重复元素
 func (s Slice[T]) RemoveDuplicate(equal func(a T, b T) bool) Slice[T] {
 	result := Slice[T]{}

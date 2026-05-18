@@ -8,7 +8,7 @@ require (
 	github.com/gin-gonic/gin v1.12.0
 	github.com/google/go-github/v53 v53.2.0
 	github.com/ismdeep/log v0.2.2
-	github.com/kopeisec/fp v0.0.0-20250729121817-9dffe175936d
+	github.com/kopeisec/fp v0.0.0-20260518141301-bfb39b4432f8
 	github.com/sethvargo/go-envconfig v1.3.0
 	github.com/spf13/cobra v1.10.2
 	github.com/stretchr/testify v1.11.1

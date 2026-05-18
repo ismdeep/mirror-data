@@ -1,0 +1,6 @@
+ismdeep-tcp-pipe|0.0.1/tcp-pipe_darwin_amd64|https://github.com/ismdeep/tcp-pipe/releases/download/0.0.1/tcp-pipe_darwin_amd64|3458432|application/octet-stream|1778490693
+ismdeep-tcp-pipe|0.0.1/tcp-pipe_windows_arm64.exe|https://github.com/ismdeep/tcp-pipe/releases/download/0.0.1/tcp-pipe_windows_arm64.exe|3352064|application/octet-stream|1778490693
+ismdeep-tcp-pipe|0.0.1/tcp-pipe_darwin_arm64|https://github.com/ismdeep/tcp-pipe/releases/download/0.0.1/tcp-pipe_darwin_arm64|3320402|application/octet-stream|1778490693
+ismdeep-tcp-pipe|0.0.1/tcp-pipe_linux_arm64|https://github.com/ismdeep/tcp-pipe/releases/download/0.0.1/tcp-pipe_linux_arm64|3276962|application/octet-stream|1778490693
+ismdeep-tcp-pipe|0.0.1/tcp-pipe_windows_amd64.exe|https://github.com/ismdeep/tcp-pipe/releases/download/0.0.1/tcp-pipe_windows_amd64.exe|3572736|application/octet-stream|1778490693
+ismdeep-tcp-pipe|0.0.1/tcp-pipe_linux_amd64|https://github.com/ismdeep/tcp-pipe/releases/download/0.0.1/tcp-pipe_linux_amd64|3367074|application/octet-stream|1778490693

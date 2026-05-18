@@ -1,0 +1,12 @@
+ismdeep-yamlctl|0.0.1/yamlctl_darwin_arm64|https://github.com/ismdeep/yamlctl/releases/download/0.0.1/yamlctl_darwin_arm64|2858978|application/octet-stream|1774328643
+ismdeep-yamlctl|0.0.3/yamlctl_linux_amd64|https://github.com/ismdeep/yamlctl/releases/download/0.0.3/yamlctl_linux_amd64|2879650|application/octet-stream|1774447967
+ismdeep-yamlctl|0.0.3/yamlctl_darwin_arm64|https://github.com/ismdeep/yamlctl/releases/download/0.0.3/yamlctl_darwin_arm64|2875538|application/octet-stream|1774447967
+ismdeep-yamlctl|0.0.1/yamlctl_linux_amd64|https://github.com/ismdeep/yamlctl/releases/download/0.0.1/yamlctl_linux_amd64|2879650|application/octet-stream|1774328643
+ismdeep-yamlctl|0.0.3/yamlctl_linux_arm64|https://github.com/ismdeep/yamlctl/releases/download/0.0.3/yamlctl_linux_arm64|2752674|application/octet-stream|1774447968
+ismdeep-yamlctl|0.0.3/yamlctl_darwin_amd64|https://github.com/ismdeep/yamlctl/releases/download/0.0.3/yamlctl_darwin_amd64|2988336|application/octet-stream|1774447967
+ismdeep-yamlctl|0.0.2/yamlctl_darwin_arm64|https://github.com/ismdeep/yamlctl/releases/download/0.0.2/yamlctl_darwin_arm64|2858978|application/octet-stream|1774333451
+ismdeep-yamlctl|0.0.2/yamlctl_linux_arm64|https://github.com/ismdeep/yamlctl/releases/download/0.0.2/yamlctl_linux_arm64|2752674|application/octet-stream|1774333451
+ismdeep-yamlctl|0.0.1/yamlctl_linux_arm64|https://github.com/ismdeep/yamlctl/releases/download/0.0.1/yamlctl_linux_arm64|2752674|application/octet-stream|1774328643
+ismdeep-yamlctl|0.0.2/yamlctl_darwin_amd64|https://github.com/ismdeep/yamlctl/releases/download/0.0.2/yamlctl_darwin_amd64|2984176|application/octet-stream|1774333451
+ismdeep-yamlctl|0.0.2/yamlctl_linux_amd64|https://github.com/ismdeep/yamlctl/releases/download/0.0.2/yamlctl_linux_amd64|2875554|application/octet-stream|1774333451
+ismdeep-yamlctl|0.0.1/yamlctl_darwin_amd64|https://github.com/ismdeep/yamlctl/releases/download/0.0.1/yamlctl_darwin_amd64|2984176|application/octet-stream|1774328643

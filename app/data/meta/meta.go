@@ -1,6 +1,10 @@
 package meta
 
-import "gopkg.in/yaml.v3"
+import (
+	"os"
+
+	"gopkg.in/yaml.v3"
+)
 
 type GitHubBucket struct {
 	Owner   string `yaml:"owner"`
@@ -37,10 +41,18 @@ type Meta struct {
 	Python        Python                  `yaml:"python"`
 }
 
-func Load(data []byte) Meta {
+func Load(data []byte) (*Meta, error) {
 	var meta Meta
 	if err := yaml.Unmarshal(data, &meta); err != nil {
-		panic(err)
+		return nil, err
 	}
-	return meta
+	return &meta, nil
+}
+
+func LoadFromFile(filePath string) (*Meta, error) {
+	raw, err := os.ReadFile(filePath)
+	if err != nil {
+		return nil, err
+	}
+	return Load(raw)
 }

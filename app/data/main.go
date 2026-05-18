@@ -3,19 +3,21 @@ package main
 import (
 	"context"
 	"fmt"
-	"os"
 
 	"github.com/ismdeep/log"
 	"github.com/spf13/cobra"
 	"go.uber.org/zap"
 
+	"github.com/ismdeep/mirror-data/app/data/conf"
 	"github.com/ismdeep/mirror-data/app/data/internal/version"
+	"github.com/ismdeep/mirror-data/app/data/meta"
+	"github.com/ismdeep/mirror-data/app/data/secrets"
 	"github.com/ismdeep/mirror-data/app/data/task"
-	"github.com/ismdeep/mirror-data/meta"
 )
 
 func main() {
 	var metaPath string
+	var secretsPath string
 	var allPages bool
 
 	m := cobra.Command{
@@ -36,14 +38,29 @@ func main() {
 				fmt.Println()
 			}
 
-			fmt.Println("All Pages:", allPages)
+			fmt.Println("metaPath:", metaPath)
+			fmt.Println("secretsPath:", secretsPath)
+			fmt.Println("allPages:", allPages)
 
-			raw, err := os.ReadFile(metaPath)
+			// load meta
+			metaData, err := meta.LoadFromFile(metaPath)
 			if err != nil {
 				return err
 			}
-			metaData := meta.Load(raw)
 
+			// load secrets
+			secretsData, err := secrets.LoadFromFile(secretsPath)
+			if err != nil {
+				return err
+			}
+
+			// load config
+			if err := conf.Init(); err != nil {
+				return err
+			}
+			conf.Secrets = secretsData
+
+			// load tasks
 			tasks := make(map[string]task.Interface)
 			if metaData.AlpineLinux.Enabled {
 				tasks["alpine-linux"] = &task.AlpineLinux{}
@@ -63,6 +80,8 @@ func main() {
 			for bucket, githubBucket := range metaData.GitHubBuckets {
 				tasks[bucket] = task.NewGithubBucket(bucket, githubBucket.Owner, githubBucket.Repo, githubBucket.Ignored, allPages)
 			}
+
+			// run tasks
 			for _, t := range tasks {
 				log.WithContext(ctx).Info("start to run task", zap.String("bucket", t.GetBucketName()))
 				t.Run()
@@ -73,9 +92,11 @@ func main() {
 	}
 
 	m.PersistentFlags().StringVar(&metaPath, "meta", "", "path to mirror meta file")
+	m.PersistentFlags().StringVar(&secretsPath, "secrets", "", "path to mirror secrets file")
 	m.PersistentFlags().BoolVar(&allPages, "all-pages", false, "check all pages for every repository")
 
 	_ = m.MarkPersistentFlagRequired("meta")
+	_ = m.MarkPersistentFlagRequired("secrets")
 
 	if err := m.Execute(); err != nil {
 		panic(err)

@@ -140,6 +140,12 @@ github_buckets:
   ismdeep-k8s-installer:
     owner: ismdeep
     repo: k8s-installer
+  ismdeep-genpass:
+    owner: ismdeep
+    repo: genpass
+  ismdeep-anu:
+    owner: ismdeep
+    repo: anu
   p4gefau1t-trojan-go:
     owner: p4gefau1t
     repo: trojan-go

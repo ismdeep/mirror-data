@@ -1,0 +1,6 @@
+ismdeep-genpass|0.0.1/genpass_windows_arm64.exe|https://github.com/ismdeep/genpass/releases/download/0.0.1/genpass_windows_arm64.exe|2801152|application/octet-stream|1779116360
+ismdeep-genpass|0.0.1/genpass_darwin_arm64|https://github.com/ismdeep/genpass/releases/download/0.0.1/genpass_darwin_arm64|2791362|application/octet-stream|1779116360
+ismdeep-genpass|0.0.1/genpass_windows_amd64.exe|https://github.com/ismdeep/genpass/releases/download/0.0.1/genpass_windows_amd64.exe|3019264|application/octet-stream|1779116360
+ismdeep-genpass|0.0.1/genpass_darwin_amd64|https://github.com/ismdeep/genpass/releases/download/0.0.1/genpass_darwin_amd64|2925296|application/octet-stream|1779116360
+ismdeep-genpass|0.0.1/genpass_linux_amd64|https://github.com/ismdeep/genpass/releases/download/0.0.1/genpass_linux_amd64|2826402|application/octet-stream|1779116360
+ismdeep-genpass|0.0.1/genpass_linux_arm64|https://github.com/ismdeep/genpass/releases/download/0.0.1/genpass_linux_arm64|2752674|application/octet-stream|1779116360

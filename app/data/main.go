@@ -3,6 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
+	"sync"
 
 	"github.com/ismdeep/log"
 	"github.com/kopeisec/fp"
@@ -26,6 +27,7 @@ func main() {
 	var secretsPath string
 	var repos []string
 	var allPages bool
+	var concurrency int
 
 	m := cobra.Command{
 		Use:   "mirror",
@@ -33,6 +35,9 @@ func main() {
 		Long:  "mirror",
 		RunE: func(cmd *cobra.Command, args []string) error {
 			ctx := context.Background()
+			if concurrency < 1 {
+				return fmt.Errorf("concurrency must be greater than 0")
+			}
 
 			if version.Version != "" {
 				fmt.Println("MIRROR DATA")
@@ -49,6 +54,7 @@ func main() {
 			fmt.Println("secretsPath:", secretsPath)
 			fmt.Println("allPages:", allPages)
 			fmt.Println("repos:", repos)
+			fmt.Println("concurrency:", concurrency)
 
 			// load meta
 			metaData, err := meta.LoadFromFile(metaPath)
@@ -100,10 +106,24 @@ func main() {
 			}
 
 			// run tasks
-			for _, t := range tasks {
-				log.WithContext(ctx).Info("start to run task", zap.String("bucket", t.Task.GetBucketName()))
-				t.Task.Run()
+			taskCh := make(chan TaskItem)
+			var wg sync.WaitGroup
+			for i := 0; i < concurrency; i++ {
+				wg.Add(1)
+				go func() {
+					defer wg.Done()
+					for t := range taskCh {
+						log.WithContext(ctx).Info("start to run task", zap.String("bucket", t.Task.GetBucketName()))
+						t.Task.Run()
+					}
+				}()
 			}
+
+			for _, t := range tasks {
+				taskCh <- t
+			}
+			close(taskCh)
+			wg.Wait()
 
 			return nil
 		},
@@ -113,6 +133,7 @@ func main() {
 	m.PersistentFlags().StringVar(&secretsPath, "secrets", "", "path to mirror secrets file")
 	m.PersistentFlags().BoolVar(&allPages, "all-pages", false, "check all pages for every repository")
 	m.PersistentFlags().StringSliceVar(&repos, "repo", []string{}, "mirror repos to mirror")
+	m.PersistentFlags().IntVar(&concurrency, "concurrency", 4, "number of tasks to run concurrently")
 
 	_ = m.MarkPersistentFlagRequired("meta")
 	_ = m.MarkPersistentFlagRequired("secrets")

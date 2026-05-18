@@ -1,3 +1,18 @@
+alpine_linux:
+  enabled: true
+
+go:
+  enabled: true
+
+jetbrains:
+  enabled: true
+
+openssl:
+  enabled: true
+
+python:
+  enabled: true
+
 github_buckets:
   another-redis-desktop-manager:
     owner: qishibo

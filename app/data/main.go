@@ -16,7 +16,7 @@ import (
 
 func main() {
 	var metaPath string
-	var checkAllGitHubReleasePages bool
+	var allPages bool
 
 	m := cobra.Command{
 		Use:   "mirror",
@@ -36,21 +36,33 @@ func main() {
 				fmt.Println()
 			}
 
-			fmt.Println("Check All GitHub Release Pages:", checkAllGitHubReleasePages)
+			fmt.Println("Check All GitHub Release Pages:", allPages)
 
-			tasks := task.Tasks
-
-			if metaPath != "" {
-				raw, err := os.ReadFile(metaPath)
-				if err != nil {
-					return err
-				}
-				metaMap := meta.Load(raw)
-				for bucket, githubBucket := range metaMap.GitHubBuckets {
-					tasks[bucket] = task.NewGithubBucket(bucket, githubBucket.Owner, githubBucket.Repo, githubBucket.Ignored, checkAllGitHubReleasePages)
-				}
+			raw, err := os.ReadFile(metaPath)
+			if err != nil {
+				return err
 			}
+			metaData := meta.Load(raw)
 
+			tasks := make(map[string]task.Interface)
+			if metaData.AlpineLinux.Enabled {
+				tasks["alpine-linux"] = &task.AlpineLinux{}
+			}
+			if metaData.Go.Enabled {
+				tasks["go"] = &task.GoDev{}
+			}
+			if metaData.JetBrains.Enabled {
+				tasks["jetbrains"] = &task.JetBrains{}
+			}
+			if metaData.OpenSSL.Enabled {
+				tasks["openssl"] = &task.OpenSSL{}
+			}
+			if metaData.Python.Enabled {
+				tasks["python"] = &task.Python{}
+			}
+			for bucket, githubBucket := range metaData.GitHubBuckets {
+				tasks[bucket] = task.NewGithubBucket(bucket, githubBucket.Owner, githubBucket.Repo, githubBucket.Ignored, allPages)
+			}
 			for _, t := range tasks {
 				log.WithContext(ctx).Info("start to run task", zap.String("bucket", t.GetBucketName()))
 				t.Run()
@@ -61,7 +73,9 @@ func main() {
 	}
 
 	m.PersistentFlags().StringVar(&metaPath, "meta", "", "path to mirror meta file")
-	m.PersistentFlags().BoolVar(&checkAllGitHubReleasePages, "check-all-github-release-pages", false, "check all pages for every GitHub releases repository")
+	m.PersistentFlags().BoolVar(&allPages, "all-pages", false, "check all pages for every repository")
+
+	_ = m.MarkPersistentFlagRequired("meta")
 
 	if err := m.Execute(); err != nil {
 		panic(err)

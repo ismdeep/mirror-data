@@ -1,0 +1,4 @@
+ismdeep-anu|0.0.1/anu_linux_amd64|https://github.com/ismdeep/anu/releases/download/0.0.1/anu_linux_amd64|3121314|application/octet-stream|1779116239
+ismdeep-anu|0.0.1/anu_linux_arm64|https://github.com/ismdeep/anu/releases/download/0.0.1/anu_linux_arm64|2949282|application/octet-stream|1779116239
+ismdeep-anu|0.0.1/anu_darwin_amd64|https://github.com/ismdeep/anu/releases/download/0.0.1/anu_darwin_amd64|3153072|application/octet-stream|1779116239
+ismdeep-anu|0.0.1/anu_darwin_arm64|https://github.com/ismdeep/anu/releases/download/0.0.1/anu_darwin_arm64|3012658|application/octet-stream|1779116239

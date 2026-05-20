@@ -54,3 +54,6 @@ whatcable|v0.3.1/WhatCable.zip|https://github.com/darrylmorley/whatcable/release
 whatcable|v0.2.1/WhatCable.zip|https://github.com/darrylmorley/whatcable/releases/download/v0.2.1/WhatCable.zip|326054|application/octet-stream|1777625528
 whatcable|v0.11.1/WhatCable.zip|https://github.com/darrylmorley/whatcable/releases/download/v0.11.1/WhatCable.zip|7355912|application/octet-stream|1779108212
 whatcable|v0.11.2/WhatCable.zip|https://github.com/darrylmorley/whatcable/releases/download/v0.11.2/WhatCable.zip|7410389|application/octet-stream|1779119483
+whatcable|v0.12.1/WhatCable.zip|https://github.com/darrylmorley/whatcable/releases/download/v0.12.1/WhatCable.zip|7700368|application/octet-stream|1779226027
+whatcable|v0.12.0/WhatCable.zip|https://github.com/darrylmorley/whatcable/releases/download/v0.12.0/WhatCable.zip|7738690|application/octet-stream|1779222098
+whatcable|v0.11.3/WhatCable.zip|https://github.com/darrylmorley/whatcable/releases/download/v0.11.3/WhatCable.zip|7410171|application/octet-stream|1779181340

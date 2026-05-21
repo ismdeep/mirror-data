@@ -4008,3 +4008,17 @@ protobuf|v35.0/protoc-35.0-osx-universal_binary.zip|https://github.com/protocolb
 protobuf|v35.0/protoc-35.0-linux-ppcle_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v35.0/protoc-35.0-linux-ppcle_64.zip|3943717|application/octet-stream|1779228973
 protobuf|v35.0/protoc-35.0-linux-x86_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v35.0/protoc-35.0-linux-x86_64.zip|3633929|application/octet-stream|1779228973
 protobuf|v35.0/protoc-35.0-osx-aarch_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v35.0/protoc-35.0-osx-aarch_64.zip|2585907|application/octet-stream|1779228973
+protobuf|v34.2/protoc-34.2-linux-x86_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.2/protoc-34.2-linux-x86_64.zip|3612137|application/octet-stream|1779305621
+protobuf|v34.2/protobuf-34.2.bazel.tar.gz.intoto.jsonl|https://github.com/protocolbuffers/protobuf/releases/download/v34.2/protobuf-34.2.bazel.tar.gz.intoto.jsonl|10960|application/octet-stream|1779306098
+protobuf|v34.2/protobuf-34.2.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.2/protobuf-34.2.zip|9017384|application/octet-stream|1779305621
+protobuf|v34.2/protoc-34.2-linux-x86_32.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.2/protoc-34.2-linux-x86_32.zip|3915211|application/octet-stream|1779305621
+protobuf|v34.2/protobuf-34.2.tar.gz|https://github.com/protocolbuffers/protobuf/releases/download/v34.2/protobuf-34.2.tar.gz|7036403|application/octet-stream|1779305621
+protobuf|v34.2/protoc-34.2-osx-aarch_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.2/protoc-34.2-osx-aarch_64.zip|2567192|application/octet-stream|1779305621
+protobuf|v34.2/protoc-34.2-osx-universal_binary.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.2/protoc-34.2-osx-universal_binary.zip|5217301|application/octet-stream|1779305622
+protobuf|v34.2/protoc-34.2-linux-ppcle_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.2/protoc-34.2-linux-ppcle_64.zip|3924637|application/octet-stream|1779305621
+protobuf|v34.2/protoc-34.2-win32.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.2/protoc-34.2-win32.zip|3568495|application/octet-stream|1779305622
+protobuf|v34.2/protoc-34.2-osx-x86_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.2/protoc-34.2-osx-x86_64.zip|2699632|application/octet-stream|1779305622
+protobuf|v34.2/protobuf-34.2.bazel.tar.gz|https://github.com/protocolbuffers/protobuf/releases/download/v34.2/protobuf-34.2.bazel.tar.gz|7039926|application/octet-stream|1779306098
+protobuf|v34.2/protoc-34.2-win64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.2/protoc-34.2-win64.zip|3487206|application/octet-stream|1779305622
+protobuf|v34.2/protoc-34.2-linux-aarch_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.2/protoc-34.2-linux-aarch_64.zip|3564410|application/octet-stream|1779305621
+protobuf|v34.2/protoc-34.2-linux-s390_64.zip|https://github.com/protocolbuffers/protobuf/releases/download/v34.2/protoc-34.2-linux-s390_64.zip|4650321|application/octet-stream|1779305621

@@ -9909,3 +9909,9 @@ jetbrains|Rider/release/2026.1/2026.1.2/mac/JetBrains.Rider-2026.1.2.dmg|https:/
 jetbrains|Rider/release/2026.1/2026.1.2/windows/JetBrains.Rider-2026.1.2.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2026.1.2.exe|1754447376|binary/octet-stream|1779196549
 jetbrains|PhpStorm/release/2026.1/2026.1.2/windowsZip/PhpStorm-2026.1.2.win.zip|https://download.jetbrains.com/webide/PhpStorm-2026.1.2.win.zip|1073615780|binary/octet-stream|1779182473
 jetbrains|Rider/release/2026.1/2026.1.2/windowsZipARM64/JetBrains.Rider-2026.1.2-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2026.1.2-aarch64.win.zip|2530032517|binary/octet-stream|1779196678
+jetbrains|DataSpell/release/2026.1/2026.1.2/macM1/dataspell-2026.1.2-aarch64.dmg|https://download.jetbrains.com/python/dataspell-2026.1.2-aarch64.dmg|1237191010|binary/octet-stream|1779452885
+jetbrains|DataSpell/release/2026.1/2026.1.2/windows/dataspell-2026.1.2.exe|https://download.jetbrains.com/python/dataspell-2026.1.2.exe|999294280|binary/octet-stream|1779452889
+jetbrains|DataSpell/release/2026.1/2026.1.2/mac/dataspell-2026.1.2.dmg|https://download.jetbrains.com/python/dataspell-2026.1.2.dmg|1283291852|binary/octet-stream|1779452886
+jetbrains|DataSpell/release/2026.1/2026.1.2/linuxARM64/dataspell-2026.1.2-aarch64.tar.gz|https://download.jetbrains.com/python/dataspell-2026.1.2-aarch64.tar.gz|1275706703|binary/octet-stream|1779452885
+jetbrains|DataSpell/release/2026.1/2026.1.2/windowsARM64/dataspell-2026.1.2-aarch64.exe|https://download.jetbrains.com/python/dataspell-2026.1.2-aarch64.exe|996570176|binary/octet-stream|1779452885
+jetbrains|DataSpell/release/2026.1/2026.1.2/linux/dataspell-2026.1.2.tar.gz|https://download.jetbrains.com/python/dataspell-2026.1.2.tar.gz|1279881678|binary/octet-stream|1779452891

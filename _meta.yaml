@@ -146,6 +146,9 @@ github_buckets:
   ismdeep-anu:
     owner: ismdeep
     repo: anu
+  ismdeep-git-credential-pass:
+    owner: ismdeep
+    repo: git-credential-pass
   p4gefau1t-trojan-go:
     owner: p4gefau1t
     repo: trojan-go

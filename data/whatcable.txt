@@ -88,3 +88,5 @@ whatcable|v0.15.1/WhatCable.zip|https://github.com/darrylmorley/whatcable/releas
 whatcable|v0.15.1/whatcable-cli-0.15.1.zip|https://github.com/darrylmorley/whatcable/releases/download/v0.15.1/whatcable-cli-0.15.1.zip|3166597|application/octet-stream|1780155558
 whatcable|v0.15.0/WhatCable.zip|https://github.com/darrylmorley/whatcable/releases/download/v0.15.0/WhatCable.zip|8723635|application/octet-stream|1780148279
 whatcable|v0.15.0/whatcable-cli-0.15.0.zip|https://github.com/darrylmorley/whatcable/releases/download/v0.15.0/whatcable-cli-0.15.0.zip|3150796|application/octet-stream|1780148279
+whatcable|v0.16.0/whatcable-cli-0.16.0.zip|https://github.com/darrylmorley/whatcable/releases/download/v0.16.0/whatcable-cli-0.16.0.zip|3236917|application/octet-stream|1780315645
+whatcable|v0.16.0/WhatCable.zip|https://github.com/darrylmorley/whatcable/releases/download/v0.16.0/WhatCable.zip|9027923|application/octet-stream|1780315646

@@ -9986,3 +9986,10 @@ jetbrains|WebStorm/release/2026.1/2026.1.3/windowsARM64/WebStorm-2026.1.3-aarch6
 jetbrains|WebStorm/release/2026.1/2026.1.3/mac/WebStorm-2026.1.3.dmg|https://download.jetbrains.com/webstorm/WebStorm-2026.1.3.dmg|1083982731|binary/octet-stream|1780572654
 jetbrains|WebStorm/release/2026.1/2026.1.3/linux/WebStorm-2026.1.3.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2026.1.3.tar.gz|1101337553|binary/octet-stream|1780572655
 jetbrains|WebStorm/release/2026.1/2026.1.3/windowsZip/WebStorm-2026.1.3.win.zip|https://download.jetbrains.com/webstorm/WebStorm-2026.1.3.win.zip|1114895042|binary/octet-stream|1780572657
+jetbrains|GoLand/release/2025.3/2025.3.5/linux/goland-2025.3.5.tar.gz|https://download.jetbrains.com/go/goland-2025.3.5.tar.gz|1158233868|binary/octet-stream|1780646763
+jetbrains|GoLand/release/2025.3/2025.3.5/windows/goland-2025.3.5.exe|https://download.jetbrains.com/go/goland-2025.3.5.exe|857488776|binary/octet-stream|1780646762
+jetbrains|GoLand/release/2025.3/2025.3.5/macM1/goland-2025.3.5-aarch64.dmg|https://download.jetbrains.com/go/goland-2025.3.5-aarch64.dmg|1084641043|binary/octet-stream|1780646758
+jetbrains|GoLand/release/2025.3/2025.3.5/mac/goland-2025.3.5.dmg|https://download.jetbrains.com/go/goland-2025.3.5.dmg|1096530205|binary/octet-stream|1780646760
+jetbrains|GoLand/release/2025.3/2025.3.5/windowsARM64/goland-2025.3.5-aarch64.exe|https://download.jetbrains.com/go/goland-2025.3.5-aarch64.exe|817093616|binary/octet-stream|1780646758
+jetbrains|GoLand/release/2025.3/2025.3.5/linuxARM64/goland-2025.3.5-aarch64.tar.gz|https://download.jetbrains.com/go/goland-2025.3.5-aarch64.tar.gz|1153941649|binary/octet-stream|1780646767
+jetbrains|GoLand/release/2025.3/2025.3.5/windowsZip/goland-2025.3.5.win.zip|https://download.jetbrains.com/go/goland-2025.3.5.win.zip|1169528190|binary/octet-stream|1780646766

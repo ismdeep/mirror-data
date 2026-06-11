@@ -10000,3 +10000,10 @@ jetbrains|CLion/release/2026.1/2026.1.3/windowsARM64/CLion-2026.1.3-aarch64.exe|
 jetbrains|CLion/release/2026.1/2026.1.3/mac/CLion-2026.1.3.dmg|https://download.jetbrains.com/cpp/CLion-2026.1.3.dmg|1739978792|binary/octet-stream|1780988314
 jetbrains|CLion/release/2026.1/2026.1.3/linuxARM64/CLion-2026.1.3-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2026.1.3-aarch64.tar.gz|1749907159|binary/octet-stream|1780988320
 jetbrains|CLion/release/2026.1/2026.1.3/windowsZip/CLion-2026.1.3.win.zip|https://download.jetbrains.com/cpp/CLion-2026.1.3.win.zip|2077831527|binary/octet-stream|1780988321
+jetbrains|GoLand/release/2026.1/2026.1.3/linux/goland-2026.1.3.tar.gz|https://download.jetbrains.com/go/goland-2026.1.3.tar.gz|1203691962|binary/octet-stream|1781083688
+jetbrains|GoLand/release/2026.1/2026.1.3/macM1/goland-2026.1.3-aarch64.dmg|https://download.jetbrains.com/go/goland-2026.1.3-aarch64.dmg|1133912348|binary/octet-stream|1781083665
+jetbrains|GoLand/release/2026.1/2026.1.3/windows/goland-2026.1.3.exe|https://download.jetbrains.com/go/goland-2026.1.3.exe|911053072|binary/octet-stream|1781083697
+jetbrains|GoLand/release/2026.1/2026.1.3/mac/goland-2026.1.3.dmg|https://download.jetbrains.com/go/goland-2026.1.3.dmg|1180214579|binary/octet-stream|1781083682
+jetbrains|GoLand/release/2026.1/2026.1.3/windowsARM64/goland-2026.1.3-aarch64.exe|https://download.jetbrains.com/go/goland-2026.1.3-aarch64.exe|900135320|binary/octet-stream|1781083665
+jetbrains|GoLand/release/2026.1/2026.1.3/linuxARM64/goland-2026.1.3-aarch64.tar.gz|https://download.jetbrains.com/go/goland-2026.1.3-aarch64.tar.gz|1198712872|binary/octet-stream|1781083676
+jetbrains|GoLand/release/2026.1/2026.1.3/windowsZip/goland-2026.1.3.win.zip|https://download.jetbrains.com/go/goland-2026.1.3.win.zip|1216983038|binary/octet-stream|1781083696

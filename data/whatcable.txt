@@ -142,3 +142,5 @@ whatcable|v1.0.5/whatcable-cli-1.0.5.zip|https://github.com/darrylmorley/whatcab
 whatcable|v1.0.5/WhatCable.zip|https://github.com/darrylmorley/whatcable/releases/download/v1.0.5/WhatCable.zip|14338424|application/octet-stream|1781697952
 whatcable|v1.0.6/WhatCable.zip|https://github.com/darrylmorley/whatcable/releases/download/v1.0.6/WhatCable.zip|14420348|application/octet-stream|1781792860
 whatcable|v1.0.6/whatcable-cli-1.0.6.zip|https://github.com/darrylmorley/whatcable/releases/download/v1.0.6/whatcable-cli-1.0.6.zip|5437999|application/octet-stream|1781792859
+whatcable|v1.1.0/WhatCable.zip|https://github.com/darrylmorley/whatcable/releases/download/v1.1.0/WhatCable.zip|15183593|application/octet-stream|1781873698
+whatcable|v1.1.0/whatcable-cli-1.1.0.zip|https://github.com/darrylmorley/whatcable/releases/download/v1.1.0/whatcable-cli-1.1.0.zip|5800632|application/octet-stream|1781873697

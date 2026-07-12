@@ -10081,3 +10081,10 @@ jetbrains|PyCharm/release/2026.1/2026.1.4/windows/pycharm-2026.1.4.exe|https://d
 jetbrains|PyCharm/release/2026.1/2026.1.4/windowsARM64/pycharm-2026.1.4-aarch64.exe|https://download.jetbrains.com/python/pycharm-2026.1.4-aarch64.exe|909129712|binary/octet-stream|1783081795
 jetbrains|PyCharm/release/2026.1/2026.1.4/windowsZip/pycharm-2026.1.4.win.zip|https://download.jetbrains.com/python/pycharm-2026.1.4.win.zip|1254616868|binary/octet-stream|1783081802
 jetbrains|PyCharm/release/2026.1/2026.1.4/windowsZipARM64/pycharm-2026.1.4-aarch64.win.zip|https://download.jetbrains.com/python/pycharm-2026.1.4-aarch64.win.zip|1243117360|binary/octet-stream|1783081797
+jetbrains|DataGrip/release/2026.1/2026.1.4/windows/datagrip-2026.1.4.exe|https://download.jetbrains.com/datagrip/datagrip-2026.1.4.exe|893130176|binary/octet-stream|1783703192
+jetbrains|DataGrip/release/2026.1/2026.1.4/linux/datagrip-2026.1.4.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2026.1.4.tar.gz|1122162731|binary/octet-stream|1783703193
+jetbrains|DataGrip/release/2026.1/2026.1.4/windowsARM64/datagrip-2026.1.4-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2026.1.4-aarch64.exe|892447512|binary/octet-stream|1783703190
+jetbrains|DataGrip/release/2026.1/2026.1.4/windowsZip/datagrip-2026.1.4.win.zip|https://download.jetbrains.com/datagrip/datagrip-2026.1.4.win.zip|1123757608|binary/octet-stream|1783703196
+jetbrains|DataGrip/release/2026.1/2026.1.4/macM1/datagrip-2026.1.4-aarch64.dmg|https://download.jetbrains.com/datagrip/datagrip-2026.1.4-aarch64.dmg|1060029267|binary/octet-stream|1783703190
+jetbrains|DataGrip/release/2026.1/2026.1.4/mac/datagrip-2026.1.4.dmg|https://download.jetbrains.com/datagrip/datagrip-2026.1.4.dmg|1108027702|binary/octet-stream|1783703195
+jetbrains|DataGrip/release/2026.1/2026.1.4/linuxARM64/datagrip-2026.1.4-aarch64.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2026.1.4-aarch64.tar.gz|1117373493|binary/octet-stream|1783703197

@@ -2,3 +2,15 @@ ismdeep-anu|0.0.1/anu_linux_amd64|https://github.com/ismdeep/anu/releases/downlo
 ismdeep-anu|0.0.1/anu_linux_arm64|https://github.com/ismdeep/anu/releases/download/0.0.1/anu_linux_arm64|2949282|application/octet-stream|1779116239
 ismdeep-anu|0.0.1/anu_darwin_amd64|https://github.com/ismdeep/anu/releases/download/0.0.1/anu_darwin_amd64|3153072|application/octet-stream|1779116239
 ismdeep-anu|0.0.1/anu_darwin_arm64|https://github.com/ismdeep/anu/releases/download/0.0.1/anu_darwin_arm64|3012658|application/octet-stream|1779116239
+ismdeep-anu|1.1.1/anu_darwin_amd64|https://github.com/ismdeep/anu/releases/download/1.1.1/anu_darwin_amd64|3157168|application/octet-stream|1783985201
+ismdeep-anu|1.1.1/anu_linux_amd64|https://github.com/ismdeep/anu/releases/download/1.1.1/anu_linux_amd64|3125410|application/octet-stream|1783985201
+ismdeep-anu|1.1.1/anu_linux_arm64|https://github.com/ismdeep/anu/releases/download/1.1.1/anu_linux_arm64|3014818|application/octet-stream|1783985201
+ismdeep-anu|1.1.1/anu_darwin_arm64|https://github.com/ismdeep/anu/releases/download/1.1.1/anu_darwin_arm64|3029186|application/octet-stream|1783985201
+ismdeep-anu|1.0.0/anu_linux_arm64|https://github.com/ismdeep/anu/releases/download/1.0.0/anu_linux_arm64|3014818|application/octet-stream|1783952440
+ismdeep-anu|1.0.0/anu_darwin_amd64|https://github.com/ismdeep/anu/releases/download/1.0.0/anu_darwin_amd64|3157168|application/octet-stream|1783952441
+ismdeep-anu|1.1.0/anu_darwin_amd64|https://github.com/ismdeep/anu/releases/download/1.1.0/anu_darwin_amd64|3157168|application/octet-stream|1783952857
+ismdeep-anu|1.1.0/anu_linux_amd64|https://github.com/ismdeep/anu/releases/download/1.1.0/anu_linux_amd64|3125410|application/octet-stream|1783952857
+ismdeep-anu|1.0.0/anu_linux_amd64|https://github.com/ismdeep/anu/releases/download/1.0.0/anu_linux_amd64|3125410|application/octet-stream|1783952440
+ismdeep-anu|1.0.0/anu_darwin_arm64|https://github.com/ismdeep/anu/releases/download/1.0.0/anu_darwin_arm64|3029170|application/octet-stream|1783952440
+ismdeep-anu|1.1.0/anu_darwin_arm64|https://github.com/ismdeep/anu/releases/download/1.1.0/anu_darwin_arm64|3029170|application/octet-stream|1783952857
+ismdeep-anu|1.1.0/anu_linux_arm64|https://github.com/ismdeep/anu/releases/download/1.1.0/anu_linux_arm64|3014818|application/octet-stream|1783952857

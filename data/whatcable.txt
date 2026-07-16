@@ -162,3 +162,9 @@ whatcable|v1.1.9/whatcable-cli-1.1.9.zip|https://github.com/darrylmorley/whatcab
 whatcable|v1.1.8/whatcable-cli-1.1.8.zip|https://github.com/darrylmorley/whatcable/releases/download/v1.1.8/whatcable-cli-1.1.8.zip|5997318|application/octet-stream|1783697272
 whatcable|v1.1.9/WhatCable.zip|https://github.com/darrylmorley/whatcable/releases/download/v1.1.9/WhatCable.zip|15838880|application/octet-stream|1783714778
 whatcable|v1.1.8/WhatCable.zip|https://github.com/darrylmorley/whatcable/releases/download/v1.1.8/WhatCable.zip|15730756|application/octet-stream|1783697273
+whatcable|v1.2.0/WhatCable.zip|https://github.com/darrylmorley/whatcable/releases/download/v1.2.0/WhatCable.zip|16048761|application/octet-stream|1784137593
+whatcable|v1.2.0/whatcable-cli-1.2.0.zip|https://github.com/darrylmorley/whatcable/releases/download/v1.2.0/whatcable-cli-1.2.0.zip|6103972|application/octet-stream|1784137591
+whatcable|v1.2.0-beta.1/whatcable-cli-1.2.0-beta.1.zip|https://github.com/darrylmorley/whatcable/releases/download/v1.2.0-beta.1/whatcable-cli-1.2.0-beta.1.zip|6103925|application/octet-stream|1784120560
+whatcable|v1.2.0-beta.2/WhatCable.zip|https://github.com/darrylmorley/whatcable/releases/download/v1.2.0-beta.2/WhatCable.zip|16048722|application/octet-stream|1784135911
+whatcable|v1.2.0-beta.1/WhatCable.zip|https://github.com/darrylmorley/whatcable/releases/download/v1.2.0-beta.1/WhatCable.zip|16048421|application/octet-stream|1784120561
+whatcable|v1.2.0-beta.2/whatcable-cli-1.2.0-beta.2.zip|https://github.com/darrylmorley/whatcable/releases/download/v1.2.0-beta.2/whatcable-cli-1.2.0-beta.2.zip|6103982|application/octet-stream|1784135910

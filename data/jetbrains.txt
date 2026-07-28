@@ -10195,3 +10195,11 @@ jetbrains|GoLand/release/2026.2/2026.2.0.1/mac/goland-2026.2.0.1.dmg|https://dow
 jetbrains|GoLand/release/2026.2/2026.2.0.1/windows/goland-2026.2.0.1.exe|https://download.jetbrains.com/go/goland-2026.2.0.1.exe|937142216|binary/octet-stream|1784879085
 jetbrains|GoLand/release/2026.2/2026.2.0.1/windowsARM64/goland-2026.2.0.1-aarch64.exe|https://download.jetbrains.com/go/goland-2026.2.0.1-aarch64.exe|927744344|binary/octet-stream|1784879055
 jetbrains|GoLand/release/2026.2/2026.2.0.1/windowsZip/goland-2026.2.0.1.win.zip|https://download.jetbrains.com/go/goland-2026.2.0.1.win.zip|1256178943|binary/octet-stream|1784879099
+jetbrains|PyCharm/release/2026.2/2026.2.0.1/windows/pycharm-2026.2.0.1.exe|https://download.jetbrains.com/python/pycharm-2026.2.0.1.exe|947386784|binary/octet-stream|1785179114
+jetbrains|PyCharm/release/2026.2/2026.2.0.1/windowsARM64/pycharm-2026.2.0.1-aarch64.exe|https://download.jetbrains.com/python/pycharm-2026.2.0.1-aarch64.exe|922074184|binary/octet-stream|1785179108
+jetbrains|PyCharm/release/2026.2/2026.2.0.1/macM1/pycharm-2026.2.0.1-aarch64.dmg|https://download.jetbrains.com/python/pycharm-2026.2.0.1-aarch64.dmg|1206277311|binary/octet-stream|1785179108
+jetbrains|PyCharm/release/2026.2/2026.2.0.1/linuxARM64/pycharm-2026.2.0.1-aarch64.tar.gz|https://download.jetbrains.com/python/pycharm-2026.2.0.1-aarch64.tar.gz|1299403672|binary/octet-stream|1785179109
+jetbrains|PyCharm/release/2026.2/2026.2.0.1/windowsZip/pycharm-2026.2.0.1.win.zip|https://download.jetbrains.com/python/pycharm-2026.2.0.1.win.zip|1303162854|binary/octet-stream|1785179117
+jetbrains|PyCharm/release/2026.2/2026.2.0.1/mac/pycharm-2026.2.0.1.dmg|https://download.jetbrains.com/python/pycharm-2026.2.0.1.dmg|1255554794|binary/octet-stream|1785179111
+jetbrains|PyCharm/release/2026.2/2026.2.0.1/linux/pycharm-2026.2.0.1.tar.gz|https://download.jetbrains.com/python/pycharm-2026.2.0.1.tar.gz|1276337688|binary/octet-stream|1785179115
+jetbrains|PyCharm/release/2026.2/2026.2.0.1/windowsZipARM64/pycharm-2026.2.0.1-aarch64.win.zip|https://download.jetbrains.com/python/pycharm-2026.2.0.1-aarch64.win.zip|1267751064|binary/octet-stream|1785179108

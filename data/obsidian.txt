@@ -945,3 +945,12 @@ obsidian|v1.12.7/Obsidian-1.12.7.exe|https://github.com/obsidianmd/obsidian-rele
 obsidian|v1.12.7/Obsidian-1.12.7.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/Obsidian-1.12.7.dmg|213334249|application/octet-stream|1774279523
 obsidian|v1.12.7/obsidian-1.12.7.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/obsidian-1.12.7.asar.gz|8323080|application/octet-stream|1774279672
 obsidian|v1.12.7/Obsidian-1.12.7-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/Obsidian-1.12.7-arm64.AppImage|124625813|application/octet-stream|1774279637
+obsidian|v1.13.4/Obsidian-1.13.4.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.4/Obsidian-1.13.4.exe|326879800|application/octet-stream|1785356071
+obsidian|v1.13.4/Obsidian-1.13.4-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.4/Obsidian-1.13.4-arm64.AppImage|135885317|application/octet-stream|1785356074
+obsidian|v1.13.4/obsidian-1.13.4.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.4/obsidian-1.13.4.asar.gz|8772423|application/octet-stream|1785356097
+obsidian|v1.13.4/Obsidian-1.13.4.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.4/Obsidian-1.13.4.dmg|228041400|application/octet-stream|1785356091
+obsidian|v1.13.4/Obsidian-1.13.4.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.4/Obsidian-1.13.4.AppImage|136093654|application/octet-stream|1785356077
+obsidian|v1.13.4/Obsidian-1.13.4.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.4/Obsidian-1.13.4.apk|15447027|application/vnd.android.package-archive|1785356134
+obsidian|v1.13.4/obsidian_1.13.4_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.4/obsidian_1.13.4_amd64.deb|106429776|application/octet-stream|1785356084
+obsidian|v1.13.4/obsidian-1.13.4-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.4/obsidian-1.13.4-arm64.tar.gz|128253767|application/octet-stream|1785356079
+obsidian|v1.13.4/obsidian-1.13.4.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.4/obsidian-1.13.4.tar.gz|128723599|application/octet-stream|1785356082

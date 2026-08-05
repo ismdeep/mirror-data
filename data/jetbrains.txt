@@ -10447,3 +10447,9 @@ jetbrains|Rider/release/2026.2/2026.2.0.2/windowsARM64/JetBrains.Rider-2026.2.0.
 jetbrains|Rider/release/2026.2/2026.2.0.2/macM1/JetBrains.Rider-2026.2.0.2-aarch64.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.0.2-aarch64.dmg|2176982495|binary/octet-stream|1785757980
 jetbrains|Rider/release/2026.2/2026.2.0.2/windows/JetBrains.Rider-2026.2.0.2.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.0.2.exe|1913993960|binary/octet-stream|1785758023
 jetbrains|Rider/release/2026.2/2026.2.0.2/windowsZipARM64/JetBrains.Rider-2026.2.0.2-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.0.2-aarch64.win.zip|2825328802|binary/octet-stream|1785758151
+jetbrains|DataSpell/release/2025.3/2025.3.3/linuxARM64/dataspell-2025.3.3-aarch64.tar.gz|https://download.jetbrains.com/python/dataspell-2025.3.3-aarch64.tar.gz|1217902949|binary/octet-stream|1785841497
+jetbrains|DataSpell/release/2025.3/2025.3.3/linux/dataspell-2025.3.3.tar.gz|https://download.jetbrains.com/python/dataspell-2025.3.3.tar.gz|1221349872|binary/octet-stream|1785841501
+jetbrains|DataSpell/release/2025.3/2025.3.3/windowsARM64/dataspell-2025.3.3-aarch64.exe|https://download.jetbrains.com/python/dataspell-2025.3.3-aarch64.exe|912626832|binary/octet-stream|1785841497
+jetbrains|DataSpell/release/2025.3/2025.3.3/macM1/dataspell-2025.3.3-aarch64.dmg|https://download.jetbrains.com/python/dataspell-2025.3.3-aarch64.dmg|1180603279|binary/octet-stream|1785841497
+jetbrains|DataSpell/release/2025.3/2025.3.3/mac/dataspell-2025.3.3.dmg|https://download.jetbrains.com/python/dataspell-2025.3.3.dmg|1192338888|binary/octet-stream|1785841499
+jetbrains|DataSpell/release/2025.3/2025.3.3/windows/dataspell-2025.3.3.exe|https://download.jetbrains.com/python/dataspell-2025.3.3.exe|944827312|binary/octet-stream|1785841499

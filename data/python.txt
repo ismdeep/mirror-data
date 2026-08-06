@@ -863,3 +863,5 @@ python|3.14.6/Python-3.14.6.tar.xz|https://www.python.org/ftp/python/3.14.6/Pyth
 python|3.15.0/Python-3.15.0b3.tar.xz|https://www.python.org/ftp/python/3.15.0/Python-3.15.0b3.tar.xz|35459584|application/octet-stream|1782209701
 python|3.15.0/Python-3.15.0b4.tar.xz|https://www.python.org/ftp/python/3.15.0/Python-3.15.0b4.tar.xz|35509544|application/octet-stream|1784364585
 python|3.15.0/Python-3.15.0rc1.tar.xz|https://www.python.org/ftp/python/3.15.0/Python-3.15.0rc1.tar.xz|35516700|application/octet-stream|1785845682
+python|3.13.15/Python-3.13.15.tar.xz|https://www.python.org/ftp/python/3.13.15/Python-3.13.15.tar.xz|23160540|application/octet-stream|1785935977
+python|3.14.7/Python-3.14.7.tar.xz|https://www.python.org/ftp/python/3.14.7/Python-3.14.7.tar.xz|24053924|application/octet-stream|1785928907

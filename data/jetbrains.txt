@@ -10475,3 +10475,10 @@ jetbrains|Rider/release/2026.1/2026.1.5/windowsZip/JetBrains.Rider-2026.1.5.win.
 jetbrains|Rider/release/2026.1/2026.1.5/macM1/JetBrains.Rider-2026.1.5-aarch64.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2026.1.5-aarch64.dmg|2120462145|binary/octet-stream|1785928277
 jetbrains|Rider/release/2026.1/2026.1.5/linuxARM64/JetBrains.Rider-2026.1.5-aarch64.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2026.1.5-aarch64.tar.gz|2088529033|binary/octet-stream|1785928582
 jetbrains|Rider/release/2026.1/2026.1.5/windowsZipARM64/JetBrains.Rider-2026.1.5-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2026.1.5-aarch64.win.zip|2539494649|binary/octet-stream|1785928485
+jetbrains|DataGrip/release/2026.2/2026.2.3/mac/datagrip-2026.2.3.dmg|https://download.jetbrains.com/datagrip/datagrip-2026.2.3.dmg|1061387954|binary/octet-stream|1786017857
+jetbrains|DataGrip/release/2026.2/2026.2.3/linux/datagrip-2026.2.3.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2026.2.3.tar.gz|1082236229|binary/octet-stream|1786017860
+jetbrains|DataGrip/release/2026.2/2026.2.3/macM1/datagrip-2026.2.3-aarch64.dmg|https://download.jetbrains.com/datagrip/datagrip-2026.2.3-aarch64.dmg|1013487437|binary/octet-stream|1786017855
+jetbrains|DataGrip/release/2026.2/2026.2.3/windowsZip/datagrip-2026.2.3.win.zip|https://download.jetbrains.com/datagrip/datagrip-2026.2.3.win.zip|1094494539|binary/octet-stream|1786017862
+jetbrains|DataGrip/release/2026.2/2026.2.3/linuxARM64/datagrip-2026.2.3-aarch64.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2026.2.3-aarch64.tar.gz|1105857143|binary/octet-stream|1786017855
+jetbrains|DataGrip/release/2026.2/2026.2.3/windows/datagrip-2026.2.3.exe|https://download.jetbrains.com/datagrip/datagrip-2026.2.3.exe|844943592|binary/octet-stream|1786017859
+jetbrains|DataGrip/release/2026.2/2026.2.3/windowsARM64/datagrip-2026.2.3-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2026.2.3-aarch64.exe|835716192|binary/octet-stream|1786017855

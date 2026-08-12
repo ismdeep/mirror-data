@@ -10503,3 +10503,10 @@ jetbrains|GoLand/release/2026.2/2026.2.1/linuxARM64/goland-2026.2.1-aarch64.tar.
 jetbrains|GoLand/release/2026.2/2026.2.1/linux/goland-2026.2.1.tar.gz|https://download.jetbrains.com/go/goland-2026.2.1.tar.gz|1228692308|binary/octet-stream|1786370273
 jetbrains|GoLand/release/2026.2/2026.2.1/windowsARM64/goland-2026.2.1-aarch64.exe|https://download.jetbrains.com/go/goland-2026.2.1-aarch64.exe|914524552|binary/octet-stream|1786370268
 jetbrains|GoLand/release/2026.2/2026.2.1/windowsZip/goland-2026.2.1.win.zip|https://download.jetbrains.com/go/goland-2026.2.1.win.zip|1241427300|binary/octet-stream|1786370273
+jetbrains|RubyMine/release/2026.2/2026.2.1/macM1/RubyMine-2026.2.1-aarch64.dmg|https://download.jetbrains.com/ruby/RubyMine-2026.2.1-aarch64.dmg|1000941157|binary/octet-stream|1786435097
+jetbrains|RubyMine/release/2026.2/2026.2.1/linux/RubyMine-2026.2.1.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2026.2.1.tar.gz|1071602261|binary/octet-stream|1786435103
+jetbrains|RubyMine/release/2026.2/2026.2.1/linuxARM64/RubyMine-2026.2.1-aarch64.tar.gz|https://download.jetbrains.com/ruby/RubyMine-2026.2.1-aarch64.tar.gz|1095230942|binary/octet-stream|1786435097
+jetbrains|RubyMine/release/2026.2/2026.2.1/mac/RubyMine-2026.2.1.dmg|https://download.jetbrains.com/ruby/RubyMine-2026.2.1.dmg|1049100845|binary/octet-stream|1786435100
+jetbrains|RubyMine/release/2026.2/2026.2.1/windows/RubyMine-2026.2.1.exe|https://download.jetbrains.com/ruby/RubyMine-2026.2.1.exe|802460592|binary/octet-stream|1786435102
+jetbrains|RubyMine/release/2026.2/2026.2.1/windowsARM64/RubyMine-2026.2.1-aarch64.exe|https://download.jetbrains.com/ruby/RubyMine-2026.2.1-aarch64.exe|793233600|binary/octet-stream|1786435097
+jetbrains|RubyMine/release/2026.2/2026.2.1/windowsZip/RubyMine-2026.2.1.win.zip|https://download.jetbrains.com/ruby/RubyMine-2026.2.1.win.zip|1093557970|binary/octet-stream|1786435105

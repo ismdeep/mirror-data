@@ -1025,3 +1025,14 @@ pandoc|3.10.1/pandoc-wasm.zip|https://github.com/jgm/pandoc/releases/download/3.
 pandoc|3.10.1/pandoc-3.10.1-windows-x86_64.zip|https://github.com/jgm/pandoc/releases/download/3.10.1/pandoc-3.10.1-windows-x86_64.zip|41675076|application/octet-stream|1784741519
 pandoc|3.10.1/pandoc-3.10.1-x86_64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.10.1/pandoc-3.10.1-x86_64-macOS.pkg|26051713|application/octet-stream|1784741523
 pandoc|3.10.1/pandoc-3.10.1-linux-arm64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.10.1/pandoc-3.10.1-linux-arm64.tar.gz|37328794|application/octet-stream|1784741508
+pandoc|3.10.2/pandoc-3.10.2-windows-x86_64.msi|https://github.com/jgm/pandoc/releases/download/3.10.2/pandoc-3.10.2-windows-x86_64.msi|41394176|application/octet-stream|1786561437
+pandoc|3.10.2/pandoc-3.10.2-x86_64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.10.2/pandoc-3.10.2-x86_64-macOS.pkg|26052715|application/octet-stream|1786561383
+pandoc|3.10.2/pandoc-3.10.2-arm64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.10.2/pandoc-3.10.2-arm64-macOS.zip|41747373|application/octet-stream|1786561410
+pandoc|3.10.2/pandoc-3.10.2-1-amd64.deb|https://github.com/jgm/pandoc/releases/download/3.10.2/pandoc-3.10.2-1-amd64.deb|34309822|application/octet-stream|1786561364
+pandoc|3.10.2/pandoc-3.10.2-linux-amd64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.10.2/pandoc-3.10.2-linux-amd64.tar.gz|34877720|application/octet-stream|1786561419
+pandoc|3.10.2/pandoc-3.10.2-1-arm64.deb|https://github.com/jgm/pandoc/releases/download/3.10.2/pandoc-3.10.2-1-arm64.deb|36798968|application/octet-stream|1786561391
+pandoc|3.10.2/pandoc-3.10.2-linux-arm64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.10.2/pandoc-3.10.2-linux-arm64.tar.gz|37331747|application/octet-stream|1786561427
+pandoc|3.10.2/pandoc-3.10.2-windows-x86_64.zip|https://github.com/jgm/pandoc/releases/download/3.10.2/pandoc-3.10.2-windows-x86_64.zip|41677120|application/octet-stream|1786561446
+pandoc|3.10.2/pandoc-3.10.2-x86_64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.10.2/pandoc-3.10.2-x86_64-macOS.zip|26101017|application/octet-stream|1786561375
+pandoc|3.10.2/pandoc-3.10.2-arm64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.10.2/pandoc-3.10.2-arm64-macOS.pkg|41608515|application/octet-stream|1786561401
+pandoc|3.10.2/pandoc-wasm-3.10.2.zip|https://github.com/jgm/pandoc/releases/download/3.10.2/pandoc-wasm-3.10.2.zip|16372045|application/octet-stream|1786561368

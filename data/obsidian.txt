@@ -963,3 +963,12 @@ obsidian|v1.13.6/obsidian-1.13.6.asar.gz|https://github.com/obsidianmd/obsidian-
 obsidian|v1.13.6/Obsidian-1.13.6-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.6/Obsidian-1.13.6-arm64.AppImage|135370338|application/octet-stream|1786370079
 obsidian|v1.13.6/obsidian-1.13.6.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.6/obsidian-1.13.6.tar.gz|129527897|application/octet-stream|1786369970
 obsidian|v1.13.6/obsidian-1.13.6-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.6/obsidian-1.13.6-arm64.tar.gz|127753666|application/octet-stream|1786370193
+obsidian|v1.13.7/Obsidian-1.13.7.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.7/Obsidian-1.13.7.apk|15448046|application/vnd.android.package-archive|1786541895
+obsidian|v1.13.7/obsidian_1.13.7_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.7/obsidian_1.13.7_amd64.deb|107021628|application/octet-stream|1786541855
+obsidian|v1.13.7/obsidian-1.13.7-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.7/obsidian-1.13.7-arm64.tar.gz|127754080|application/octet-stream|1786541831
+obsidian|v1.13.7/Obsidian-1.13.7.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.7/Obsidian-1.13.7.exe|331012528|application/octet-stream|1786541843
+obsidian|v1.13.7/obsidian-1.13.7.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.7/obsidian-1.13.7.asar.gz|8773048|application/octet-stream|1786541867
+obsidian|v1.13.7/Obsidian-1.13.7.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.7/Obsidian-1.13.7.AppImage|136902072|application/octet-stream|1786541833
+obsidian|v1.13.7/obsidian-1.13.7.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.7/obsidian-1.13.7.tar.gz|129462096|application/octet-stream|1786541825
+obsidian|v1.13.7/Obsidian-1.13.7-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.7/Obsidian-1.13.7-arm64.AppImage|135373906|application/octet-stream|1786541828
+obsidian|v1.13.7/Obsidian-1.13.7.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.7/Obsidian-1.13.7.dmg|228339193|application/octet-stream|1786541838

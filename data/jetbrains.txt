@@ -10583,3 +10583,10 @@ jetbrains|Rider/release/2026.2/2026.2.1/windowsZip/JetBrains.Rider-2026.2.1.win.
 jetbrains|Rider/release/2026.2/2026.2.1/windowsARM64/JetBrains.Rider-2026.2.1-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.1-aarch64.exe|1962499040|binary/octet-stream|1787148708
 jetbrains|Rider/release/2026.2/2026.2.1/windowsZipARM64/JetBrains.Rider-2026.2.1-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.1-aarch64.win.zip|2822584290|binary/octet-stream|1787148801
 jetbrains|GoLand/release/2026.2/2026.2.1.1/windowsZip/goland-2026.2.1.1.win.zip|https://download.jetbrains.com/go/goland-2026.2.1.1.win.zip|1240922427|binary/octet-stream|1787138480
+jetbrains|DataGrip/release/2026.2/2026.2.4/macM1/datagrip-2026.2.4-aarch64.dmg|https://download.jetbrains.com/datagrip/datagrip-2026.2.4-aarch64.dmg|1013036848|binary/octet-stream|1787235571
+jetbrains|DataGrip/release/2026.2/2026.2.4/mac/datagrip-2026.2.4.dmg|https://download.jetbrains.com/datagrip/datagrip-2026.2.4.dmg|1061220868|binary/octet-stream|1787235572
+jetbrains|DataGrip/release/2026.2/2026.2.4/linux/datagrip-2026.2.4.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2026.2.4.tar.gz|1082235032|binary/octet-stream|1787235576
+jetbrains|DataGrip/release/2026.2/2026.2.4/windowsARM64/datagrip-2026.2.4-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2026.2.4-aarch64.exe|835677616|binary/octet-stream|1787235571
+jetbrains|DataGrip/release/2026.2/2026.2.4/windows/datagrip-2026.2.4.exe|https://download.jetbrains.com/datagrip/datagrip-2026.2.4.exe|844825224|binary/octet-stream|1787235574
+jetbrains|DataGrip/release/2026.2/2026.2.4/windowsZip/datagrip-2026.2.4.win.zip|https://download.jetbrains.com/datagrip/datagrip-2026.2.4.win.zip|1094522188|binary/octet-stream|1787235577
+jetbrains|DataGrip/release/2026.2/2026.2.4/linuxARM64/datagrip-2026.2.4-aarch64.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2026.2.4-aarch64.tar.gz|1105712855|binary/octet-stream|1787235571

@@ -1036,3 +1036,14 @@ pandoc|3.10.2/pandoc-3.10.2-windows-x86_64.zip|https://github.com/jgm/pandoc/rel
 pandoc|3.10.2/pandoc-3.10.2-x86_64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.10.2/pandoc-3.10.2-x86_64-macOS.zip|26101017|application/octet-stream|1786561375
 pandoc|3.10.2/pandoc-3.10.2-arm64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.10.2/pandoc-3.10.2-arm64-macOS.pkg|41608515|application/octet-stream|1786561401
 pandoc|3.10.2/pandoc-wasm-3.10.2.zip|https://github.com/jgm/pandoc/releases/download/3.10.2/pandoc-wasm-3.10.2.zip|16372045|application/octet-stream|1786561368
+pandoc|3.11/pandoc-3.11-linux-amd64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.11/pandoc-3.11-linux-amd64.tar.gz|34940580|application/octet-stream|1787964563
+pandoc|3.11/pandoc-3.11-windows-x86_64.zip|https://github.com/jgm/pandoc/releases/download/3.11/pandoc-3.11-windows-x86_64.zip|41761100|application/octet-stream|1787964591
+pandoc|3.11/pandoc-3.11-windows-x86_64.msi|https://github.com/jgm/pandoc/releases/download/3.11/pandoc-3.11-windows-x86_64.msi|41484288|application/octet-stream|1787964582
+pandoc|3.11/pandoc-3.11-arm64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.11/pandoc-3.11-arm64-macOS.zip|41832712|application/octet-stream|1787964556
+pandoc|3.11/pandoc-3.11-arm64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.11/pandoc-3.11-arm64-macOS.pkg|41694931|application/octet-stream|1787964545
+pandoc|3.11/pandoc-3.11-1-amd64.deb|https://github.com/jgm/pandoc/releases/download/3.11/pandoc-3.11-1-amd64.deb|34368702|application/octet-stream|1787964527
+pandoc|3.11/pandoc-3.11-linux-arm64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.11/pandoc-3.11-linux-arm64.tar.gz|37408185|application/octet-stream|1787964572
+pandoc|3.11/pandoc-3.11-x86_64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.11/pandoc-3.11-x86_64-macOS.pkg|26093618|application/octet-stream|1787964597
+pandoc|3.11/pandoc-3.11-x86_64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.11/pandoc-3.11-x86_64-macOS.zip|26145603|application/octet-stream|1787964603
+pandoc|3.11/pandoc-3.11-1-arm64.deb|https://github.com/jgm/pandoc/releases/download/3.11/pandoc-3.11-1-arm64.deb|36872292|application/octet-stream|1787964536
+pandoc|3.11/pandoc-3.11.wasm.zip|https://github.com/jgm/pandoc/releases/download/3.11/pandoc-3.11.wasm.zip|16415572|application/octet-stream|1787964607

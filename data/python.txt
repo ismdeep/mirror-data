@@ -868,3 +868,4 @@ python|3.14.7/Python-3.14.7.tar.xz|https://www.python.org/ftp/python/3.14.7/Pyth
 python|3.10.21/Python-3.10.21.tar.xz|https://www.python.org/ftp/python/3.10.21/Python-3.10.21.tar.xz|19896516|application/octet-stream|1786578662
 python|3.11.16/Python-3.11.16.tar.xz|https://www.python.org/ftp/python/3.11.16/Python-3.11.16.tar.xz|20328716|application/octet-stream|1786578682
 python|3.12.14/Python-3.12.14.tar.xz|https://www.python.org/ftp/python/3.12.14/Python-3.12.14.tar.xz|20820300|application/octet-stream|1786570927
+python|3.15.0/Python-3.15.0rc2.tar.xz|https://www.python.org/ftp/python/3.15.0/Python-3.15.0rc2.tar.xz|35544464|application/octet-stream|1788256578

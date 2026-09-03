@@ -10614,3 +10614,17 @@ jetbrains|Rider/release/2025.2/2025.2.6.2/windows/JetBrains.Rider-2025.2.6.2.exe
 jetbrains|Rider/release/2025.2/2025.2.6.2/mac/JetBrains.Rider-2025.2.6.2.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.6.2.dmg|2032938414|binary/octet-stream|1788259363
 jetbrains|Rider/release/2025.2/2025.2.6.2/macM1/JetBrains.Rider-2025.2.6.2-aarch64.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.6.2-aarch64.dmg|2057497801|binary/octet-stream|1788259407
 jetbrains|Rider/release/2025.2/2025.2.6.2/windowsZip/JetBrains.Rider-2025.2.6.2.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.6.2.win.zip|2307411737|binary/octet-stream|1788259523
+jetbrains|CLion/release/2026.2/2026.2.2/macM1/CLion-2026.2.2-aarch64.dmg|https://download.jetbrains.com/cpp/CLion-2026.2.2-aarch64.dmg|1731386265|binary/octet-stream|1788352753
+jetbrains|CLion/release/2026.2/2026.2.2/linux/CLion-2026.2.2.tar.gz|https://download.jetbrains.com/cpp/CLion-2026.2.2.tar.gz|1849755361|binary/octet-stream|1788352766
+jetbrains|CLion/release/2026.2/2026.2.2/windows/CLion-2026.2.2.exe|https://download.jetbrains.com/cpp/CLion-2026.2.2.exe|1709309064|binary/octet-stream|1788352764
+jetbrains|CLion/release/2026.2/2026.2.2/windowsZip/CLion-2026.2.2.win.zip|https://download.jetbrains.com/cpp/CLion-2026.2.2.win.zip|2343820275|binary/octet-stream|1788352766
+jetbrains|CLion/release/2026.2/2026.2.2/mac/CLion-2026.2.2.dmg|https://download.jetbrains.com/cpp/CLion-2026.2.2.dmg|1743397365|binary/octet-stream|1788352758
+jetbrains|CLion/release/2026.2/2026.2.2/windowsARM64/CLion-2026.2.2-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2026.2.2-aarch64.exe|1981392240|binary/octet-stream|1788352753
+jetbrains|CLion/release/2026.2/2026.2.2/linuxARM64/CLion-2026.2.2-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2026.2.2-aarch64.tar.gz|1866685894|binary/octet-stream|1788352753
+jetbrains|IDEA/release/2026.2/2026.2.2/macM1/idea-2026.2.2-aarch64.dmg|https://download.jetbrains.com/idea/idea-2026.2.2-aarch64.dmg|1517171147|binary/octet-stream|1788361524
+jetbrains|IDEA/release/2026.2/2026.2.2/windowsARM64/idea-2026.2.2-aarch64.exe|https://download.jetbrains.com/idea/idea-2026.2.2-aarch64.exe|1173443208|binary/octet-stream|1788361524
+jetbrains|IDEA/release/2026.2/2026.2.2/windows/idea-2026.2.2.exe|https://download.jetbrains.com/idea/idea-2026.2.2.exe|1182846496|binary/octet-stream|1788361531
+jetbrains|IDEA/release/2026.2/2026.2.2/windowsZip/idea-2026.2.2.win.zip|https://download.jetbrains.com/idea/idea-2026.2.2.win.zip|1620500864|binary/octet-stream|1788361535
+jetbrains|IDEA/release/2026.2/2026.2.2/mac/idea-2026.2.2.dmg|https://download.jetbrains.com/idea/idea-2026.2.2.dmg|1566311452|binary/octet-stream|1788361526
+jetbrains|IDEA/release/2026.2/2026.2.2/linux/idea-2026.2.2.tar.gz|https://download.jetbrains.com/idea/idea-2026.2.2.tar.gz|1606104586|binary/octet-stream|1788361534
+jetbrains|IDEA/release/2026.2/2026.2.2/linuxARM64/idea-2026.2.2-aarch64.tar.gz|https://download.jetbrains.com/idea/idea-2026.2.2-aarch64.tar.gz|1628647297|binary/octet-stream|1788361528

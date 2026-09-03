@@ -344,3 +344,10 @@ goose|v3.27.3/goose_windows_arm64.exe|https://github.com/pressly/goose/releases/
 goose|v3.27.3/goose_darwin_arm64|https://github.com/pressly/goose/releases/download/v3.27.3/goose_darwin_arm64|39183954|application/octet-stream|1784724619
 goose|v3.27.3/goose_darwin_x86_64|https://github.com/pressly/goose/releases/download/v3.27.3/goose_darwin_x86_64|41046928|application/octet-stream|1784724619
 goose|v3.27.3/goose_windows_x86_64.exe|https://github.com/pressly/goose/releases/download/v3.27.3/goose_windows_x86_64.exe|40878080|application/octet-stream|1784724619
+goose|v3.28.0/checksums.txt|https://github.com/pressly/goose/releases/download/v3.28.0/checksums.txt|521|application/octet-stream|1788338049
+goose|v3.28.0/goose_linux_x86_64|https://github.com/pressly/goose/releases/download/v3.28.0/goose_linux_x86_64|42090656|application/octet-stream|1788338048
+goose|v3.28.0/goose_windows_arm64.exe|https://github.com/pressly/goose/releases/download/v3.28.0/goose_windows_arm64.exe|35961856|application/octet-stream|1788338050
+goose|v3.28.0/goose_darwin_arm64|https://github.com/pressly/goose/releases/download/v3.28.0/goose_darwin_arm64|40671410|application/octet-stream|1788338050
+goose|v3.28.0/goose_darwin_x86_64|https://github.com/pressly/goose/releases/download/v3.28.0/goose_darwin_x86_64|42744832|application/octet-stream|1788338048
+goose|v3.28.0/goose_linux_arm64|https://github.com/pressly/goose/releases/download/v3.28.0/goose_linux_arm64|39714976|application/octet-stream|1788338048
+goose|v3.28.0/goose_windows_x86_64.exe|https://github.com/pressly/goose/releases/download/v3.28.0/goose_windows_x86_64.exe|42570752|application/octet-stream|1788338048

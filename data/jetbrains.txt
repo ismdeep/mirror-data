@@ -10663,3 +10663,10 @@ jetbrains|WebStorm/release/2026.2/2026.2.2/linux/WebStorm-2026.2.2.tar.gz|https:
 jetbrains|WebStorm/release/2026.2/2026.2.2/windowsARM64/WebStorm-2026.2.2-aarch64.exe|https://download.jetbrains.com/webstorm/WebStorm-2026.2.2-aarch64.exe|865144848|binary/octet-stream|1788442322
 jetbrains|WebStorm/release/2026.2/2026.2.2/linuxARM64/WebStorm-2026.2.2-aarch64.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2026.2.2-aarch64.tar.gz|1162130815|binary/octet-stream|1788442322
 jetbrains|WebStorm/release/2026.2/2026.2.2/windowsZip/WebStorm-2026.2.2.win.zip|https://download.jetbrains.com/webstorm/WebStorm-2026.2.2.win.zip|1152024518|binary/octet-stream|1788442329
+jetbrains|GoLand/release/2026.2/2026.2.2.1/windows/goland-2026.2.2.1.exe|https://download.jetbrains.com/go/goland-2026.2.2.1.exe|926661304|binary/octet-stream|1788537965
+jetbrains|GoLand/release/2026.2/2026.2.2.1/windowsARM64/goland-2026.2.2.1-aarch64.exe|https://download.jetbrains.com/go/goland-2026.2.2.1-aarch64.exe|917514392|binary/octet-stream|1788537960
+jetbrains|GoLand/release/2026.2/2026.2.2.1/macM1/goland-2026.2.2.1-aarch64.dmg|https://download.jetbrains.com/go/goland-2026.2.2.1-aarch64.dmg|1156909647|binary/octet-stream|1788537960
+jetbrains|GoLand/release/2026.2/2026.2.2.1/mac/goland-2026.2.2.1.dmg|https://download.jetbrains.com/go/goland-2026.2.2.1.dmg|1204977980|binary/octet-stream|1788537964
+jetbrains|GoLand/release/2026.2/2026.2.2.1/linux/goland-2026.2.2.1.tar.gz|https://download.jetbrains.com/go/goland-2026.2.2.1.tar.gz|1233492653|binary/octet-stream|1788537967
+jetbrains|GoLand/release/2026.2/2026.2.2.1/linuxARM64/goland-2026.2.2.1-aarch64.tar.gz|https://download.jetbrains.com/go/goland-2026.2.2.1-aarch64.tar.gz|1256982553|binary/octet-stream|1788537962
+jetbrains|GoLand/release/2026.2/2026.2.2.1/windowsZip/goland-2026.2.2.1.win.zip|https://download.jetbrains.com/go/goland-2026.2.2.1.win.zip|1246346570|binary/octet-stream|1788537967

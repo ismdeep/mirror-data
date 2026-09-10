@@ -10678,3 +10678,17 @@ jetbrains|PyCharm/release/2026.2/2026.2.2/linux/pycharm-2026.2.2.tar.gz|https://
 jetbrains|PyCharm/release/2026.2/2026.2.2/windowsZip/pycharm-2026.2.2.win.zip|https://download.jetbrains.com/python/pycharm-2026.2.2.win.zip|1309186572|binary/octet-stream|1788792313
 jetbrains|PyCharm/release/2026.2/2026.2.2/linuxARM64/pycharm-2026.2.2-aarch64.tar.gz|https://download.jetbrains.com/python/pycharm-2026.2.2-aarch64.tar.gz|1304767052|binary/octet-stream|1788792303
 jetbrains|PyCharm/release/2026.2/2026.2.2/windowsZipARM64/pycharm-2026.2.2-aarch64.win.zip|https://download.jetbrains.com/python/pycharm-2026.2.2-aarch64.win.zip|1297785634|binary/octet-stream|1788792307
+jetbrains|CLion/release/2025.3/2025.3.6.2/linuxARM64/CLion-2025.3.6.2-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2025.3.6.2-aarch64.tar.gz|2089742208|binary/octet-stream|1788945705
+jetbrains|CLion/release/2025.3/2025.3.6.2/linux/CLion-2025.3.6.2.tar.gz|https://download.jetbrains.com/cpp/CLion-2025.3.6.2.tar.gz|2095890548|binary/octet-stream|1788945710
+jetbrains|CLion/release/2026.1/2026.1.5.1/linuxARM64/CLion-2026.1.5.1-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2026.1.5.1-aarch64.tar.gz|1756562222|binary/octet-stream|1788956536
+jetbrains|CLion/release/2026.1/2026.1.5.1/windowsARM64/CLion-2026.1.5.1-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2026.1.5.1-aarch64.exe|1754312728|binary/octet-stream|1788956531
+jetbrains|CLion/release/2025.3/2025.3.6.2/mac/CLion-2025.3.6.2.dmg|https://download.jetbrains.com/cpp/CLion-2025.3.6.2.dmg|2027267853|binary/octet-stream|1788945703
+jetbrains|CLion/release/2026.1/2026.1.5.1/windowsZip/CLion-2026.1.5.1.win.zip|https://download.jetbrains.com/cpp/CLion-2026.1.5.1.win.zip|2084686866|binary/octet-stream|1788956543
+jetbrains|CLion/release/2025.3/2025.3.6.2/windows/CLion-2025.3.6.2.exe|https://download.jetbrains.com/cpp/CLion-2025.3.6.2.exe|1682847024|binary/octet-stream|1788945708
+jetbrains|CLion/release/2026.1/2026.1.5.1/linux/CLion-2026.1.5.1.tar.gz|https://download.jetbrains.com/cpp/CLion-2026.1.5.1.tar.gz|1768543674|binary/octet-stream|1788956542
+jetbrains|CLion/release/2026.1/2026.1.5.1/macM1/CLion-2026.1.5.1-aarch64.dmg|https://download.jetbrains.com/cpp/CLion-2026.1.5.1-aarch64.dmg|1735949964|binary/octet-stream|1788956531
+jetbrains|CLion/release/2025.3/2025.3.6.2/windowsARM64/CLion-2025.3.6.2-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2025.3.6.2-aarch64.exe|1532040608|binary/octet-stream|1788945699
+jetbrains|CLion/release/2026.1/2026.1.5.1/windows/CLion-2026.1.5.1.exe|https://download.jetbrains.com/cpp/CLion-2026.1.5.1.exe|1542632664|binary/octet-stream|1788956540
+jetbrains|CLion/release/2026.1/2026.1.5.1/mac/CLion-2026.1.5.1.dmg|https://download.jetbrains.com/cpp/CLion-2026.1.5.1.dmg|1748879644|binary/octet-stream|1788956536
+jetbrains|CLion/release/2025.3/2025.3.6.2/macM1/CLion-2025.3.6.2-aarch64.dmg|https://download.jetbrains.com/cpp/CLion-2025.3.6.2-aarch64.dmg|2002343477|binary/octet-stream|1788945699
+jetbrains|CLion/release/2025.3/2025.3.6.2/windowsZip/CLion-2025.3.6.2.win.zip|https://download.jetbrains.com/cpp/CLion-2025.3.6.2.win.zip|2341051317|binary/octet-stream|1788945713

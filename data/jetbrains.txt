@@ -10730,3 +10730,17 @@ jetbrains|IDEA/release/2026.2/2026.2.3/mac/idea-2026.2.3.dmg|https://download.je
 jetbrains|IDEA/release/2026.2/2026.2.3/windowsZip/idea-2026.2.3.win.zip|https://download.jetbrains.com/idea/idea-2026.2.3.win.zip|1634879155|binary/octet-stream|1789549409
 jetbrains|Rider/release/2026.2/2026.2.2/windowsZipARM64/JetBrains.Rider-2026.2.2-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.2-aarch64.win.zip|2854754302|binary/octet-stream|1789559637
 jetbrains|Rider/release/2026.2/2026.2.2/linuxARM64/JetBrains.Rider-2026.2.2-aarch64.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.2-aarch64.tar.gz|2400510391|binary/octet-stream|1789559741
+jetbrains|WebStorm/release/2026.2/2026.2.3/windowsARM64/WebStorm-2026.2.3-aarch64.exe|https://download.jetbrains.com/webstorm/WebStorm-2026.2.3-aarch64.exe|875330368|binary/octet-stream|1789647603
+jetbrains|WebStorm/release/2026.2/2026.2.3/linuxARM64/WebStorm-2026.2.3-aarch64.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2026.2.3-aarch64.tar.gz|1172593658|binary/octet-stream|1789647604
+jetbrains|WebStorm/release/2026.2/2026.2.3/linux/WebStorm-2026.2.3.tar.gz|https://download.jetbrains.com/webstorm/WebStorm-2026.2.3.tar.gz|1149448983|binary/octet-stream|1789647615
+jetbrains|WebStorm/release/2026.2/2026.2.3/mac/WebStorm-2026.2.3.dmg|https://download.jetbrains.com/webstorm/WebStorm-2026.2.3.dmg|1126418459|binary/octet-stream|1789647607
+jetbrains|WebStorm/release/2026.2/2026.2.3/macM1/WebStorm-2026.2.3-aarch64.dmg|https://download.jetbrains.com/webstorm/WebStorm-2026.2.3-aarch64.dmg|1078292269|binary/octet-stream|1789647603
+jetbrains|WebStorm/release/2026.2/2026.2.3/windows/WebStorm-2026.2.3.exe|https://download.jetbrains.com/webstorm/WebStorm-2026.2.3.exe|884741832|binary/octet-stream|1789647609
+jetbrains|WebStorm/release/2026.2/2026.2.3/windowsZip/WebStorm-2026.2.3.win.zip|https://download.jetbrains.com/webstorm/WebStorm-2026.2.3.win.zip|1162475563|binary/octet-stream|1789647612
+jetbrains|PhpStorm/release/2026.2/2026.2.3/linux/PhpStorm-2026.2.3.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2026.2.3.tar.gz|1116458687|binary/octet-stream|1789651965
+jetbrains|PhpStorm/release/2026.2/2026.2.3/windows/PhpStorm-2026.2.3.exe|https://download.jetbrains.com/webide/PhpStorm-2026.2.3.exe|844355072|binary/octet-stream|1789651964
+jetbrains|PhpStorm/release/2026.2/2026.2.3/macM1/PhpStorm-2026.2.3-aarch64.dmg|https://download.jetbrains.com/webide/PhpStorm-2026.2.3-aarch64.dmg|1044433429|binary/octet-stream|1789651960
+jetbrains|PhpStorm/release/2026.2/2026.2.3/windowsARM64/PhpStorm-2026.2.3-aarch64.exe|https://download.jetbrains.com/webide/PhpStorm-2026.2.3-aarch64.exe|834943624|binary/octet-stream|1789651961
+jetbrains|PhpStorm/release/2026.2/2026.2.3/mac/PhpStorm-2026.2.3.dmg|https://download.jetbrains.com/webide/PhpStorm-2026.2.3.dmg|1092323656|binary/octet-stream|1789651964
+jetbrains|PhpStorm/release/2026.2/2026.2.3/windowsZip/PhpStorm-2026.2.3.win.zip|https://download.jetbrains.com/webide/PhpStorm-2026.2.3.win.zip|1129491826|binary/octet-stream|1789651967
+jetbrains|PhpStorm/release/2026.2/2026.2.3/linuxARM64/PhpStorm-2026.2.3-aarch64.tar.gz|https://download.jetbrains.com/webide/PhpStorm-2026.2.3-aarch64.tar.gz|1139608725|binary/octet-stream|1789651968

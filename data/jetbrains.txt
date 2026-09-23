@@ -10759,3 +10759,10 @@ jetbrains|PyCharm/release/2026.2/2026.2.3/linuxARM64/pycharm-2026.2.3-aarch64.ta
 jetbrains|PyCharm/release/2026.2/2026.2.3/linux/pycharm-2026.2.3.tar.gz|https://download.jetbrains.com/python/pycharm-2026.2.3.tar.gz|1291990517|binary/octet-stream|1789743117
 jetbrains|PyCharm/release/2026.2/2026.2.3/windowsZip/pycharm-2026.2.3.win.zip|https://download.jetbrains.com/python/pycharm-2026.2.3.win.zip|1319498231|binary/octet-stream|1789743119
 jetbrains|PyCharm/release/2026.2/2026.2.3/windowsZipARM64/pycharm-2026.2.3-aarch64.win.zip|https://download.jetbrains.com/python/pycharm-2026.2.3-aarch64.win.zip|1308094361|binary/octet-stream|1789743114
+jetbrains|CLion/release/2026.2/2026.2.3/linux/CLion-2026.2.3.tar.gz|https://download.jetbrains.com/cpp/CLion-2026.2.3.tar.gz|1883839065|binary/octet-stream|1790085077
+jetbrains|CLion/release/2026.2/2026.2.3/windows/CLion-2026.2.3.exe|https://download.jetbrains.com/cpp/CLion-2026.2.3.exe|1742233672|binary/octet-stream|1790085077
+jetbrains|CLion/release/2026.2/2026.2.3/windowsARM64/CLion-2026.2.3-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2026.2.3-aarch64.exe|2014333024|binary/octet-stream|1790085067
+jetbrains|CLion/release/2026.2/2026.2.3/linuxARM64/CLion-2026.2.3-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2026.2.3-aarch64.tar.gz|1900777593|binary/octet-stream|1790085067
+jetbrains|CLion/release/2026.2/2026.2.3/mac/CLion-2026.2.3.dmg|https://download.jetbrains.com/cpp/CLion-2026.2.3.dmg|1777330240|binary/octet-stream|1790085075
+jetbrains|CLion/release/2026.2/2026.2.3/macM1/CLion-2026.2.3-aarch64.dmg|https://download.jetbrains.com/cpp/CLion-2026.2.3-aarch64.dmg|1765502847|binary/octet-stream|1790085066
+jetbrains|CLion/release/2026.2/2026.2.3/windowsZip/CLion-2026.2.3.win.zip|https://download.jetbrains.com/cpp/CLion-2026.2.3.win.zip|2378199448|binary/octet-stream|1790085080

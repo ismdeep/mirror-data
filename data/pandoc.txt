@@ -1047,3 +1047,14 @@ pandoc|3.11/pandoc-3.11-x86_64-macOS.pkg|https://github.com/jgm/pandoc/releases/
 pandoc|3.11/pandoc-3.11-x86_64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.11/pandoc-3.11-x86_64-macOS.zip|26145603|application/octet-stream|1787964603
 pandoc|3.11/pandoc-3.11-1-arm64.deb|https://github.com/jgm/pandoc/releases/download/3.11/pandoc-3.11-1-arm64.deb|36872292|application/octet-stream|1787964536
 pandoc|3.11/pandoc-3.11.wasm.zip|https://github.com/jgm/pandoc/releases/download/3.11/pandoc-3.11.wasm.zip|16415572|application/octet-stream|1787964607
+pandoc|3.12/pandoc-3.12-linux-arm64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.12/pandoc-3.12-linux-arm64.tar.gz|37857559|application/octet-stream|1790662044
+pandoc|3.12/pandoc-3.12-arm64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.12/pandoc-3.12-arm64-macOS.zip|42267373|application/octet-stream|1790662027
+pandoc|3.12/pandoc-3.12-1-amd64.deb|https://github.com/jgm/pandoc/releases/download/3.12/pandoc-3.12-1-amd64.deb|34756372|application/octet-stream|1790661998
+pandoc|3.12/pandoc-3.12-linux-amd64.tar.gz|https://github.com/jgm/pandoc/releases/download/3.12/pandoc-3.12-linux-amd64.tar.gz|35326100|application/octet-stream|1790662036
+pandoc|3.12/pandoc-3.12-arm64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.12/pandoc-3.12-arm64-macOS.pkg|42128228|application/octet-stream|1790662017
+pandoc|3.12/pandoc-3.12-1-arm64.deb|https://github.com/jgm/pandoc/releases/download/3.12/pandoc-3.12-1-arm64.deb|37312288|application/octet-stream|1790662007
+pandoc|3.12/pandoc-3.12.wasm.zip|https://github.com/jgm/pandoc/releases/download/3.12/pandoc-3.12.wasm.zip|16714594|application/octet-stream|1790663065
+pandoc|3.12/pandoc-3.12-x86_64-macOS.pkg|https://github.com/jgm/pandoc/releases/download/3.12/pandoc-3.12-x86_64-macOS.pkg|26388706|application/octet-stream|1790662071
+pandoc|3.12/pandoc-3.12-windows-x86_64.zip|https://github.com/jgm/pandoc/releases/download/3.12/pandoc-3.12-windows-x86_64.zip|42114462|application/octet-stream|1790662064
+pandoc|3.12/pandoc-3.12-windows-x86_64.msi|https://github.com/jgm/pandoc/releases/download/3.12/pandoc-3.12-windows-x86_64.msi|41832448|application/octet-stream|1790662054
+pandoc|3.12/pandoc-3.12-x86_64-macOS.zip|https://github.com/jgm/pandoc/releases/download/3.12/pandoc-3.12-x86_64-macOS.zip|26442035|application/octet-stream|1790662078

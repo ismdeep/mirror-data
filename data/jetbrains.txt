@@ -10774,3 +10774,10 @@ jetbrains|Rider/release/2026.2/2026.2.3/macM1/JetBrains.Rider-2026.2.3-aarch64.d
 jetbrains|Rider/release/2026.2/2026.2.3/mac/JetBrains.Rider-2026.2.3.dmg|https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.3.dmg|2221032170|binary/octet-stream|1790593870
 jetbrains|Rider/release/2026.2/2026.2.3/windowsARM64/JetBrains.Rider-2026.2.3-aarch64.exe|https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.3-aarch64.exe|1994053112|binary/octet-stream|1790593995
 jetbrains|Rider/release/2026.2/2026.2.3/windowsZipARM64/JetBrains.Rider-2026.2.3-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.3-aarch64.win.zip|2864916844|binary/octet-stream|1790594110
+jetbrains|DataGrip/release/2026.2/2026.2.6/linux/datagrip-2026.2.6.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2026.2.6.tar.gz|1097498771|binary/octet-stream|1790676711
+jetbrains|DataGrip/release/2026.2/2026.2.6/windowsARM64/datagrip-2026.2.6-aarch64.exe|https://download.jetbrains.com/datagrip/datagrip-2026.2.6-aarch64.exe|848850848|binary/octet-stream|1790676703
+jetbrains|DataGrip/release/2026.2/2026.2.6/macM1/datagrip-2026.2.6-aarch64.dmg|https://download.jetbrains.com/datagrip/datagrip-2026.2.6-aarch64.dmg|1027873598|binary/octet-stream|1790676703
+jetbrains|DataGrip/release/2026.2/2026.2.6/windows/datagrip-2026.2.6.exe|https://download.jetbrains.com/datagrip/datagrip-2026.2.6.exe|858005520|binary/octet-stream|1790676709
+jetbrains|DataGrip/release/2026.2/2026.2.6/mac/datagrip-2026.2.6.dmg|https://download.jetbrains.com/datagrip/datagrip-2026.2.6.dmg|1075954199|binary/octet-stream|1790676709
+jetbrains|DataGrip/release/2026.2/2026.2.6/windowsZip/datagrip-2026.2.6.win.zip|https://download.jetbrains.com/datagrip/datagrip-2026.2.6.win.zip|1109836927|binary/octet-stream|1790676711
+jetbrains|DataGrip/release/2026.2/2026.2.6/linuxARM64/datagrip-2026.2.6-aarch64.tar.gz|https://download.jetbrains.com/datagrip/datagrip-2026.2.6-aarch64.tar.gz|1120977176|binary/octet-stream|1790676703

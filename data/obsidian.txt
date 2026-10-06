@@ -973,3 +973,12 @@ obsidian|v1.13.7/obsidian-1.13.7.tar.gz|https://github.com/obsidianmd/obsidian-r
 obsidian|v1.13.7/Obsidian-1.13.7-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.7/Obsidian-1.13.7-arm64.AppImage|135373906|application/octet-stream|1786541828
 obsidian|v1.13.7/Obsidian-1.13.7.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.7/Obsidian-1.13.7.dmg|228339193|application/octet-stream|1786541838
 obsidian|v1.13.8/Obsidian-1.13.8.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.8/Obsidian-1.13.8.apk|15448001|application/vnd.android.package-archive|1787319821
+obsidian|v1.14.4/obsidian-1.14.4.asar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.14.4/obsidian-1.14.4.asar.gz|9200670|application/octet-stream|1791209354
+obsidian|v1.14.4/obsidian_1.14.4_amd64.deb|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.14.4/obsidian_1.14.4_amd64.deb|108364996|application/octet-stream|1791209318
+obsidian|v1.14.4/Obsidian-1.14.4.exe|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.14.4/Obsidian-1.14.4.exe|341331008|application/octet-stream|1791209342
+obsidian|v1.14.4/Obsidian-1.14.4.apk|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.14.4/Obsidian-1.14.4.apk|15177776|application/vnd.android.package-archive|1791209351
+obsidian|v1.14.4/Obsidian-1.14.4.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.14.4/Obsidian-1.14.4.AppImage|138733701|application/octet-stream|1791209322
+obsidian|v1.14.4/Obsidian-1.14.4-arm64.AppImage|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.14.4/Obsidian-1.14.4-arm64.AppImage|139902973|application/octet-stream|1791209313
+obsidian|v1.14.4/Obsidian-1.14.4.dmg|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.14.4/Obsidian-1.14.4.dmg|233704463|application/octet-stream|1791209328
+obsidian|v1.14.4/obsidian-1.14.4.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.14.4/obsidian-1.14.4.tar.gz|131209322|application/octet-stream|1791209348
+obsidian|v1.14.4/obsidian-1.14.4-arm64.tar.gz|https://github.com/obsidianmd/obsidian-releases/releases/download/v1.14.4/obsidian-1.14.4-arm64.tar.gz|132065265|application/octet-stream|1791209316

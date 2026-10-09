@@ -553,3 +553,8 @@ harbor|v2.15.3/harbor-online-installer-v2.15.3.tgz|https://github.com/goharbor/h
 harbor|v2.13.6/harbor-online-installer-v2.13.6.tgz|https://github.com/goharbor/harbor/releases/download/v2.13.6/harbor-online-installer-v2.13.6.tgz|11956|application/octet-stream|1791302006
 harbor|v2.15.3/md5sum|https://github.com/goharbor/harbor/releases/download/v2.15.3/md5sum|141|application/octet-stream|1791292998
 harbor|v2.14.5/harbor-offline-installer-v2.14.5.tgz|https://github.com/goharbor/harbor/releases/download/v2.14.5/harbor-offline-installer-v2.14.5.tgz|751133102|application/octet-stream|1791301970
+harbor|v2.15.4/harbor-online-installer-v2.15.4.tgz|https://github.com/goharbor/harbor/releases/download/v2.15.4/harbor-online-installer-v2.15.4.tgz|12070|application/octet-stream|1791516734
+harbor|v2.15.4/harbor-offline-installer-v2.15.4.tgz|https://github.com/goharbor/harbor/releases/download/v2.15.4/harbor-offline-installer-v2.15.4.tgz|747317006|application/octet-stream|1791516762
+harbor|v2.15.4/harbor-offline-installer-v2.15.4.tgz.sigstore.json|https://github.com/goharbor/harbor/releases/download/v2.15.4/harbor-offline-installer-v2.15.4.tgz.sigstore.json|10332|application/octet-stream|1791516734
+harbor|v2.15.4/md5sum|https://github.com/goharbor/harbor/releases/download/v2.15.4/md5sum|141|application/octet-stream|1791516734
+harbor|v2.15.4/harbor-online-installer-v2.15.4.tgz.sigstore.json|https://github.com/goharbor/harbor/releases/download/v2.15.4/harbor-online-installer-v2.15.4.tgz.sigstore.json|10336|application/octet-stream|1791516734

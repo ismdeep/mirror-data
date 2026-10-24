@@ -10796,3 +10796,10 @@ jetbrains|CLion/release/2026.2/2026.2.3.1/linuxARM64/CLion-2026.2.3.1-aarch64.ta
 jetbrains|Rider/release/2026.2/2026.2.3.1/linuxARM64/JetBrains.Rider-2026.2.3.1-aarch64.tar.gz|https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.3.1-aarch64.tar.gz|2410530715|binary/octet-stream|1790857714
 jetbrains|Rider/release/2026.2/2026.2.3.1/windowsZipARM64/JetBrains.Rider-2026.2.3.1-aarch64.win.zip|https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.3.1-aarch64.win.zip|2864856630|binary/octet-stream|1790857607
 jetbrains|CLion/release/2026.2/2026.2.3.1/windowsZip/CLion-2026.2.3.1.win.zip|https://download.jetbrains.com/cpp/CLion-2026.2.3.1.win.zip|2378013331|binary/octet-stream|1790860775
+jetbrains|CLion/release/2026.2/2026.2.4/linux/CLion-2026.2.4.tar.gz|https://download.jetbrains.com/cpp/CLion-2026.2.4.tar.gz|1894440808|binary/octet-stream|1792742712
+jetbrains|CLion/release/2026.2/2026.2.4/macM1/CLion-2026.2.4-aarch64.dmg|https://download.jetbrains.com/cpp/CLion-2026.2.4-aarch64.dmg|1775628432|binary/octet-stream|1792742704
+jetbrains|CLion/release/2026.2/2026.2.4/windowsZip/CLion-2026.2.4.win.zip|https://download.jetbrains.com/cpp/CLion-2026.2.4.win.zip|2388717725|binary/octet-stream|1792742720
+jetbrains|CLion/release/2026.2/2026.2.4/windows/CLion-2026.2.4.exe|https://download.jetbrains.com/cpp/CLion-2026.2.4.exe|1750935136|binary/octet-stream|1792742704
+jetbrains|CLion/release/2026.2/2026.2.4/linuxARM64/CLion-2026.2.4-aarch64.tar.gz|https://download.jetbrains.com/cpp/CLion-2026.2.4-aarch64.tar.gz|1911384933|binary/octet-stream|1792742704
+jetbrains|CLion/release/2026.2/2026.2.4/mac/CLion-2026.2.4.dmg|https://download.jetbrains.com/cpp/CLion-2026.2.4.dmg|1787975728|binary/octet-stream|1792742704
+jetbrains|CLion/release/2026.2/2026.2.4/windowsARM64/CLion-2026.2.4-aarch64.exe|https://download.jetbrains.com/cpp/CLion-2026.2.4-aarch64.exe|2023020672|binary/octet-stream|1792742704

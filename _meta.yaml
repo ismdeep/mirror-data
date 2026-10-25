@@ -162,3 +162,6 @@ github_buckets:
     owner: go-task
     repo: task
     ignored: '^nightly/.*$'
+  osv-scanner:
+    owner: google
+    repo: osv-scanner

@@ -11,13 +11,6 @@ build-binary:
 	CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -o build/binary/mirror_linux_amd64 -mod vendor -trimpath -ldflags '-s -w' ./app/mirror/
 	CGO_ENABLED=0 GOOS=linux GOARCH=arm64 go build -o build/binary/mirror_linux_arm64 -mod vendor -trimpath -ldflags '-s -w' ./app/mirror/
 
-# `make server`                    Server
-.PHONY: server
-server:
-	docker buildx build \
-		--platform linux/amd64 \
-		--progress plain --pull --push -t ismdeep/mirror-server:latest -f ./app/mirror/Dockerfile .
-
 # `make publish`                   Publish
 .PHONY: publish
 publish:
@@ -28,7 +21,6 @@ publish:
 		git commit -am "docs: update data via github workflow" && \
 		git push origin HEAD:main; \
 	fi
-	make server
 
 # `make install-rclone`            Install rclone
 .PHONY: install-rclone

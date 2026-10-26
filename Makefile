@@ -56,4 +56,4 @@ test:
 # `make clean`                     Clean
 .PHONY: clean
 clean:
-	rm -rf bin/
+	rm -rf build/

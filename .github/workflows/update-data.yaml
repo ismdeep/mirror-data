@@ -49,6 +49,9 @@ jobs:
       - name: Build
         run: make build-binary
 
+      - name: Prepare secrets
+        run: echo "${{ secrets.SECRETS_YAML }}" > secrets.yaml
+
       - name: Run mirror-data
         run: ./build/binary/data --meta _meta.yaml --secrets secrets.yaml --all-pages="${ALL_PAGES}"
 

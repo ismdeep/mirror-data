@@ -1,6 +1,6 @@
 FROM ghcr.io/kopeisec/debian:13 AS builder
 WORKDIR /src
-COPY ./build/ ./
+COPY ./build/binary/ ./
 RUN \
     case $(uname -m) in \
     x86_64)  cp mirror_linux_amd64 mirror ;; \

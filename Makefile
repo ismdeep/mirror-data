@@ -1,11 +1,15 @@
 help:
 	@cat Makefile | grep '# `' | grep -v '@cat Makefile'
 
-# `make bin`                       Build binary
-.PHONY: bin
-bin:
-	CGO_ENABLED=0 go build -o bin/data   -mod vendor -trimpath -ldflags '-s -w' ./app/data/
-	CGO_ENABLED=0 go build -o bin/mirror -mod vendor -trimpath -ldflags '-s -w' ./app/mirror/
+# `make build-binary`                       Build binary
+.PHONY: build-binary
+build-binary:
+	CGO_ENABLED=0                         go build -o build/binary/data               -mod vendor -trimpath -ldflags '-s -w' ./app/data/
+	CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -o build/binary/data_linux_amd64   -mod vendor -trimpath -ldflags '-s -w' ./app/data/
+	CGO_ENABLED=0 GOOS=linux GOARCH=arm64 go build -o build/binary/data_linux_arm64   -mod vendor -trimpath -ldflags '-s -w' ./app/data/
+	CGO_ENABLED=0                         go build -o build/binary/mirror             -mod vendor -trimpath -ldflags '-s -w' ./app/mirror/
+	CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -o build/binary/mirror_linux_amd64 -mod vendor -trimpath -ldflags '-s -w' ./app/mirror/
+	CGO_ENABLED=0 GOOS=linux GOARCH=arm64 go build -o build/binary/mirror_linux_arm64 -mod vendor -trimpath -ldflags '-s -w' ./app/mirror/
 
 # `make server`                    Server
 .PHONY: server

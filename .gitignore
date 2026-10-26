@@ -11,6 +11,10 @@ __pycache__
 /config.yaml
 /secrets.yaml
 
+# build
+/build/
+
+# bin
 /bin/
 
 /cache/

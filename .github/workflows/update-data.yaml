@@ -8,10 +8,20 @@ on:
     - cron: '24 0 * * *'
   workflow_dispatch:
     inputs:
-      all-pages:
+      should_run_for_all_pages:
         description: Check all pages for every repository
         type: boolean
         default: false
+        required: false
+      should_update_data:
+        description: Update data
+        type: boolean
+        default: true
+        required: false
+      should_publish_docker_images:
+        description: Publish docker images
+        type: boolean
+        default: true
         required: false
 
 permissions:
@@ -27,7 +37,9 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       IMAGE_TAG: latest
       BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
-      ALL_PAGES: ${{ github.event_name == 'workflow_dispatch' && inputs.all-pages || false }}
+      SHOULD_RUN_FOR_ALL_PAGES: ${{ github.event_name == 'workflow_dispatch' && inputs.should_run_for_all_pages || false }}
+      SHOULD_UPDATE_DATA: ${{ github.event_name == 'workflow_dispatch' && inputs.should_update_data || false }}
+      SHOULD_PUBLISH_DOCKER_IMAGES: ${{ github.event_name == 'workflow_dispatch' && inputs.should_publish_docker_images || false }}
 
     steps:
 
@@ -50,18 +62,23 @@ jobs:
         run: make build-binary
 
       - name: Prepare secrets
+        if: env.SHOULD_UPDATE_DATA
         run: echo "${{ secrets.SECRETS_YAML }}" > secrets.yaml
 
       - name: Run mirror-data
-        run: ./build/binary/data --meta _meta.yaml --secrets secrets.yaml --all-pages="${ALL_PAGES}"
+        if: env.SHOULD_UPDATE_DATA
+        run: ./build/binary/data --meta _meta.yaml --secrets secrets.yaml --all-pages="${SHOULD_RUN_FOR_ALL_PAGES}"
 
       - name: Set up QEMU
+        if: env.SHOULD_PUBLISH_DOCKER_IMAGES
         uses: docker/setup-qemu-action@v4
 
       - name: Set up Docker Buildx
+        if: env.SHOULD_PUBLISH_DOCKER_IMAGES
         uses: docker/setup-buildx-action@v4
 
       - name: Log in to GitHub Container Registry
+        if: env.SHOULD_PUBLISH_DOCKER_IMAGES
         uses: docker/login-action@v4
         with:
           registry: ghcr.io
@@ -69,6 +86,7 @@ jobs:
           password: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Docker metadata
+        if: env.SHOULD_PUBLISH_DOCKER_IMAGES
         id: meta
         uses: docker/metadata-action@v6
         with:
@@ -78,6 +96,7 @@ jobs:
             type=ref,event=tag
 
       - name: Build and push Docker image
+        if: env.SHOULD_PUBLISH_DOCKER_IMAGES
         uses: docker/build-push-action@v6
         with:
           context: .

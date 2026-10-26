@@ -38,8 +38,6 @@ jobs:
       IMAGE_TAG: latest
       BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
       SHOULD_RUN_FOR_ALL_PAGES: ${{ github.event_name == 'workflow_dispatch' && inputs.should_run_for_all_pages || false }}
-      SHOULD_UPDATE_DATA: ${{ github.event_name == 'workflow_dispatch' && inputs.should_update_data || false }}
-      SHOULD_PUBLISH_DOCKER_IMAGES: ${{ github.event_name == 'workflow_dispatch' && inputs.should_publish_docker_images || false }}
 
     steps:
 
@@ -62,23 +60,23 @@ jobs:
         run: make build-binary
 
       - name: Prepare secrets
-        if: env.SHOULD_UPDATE_DATA
+        if: ${{ inputs.should_update_data }}
         run: echo "${{ secrets.SECRETS_YAML }}" > secrets.yaml
 
       - name: Run mirror-data
-        if: env.SHOULD_UPDATE_DATA
+        if: ${{ inputs.should_update_data }}
         run: ./build/binary/data --meta _meta.yaml --secrets secrets.yaml --all-pages="${SHOULD_RUN_FOR_ALL_PAGES}"
 
       - name: Set up QEMU
-        if: env.SHOULD_PUBLISH_DOCKER_IMAGES
+        if: ${{ inputs.should_publish_docker_images }}
         uses: docker/setup-qemu-action@v4
 
       - name: Set up Docker Buildx
-        if: env.SHOULD_PUBLISH_DOCKER_IMAGES
+        if: ${{ inputs.should_publish_docker_images }}
         uses: docker/setup-buildx-action@v4
 
       - name: Log in to GitHub Container Registry
-        if: env.SHOULD_PUBLISH_DOCKER_IMAGES
+        if: ${{ inputs.should_publish_docker_images }}
         uses: docker/login-action@v4
         with:
           registry: ghcr.io
@@ -86,7 +84,7 @@ jobs:
           password: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Docker metadata
-        if: env.SHOULD_PUBLISH_DOCKER_IMAGES
+        if: ${{ inputs.should_publish_docker_images }}
         id: meta
         uses: docker/metadata-action@v6
         with:
@@ -96,7 +94,7 @@ jobs:
             type=ref,event=tag
 
       - name: Build and push Docker image
-        if: env.SHOULD_PUBLISH_DOCKER_IMAGES
+        if: ${{ inputs.should_publish_docker_images }}
         uses: docker/build-push-action@v6
         with:
           context: .

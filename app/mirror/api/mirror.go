@@ -10,7 +10,6 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-
 	"github.com/ismdeep/mirror-data/app/mirror/conf"
 	"github.com/ismdeep/mirror-data/app/mirror/internal/mirror"
 	"github.com/ismdeep/mirror-data/app/mirror/internal/util"
@@ -91,5 +90,32 @@ func ShowFolder(c *gin.Context, path string) {
 	}
 
 	c.Header("Content-Type", "text/html")
-	_, _ = c.Writer.WriteString(fmt.Sprintf(`<html><head><title>Index of %v</title></head><body><h1>Index of %v</h1><hr><pre>%v</pre><hr></body></html>`, path, path, s.String()))
+	_, _ = c.Writer.WriteString(fmt.Sprintf(`<html>
+<head>
+<title>Index of %v</title>
+<style>
+a {
+    text-decoration: none;
+}
+@media (prefers-color-scheme: dark) {
+    html, body {
+        background: #1e1e1e !important;
+        color: #ddd !important;
+    }
+    a {
+        color: #6cb6ff !important;
+    }
+    a:visited {
+        color: #b392f0 !important;
+    }
+}
+</style>
+</head>
+<body>
+<h1>Index of %v</h1>
+<hr>
+<pre>%v</pre>
+<hr>
+</body>
+</html>`, path, path, s.String()))
 }
